@@ -16,8 +16,8 @@ import sys
 # ==============================
 # CONFIGURATION
 # ==============================
-INPUT_DIR = Path("/Users/ashneeth/Desktop/resources/chem")   # <--- change this if your PDFs are in another folder
-OUTPUT_DIR = Path("/Users/ashneeth/Desktop/OCR_Results/chemistry")       # <--- change this to where you want results saved
+INPUT_DIR = Path("/Users/ashneeth/Desktop/OCR_Results/physics")   # <--- change this if your PDFs are in another folder
+OUTPUT_DIR = Path("/Users/ashneeth/Desktop/ocr_2/physcis")       # <--- change this to where you want results saved
 WORKERS = 3   # number of files processed in parallel
 # ==============================
 
