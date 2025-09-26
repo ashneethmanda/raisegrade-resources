@@ -1,0 +1,1358 @@
+(oe)
+vr
+
+ie)
+N
+ Cc
+ Oo
+ 2
+©
+)
+al
+
+
+       PEARSON EDEXCEL INTERNATIONAL
+©
+as
+—_
+
+O
+[oe
+
+£
+,
+
+Oo
+       AS/A LEVEL
+©
+O
+
+
+
+
+       PHYSICS
+&
+=
+.—
+Cc
+2
+~~
+
+_)
+OQ
+=
+—
+
+
+
+ce
+
+
+       Lab Book
+xe)
+a
+
+Oo
+Cc
+2
+                                                                                                                                                           Published by Pearson Education Limited, 80 Strand, London, WC2R ORL.
+
+
+                                                                                                                                                           www.pearsonglobalschools.com
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                           Copies of official specifications for all Pearson Edexcel qualifications may be found
+                                                                                                                                                           on the website: https://qualifications.pearson.com
+
+
+                                                                                                                                                           Text © Pearson Education Limited 2018
+                                                                                                                                                           Designed by Tech-Set Ltd, Gateshead, UK
+                                                                                                                                                           Edited by Stephanie White and Jane Read
+                                                                                                                                                           Typeset by Tech-Set Ltd, Gateshead, UK
+                                                                                                                                                           Original illustrations   © Pearson Education Limited 2018
+                                                                                                                                                           Cover design by Pearson Education Limited 2018
+
+
+                                                                                                                                                           The right of Steve Adams and Keith Bridgeman to be identified as authors of this
+                                                                                                                                                           work has been asserted by them in accordance with the Copyright, Designs and
+                                                                                                                                                           Patents Act 1988.
+
+
+                                                                                                                                                           First published 2018
+
+
+                                                                                                                                                           21 20
+                                                                                                                                                               19 18
+                                                                                                                                                           10987654321
+
+
+                                                                                                                                                           British Library Cataloguing in Publication Data
+                                                                                                                                                           A catalogue record for this book is available from the British Library
+                                                                                                                                                           ISBN 9781292244754
+
+
+                                                                                                                                                           A note from the Publishers: found on the website: www.edexcel.com
+                                                                                                                                                           While the Publishers have made every attempt to ensure that advice on the
+                                                                                                                                                           qualification and its assessment is accurate, the official specification and
+                                                                                                                                                           associated assessment guidance materials are the only authoritative source of
+                                                                                                                                                           information and should always be referred to for definitive guidance. Pearson
+                                                                                                                                                           examiners have not contributed to any sections in this resource relevant to
+                                                                                                                                                           examination papers for which they have responsibility. Examiners will not use this
+                                                                                                                                                           resource as a source of material for any assessment set by Pearson.
+
+
+                                                                                                                                                           Copyright notice
+                                                                                                                                                           All rights reserved. No part of this publication may be reproduced in any form or
+                                                                                                                                                           by any means (including photocopying or storing it in any medium by electronic
+                                                                                                                                                           means and whether or not transiently or incidentally to some other use of this
+                                                                                                                                                           publication) without the written permission of the copyright owner, except in
+                                                                                                                                                           accordance with the provisions of the Copyright, Designs and Patents Act 1988 or
+                                                                                                                                                           under the terms of a licence issued by the Copyright Licensing Agency, Barnard’s
+                                                                                                                                                           Inn, 86 Fetter Lane, London EC4A 1EN (www.cla.co.uk). Applications for the
+                                                                                                                                                           copyright owner’s written permission should be addressed to the publisher.
+
+
+                                                                                                                                                           Neither Pearson, Edexcel nor the authors take responsibility for the safety
+                                                                                                                                                           of any activity. Before doing any practical activity you are legally required to
+                                                                                                                                                           carry out your own risk assessment. In particular, any local rules issued by your
+                                                                                                                                                           employer must be obeyed, regardless of what is recommended in this resource.
+                                                                                                                                                           Where students are required to write their own risk assessments they must always
+                                                                                                                                                           be checked by the teacher and revised, as necessary, to cover any issues the
+                                                                                                                                                           students may have overlooked. The teacher should always have the final control
+                                                                                                                                                           as to how the practical is conducted.
+
+
+                                                                                                                                                           Printed by Neografia in Slovakia
+                                                                                                                                                           CONTENTS
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                           INTRODUCTION                                                                       2
+
+                                                                                                                                                           CORE PRACTICALS OVERVIEW                                                           3
+
+                                                                                                                                                           PAPER 3 PRACTICAL SKILLS                                                           dl
+
+                                                                                                                                                           PAPER 6 PRACTICAL SKILLS                                                           4)
+
+                                                                                                                                                            1    DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                        6
+
+                                                                                                                                                            2    USE A FALLING-BALL METHOD TO DETERMINE THE VISCOSITY OF A LIQUID            11
+
+                                                                                                                                                            3    DETERMINE THE YOUNG MODULUS OF A MATERIAL                                   14
+
+                                                                                                                                                            4    DETERMINE THE SPEED OF SOUND IN AIR USING A 2-BEAM OSCILLOSCOPE, SIGNAL
+                                                                                                                                                                 GENERATOR, SPEAKER AND MICROPHONE                                           18
+
+                                                                                                                                                            5    INVESTIGATE THE EFFECTS OF LENGTH, TENSION AND MASS PER UNIT LENGTH ON
+                                                                                                                                                                 THE FREQUENCY OF A VIBRATING STRING OR WIRE                                 21
+
+                                                                                                                                                            6    DETERMINE THE WAVELENGTH OF LIGHT FROM A LASER OR OTHER LIGHT SOURCE
+                                                                                                                                                                 USING A DIFFRACTION GRATING                                                 25
+
+                                                                                                                                                            7    DETERMINE THE ELECTRICAL RESISTIVITY OF A MATERIAL                          28
+
+                                                                                                                                                            8    DETERMINE THE E.M.F. AND INTERNAL RESISTANCE OF AN ELECTRICAL CELL          32
+
+                                                                                                                                                            9    INVESTIGATE THE RELATIONSHIP BETWEEN THE FORCE EXERTED ON AN OBJECT AND
+                                                                                                                                                                 ITS CHANGE OF MOMENTUM                                                      36
+
+                                                                                                                                                           10    USE ICT TO ANALYSE COLLISIONS BETWEEN SMALL SPHERES                         A
+
+                                                                                                                                                           11.   USE AN OSCILLOSCOPE OR DATA LOGGER TO DISPLAY AND ANALYSE THE POTENTIAL
+                                                                                                                                                                 DIFFERENCE (P.D.) ACROSS A CAPACITOR AS IT CHARGES AND DISCHARGES THROUGH
+                                                                                                                                                                 A RESISTOR                                                                  Aa
+
+                                                                                                                                                           12    CALIBRATE A THERMISTOR IN A POTENTIAL DIVIDER CIRCUIT AS A THERMOSTAT       51
+
+                                                                                                                                                           13.   DETERMINE THE SPECIFIC LATENT HEAT OF A PHASE CHANGE                        56
+
+                                                                                                                                                           14    INVESTIGATE THE RELATIONSHIP BETWEEN PRESSURE AND VOLUME OF A GAS AT
+                                                                                                                                                                 FIXED TEMPERATURE                                                           09
+
+                                                                                                                                                           15    INVESTIGATE THE ABSORPTION OF GAMMA RADIATION BY LEAD                       63
+
+                                                                                                                                                           16    DETERMINE THE VALUE OF AN UNKNOWN MASS USING THE RESONANT FREQUENCIES
+                                                                                                                                                                 OF THE OSCILLATION OF KNOWN MASSES                                          67
+
+                                                                                                                                                           MATHS SKILLS                                                                      71
+
+                                                                                                                                                           ANSWERS                                                                           76
+                                                                                                                                                           INTRODUCTION
+
+
+                                                                                                                                                             Practical work is central to the study of physics. The International Advanced Subsidiary
+                                                                                                                                                                                                                                                / Advanced Level (IAS / IAL)
+                                                                                                                                                            specification includes 16 core practical activities that link theoretical knowledge and understanding to practical
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                            scenarios. By completing the core practical activities, you will learn to:
+
+                                                                                                                                                             @ follow and interpret experimental instructions, covering a range of laboratory exercises throughout the course,
+                                                                                                                                                               with minimal help from your teacher
+
+                                                                                                                                                             @ manipulate apparatus, carry out all common laboratory procedures and use data logging (where appropriate)
+
+                                                                                                                                                             @ work sensibly and safely in the laboratory, paying due regard to health and safety requirements
+
+                                                                                                                                                             @ gain accurate and consistent results in quantitative exercises, and make the most of the expected observations
+                                                                                                                                                               in qualitative exercises
+
+                                                                                                                                                             By the end of this course, you should be able to use a variety of apparatus and techniques to:
+
+                                                                                                                                                             @ design and carry out both the core practical activities and your own investigations
+
+                                                                                                                                                             @ collect data that can be analysed
+
+                                                                                                                                                             @ use data to draw valid conclusions.
+
+                                                                                                                                                            Your knowledge and understanding of practical skills and activities will be assessed in all examination papers.
+
+                                                                                                                                                             @ Papers 1 and 2 (IAS), and 4 and 5 (IAL) will include questions based on practical activities, including novel scenarios.
+
+                                                                                                                                                             @ Paper 3 (IAS) and Paper 6 (IAL) will test your ability to plan practical work, including risk management and selection
+                                                                                                                                                               of apparatus.
+
+                                                                                                                                                            Assessment for the Practical Skills Papers 3 and 6 will focus on three main areas:
+
+                                                                                                                                                             e Planning: You will be expected to plan an experiment set by Pearson (but you will not need to carry it out).
+
+                                                                                                                                                             @ Implementation and measurements: You will be given details of an experiment carried out by an inexperienced
+                                                                                                                                                               student, and asked to comment on the investigation.
+                                                                                                                                                             @ Processing results / Analysing: You will need to analyse a set of experimental results.
+
+
+                                                                                                                                                            The areas for assessment are outlined in the tables on pages 4 and 5. You may wish to tick off each element as
+                                                                                                                                                            you gain confidence. You can also refer to the Student Practical Guide, and the Appendix 10 in the specification:
+                                                                                                                                                             Uncertainties and practical work.
+
+                                                                                                                                                            You will find answers and maths skills required for the practicals at the back of the book.
+                                                                                                                                                       CORE PRACTICALS OVERVIEW
+
+
+
+
+                                                                                                                                                           UNIT 1 MATERIALS
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                               1 Determine the acceleration of a freely-falling object
+
+                                                                                                                                                               2 Use a falling-ball method to determine the viscosity of a liquid
+
+                                                                                                                                                               3 Determine the Young modulus of a material
+
+
+                                                                                                                                                           UNIT 2 WAVES AND ELECTRICITY
+
+                                                                                                                                                               4 Determine the speed of sound in air using a 2-beam oscilloscope, signal generator, speaker and
+                                                                                                                                                                 microphone
+
+                                                                                                                                                               5 Investigate the effects of length, tension and mass per unit length on the frequency of a vibrating
+                                                                                                                                                                 string or wire
+
+                                                                                                                                                               6 Determine the wavelength of light from a laser or other light source using a diffraction grating
+
+
+                                                                                                                                                           UNIT 2 ELECTRIC CIRCUITS
+
+                                                                                                                                                               7 Determine the electrical resistivity of a material
+
+                                                                                                                                                               8 Determine the e.m.f. and internal resistance of an electrical cell
+
+                                                                                                                                                           UNIT 4 FURTHER MECHANICS
+
+                                                                                                                                                               9 Investigate the relationship between the force exerted on an object and its change of momentum
+
+                                                                                                                                                             10 Use ICT to analyse collisions between small spheres
+
+                                                                                                                                                           UNIT 4 ELECTRIC AND MAGNETIC FIELDS
+
+                                                                                                                                                             11 Use an oscilloscope or data logger to display and analyse the potential difference (p.d.) across a
+                                                                                                                                                                 capacitor as it charges and discharges through a resistor
+
+                                                                                                                                                           UNIT 5 THERMODYNAMICS
+
+                                                                                                                                                             12 Calibrate a thermistor in a potential divider circuit as a thermostat
+
+                                                                                                                                                             13 Determine the specific latent heat of a phase change
+
+                                                                                                                                                             14 Investigate the relationship between pressure and volume of a gas at fixed temperature
+
+
+                                                                                                                                                           UNIT 5 NUCLEAR DECAY
+
+                                                                                                                                                             15 Investigate the absorption of gamma radiation by lead
+
+                                                                                                                                                             16 Determine the value of an unknown mass using the resonant frequencies of the oscillation of
+                                                                                                                                                                 known masses
+                                                                                                                                                           PAPER 3 PRACTICAL SKILLS
+
+
+
+                                                                                                                                                             Practical skills                                                                        Core practical
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Planning                                                                                3   4   5    6   7   8
+
+                                                                                                                                                             Identify the apparatus required
+
+                                                                                                                                                             Consider the range and resolution of measuring instruments including Vernier
+                                                                                                                                                             calipers (0.1 mm) and micrometer screw gauge (0.01 mm)
+                                                                                                                                                             Discuss calibration of instruments, e.g. whether a meter reads zero before
+                                                                                                                                                             measurements are made
+                                                                                                                                                             Describe how to measure relevant variables using the most appropriate
+                                                                                                                                                             instrument and correct measuring techniques
+
+                                                                                                                                                             Identify and state how to control all other relevant variables to make it a fair test
+
+                                                                                                                                                             Discuss whether repeat readings are appropriate
+
+                                                                                                                                                             Identify health and safety issues and discuss how these may be dealt with
+
+                                                                                                                                                             Discuss how the data collected will be used
+
+                                                                                                                                                             Identify possible sources of uncertainty and/or systematic error and explain
+                                                                                                                                                             how these may be reduced or eliminated
+                                                                                                                                                             Comment on the implications of physics (e.g. benefits/risks) and on its context
+                                                                                                                                                             (e.g. social/environmental/historical)
+
+                                                                                                                                                             Implementation and measurement
+
+                                                                                                                                                             Comment on the number of readings taken
+
+                                                                                                                                                             Comment on the range of measurements taken
+
+                                                                                                                                                             Comment on significant figures
+
+                                                                                                                                                             Check a reading that is inconsistent with other readings, e.g. a point that is not
+                                                                                                                                                             on the line of a graph - students may be shown a diagram of a micrometer that
+                                                                                                                                                             is being used to measure the diameter of a wire and asked to write down the
+                                                                                                                                                             reading to the correct number of significant figures
+                                                                                                                                                             Comment on how the experiment may be improved, possibly by using
+                                                                                                                                                             additional apparatus (e.g. to reduce errors) —- examples may include using a set
+                                                                                                                                                             square to determine whether a ruler is vertical to aid the measurement of the
+                                                                                                                                                             extension of a spring
+
+                                                                                                                                                             Processing results
+
+                                                                                                                                                             Perform calculations, using the correct number of significant figures
+
+                                                                                                                                                             Plot results on a graph using an appropriate scale
+
+                                                                                                                                                             Use the correct units throughout
+
+                                                                                                                                                             Comment on the relationship obtained from the graph
+
+                                                                                                                                                             Determine the relationship between two variables or determine a constant
+                                                                                                                                                             with the aid of a graph, e.g. by determining the gradient using a large triangle
+
+                                                                                                                                                             Suggest realistic modifications to reduce errors
+
+                                                                                                                                                             Suggest realistic modifications to improve the experiment
+
+                                                                                                                                                             Discuss uncertainties, qualitatively and quantitatively
+
+                                                                                                                                                             Determine the percentage uncertainty in measurements for a single reading
+                                                                                                                                                             using half the resolution of the instrument and from multiple readings using
+                                                                                                                                                             the half range
+                                                                                                                                                           PAPER 6 PRACTICAL SKILLS
+
+
+
+                                                                                                                                                             Practical skills
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Planning                                                                      9   10   11   12   13   14   15   16
+
+                                                                                                                                                             Identify the most appropriate apparatus, giving details. These may
+                                                                                                                                                             include the range and resolution of instruments and/or relevant
+                                                                                                                                                             dimensions of apparatus (e.g. the length of string used for a pendulum)
+                                                                                                                                                             Discuss calibration of instruments, e.g. whether a meter reads zero before
+                                                                                                                                                             measurements are made
+                                                                                                                                                             Describe how to measure relevant variables using the most appropriate
+                                                                                                                                                             instrument(s) and techniques
+
+                                                                                                                                                             Identify and state how to control all other relevant variables to make it a
+                                                                                                                                                             fair test
+
+                                                                                                                                                             Discuss whether repeat readings are appropriate
+
+                                                                                                                                                             Identify health and safety issues and discuss how these may be dealt with
+
+                                                                                                                                                             Discuss how the data collected will be used.
+
+                                                                                                                                                             Analysis                                                                      9   10   11   12   13   14   15   16
+
+                                                                                                                                                             Comment on how the experiment could have been improved, possibly by
+                                                                                                                                                             using additional apparatus (e.g. to reduce errors) - examples may include
+                                                                                                                                                             using set squares to measure the diameter of a cylinder and using a
+                                                                                                                                                             marker for timing oscillations
+
+                                                                                                                                                             Comment on the number of readings taken
+
+                                                                                                                                                             Comment on the range of measurements taken
+
+                                                                                                                                                             Comment on significant figures — you may be required to identify and/or
+                                                                                                                                                             round up any incorrect figures in a table of results
+
+                                                                                                                                                             Identify and/or amend units that are incorrect
+
+                                                                                                                                                             Identify and check a reading that is inconsistent with other readings,
+                                                                                                                                                             e.g. a point that is not on the line of a graph.
+
+                                                                                                                                                             Perform calculations, using the correct number of significant figures
+
+                                                                                                                                                             Plot results on a graph using an appropriate scale and units - the graph
+                                                                                                                                                             could be logarithmic in nature
+
+                                                                                                                                                             Use the correct units throughout
+
+                                                                                                                                                             Comment on the trend/pattern obtained
+
+                                                                                                                                                             Determine the relationship between two variables or determine a
+                                                                                                                                                             constant with the aid of the graph, e.g. by determining the gradient using
+                                                                                                                                                             a large triangle
+
+                                                                                                                                                             Use the terms precision, accuracy and sensitivity appropriately
+
+                                                                                                                                                             Suggest realistic modifications to reduce errors
+
+                                                                                                                                                             Suggest realistic modifications to improve the experiment
+
+                                                                                                                                                             Discuss uncertainties qualitatively and quantitatively
+
+                                                                                                                                                             Compound percentage uncertainties correctly
+
+                                                                                                                                                             Determine the percentage uncertainty in measurements for a single
+                                                                                                                                                             reading using half the resolution of the instrument and from multiple
+                                                                                                                                                             readings using the half range.
+                                                                                                                                                       CORE PRACTICAL 1:                                                                                                    SPECIFICATION
+                                                                                                                                                                                                                                                                            REFERENCE
+
+                                                                                                                                                           DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                                                                 1.3.11
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                   Objectives                        »
+                                                                                                                                                             1   Drop the object from rest and record the time taken, t, for:
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                   @ To measure the acceleration
+                                                                                                                                                                 (a) the sphere to fall through the trap door                                        due to gravity, g, of an object
+                                                                                                                                                                 (b) the dowel to pass through the light gate.                                       falling freely and to consider
+                                                                                                                                                             2   Repeat step 1 twice more and calculate the mean value of t for each                 the following alternative
+                                                                                                                                                                 method.                                                                             methods:
+                                                                                                                                                             3   Measure and record the height, h, fallen by the object.                              (a) object falling through a
+                                                                                                                                                             4 Vary the height and repeat steps 1-3. You should take readings at at least                trap door
+                                                                                                                                                                 six different heights.                                                               (b) object falling through a
+                                                                                                                                                                                                                                                         light gate
+                                                                                                                                                             5   Use half the range in your readings for t as the uncertainty in t.
+                                                                                                                                                                 Calculate the percentage uncertainty in ft.                                       Equipment
+                                                                                                                                                             6   For method (b), you should measure the length of the dowel.                       @ metre rule or tape measure
+                                                                                                                                                                                                                                                     with millimetre resolution
+                                                                                                                                                             Learning tips
+                                                                                                                                                                                                                                                   For (a):
+                                                                                                                                                             @ Make sure that points plotted on a graph take up more than half of the
+                                                                                                                                                                                                                                                   @ steel sphere
+                                                                                                                                                                 available space on each scale. You do not always need to include the origin.
+                                                                                                                                                                               ;                                       a                           @ electronic timer
+                                                                                                                                                             @ Keep scales simple: one large square as 5, 10 or 20 is ideal. A scale where                       a
+                                                                                                                                                                                                                                                   @ electromagnet to retain steel
+                                                                                                                                                                 one large square represents 3 or 7 units (or similar) is very difficult to plot
+                                                                                                                                                                                                                                                     sphere
+                                                                                                                                                                 and can often lead to errors.
+
+                                                                                                                                                             @ Always consider whether the graph line should go through the origin.                ®@ trap door switch
+                                                                                                                                                             @ Straight lines should be drawn with the aid of a rule long enough to cover          @ clamp and stand
+                                                                                                                                                                 the full length of the line.                                                      @ low voltage power supply
+                                                                                                                                                             @ Since the object is falling at constant acceleration, use the appropriate           For (b):
+                                                                                                                                                                 kinematics equation:                                                              @ falling object, such as a dowel
+
+                                                                                                                                                                 (a) 5=ut + Jat? where u=0,a=g,and s=h                                               with 2cm diameter, 10cm long
+
+                                                                                                                                                                                                                                                   @ means to guide dowel through
+                                                                                                                                                                      This can be rearranged to: t* = a                                               light gate
+
+                                                                                                                                                                                                                                                   e light gate and datalogger
+                                                                                                                                                                      Comparison with y = mx + c shows that plotting t* against h
+
+                                                                                                                                                                      should give a straight line passing through the origin with gradient —.
+                                                                                                                                                                                                                                           &  7
+                                                                                                                                                                 (b) v* = u* + 2as where u=0,a=g,ands
+                                                                                                                                                                                                   ish                                             @ Make sure the stand cannot
+                                                                                                                                                                                                                                                     topple over by clamping it
+                                                                                                                                                                      Therefore: v? = 2gh
+                                                                                                                                                                                                                                                     securely.
+                                                                                                                                                                      Comparison with y = mx + c shows that plotting v* against h should
+                                                                                                                                                                      give a Straight line passing through the origin with gradient 2g.            e Keep hands and face away
+                                                                                                                                                                                                                                                     from the falling objects.
+
+                                                                                                                                                                                                                                                   @ Turn off the electromagnet
+                                                                                                                                                                                                                                                      between ‘drops’ so that it
+                                                                                                                                                                                                                                                     doesn’t overheat and cause
+                                                                                                                                                                                                                                                      burns.
+                                                                                                                                                       CORE PRACTICAL 1:                                                                                                  SPECIFICATION
+                                                                                                                                                                                                                                                                          REFERENCE
+
+                                                                                                                                                           DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                                                              1.3.11
+
+
+                                                                                                                                                             Results
+
+                                                                                                                                                             1   Use this space to record your results for method (a).
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Use this space to record your results for method (b). Use your value for the length of the dowel to calculate the
+                                                                                                                                                                 mean speed, v, of the dowel as it passes through the light gate.
+                                                                                                                                                       CORE PRACTICAL 1:                                                                                                  SPECIFICATION
+                                                                                                                                                                                                                                                                          REFERENCE
+
+                                                                                                                                                           DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                                                             1.3.11
+
+
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   For method (a), plot a graph of t* (y-axis) against h (x-axis) and draw a line of best fit.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2 Calculate the gradient, m, of the line of best fit. Use this value to calculate a value forg where g = =
+                                                                                                                                                       CORE PRACTICAL 1:                                                                                                    SPECIFICATION
+                                                                                                                                                                                                                                                                            REFERENCE
+
+                                                                                                                                                           DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                                                               1.3.11
+
+
+
+
+                                                                                                                                                             3   For method (b), plot a graph of v* (y-axis) against h (x-axis) and draw a line of best fit.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             4 Calculate the gradient, m, of the line of best fit. Use this value to calculate a value for g, where g = >
+                                                                                                                                                        CORE PRACTICAL 1:                                                                                                   SPECIFICATION
+                                                                                                                                                                                                                                                                             REFERENCE
+
+                                                                                                                                                            DETERMINE THE ACCELERATION OF A FREELY-FALLING OBJECT                                                               1.3.11
+
+
+
+
+                                                                                                                                                              5   The percentage uncertainty (%U) in t@ is twice that in t. Use this to draw error bars onto your graph for method
+                                                                                                                                                                  (a) - in the y-direction only. You can use a typical mid-range value to calculate uncertainties — you do not need
+Uncorrected proof, all co ntent subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                  to work out a separate error bar for each value. Draw a new line of best fit and use this to calculate the %U in
+                                                                                                                                                                  your value for g.
+
+
+
+
+                                                                                                                                                              6   Calculate the percentage difference (%D) between your value and the accepted value of g (9.81 ms) and
+                                                                                                                                                                  comment on the accuracy of method (a).
+
+
+
+
+                                                                                                                                                              Questions
+
+                                                                                                                                                              1   Describe an advantage of using light gates in this experiment.
+
+
+
+
+                                                                                                                                                              2   Discuss the effect of air resistance on your value for g.
+                                                                                                                                                       CORE PRACTICAL 2:                                                                                                SPECIFICATION
+                                                                                                                                                                                                                                                                        REFERENCE
+
+                                                                                                                                                       USE A FALLING-BALL METHOD TO DETERMINE THE VISCOSITY OF A LIQUID                                                       1.4.26
+
+
+
+
+                                                                                                                                                           Procedure
+                                                                                                                                                                                                                                              Objectives                         >»
+                                                                                                                                                           1   Weigh each ball, measure its radius, r, and hence calculate its density, p.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                              @ To time the fall of a ball
+                                                                                                                                                           2   Place three rubber bands around the tube. Position the highest band              through a liquid to determine
+                                                                                                                                                               at a level below the surface of the washing-up liquid: the ball must             the viscosity
+                                                                                                                                                               be travelling at terminal velocity when it reaches this band. Place the
+                                                                                                                                                               remaining two bands far enough apart to allow you to measure two               Equipment
+                                                                                                                                                               reasonable time intervals. This will enable you to measure the terminal        @ stop clock or timer
+                                                                                                                                                               velocity twice for each falling ball.                                          @ rubber bands to mark
+                                                                                                                                                               Release the first ball into the washing-up liquid. Start the timer when the       distances
+                                                                                                                                                               ball passes the highest rubber band. Use the lap timer facility to record      ® metre rule
+                                                                                                                                                               the time taken, t,, for the ball to fall to the middle rubber band. Stop the
+                                                                                                                                                                                                                                              @ micrometer screw gauge
+                                                                                                                                                               timer when the ball passes the lowest rubber band; this is t,. Adjust the
+                                                                                                                                                                                                                                              @ long tube made of transparent
+                                                                                                                                                               position of the rubber bands if your first test is not suitable.
+                                                                                                                                                                                                                                                 material filled with liquid -
+                                                                                                                                                               Once you are happy with the position of the rubber bands, measure the
+                                                                                                                                                                                                                                                 supported so it stays vertical
+                                                                                                                                                               distance, d,, between the highest and middle rubber bands. Then, measure
+                                                                                                                                                                                                                                              @ spherical objects of various
+                                                                                                                                                               the distance, d,, between the highest and lowest bands.
+                                                                                                                                                                                                                                                 diameters
+                                                                                                                                                           5   Repeat step 3 at least three times for each ball.
+                                                                                                                                                                                                                                              @ magnet (optional)
+
+                                                                                                                                                           Learning tip
+                                                                                                                                                                                                                                              A      Safety
+                                                                                                                                                               Position your eyes level with the rubber bands when starting and stopping
+                                                                                                                                                               the timer.                                                                     @ Washing-up liquid spills are
+
+                                                                                                                                                               Try to develop a good technique for measuring the time, so you are                very slippery and must be
+
+                                                                                                                                                               consistent. For example, if you take your first measurement as the                cleared up at once. Have paper
+                                                                                                                                                               bottom of the ball crosses the top of the band, make sure you take every          towels to hand.
+                                                                                                                                                               measurement at this point. You should also measure your distances from         @ Clear up any liquid spills
+                                                                                                                                                               this point.                                                                       quickly to avoid slipping.
+                                                                                                                                                                                                                                              e If you use mineral oil or motor
+                                                                                                                                                           Results (Use this space to record your results.)
+                                                                                                                                                                                                                                                 oil as the liquid avoid skin
+                                                                                                                                                                                                                                                 contact with it and the oily
+                                                                                                                                                                                                                                                 metal balls.
+
+
+
+
+                                                                                                                                                                                                                        11
+                                                                                                                                                       CORE PRACTICAL 2:                                                                                                 SPECIFICATION
+                                                                                                                                                                                                                                                                         REFERENCE
+
+                                                                                                                                                       USE A FALLING-BALL METHOD TO DETERMINE THE VISCOSITY OF A LIQUID                                                       1.4.26
+
+
+
+
+                                                                                                                                                           Results (continued)
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                           Analysis of results
+
+                                                                                                                                                           1   For each diameter, calculate mean values for t; and t,. Add these values to your results table.
+
+                                                                                                                                                           2   Use d,,d> and the mean values for t, and t, to calculate mean values for the terminal velocity of each ball.
+                                                                                                                                                               Add these values to your results table.
+
+                                                                                                                                                           3   Use your answers to question 2 to calculate a mean value for the terminal velocity of all the balls.
+
+
+
+
+                                                                                                                                                           4   Consider the spread in your repeated readings and use this to estimate the uncertainty in your mean values.
+                                                                                                                                                               This is usually half of the range.
+
+
+
+
+                                                                                                                                                                                                                      12
+                                                                                                                                                       CORE PRACTICAL 2:                                                        SPECIFICATION
+                                                                                                                                                                                                                                REFERENCE
+
+                                                                                                                                                       USE A FALLING-BALL METHOD TO DETERMINE THE VISCOSITY OF A LIQUID            1.4.26
+
+
+
+
+                                                                                                                                                           Questions
+
+                                                                                                                                                           1   Explain why you would not use light gates to measure the time.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                               liquid.
+                                                                                                                                                       CORE PRACTICAL 3:                                                                                                   SPECIFICATION
+                                                                                                                                                                                                                                                                           REFERENCE
+
+                                                                                                                                                           DETERMINE THE YOUNG MODULUS OF A MATERIAL                                                                          1.4.31
+
+
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                  Objectives
+                                                                                                                                                             1   Fix the bench pulley at the end of the bench. Trap one end of the wire
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                  @ To take measurements of a
+                                                                                                                                                                 between the two wooden blocks and secure the blocks to the bench
+                                                                                                                                                                                                                                                    long wire to determine the
+                                                                                                                                                                 approximately 3 m from the pulley. Lay out the wire so that it passes over
+                                                                                                                                                                                                                                                    Young modulus for copper
+                                                                                                                                                                 the pulley and attach the slotted mass hanger to the end. Measure the
+                                                                                                                                                                 diameter, d, of the wire.                                                        Equipment
+                                                                                                                                                             2   Lay the metre rule under the wire near the pulley and attach the sticky          @® metre rule
+                                                                                                                                                                 label to act as a length marker. Judge the length by looking vertically
+                                                                                                                                                                                                                                                  @ micrometer screw gauge
+                                                                                                                                                                 down, over the edge of the paper, at the scale of the metre rule. The set
+                                                                                                                                                                                                                                                  @ small piece of sticky label or
+                                                                                                                                                                 square will help you to do this accurately.
+                                                                                                                                                                                                                                                    similar, to mark position on
+                                                                                                                                                             3   Measure the length of wire, L, from the wooden blocks to the edge of the
+                                                                                                                                                                                                                                                    wire
+                                                                                                                                                                 paper.
+                                                                                                                                                                                                                                                  @ 90° set square
+                                                                                                                                                            4    Addamass to the hanger and record the position of the marker against
+                                                                                                                                                                                                                                                  @ 3.1m length of 36swg copper
+                                                                                                                                                                 the metre rule. Calculate the extension, x.
+                                                                                                                                                                                                                                                    wire
+                                                                                                                                                             5   Repeat step 4, adding one mass at a time and recording the extension for
+                                                                                                                                                                                                                                                  @ two wooden blocks and clamp
+                                                                                                                                                                 each mass.
+                                                                                                                                                                                                                                                    to secure one end of the wire
+                                                                                                                                                             Learning tips                                                                        @ bench pulley
+                                                                                                                                                             @ You might notice significant creep occurring at higher loads. This indicates       @ slotted masses up to 600g and
+                                                                                                                                                                 that the elastic limit of the wire has been exceeded. It is important to use a     hanger
+                                                                                                                                                                 long length of wire, as the extension will only be small before creep sets in.
+                                                                                                                                                             @ If you use weights of 0.5N, you will be able to take more readings before
+                                                                                                                                                                 the elastic limit is exceeded.                                                   @ The wire will be about 2 m long
+                                                                                                                                                                                                                                                    and will require a high secure
+                                                                                                                                                                                                                                                    fixing point.
+
+                                                                                                                                                                                                                                                  @ Wear eye protection when
+                                                                                                                                                                                                                                                    loading the wire in case it
+                                                                                                                                                                                                                                                    snaps.
+
+                                                                                                                                                                                                                                                  @ Puta catch box filled with
+                                                                                                                                                                                                                                                    crumpled paper or bubbled
+                                                                                                                                                                                                                                                    plastic below the hanging
+                                                                                                                                                                                                                                                    masses to keep your feet out
+                                                                                                                                                                                                                                                    of the drop zone.
+
+                                                                                                                                                                                                                                                  @ Do not exceed the maximum
+                                                                                                                                                                                                                                                    load as advised by your
+                                                                                                                                                                                                                                                    teacher.
+
+
+
+
+                                                                                                                                                                                                                          14
+     Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+                                                                                                                                                                                                                                                                      CORE PRACTICAL 3:
+
+
+
+
+                                                                                                                                                                Results (Use this space to record your results.)
+                                                                                                                                                                                                                     DETERMINE THE YOUNG MODULUS OF A MATERIAL
+
+
+
+
+15
+                                                                                                                                                                                                                   1.4.31
+                                                                                                                                                                                                                                                                 REFERENCE
+                                                                                                                                                                                                                                                                         SPECIFICATION
+                                                                                                                                                       CORE PRACTICAL 3:                                                                                               SPECIFICATION
+                                                                                                                                                                                                                                                                        REFERENCE
+
+                                                                                                                                                           DETERMINE THE YOUNG MODULUS OF A MATERIAL                                                                         1.4.31
+
+
+
+
+                                                                                                                                                            Analysis of results
+
+                                                                                                                                                             1   Plot a graph of mass added against extension.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Measure the gradient of the straight portion of the graph and use this to calculate the Young modulus for
+                                                                                                                                                                 the copper.
+
+
+
+
+                                                                                                                                                                                                                      16
+                                                                                                                                                        CORE PRACTICAL 3:                                                                                            SPECIFICATION
+                                                                                                                                                                                                                                                                     REFERENCE
+
+                                                                                                                                                            DETERMINE THE YOUNG MODULUS OF A MATERIAL                                                                    1.4.31
+
+
+
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                              1   Explain why a long wire is most suitable for this experiment.
+Uncorrected proof, all content subject to change at publisher discretion . Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             4    Research a value for the Young modulus of copper and comment on your results, using an appropriate format to
+                                                                                                                                                                  cite your research.
+
+
+
+
+                                                                                                                                                                                                                        17
+                                                                                                                                                       CORE PRACTICAL 4:                                                                                                      SPECIFICATION
+                                                                                                                                                                                                                                                                              REFERENCE
+                                                                                                                                                           DETERMINE THE SPEED OF SOUND IN AIR USING A 2-BEAM OSCILLOSCOPE,
+                                                                                                                                                                                                                                                                                   2.3.38
+                                                                                                                                                     SIGNAL GENERATOR, SPEAKER AND MICROPHONE
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                    Objectives
+                                                                                                                                                             1     The oscilloscope will display on two traces the signal fed to the
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                    @ Jo use appropriate
+                                                                                                                                                                   loudspeaker and the signal received by the microphone. As the distance
+                                                                                                                                                                                                                                                      instrumentation to measure
+                                                                                                                                                                   between the microphone and the speaker is increased, the phase of the
+                                                                                                                                                                                                                                                      a sound signal
+                                                                                                                                                                   signals will vary and the traces on the screen will move past each other.
+
+                                                                                                                                                                   Place the microphone next to the oscilloscope and place the speaker              Equipment
+
+                                                                                                                                                                   about 50cm away, facing the microphone. Turn on the signal generator             @ two metre rules
+                                                                                                                                                                   and set it to about 4kHz. Adjust the oscilloscope to show the microphone         @ leads
+                                                                                                                                                                   signal with about three cycles on the screen.
+                                                                                                                                                                                                                                                    @ signal generator with
+                                                                                                                                                                   Connect the signal generator output to the second oscilloscope input               loudspeaker
+                                                                                                                                                                   (as well as the speaker) and adjust the controls to display three cycles of
+                                                                                                                                                                                                                                                    @ oscilloscope with 2-beam
+                                                                                                                                                                   this signal.
+                                                                                                                                                                                                                                                      facility and microphone
+                                                                                                                                                                   Adjust the spacing on the screen and the distance between the speaker              connected to one input
+                                                                                                                                                                   and the microphone so that the bottom of one trace is just level with the
+                                                                                                                                                                   top of the other.
+
+                                                                                                                                                                   Adjust the separation so that a trough on the top trace coincides exactly        @ The electromotive forces are
+                                                                                                                                                                   with a peak on the lower trace. Use a metre rule to measure the distance
+                                                                                                                                                                                                                                                      small and electric currents
+                                                                                                                                                                   between the microphone and speaker.
+                                                                                                                                                                                                                                                      negligible.
+                                                                                                                                                                   Move the speaker away from the microphone and observe one trace                  e Avoid using high volumes
+                                                                                                                                                                   moving relative to the other. Move the speaker until the trace has moved
+                                                                                                                                                                                                                                                      and frequencies that cause
+                                                                                                                                                                   exactly one cycle - the troughs and peaks should just touch again. Record
+                                                                                                                                                                                                                                                      discomfort.
+                                                                                                                                                                   the new distance between the microphone and speaker. The difference
+                                                                                                                                                                                                                                                    @ If you have a hearing problem
+                                                                                                                                                                   between the two distances is one wavelength.
+                                                                                                                                                                                                                                                      or wear a hearing aid tell
+                                                                                                                                                                   Repeat step 6 several times, moving the speaker further away from the
+                                                                                                                                                                                                                                                      your teacher as there may
+                                                                                                                                                                   microphone and recording the distance each time the peaks of one trace
+                                                                                                                                                                                                                                                      be uncomfortable effects at
+                                                                                                                                                                   coincide with the troughs of the other.
+                                                                                                                                                                                                                                                      certain frequencies.
+                                                                                                                                                                   Calculate a mean value for the wavelength of the sound, giving your              @ Follow the usual electrical
+                                                                                                                                                                   answer to at least two significant figures.                                        precautions for mains
+                                                                                                                                                                   Use one of the traces to determine the frequency of the sound. (You will           apparatus, including a visual
+                                                                                                                                                                   achieve a greater resolution by this method than by using the scale on             inspection of the supply lead.
+                                                                                                                                                                   the signal generator.) Give your answer to at least three significant figures.
+
+                                                                                                                                                             10    Use the scale on the signal generator to halve the frequency and repeat
+                                                                                                                                                                   steps 4-9. You might need to increase the separation beyond 1m.
+
+                                                                                                                                                             11    If you have time, repeat the whole experiment at much higher and much
+                                                                                                                                                                   lower frequencies and observe the effect.
+
+
+                                                                                                                                                             Learning tips
+
+                                                                                                                                                             @ This experiment is reasonably straightforward if you are familiar with
+                                                                                                                                                                  manipulating the controls of an oscilloscope. Soend some time practising
+                                                                                                                                                                  until you are confident setting up a trace from which you can take
+                                                                                                                                                                  measurements.
+
+                                                                                                                                                             @ The set-up depends on the local circumstances, so you should try things
+                                                                                                                                                                  out for yourself, using the instructions as a framework.
+
+
+
+
+                                                                                                                                                                                                                             18
+                                                                                                                                                       CORE PRACTICAL 4:                                                                                                SPECIFICATION
+                                                                                                                                                                                                                                                                        REFERENCE
+                                                                                                                                                           DETERMINE THE SPEED OF SOUND IN AIR USING A 2-BEAM OSCILLOSCOPE,
+                                                                                                                                                     SIGNAL GENERATOR, SPEAKER AND MICROPHONE                                                                                 2.3.38
+
+                                                                                                                                                             Results (Use this space to record your results.)
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   Multiply your values for wavelength and frequency to obtain a value for the speed of sound for each of the
+                                                                                                                                                                 frequencies used. Hence, find a mean value and percentage difference for the speed of sound.
+
+
+
+
+                                                                                                                                                             2   Estimate the uncertainty in your mean value for the wavelength of the sound (calculated in step 8).
+
+
+
+
+                                                                                                                                                             3   Estimate the uncertainty in your measurement of the frequency of the sound (calculated in step 9).
+
+
+
+
+                                                                                                                                                             4   Use the uncertainties from your measurements to calculate the percentage uncertainty in your individual values
+                                                                                                                                                                 for the speed of sound.
+
+
+
+
+                                                                                                                                                                                                                      19
+                                                                                                                                                       CORE PRACTICAL 4:                                                                                               SPECIFICATION
+                                                                                                                                                                                                                                                                       REFERENCE
+                                                                                                                                                           DETERMINE THE SPEED OF SOUND IN AIR USING A 2-BEAM OSCILLOSCOPE,
+                                                                                                                                                     SIGNAL GENERATOR, SPEAKER AND MICROPHONE                                                                             2.3.38
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                             1   Comment on the sources of uncertainty in this investigation.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             3   When the traces have moved past each other by one full cycle, the speaker has moved one wavelength.
+                                                                                                                                                                 Explain this.
+
+
+
+
+                                                                                                                                                                                                                      20
+                                                                                                                                                       CORE PRACTICAL 5:                                                                                                     SPECIFICATION
+                                                                                                                                                                                                                                                                             REFERENCE
+                                                                                                                                                           INVESTIGATE THE EFFECTS OF LENGTH, TENSION AND MASS PER UNIT LENGTH
+                                                                                                                                                       ON THE FREQUENCY OF A VIBRATING STRING OR WIRE                                                                           2.3.43
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                  Objectives
+                                                                                                                                                             1   Attach one end of the ‘string’ to the vibration transducer. Pass the other
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                  @ To carry   out an investigation
+                                                                                                                                                                 end over the bench pulley and attach the mass hanger.                                     y
+                                                                                                                                                                                                                                                    into standing waves
+                                                                                                                                                                                                                                                                        2
+                                                                                                                                                                 Add masses until the total mass is 100g.                                         @ To develop the skills to carry
+
+                                                                                                                                                                 Turn on the signal generator to set the rubber oscillating. Vary the               out further investigations
+                                                                                                                                                                 oscillating length by moving the vibration generator until resonance is              ;
+                                                                                                                                                                 observed.                                                                        Equipment
+                                                                                                                                                                                                                                                  @ bench pulley
+                                                                                                                                                             Plan
+                                                                                                                                                                                                                                                  @ slotted masses and hanger
+                                                                                                                                                             In this investigation, you will be observing standing waves. These can occur at      @ metre rule
+                                                                                                                                                             a variety of resonant frequencies. You will investigate the effect of the factors
+                                                                                                                                                                                                                                                  @ 2mlength of rubber ‘string’
+                                                                                                                                                             affecting these frequencies.
+                                                                                                                                                                                                                                                  @ vibration generator connected
+                                                                                                                                                             You might use a cathode ray oscilloscope to determine the exact frequency of
+                                                                                                                                                                                                                                                     to a signal generator
+                                                                                                                                                             the vibration generator.
+
+                                                                                                                                                             Plan which variables you will test in this investigation and how you will carry it   A Safety
+                                                                                                                                                             out. Your teacher will help you with the details if necessary.
+                                                                                                                                                                                                                                                  @ There are no hazards
+                                                                                                                                                             Use this space to record your plan.
+                                                                                                                                                                                                                                                     associated with this
+                                                                                                                                                                                                                                                     experiment if rubber is used
+                                                                                                                                                                                                                                                     as the medium.
+
+                                                                                                                                                                                                                                                  e If using metal wire, safety
+                                                                                                                                                                                                                                                     spectacles should be worn.
+                                                                                                                                                                                                                                                  @ Follow the usual electrical
+                                                                                                                                                                                                                                                     precautions for mains
+                                                                                                                                                                                                                                                     apparatus, including a visual
+                                                                                                                                                                                                                                                     inspection of the supply lead.
+
+
+
+
+                                                                                                                                                             Learning tip
+
+                                                                                                                                                             @ Your measurements will have greater resolution if you measure as large a
+                                                                                                                                                                 length as possible, or as many half-wavelengths as possible.
+                                                                                                                                                                                                                         21
+                                                                                                                                                       CORE PRACTICAL 5:                                                                                            SPECIFICATION
+                                                                                                                                                                                                                                                                    REFERENCE
+                                                                                                                                                           INVESTIGATE THE EFFECTS OF LENGTH, TENSION AND MASS PER UNIT LENGTH
+                                                                                                                                                       ON THE FREQUENCY OF A VIBRATING STRING OR WIRE                                                                      2.3.43
+
+                                                                                                                                                             Results
+
+                                                                                                                                                             1   Use this space to record your results.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Assess the uncertainties in your measurements and comment on whether they affect the reproducibility of
+                                                                                                                                                                 your findings.
+
+
+
+
+                                                                                                                                                                                                                     22
+                                                                                                                                                       CORE PRACTICAL 5:                                                                                              SPECIFICATION
+                                                                                                                                                                                                                                                                      REFERENCE
+                                                                                                                                                           INVESTIGATE THE EFFECTS OF LENGTH, TENSION AND MASS PER UNIT LENGTH
+                                                                                                                                                       ON THE FREQUENCY OF A VIBRATING STRING OR WIRE                                                                       2.3.43
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             Produce a graph of your results to show the relationships between the variables you identified and measured.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                     23
+                                                                                                                                                        CORE PRACTICAL 5:                                                                                            SPECIFICATION
+                                                                                                                                                                                                                                                                     REFERENCE
+                                                                                                                                                            INVESTIGATE THE EFFECTS OF LENGTH, TENSION AND MASS PER UNIT LENGTH
+                                                                                                                                                        ON THE FREQUENCY OF A VIBRATING STRING OR WIRE                                                                   2.3.43
+
+                                                                                                                                                              Questions
+
+                                                                                                                                                              1   Identify the major sources of uncertainty in your work.
+Uncorrected proof, all content subject to change at publisher discretion . Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                              4   Research how a standing wave can be set up and used to determine a value for the speed of electromagnetic
+                                                                                                                                                                  radiation. Use an appropriate format to cite any sources you use in your research.
+                                                                                                                                                       CORE PRACTICAL 6:                                                                                               SPECIFICATION
+                                                                                                                                                                                                                                                                       REFERENCE
+                                                                                                                                                           DETERMINE THE WAVELENGTH OF LIGHT FROM A LASER OR OTHER LIGHT SOURCE
+                                                                                                                                                                                                                                                                          2.3.02
+                                                                                                                                                       USING A DIFFRACTION GRATING
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                             Objectives
+                                                                                                                                                             1   Place the laser approximately 4m away from a large wall and place the
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                             @ To make measurements of
+                                                                                                                                                                 diffraction grating in front of it. Position the laser so that the beam
+                                                                                                                                                                                                                                               laser light passing through
+                                                                                                                                                                 will pass through the grating at normal incidence and meet the wall
+                                                                                                                                                                                                                                               a diffraction grating to
+                                                                                                                                                                 perpendicularly.
+                                                                                                                                                                                                                                               determine the wavelength
+                                                                                                                                                                 Measure the distance, D, between the grating and the wall.                    of the light
+                                                                                                                                                             3   Turn on the laser and identify the zero order maximum (straight through).
+                                                                                                                                                                                                                                             Equipment
+                                                                                                                                                                 Measure the distance, s, from the zero order maximum to the first-
+                                                                                                                                                                 order maxima on either side. Calculate the mean of these two values.        @ source of laser light
+                                                                                                                                                                 (Remember, the first order is the maximum produced according to n = 1 in    @ diffraction grating, supported
+                                                                                                                                                                 the equation nA = dsin@,)                                                     at the same height as the laser
+                                                                                                                                                                 Measure s for increasing orders, calculating a mean value each time.          beam
+
+                                                                                                                                                                 Repeat steps 1-4 using a diffraction grating with a different number of     ® metre rule
+
+                                                                                                                                                                 slits/mm.
+
+                                                                                                                                                             Learning tip                                                                    @ The laser used should be IEC
+                                                                                                                                                             @ Make sure that the laser hits the wall at right angles.                         Class 1 or Class 2.
+                                                                                                                                                                                                                                             @ The laser should be set up,
+                                                                                                                                                             Results (Use this space to record your results.)
+                                                                                                                                                                                                                                               clamped and used so that the
+                                                                                                                                                                                                                                               beam cannot reach the eyes
+                                                                                                                                                                                                                                               either directly or by reflection
+                                                                                                                                                                                                                                               from a shiny surface.
+
+                                                                                                                                                                                                                                             @ Lasers with a higher
+                                                                                                                                                                                                                                               classification should not be
+                                                                                                                                                                                                                                               used in school.
+
+                                                                                                                                                                                                                                             @ Laser goggles are of no use
+                                                                                                                                                                                                                                               with Class 1 or 2 because the
+                                                                                                                                                                                                                                               beam cannot be seen when
+                                                                                                                                                                                                                                               they are worn.
+
+
+
+
+                                                                                                                                                                                                                          25
+                                                                                                                                                       CORE PRACTICAL 6:                                                                                               SPECIFICATION
+                                                                                                                                                                                                                                                                       REFERENCE
+                                                                                                                                                           DETERMINE THE WAVELENGTH OF LIGHT FROM A LASER OR OTHER LIGHT SOURCE
+                                                                                                                                                       USING A DIFFRACTION GRATING                                                                                         2.3.52
+
+                                                                                                                                                             Results (continued)
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                            Analysis of results
+
+                                                                                                                                                             1   Since the angle is not small, you will need to calculate @ from your measurements ofs and D. Calculate a mean @
+                                                                                                                                                                 value for each order.
+
+
+
+
+                                                                                                                                                             2   Calculate a mean value for the wavelength of the laser light and compare this value with the accepted wavelength
+                                                                                                                                                                 for a standard school red laser (635nm).
+
+
+
+
+                                                                                                                                                                                                                      26
+     Uncorrected proof, all content subject to c   e at publisher discretio n. Not for resale, circulation or distribution in whole or in pa rt. OPearson 2018
+
+
+
+
+                                                                                                                                                            1
+                                                               WwW
+
+
+                                                               ws)
+                                                               Mm
+                                                               nN
+                                                               To
+                                                               =.
+                                                               oO
+                                                               rap)                                                                                                                                                         Questions
+                                                               =
+                                                               >
+                                                               je5)
+                                                               o
+
+
+                                                               >
+                                                                                                                                                                                                                                                                                                                                       CORE PRACTICAL 6:
+
+
+
+
+                                                               rap)
+
+                                                               2"
+                                                               an)
+                                                               “>
+                                                               gq
+                                                               i)
+                                                               ct,
+                                                               [e)
+                                                               D>
+                                                                                                                                                                                                                                        USING A DIFFRACTION GRATING
+
+
+
+
+                                                               3
+                                                               gy
+                                                               x,
+                                                               3
+                                                               fe5)
+
+                                                               =
+                                                               1e)
+                                                               =
+                                                               ox
+
+                                                               fo}
+                                                               [e)
+                                                               o
+
+
+                                                               =
+                                                               rap)
+
+                                                               =.
+                                                               aq
+
+
+
+
+27
+                                                               =
+                                                               >
+                                                                                                                                                            State the advantages of using laser light in this experiment.
+
+
+
+
+                                                               =.
+                                                               rap)
+
+                                                               a
+                                                               nN
+                                                               Mm
+                                                               my
+
+
+                                                               =
+                                                               gy
+                                                               Nn
+
+                                                               Cc
+                                                               nN
+                                                               rap)
+                                                               ox
+
+                                                              a
+                                                               nN
+                                                               nN
+                                                               Cc
+
+                                                               =
+                                                               =)
+                                                              Te)
+                                                               nN
+                                                                                                                                                                                                                                                                DETERMINE THE WAVELENGTH OF LIGHT FROM A LASER OR OTHER LIGHT SOURCE
+
+
+
+
+                                                               Cc
+                                                               i)
+                                                               ss
+                                                               jes)
+
+
+                                                               >,
+                                                               =)
+                                                              a
+                                                               =
+                                                               jes)
+                                                               Ta)
+
+                                                              =e)
+                                                               [e)
+                                                               Ta)
+                                                               v,
+                                                              ox
+                                                                                                                                                                                                                                              2.3.52
+                                                                                                                                                                                                                                                                                                                 REFERENCE
+
+
+
+
+                                                              a
+                                                                                                                                                                                                                                                                                                                                          SPECIFICATION
+                                                                                                                                                       CORE PRACTICAL 7:                                                                                                           SPECIFICATION
+                                                                                                                                                           DETERMINE THE ELECTRICAL RESISTIVITY OF A MATERIAL                                                                      a
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                  Objectives
+                                                                                                                                                             1   Set up the apparatus as shown in Figure A. You will use the 4mm plug at
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                  @ To use a metal wire to
+                                                                                                                                                                 the free end of the second lead to make contact with different places on
+                                                                                                                                                                                                                                                      determine the resistivity of a
+                                                                                                                                                                 the wire.
+                                                                                                                                                                                                                                                      metal
+                                                                                                                                                                                        (S)
+                                                                                                                                                                                        CS,                                                       Equipment
+
+                                                                                                                                                                                                                                                  @ 1.05m of 34swg constantan
+                                                                                                                                                                                                                                                      wire
+                                                                                                                                                                                                           4mm plug
+                                                                                                                                                                                                                              metre rule          ® metre rule
+                                                                                                                                                                                                    He                                     TV     @   two    leads, one with   a   crocodile
+
+
+                                                                                                                                                                                                                                           wire       clip on one end
+
+                                                                                                                                                                                                                                                  e@ digital multimeter switched
+                                                                                                                                                             Figure A: Experimental set-up
+                                                                                                                                                                                                                                                      to the lowest ohms scale with
+                                                                                                                                                             2   Attach the crocodile clip to the wire, level with the ‘zero’ marker on the           both the leads plugged in
+                                                                                                                                                                 metre rule.
+                                                                                                                                                                                                                                                  @ micrometer screw gauge
+                                                                                                                                                             3   Place the     4mm plug against the wire approximately 10cm from the ‘zero’
+                                                                                                                                                                 end. You will need to press the plug firmly onto the wire to obtain a steady
+                                                                                                                                                                 reading on the multimeter. Measure and record the resistance, R, and the         @ Voltages and currents are
+                                                                                                                                                                 length, !, of wire from the ‘zero’ end.                                              small and so present no
+
+                                                                                                                                                             4   Move the plug along the wire in steps of 10cm, and record R and | at each            specific hazard.
+                                                                                                                                                                 step.
+                                                                                                                                                                                                                                                  e If the digital multimeter is
+                                                                                                                                                             5   Measure the diameter of the wire.                                                    replaced with a power supply,
+
+                                                                                                                                                                                                                                                      voltmeter and ammeter, the
+                                                                                                                                                             Results
+                                                                                                                                                                                                                                                      low voltage must be suitably
+                                                                                                                                                             1   Use this space to record your results.                                               limited to avoid the wire
+                                                                                                                                                                                                                                                      getting hot.
+
+                                                                                                                                                                                                                                                  @ Disconnect the wire between
+                                                                                                                                                                                                                                                      readings, as it may get hot.
+
+
+
+
+                                                                                                                                                                                                                         28
+

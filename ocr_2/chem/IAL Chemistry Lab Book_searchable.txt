@@ -1,0 +1,1323 @@
+(oe)
+rr
+
+(@)
+N
+    Cc
+    O
+    ”
+,
+
+    14]
+    0)
+a
+
+
+          PEARSON EDEXCEL INTERNATIONAL
+©
+~
+;
+
+    (4)
+    oO
+
+[=
+;
+
+oO
+          AS/A LEVEL
+a)
+Oo
+
+
+
+
+          CHEMISTRY
+—
+=
+[=
+Cc
+iS
+—
+
+
+_)
+OQ
+c
+—
+
+
+
+a
+
+
+          Lab Book
+7@)
+;
+
+Oo
+Cc
+fo)
+                                                                                                                                                           Published by Pearson Education Limited, 80 Strand, London, WC2R ORL.
+
+
+                                                                                                                                                           www.pearsonglobalschools.com
+
+
+                                                                                                                                                           Copies of official specifications for all Pearson Edexcel qualifications may be
+                                                                                                                                                           found on the website: https://qualifications.pearson.com
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                           Text © Pearson Education Limited 2018
+                                                                                                                                                           Designed by Tech-Set Ltd, Gateshead, UK
+                                                                                                                                                           Edited by Katharine Godfrey Smith, Helen Payne and Stephanie White
+                                                                                                                                                           Typeset by Tech-Set Ltd, Gateshead, UK
+                                                                                                                                                           Original illustrations   © Pearson Education Limited 2018
+                                                                                                                                                           Cover design © Pearson Education Limited 2018
+
+
+                                                                                                                                                           The rights of Carl Howe and Nigel Saunders to be identified as authors of this
+                                                                                                                                                           work have been asserted by them in accordance with the Copyright, Designs
+                                                                                                                                                           and Patents Act 1988.
+
+
+                                                                                                                                                           The Publishers would like to thank Mark Woods for his contributions to the text.
+
+
+                                                                                                                                                           First published 2018
+
+
+                                                                                                                                                           21 20 19 18
+                                                                                                                                                           10987654321
+
+
+                                                                                                                                                           British Library Cataloguing in Publication Data
+                                                                                                                                                           A catalogue record for this book is available from the British Library
+
+                                                                                                                                                           ISBN 978 1 292 24471 6
+
+
+                                                                                                                                                           Copyright notice
+                                                                                                                                                           All rights reserved. No part of this publication may be reproduced in any form or
+                                                                                                                                                           by any means (including photocopying or storing it in any medium by electronic
+                                                                                                                                                           means and whether or not transiently or incidentally to some other use of this
+                                                                                                                                                           publication) without the written permission of the copyright owner, except in
+                                                                                                                                                           accordance with the provisions of the Copyright, Designs and Patents Act
+                                                                                                                                                           1988 or under the terms of a licence issued by the Copyright Licensing Agency,
+                                                                                                                                                           Barnard’s Inn, 86 Fetter Lane, London EC4A 1EN (www.cla.co.uk). Applications
+                                                                                                                                                           for the copyright owner’s written permission should be addressed to the
+                                                                                                                                                           publisher.
+
+
+                                                                                                                                                           Printed in Slovakia by Neografia
+
+
+                                                                                                                                                           Acknowledgements
+                                                                                                                                                           All artwork © Pearson Education Limited 2018
+
+
+                                                                                                                                                           A note from the publishers:
+                                                                                                                                                           While the Publishers have made every attempt to ensure that advice on the
+                                                                                                                                                           qualification and its assessment is accurate, the official specification and
+                                                                                                                                                           associated assessment guidance materials are the only authoritative source of
+                                                                                                                                                           information and should always be referred to for definitive guidance. Pearson
+                                                                                                                                                           examiners have not contributed to any sections in this resource relevant to
+                                                                                                                                                           examination papers for which they have responsibility. Examiners will not use
+                                                                                                                                                           this resource as a source of material for any assessment set by Pearson.
+
+
+                                                                                                                                                           Neither Pearson, Edexcel nor the authors take responsibility for the safety
+                                                                                                                                                           of any activity. Before doing any practical activity you are legally required to
+                                                                                                                                                           carry out your own risk assessment. In particular, any local rules issued by
+                                                                                                                                                           your employer must be obeyed, regardless of what is recommended in this
+                                                                                                                                                           resource. Where students are required to write their own risk assessments they
+                                                                                                                                                           must always be checked by the teacher and revised, as necessary, to cover any
+                                                                                                                                                           issues the students may have overlooked. The teacher should always have the
+                                                                                                                                                           final control as to how the practical is conducted.
+                                                                                                                                                           CONTENTS
+
+
+                                                                                                                                                            INTRODUCTION                                                                       2
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                            CORE PRACTICALS OVERVIEW                                                           3
+
+                                                                                                                                                            PAPER 3 PRACTICAL SKILLS                                                           dl
+
+                                                                                                                                                            PAPER 6 PRACTICAL SKILLS                                                           4)
+
+                                                                                                                                                             1     MEASUREMENT OF THE MOLAR VOLUME OF A GAS                                    6
+
+                                                                                                                                                             2     DETERMINATION OF THE ENTHALPY CHANGE OF A REACTION USING HESS’S LAW         9
+
+                                                                                                                                                             3.    FINDING THE CONCENTRATION OF A SOLUTION OF HYDROCHLORIC ACID               13
+
+                                                                                                                                                             4     PREPARATION OF A STANDARD SOLUTION FROM A SOLID ACID AND ITS USE TO FIND
+                                                                                                                                                                   THE CONCENTRATION OF A SOLUTION OF SODIUM HYDROXIDE                        16
+
+                                                                                                                                                             5    — INVESTIGATION OF THE RATES OF HYDROLYSIS OF SOME HALOGENOALKANES          19
+
+                                                                                                                                                             6     CHLORINATION OF 2-METHYLPROPAN-2-OL WITH CONCENTRATED HYDROCHLORIC
+                                                                                                                                                                   ACID                                                                       22
+
+                                                                                                                                                             7     OXIDATION OF PROPAN-1-OL TO PRODUCE PROPANAL AND PROPANOIC ACID            25
+
+                                                                                                                                                             8     ANALYSIS OF SOME INORGANIC AND ORGANIC UNKNOWNS 1                          31
+
+                                                                                                                                                             9A    FOLLOWING THE RATE OF THE IODINE—PROPANONE REACTION BY A TITRIMETRIC
+                                                                                                                                                                   METHOD                                                                     34
+
+                                                                                                                                                             9B    INVESTIGATING A ‘CLOCK REACTION’ (HARCOURT-ESSON, IODINE CLOCK)            37
+
+                                                                                                                                                            10     FINDING THE ACTIVATION ENERGY OF A REACTION                                42
+
+                                                                                                                                                            11.    ~—-~FINDING THE K, VALUE FOR A WEAK ACID                                   46
+
+                                                                                                                                                            12     INVESTIGATING SOME ELECTROCHEMICAL CELLS                                   Ag
+
+                                                                                                                                                            13A    REDOX TITRATIONS WITH IRON(II) IONS AND POTASSIUM MANGANATE(VII)           52
+
+                                                                                                                                                            13B    REDOX TITRATIONS WITH SODIUM THIOSULFATE AND IODINE                        55
+
+                                                                                                                                                            14     PREPARATION OF A TRANSITION METAL COMPLEX                                  08
+
+                                                                                                                                                            15     ANALYSIS OF SOME INORGANIC AND ORGANIC UNKNOWNS 2                          61
+
+                                                                                                                                                            16     PREPARATION OF ASPIRIN                                                     67
+
+                                                                                                                                                            ANSWERS                                                                           70
+
+                                                                                                                                                            MATHS SKILLS                                                                      73
+                                                                                                                                                           INTRODUCTION
+
+
+                                                                                                                                                             Practical work is central to the study of chemistry. The International Advanced Subsidiary/Advanced Level (IAS/IAL)
+                                                                                                                                                            specification includes 16 core practical activities that link theoretical knowledge and understanding to practical
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                            scenarios. By completing the core practical activities, you will learn to:
+
+                                                                                                                                                             ¢ follow and interpret experimental instructions, covering a range of laboratory exercises throughout the course,
+                                                                                                                                                               with minimal help from your teacher
+
+                                                                                                                                                             ® manipulate apparatus, use chemicals, carry out all common laboratory procedures and use data logging (where
+                                                                                                                                                               appropriate)
+
+                                                                                                                                                             e work sensibly and safely in the laboratory, paying due regard to health and safety requirements
+
+                                                                                                                                                             ® gain accurate and consistent results in quantitative exercises, and make the most of the expected observations in
+                                                                                                                                                               qualitative exercises.
+
+                                                                                                                                                             By the end of this course, you should be able to use a variety of apparatus and techniques to:
+
+                                                                                                                                                             © design and carry out both the core practical activities and your own investigations
+
+                                                                                                                                                             e collect data that can be analysed
+
+                                                                                                                                                             e use data to draw valid conclusions.
+
+                                                                                                                                                            Your knowledge and understanding of practical skills and activities will be assessed in all examination papers.
+
+                                                                                                                                                             @ Papers 1 and 2 (IAS), and 4 and 5 (IAL) will include questions based on practical activities, including novel scenarios.
+
+                                                                                                                                                             @ Papers 3 (IAS) and 6 (IAL) will test your ability to plan practical work, including risk management and selection of
+                                                                                                                                                               apparatus.
+
+
+                                                                                                                                                            Assessment for the Practical Skills Papers 3 and 6 will focus on four main areas:
+
+                                                                                                                                                             e independent thinking
+
+                                                                                                                                                             ® use and application of scientific methods and practices
+
+                                                                                                                                                             ® numeracy and the application of mathematical concepts
+
+                                                                                                                                                             © use of apparatus and equipment.
+
+                                                                                                                                                            The ways in which you can demonstrate these practical skills are outlined in the tables on pages 4 and 5. You may
+                                                                                                                                                            wish to tick off each element as you gain confidence.
+
+                                                                                                                                                            You will find answers and maths skills required for the practicals in the back of the book.
+                                                                                                                                                           CORE PRACTICALS OVERVIEW
+
+
+
+
+                                                                                                                                                             UNIT 1 (IAS): FORMULAE, EQUATIONS AND AMOUNT OF SUBSTANCE
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                 1   Measurement of the molar volume of a gas
+
+                                                                                                                                                             UNIT 2 (IAS): ENERGETICS
+
+                                                                                                                                                                 2   Determination of the enthalpy change of a reaction using Hess’s Law
+
+                                                                                                                                                             UNIT 2 (IAS): REDOX CHEMISTRY AND GROUPS 1, 2 AND 7
+
+                                                                                                                                                                 3   Finding the concentration of a solution of hydrochloric acid
+
+                                                                                                                                                                 4   Preparation of a standard solution from a solid acid and its use to find the concentration
+                                                                                                                                                                     of asolution of sodium hydroxide
+
+                                                                                                                                                             UNIT 2 (IAS): ORGANIC CHEMISTRY: ALCOHOLS, HALOGENOALKANES AND SPECTRA
+
+                                                                                                                                                                 5   Investigation of the rates of hydrolysis of some halogenoalkanes
+
+                                                                                                                                                                 6   Chlorination of 2-methylpropan-2-ol with concentrated hydrochloric acid
+
+                                                                                                                                                                 7   Oxidation of propan-1-ol to produce propanal and propanoic acid
+
+                                                                                                                                                                 8   Analysis of some inorganic and organic unknowns 1
+
+                                                                                                                                                             UNIT 4 (IAL): KINETICS
+
+                                                                                                                                                                 9a Following the rate of the iodine-propanone reaction by a titrimetric method
+
+                                                                                                                                                                 9b Investigating a ‘clock reaction’ (Harcourt—Esson, iodine clock)
+
+                                                                                                                                                                10   Finding the activation energy of a reaction
+
+                                                                                                                                                             UNIT 4 (IAL): ACID-BASE EQUILIBRIA
+
+                                                                                                                                                                11   Finding the K, value for a weak acid
+
+                                                                                                                                                             UNIT 5 (IAL): REDOX EQUILIBRIA
+
+                                                                                                                                                                12   Investigating some electrochemical cells
+
+                                                                                                                                                                13a Redox titrations with iron(II) ions and potassium manganate (VII)
+
+                                                                                                                                                                13b Redox titrations with sodium thiosulfate and iodine
+
+                                                                                                                                                             UNIT 5 (IAL): TRANSITION METALS AND THEIR CHEMISTRY
+
+                                                                                                                                                                14   Preparation of a transition metal complex
+
+                                                                                                                                                             UNIT 5 (IAL): ORGANIC NITROGEN COMPOUNDS: AMINES, AMIDES, AMINO ACIDS AND PROTEINS
+                                                                                                                                                                15   Analysis of some inorganic and organic unknowns 2
+
+                                                                                                                                                             UNIT 5 (IAL): ORGANIC SYNTHESIS
+
+                                                                                                                                                                16   Preparation of aspirin
+                                                                                                                                                           PAPER 3 PRACTICAL SKILLS
+
+
+                                                                                                                                                                              Practical skills                   Core Practical
+                                                                                                                                                             Independent thinking in a practical context           4       5
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Solve problems set in a practical context
+
+
+                                                                                                                                                             Apply scientific knowledge to practical contexts
+
+
+                                                                                                                                                             Use and application of scientific methods and
+                                                                                                                                                             practices
+
+                                                                                                                                                             Identify and state how to control variables to
+                                                                                                                                                             improve experimental validity
+
+                                                                                                                                                             Present data in appropriate ways
+
+
+                                                                                                                                                             Evaluate results and draw conclusions
+
+
+                                                                                                                                                             Appreciate measurement uncertainties and errors
+
+
+                                                                                                                                                             Comment on the method for an experiment
+
+
+                                                                                                                                                             Numeracy and the application of mathematical
+                                                                                                                                                             concepts in a practical context
+                                                                                                                                                             Plot and interpret graphs
+
+
+                                                                                                                                                             Process and analyse data using appropriate
+                                                                                                                                                             mathematical skills
+
+                                                                                                                                                             Use appropriate numbers of significant figures
+                                                                                                                                                             based on the experimental data
+                                                                                                                                                             Consider the accuracy and precision of data
+
+
+                                                                                                                                                             Use of apparatus and equipment
+                                                                                                                                                             Recognise a range of laboratory apparatus and
+                                                                                                                                                             select appropriate apparatus for a particular
+                                                                                                                                                             scenario
+
+                                                                                                                                                             Understand how to use a range of apparatus and
+                                                                                                                                                             techniques appropriate to the knowledge and
+                                                                                                                                                             understanding included in the specification
+                                                                                                                                                             Consider the range and resolution of apparatus
+
+
+                                                                                                                                                             Identify health and safety issues and discuss how
+                                                                                                                                                             these may be dealt with
+                                                                                                                                                           PAPER 6 PRACTICAL SKILLS
+
+
+                                                                                                                                                                              Practical skills                        Core Practical
+                                                                                                                                                             Independent thinking in a practical context         11     12    13a      13b   14
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Solve problems set in a practical context
+
+
+                                                                                                                                                             Apply scientific knowledge to practical contexts
+
+
+                                                                                                                                                             Use and application of scientific methods and
+                                                                                                                                                                                                                 11     12    13a      13b   14
+                                                                                                                                                             practices
+
+                                                                                                                                                             Identify and state how to control variables to
+                                                                                                                                                             improve experimental validity
+
+                                                                                                                                                             Present data in appropriate ways
+
+
+                                                                                                                                                             Evaluate results and draw conclusions
+
+
+                                                                                                                                                             Appreciate measurement uncertainties and errors
+
+
+                                                                                                                                                             Comment on the method for an experiment
+
+
+                                                                                                                                                             Numeracy and the application of mathematical
+                                                                                                                                                                                                                 11     12    13a      13b   14
+                                                                                                                                                             concepts in a practical context
+                                                                                                                                                             Plot and interpret graphs
+
+
+                                                                                                                                                             Process and analyse data using appropriate
+                                                                                                                                                             mathematical skills
+
+                                                                                                                                                             Use appropriate numbers of significant figures
+                                                                                                                                                             based on the experimental data
+                                                                                                                                                             Consider the accuracy and precision of data
+
+
+                                                                                                                                                             Use of apparatus and equipment
+                                                                                                                                                             Recognise a range of laboratory apparatus and
+                                                                                                                                                             select appropriate apparatus for a particular
+                                                                                                                                                             scenario
+
+                                                                                                                                                             Understand how to use a range of apparatus and
+                                                                                                                                                             techniques appropriate to the knowledge and
+                                                                                                                                                             understanding included in the specification
+                                                                                                                                                             Consider the range and resolution of apparatus
+
+
+                                                                                                                                                             Identify health and safety issues and discuss how
+                                                                                                                                                             these may be dealt with
+                                                                                                                                                           CORE PRACTICAL 1:                                                                                                 SPECIFICATION
+                                                                                                                                                                                                                                                                             REFERENCE
+
+                                                                                                                                                           MEASUREMENT OF THE MOLAR VOLUME OF A GAS                                                                              1.11
+
+
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                   Objectives                        >»
+                                                                                                                                                             1   Set up the apparatus to capture and measure gas evolved from a reaction
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                   @ To find the volume of one mole
+                                                                                                                                                                 in the boiling tube.
+                                                                                                                                                                                                                                                     of carbon dioxide gas
+                                                                                                                                                                 Place 30cm? of 1 mol dm? ethanoic acid in the boiling tube.
+                                                                                                                                                                                                                                                   Equipment
+                                                                                                                                                                 Place approximately 0.05
+                                                                                                                                                                                        g of calcium carbonate in a test tube. Weigh the
+                                                                                                                                                                                                                                                   @ boiling tube
+                                                                                                                                                                 test tube and its contents accurately.
+                                                                                                                                                                                                                                                   @ stand and clamp
+                                                                                                                                                                 Remove the bung from the boiling tube and tip the calcium carbonate into
+                                                                                                                                                                                                                                                   @ bung fitted with delivery tube
+                                                                                                                                                                 the boiling tube. Quickly replace the bung in the boiling tube.
+                                                                                                                                                                                                                                                     to fit boiling tube
+                                                                                                                                                                 Once the reaction is over, measure the volume of gas produced.
+                                                                                                                                                                                                                                                   @ water bath for gas collection
+                                                                                                                                                                 Reweigh the test tube that contained the calcium carbonate.                       @ 100cm? measuring cylinder
+
+                                                                                                                                                                 Repeat the experiment six more times, increasing the mass of calcium              @ 50cm? measuring cylinder
+                                                                                                                                                                 carbonate by about 0.05
+                                                                                                                                                                                       g each time. Do not exceed 0.40
+                                                                                                                                                                                                                     g of calcium                  @ test tube
+                                                                                                                                                                 carbonate.                                                                        @ mass balance (2 d.p.)
+                                                                                                                                                                                                                                                   @ 1 moldm” ethanoic acid
+                                                                                                                                                             Learning tips                                                                         @ powdered calcium carbonate
+                                                                                                                                                                 Ensure that points plotted on a graph take up more than half the available
+                                                                                                                                                                 space on each scale. Axes must occupy at least half of the space on the
+                                                                                                                                                                 graph paper.                                                                      @ Wear eye protection.
+
+                                                                                                                                                                                                                                                   @ Remove the bung if the
+                                                                                                                                                                 Keep scales simple: one large square as 5 or 10 or 20 is ideal. A scale where
+                                                                                                                                                                                                                                                     delivery tube gets blocked,
+                                                                                                                                                                 one large square represents 3 or 7 units (or similar) is very difficult to plot
+                                                                                                                                                                                                                                                     clear the blockage and repeat
+                                                                                                                                                                 on, and this often leads to errors.
+                                                                                                                                                                                                                                                     the procedure from the start.
+                                                                                                                                                                 Always consider whether the graph line should go through the origin.
+                                                                                                                                                                                                                                                   @ Avoid skin contact with the
+                                                                                                                                                             @ Straight lines should be drawn with the aid of a ruler long enough to cover           ethanoic acid, especially if the
+                                                                                                                                                                 the full length of the line.                                                        skin is broken or sensitive.
+
+                                                                                                                                                             Results (Use this space to record your results.)
+                                                                                                                                                           CORE PRACTICAL 1:                                                                                      SPECIFICATION
+                                                                                                                                                                                                                                                                  REFERENCE
+
+                                                                                                                                                           MEASUREMENT OF THE MOLAR VOLUME OF A GAS                                                                   1.11
+
+
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1    Plot a graph of mass of calcium carbonate (on the x-axis) against volume of carbon dioxide
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                  collected (on the y-axis). Draw a straight line of best fit - this line must pass through the
+                                                                                                                                                                  origin.
+
+
+
+
+                                                                                                                                                             2    Use your graph to find the volume of carbon dioxide that would be made from 0.25
+                                                                                                                                                                                                                                                 ¢ of
+                                                                                                                                                                  calcium carbonate.
+
+
+
+
+                                                                                                                                                             3.   In this reaction, one mole of calcium carbonate makes one mole of carbon dioxide. Calculate
+                                                                                                                                                                  the number of moles of calcium carbonate in 0.25g and hence calculate the volume of one
+                                                                                                                                                                  mole of carbon dioxide gas in dm’.
+                                                                                                                                                           CORE PRACTICAL 1:                                                                                           SPECIFICATION
+                                                                                                                                                                                                                                                                       REFERENCE
+
+                                                                                                                                                           MEASUREMENT OF THE MOLAR VOLUME OF A GAS                                                                        111
+
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                             1   Write a chemical equation for the reaction between ethanoic acid, CH;COOH, and calcium carbonate.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Why is it more accurate to find the mass of the calcium carbonate used by weighing the test tube containing the
+                                                                                                                                                                 calcium carbonate and then reweighing the test tube after the calcium carbonate has been tipped out, rather than
+                                                                                                                                                                 by weighing the empty test tube at the start?
+
+
+
+
+                                                                                                                                                             5   Carry out two calculations to show that the ethanoic acid was in excess in all experimental runs.
+                                                                                                                                                           CORE PRACTICAL 2:                                                                                                  SPECIFICATION
+                                                                                                                                                                                                                                                                              REFERENCE
+
+                                                                                                                                                           DETERMINATION OF THE ENTHALPY CHANGE OF
+                                                                                                                                                                                                 A REACTION USING HESS’S LAW                                                       67
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                Objectives                           »
+                                                                                                                                                             1    Place approximately 3 g of solid potassium carbonate in a test tube.          © To       calcul   bh
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                 Accurately weigh the test tube and its contents.                                   GENUS GS lieth
+                                                                                                                                                                                                                                                    enthalpy change for two
+                                                                                                                                                             2    Usea    burette to dispense 30cm? of 2moldm> hydrochloric acid into a
+                                                                                                                                                                                                                                                    reactions and use Hess’s Law
+                                                                                                                                                                  polystyrene cup, which is supported in a beaker.
+                                                                                                                                                                                                                                                    to determine the enthalpy
+                                                                                                                                                             3    Measure the temperature of the acid.                                              change for the reactions
+
+                                                                                                                                                                 Gradually add potassium carbonate to the acid, stirring all the time and
+                                                                                                                                                                                                                                                Equipment
+                                                                                                                                                                  monitoring the temperature of the acid.
+                                                                                                                                                             5    Remsetnet        coset                                                        @ two test tubes
+                                                                                                                                                                   ewei       eem        est   tube.
+                                                                                                                                                                                    Py                                                          @ 2moldm-> dilute hydrochloric
+                                                                                                                                                                  Repeat steps 1-5 using approximately 3.5 g of potassium hydrogencarbonate         acid
+                                                                                                                                                                 instead of the potassium carbonate. This time, record the lowest temperature
+                                                                                                                                                                                                                                                @ solid potassium carbonate
+                                                                                                                                                                  reached.
+                                                                                                                                                                                                                                                @ solid potassium
+                                                                                                                                                             Results (Use this space to record your results.)                                       hydrogencarbonate
+                                                                                                                                                                                                                                                @ thermometer able to read up
+
+                                                                                                                                                                 Mass of test tube with potassium carbonate/g                                       to 50°C or more
+                                                                                                                                                                                                                                                @      polystyrene cu
+                                                                                                                                                                 Mass of test tube after emptying out potassium carbonate/g                         ped)                 7:
+                                                                                                                                                                                                                                                @ 250cm? or 400 cm? beaker
+
+                                                                                                                                                                 Mass of potassium carbonate used/g                                             @ burette, clamp and stand
+
+                                                                                                                                                                 Start temperature/°C                                                           © stirring rod
+                                                                                                                                                                                                                                                @ mass balance (2 d.p.)
+                                                                                                                                                                 Highest temperature/°C                                                         e spatula
+
+                                                                                                                                                                 Temperature change/°C                                                          A Safety
+                                                                                                                                                                                                                                                @ Wear eye protection.
+                                                                                                                                                                 Mass of test tube with potassium hydrogencarbonate/g                           5 Revaid elim contack witty tae
+
+                                                                                                                                                                                                                                                    reactants and products.
+                                                                                                                                                                 Mass of test tube after emptying out potassium hydrogencarbonate/g
+
+                                                                                                                                                                 Mass of potassium hydrogencarbonate used/g
+
+                                                                                                                                                                 Start temperature/°C
+
+                                                                                                                                                                 Lowest temperature/°C
+
+                                                                                                                                                                 Temperature change/°C
+                                                                                                                                                           CORE PRACTICAL 2:                                                                                     SPECIFICATION
+                                                                                                                                                                                                                                                                 REFERENCE
+
+                                                                                                                                                           DETERMINATION OF THE ENTHALPY CHANGE OF
+                                                                                                                                                                                                 A REACTION USING HESS’S LAW                                          6.7
+
+
+
+                                                                                                                                                             Learning tips
+
+                                                                                                                                                             @ You can assume that the heat capacity of the final solution is the same as the heat capacity of
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                 water. The volume of water produced in the reaction is so small it can be ignored.
+
+                                                                                                                                                             @ For exothermic reactions, the enthalpy change, AH, is negative.
+
+                                                                                                                                                             @ Be careful to use equals signs correctly. It is very easy to end up stating that a negative
+                                                                                                                                                                 number equals a positive number.
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   The equations for the reactions occurring are:
+
+                                                                                                                                                                      reaction 1:   K,CO;(s) + 2HCl(aq) > 2KCl(aq) + CO2(g) + H2O(\)
+
+                                                                                                                                                                      reaction 2:   KHCO;(s) + HCl(aq) > KCl(aq) + CO2(g) + H2O(l)
+
+                                                                                                                                                                 Calculate the energy change for each reaction in J. (The specific heat capacity of water is
+                                                                                                                                                                 4.2)g1°C1)
+
+
+
+
+                                                                                                                                                             2   Calculate the enthalpy change, AH, for each reaction in k) molt.
+                                                                                                                                                                 Assume that the hydrochloric acid is in excess.
+
+
+
+
+                                                                                                                                                             3   Use your results to calculate the enthalpy change for the thermal decomposition of
+                                                                                                                                                                 potassium hydrogencarbonate:
+
+                                                                                                                                                                      reaction 3:   2KHCO,(s)   > K,CO,(s) + CO,(g) + H2O(l)
+
+
+
+
+                                                                                                                                                                                                                          10
+                                                                                                                                                           CORE PRACTICAL 2:                                                                                SPECIFICATION
+                                                                                                                                                                                                                                                            REFERENCE
+
+                                                                                                                                                           DETERMINATION OF THE ENTHALPY CHANGE OF
+                                                                                                                                                                                                 A REACTION USING HESS’S LAW                                     6.7
+
+
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                             1   Why is it not possible to measure the enthalpy change for the decomposition of potassium
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                 hydrogencarbonate directly?
+
+
+
+
+                                                                                                                                                             2   Show that the hydrochloric acid is in excess in both reactions.
+
+
+
+
+                                                                                                                                                                                                                        11
+                                                                                                                                                           CORE PRACTICAL 2:                                                                                SPECIFICATION
+                                                                                                                                                                                                                                                            REFERENCE
+
+                                                                                                                                                           DETERMINATION OF THE ENTHALPY CHANGE OF
+                                                                                                                                                                                                 A REACTION USING HESS’S LAW                                     6.7
+
+
+
+                                                                                                                                                             3   Draw an energy level diagram for each reaction: 1, 2 and 3.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             4   Explain why the reactions are conducted in a polystyrene cup rather than a glass beaker.
+                                                                                                                                                           CORE PRACTICAL 3:                                                                                                SPECIFICATION
+                                                                                                                                                                                                                                                                            REFERENCE
+
+                                                                                                                                                           FINDING THE CONCENTRATION OF A SOLUTION OF HYDROCHLORIC ACID                                                           |
+
+
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                  Objectives                        »
+                                                                                                                                                             1    Wash out the 250cm? volumetric flask with distilled water.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                  @ To find the concentration of a
+                                                                                                                                                             2     Use the pipette to transfer 25.0cm? of the hydrochloric acid solution into
+                                                                                                                                                                                                                                                    solution of hydrochloric acid
+                                                                                                                                                                  the volumetric flask. Use distilled water to make the solution up to the
+                                                                                                                                                                   mark.                                                                          Equipment
+
+                                                                                                                                                             3     Prepare your apparatus for the titration. The burette should contain the         burette, clamp and stand
+
+                                                                                                                                                                  sodium hydroxide solution (previously standardised) and the conical flask         sodium hydroxide solution
+                                                                                                                                                                  should contain the dilute hydrochloric acid solution.                             (approximately 0.08 dm’,
+
+                                                                                                                                                             4     Poura25.0cm? aliquot of the diluted hydrochloric acid into the conical           previously standardised)
+
+                                                                                                                                                                  flask. Use phenolphthalein as the indicator.                                      bench hydrochloric acid
+
+                                                                                                                                                             5    Titrate the contents of the flask against the sodium hydroxide solution.          (approximately 1 mol dm-’)
+
+                                                                                                                                                                   Record all burette readings to the nearest 0.05 cm’.                             phenolphthalein
+
+                                                                                                                                                             6    Theend point of this titration is indicated by the contents of the flask        @ 250cm:? conical flask
+                                                                                                                                                                   becoming pale pink. Continued swirling will cause the pink colour to fade        25cm? volumetric pipette plus
+                                                                                                                                                                  and disappear. If the pink colour persists for 5 seconds or more, the end         safety filler
+                                                                                                                                                                   point has been reached.
+                                                                                                                                                                                                                                                    100 cm? beakers for transfer of
+                                                                                                                                                             7    Conduct further titrations until you have two concordant titres.                  solutions
+                                                                                                                                                             8    Ask your teacher or a technician to check one of your burette readings.           funnel for filling burette
+                                                                                                                                                             9     Record your results in the table below.                                          250cm>? beaker
+
+                                                                                                                                                                                                                                                    250cm? volumetric flask
+                                                                                                                                                             Learning tips
+
+                                                                                                                                                             @ Do not include your rough titration when calculating your mean.
+                                                                                                                                                                                                                                                    Wear eye protection. Goggles
+                                                                                                                                                             @ Give all burette readings to the nearest 0.05 cm?.
+                                                                                                                                                                                                                                                    are preferred as sodium
+                                                                                                                                                             @ When you scale up to find the number of moles in the full volume of
+                                                                                                                                                                                                                                                    hydroxide is particularly
+                                                                                                                                                                  solution in the volumetric flask, use this equation:
+                                                                                                                                                                                                                                                    hazardous to the eyes.
+
+                                                                                                                                                                 number of moles in full volume                                                     Avoid skin contact with the
+                                                                                                                                                                                                                                                    acid, alkali and indicator.
+                                                                                                                                                                                full volume x number of moles in aliquot volume
+                                                                                                                                                                                                                                                    Always use a pipette filler;
+                                                                                                                                                                           7 aliquot volume in which you know the number of moles
+                                                                                                                                                                                                                                                    never use your mouth to suck
+                                                                                                                                                                                                                                                    the liquid up.
+
+                                                                                                                                                                                                                                                  @ Take care when clamping and
+                                                                                                                                                                                                                                                    filling the burette that it does
+                                                                                                                                                                                                                                                    not crack or topple over.
+                                                                                                                                                             Results (Use this space to record your results.)
+
+
+                                                                                                                                                                                                       Rough              Trial 1       Trial 2        Trial 3           Trial 4
+
+                                                                                                                                                                  Final burette reading/cm?
+
+
+                                                                                                                                                                  Initial burette reading/cm?
+
+
+                                                                                                                                                                 Titre/cm?
+
+
+                                                                                                                                                                 Concordant (Y/N)
+
+
+
+
+                                                                                                                                                                                                                            13
+                                                                                                                                                           CORE PRACTICAL 3:                                                                                     SPECIFICATION
+                                                                                                                                                                                                                                                                 REFERENCE
+
+                                                                                                                                                           FINDING THE CONCENTRATION OF A SOLUTION OF HYDROCHLORIC ACID                                              8.21
+
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   Calculate the mean titre using your two concordant results.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Calculate the number of moles of sodium hydroxide that were contained in your mean titre.
+
+
+
+
+                                                                                                                                                             3   Calculate the number of moles of hydrochloric acid that were contained in the full 250 cm? of
+                                                                                                                                                                 diluted hydrochloric acid.
+
+
+
+
+                                                                                                                                                             4   Calculate the concentration of the original solution of hydrochloric acid.
+
+
+
+
+                                                                                                                                                                                                                        14
+                                                                                                                                                       CORE PRACTICAL 3:                                                                                                                                                                                                                                                                                                                              SPECIFICATION
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      REFERENCE
+
+                                                                                                                                                           FINDING THE CONCENTRATION OF A SOLUTION OF HYDROCHLORIC ACID                                                                                                                                                                                                                                                                                         8.24
+
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                             1         Write a chemical equation for the reaction of hydrochloric acid with sodium hydroxide.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2         The pink colour seen at the end point fades because the excess sodium hydroxide reacts with carbon dioxide in
+                                                                                                                                                                       the air. This reaction produces sodium carbonate.
+
+                                                                                                                                                                       a   Write an equation for the reaction of sodium hydroxide with carbon dioxide.
+
+
+
+
+                                                                                                                                                                       b   When sodium hydroxide solution is stored, it reacts with carbon dioxide in the air.
+
+                                                                                                                                                                            i          Howwill this change the concentration of the sodium hydroxide solution?
+
+
+
+
+                                                                                                                                                                            ii         How will this affect the volume of sodium hydroxide solution required to reach the end point in the
+                                                                                                                                                                                       titration? Explain your answer.
+
+
+
+
+                                                                                                                                                            POS CC     HOCH CHEE       HEH EEE HEHEHE HEHEHE            ESE SOOO         ESE SOOO         ESOS SOE OE OES OH OEE OE SOS O OSE OO OOS OSE HOSES ESO OH DOT O SOOO SOTO OOOO DOT E SOOO SOD E OES OO OSTEO ESOS O OOOOH ODO OE OES OO OSES OO OHO OOOOH OOO OE OOO OOO OD
+
+
+
+
+                                                                                                                                                            POP   CC   HOSES     E   HEHEHE   HEHE   SEE   SESE   SESE      SES   OS   ESE   SES   OS   OSE   SES   OO   OOOO   ESOS   OOO   OES   OS   OOOH   OOOO   OOOO      HOSES         OSE   OO   DOT   EE   OOO   D   OTE   OOOO   DESEO      ESOS      OTE   SE   HOSES      OOOH   OOO   OE   OOS   OH   OSES   OSES      OSES   OOOH   OOOO   OOO   OO   OOO   OO   OOO   OE
+
+
+
+
+                                                                                                                                                            POC CC     HOCH SESH ESE      E EE HOSE    EEE HEHEHE SEH OS ESTES ESOS OSE SO SOHO SESE SOOO SESE SOOO OEE OO OOS OO OOOO OT OE OOOO OTE E EHO S OTE SO SOS ET ESO OO SESE OOS OS OTE OO HOSE OOOOH ODE OE SOS OS OSES OOOH OSE OOOO OOOO OOO OOO OE
+
+
+
+
+                                                                                                                                                            POC   CC   OHHH     SESH   HEHEHE   HEHEHE     SESE   SET   E   SESS       OSES   ESOS      OSE   SE   SOOO   SESE   SOOO   SESE   HOSE      OE   HOO   OOO   OO   OOO   S   OT   OE   OOOO   OOOO      EHO   S   OTE   OO   SOS   OT   EOE   OO   SESE   OO   SOS   OT   OOOH   ODEO   ESOS      OSE   OE   OOS   OO   OSES   OO   OHO   OOOOH   OOO   OOO   OO   OOO   OE
+                                                                                                                                                           CORE PRACTICAL 4:                                                                                                  SPECIFICATION
+                                                                                                                                                                                                                                                                              REFERENCE
+                                                                                                                                                           PREPARATION OF A STANDARD SOLUTION FROM A SOLID ACID AND ITS USE TO FIND
+                                                                                                                                                                                                                                                                                   8.23
+                                                                                                                                                     THE CONCENTRATION OF A SOLUTION OF SODIUM HYDROXIDE
+
+                                                                                                                                                             Procedure
+                                                                                                                                                                                                                                                   Objectives                         >»
+                                                                                                                                                              1     Weigh an empty test tube. Scoop approximately 2.5
+                                                                                                                                                                                                                    ¢ of sulfamic acid into
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                   @ To make a solution of a known
+                                                                                                                                                                    the test tube.
+                                                                                                                                                                                                                                                       concentration of acid and use
+                                                                                                                                                                    Accurately reweigh the test tube and its contents.
+                                                                                                                                                                                                                                                       it to find the concentration of
+                                                                                                                                                                    Dissolve the sulfamic acid in approximately 100 cm? of water in a beaker.          a solution of sodium hydroxide
+                                                                                                                                                              4     Transfer the solution, including the washings, to a 250 cm? volumetric
+                                                                                                                                                                                                                                                   Equipment
+                                                                                                                                                                    flask and use distilled water to make up the solution to the mark.
+                                                                                                                                                                                                                                                   @ burette, clamp and stand
+                                                                                                                                                              5     Prepare your apparatus for the titration. The burette will contain the acid                  _——
+                                                                                                                                                                and the conical flask will contain the sodium hydroxide solution.                  © solid sulfamic acid
+                                                                                                                                                              6 Poura25.0cm? aliquot of sodium hydroxide solution of unknown                       @ sodium hydroxide solution of
+                                                                                                                                                                    concentration into the 250cm? conical flask.                                       unknown concentration
+
+                                                                                                                                                                                                                                                   @ methyl orange indicator
+                                                                                                                                                                    Use methyl orange as the indicator.
+                                                                                                                                                                                                                                                   @ 250cm? conical flask
+                                                                                                                                                              8     Titrate the contents of the flask against the sulfamic acid solution you
+                                                                                                                                                                    prepared. Burette readings should be to the nearest 0.05cm’.                   @ 25cm’ volumetric pipette plus
+
+                                                                                                                                                              9     Conduct further titrations until you have two concordant titres.                   safety filler
+
+                                                                                                                                                             10 Record your results in the table below.                                            @ 100cm-? beaker for transfer of
+                                                                                                                                                                                                                                                       solutions
+
+                                                                                                                                                             Learning tips                                                                         @ funnel for filling burette
+                                                                                                                                                                                                                                                   @ 250cm? beaker
+                                                                                                                                                             @ Indicators are very dilute weak acids. The more indicator you add, the less
+                                                                                                                                                                  accurate your titration result will be.                                          ° 250cm? volumetric flask
+                                                                                                                                                             @ When conducting a titration, use distilled water to wash down the inside of         @ mass balance (2 d.p.)
+
+                                                                                                                                                                  the conical flask from time to time.
+                                                                                                                                                             @ When you scale up to find the number of moles in the full volume of
+                                                                                                                                                                                                                                                   @ Wear eye protection. Goggles
+                                                                                                                                                                  solution in the volumetric flask, use this equation:
+                                                                                                                                                                                                                                                       are preferred as sodium
+                                                                                                                                                                                                                                                       hydroxide is particularly
+                                                                                                                                                              number of moles in full volume
+                                                                                                                                                                                                                                                       hazardous to the eyes.
+                                                                                                                                                                                 full volume x number of moles in aliquot volume
+                                                                                                                                                                                                                                                   @ Avoid skin contact with
+                                                                                                                                                                            7 aliquot volume in which you know the number of moles
+                                                                                                                                                                                                                                                       sulfamic acid and sodium
+                                                                                                                                                                                                                                                       hydroxide.
+
+                                                                                                                                                                                                                                                   @ Take care when clamping and
+                                                                                                                                                                                                                                                       filling the burette that it does
+                                                                                                                                                                                                                                                       not crack or topple over.
+                                                                                                                                                             Results (Use this space to record your results.)
+
+
+                                                                                                                                                                                                                             Mass of sulfamic acid =       g
+
+                                                                                                                                                                                                         Rough           Trial 1         Trial 2          Trial 3           Trial 4
+
+                                                                                                                                                                  Final burette reading/cm?
+
+
+                                                                                                                                                                  Initial burette reading/cm?
+
+
+                                                                                                                                                               Titre/cm?
+
+
+                                                                                                                                                                  Concordant (Y/N)
+
+
+
+
+                                                                                                                                                                                                                           16
+                                                                                                                                                           CORE PRACTICAL 4:                                                                                             SPECIFICATION
+                                                                                                                                                                                                                                                                         REFERENCE
+                                                                                                                                                           PREPARATION OF A STANDARD SOLUTION FROM A SOLID ACID AND ITS USE TO FIND
+                                                                                                                                                     THE CONCENTRATION OF A SOLUTION OF SODIUM HYDROXIDE                                                                     Boe
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   Calculate the concentration of your sulfamic acid solution. The M, of sulfamic acid is 97.1.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             2   Calculate the mean titre using your concordant results.
+
+
+
+
+                                                                                                                                                             3   Calculate the number of moles of sulfamic acid in your mean titre.
+
+
+
+
+                                                                                                                                                             4   Sulfamic acid is a monoprotic acid. This means that one mole of sulfamic acid will react exactly with
+                                                                                                                                                                 one mole of sodium hydroxide. Calculate the concentration of the sodium hydroxide solution used.
+
+
+
+
+                                                                                                                                                                                                                         17
+                                                                                                                                                            CORE PRACTICAL 4:                                                                                      SPECIFICATION
+                                                                                                                                                                                                                                                                   REFERENCE
+                                                                                                                                                            PREPARATION OF A STANDARD SOLUTION FROM A SOLID ACID AND ITS USE TO FIND
+                                                                                                                                                      THE CONCENTRATION OF A SOLUTION OF SODIUM HYDROXIDE                                                              Boe
+
+                                                                                                                                                              Questions
+
+                                                                                                                                                              1    A250cm? volumetric flask has an accuracy of +0.6 cm’. Calculate the percentage uncertainty
+Uncorrected proof, all co ntent subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                   in the volume of the sulfamic acid solution in the volumetric flask.
+
+
+
+
+                                                                                                                                                              2    Each burette reading is accurate to +0.05cm?’. Calculate the percentage uncertainty in one of
+                                                                                                                                                                   your titres.
+
+
+
+
+                                                                                                                                                              3.   Why should the pipette be rinsed with the sodium hydroxide solution after it has been
+                                                                                                                                                                   washed with water?
+
+
+
+
+                                                                                                                                                              5    Identify another indicator you could use in this titration, and state the colour change you
+                                                                                                                                                                   would see at the end point.
+                                                                                                                                                           CORE PRACTICAL 5:                                                                                              SPECIFICATION
+                                                                                                                                                                                                                                                                          REFERENCE
+
+                                                                                                                                                           INVESTIGATION OF THE RATES OF HYDROLYSIS OF SOME HALOGENOALKANES                                                   10.11
+
+
+
+
+                                                                                                                                                             Procedure                                                                         Objectives                        »
+                                                                                                                                                             Part 1                                                                                 .     .              .
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                               @ To investigate the relative
+                                                                                                                                                             1   Set up a water bath by filling the 250 cm? beaker up to the three-quarters
+                                                                                                                                                                                                                                                 rates of hydrolysis of
+                                                                                                                                                                 mark with water at around 50°C.
+                                                                                                                                                                                                                                                 primary, secondary and
+                                                                                                                                                                 Take three test tubes and add 5cm? of ethanol to each one.                      tertiary halogenoalkanes
+                                                                                                                                                                 Add four drops of 1-iodobutane to the first tube, four drops of                 and of chloro-, bromo- and
+                                                                                                                                                                 1-bromobutane to the second tube and four drops of 1-chlorobutane to            iodoalkanes
+                                                                                                                                                                 the third tube. Label the tubes.
+                                                                                                                                                                                                                                               Equipment
+                                                                                                                                                                 Loosely place a bung in each test tube and place the test tubes in the
+                                                                                                                                                                                                                                                 250cm? beaker
+                                                                                                                                                                 water bath.
+                                                                                                                                                                                                                                                 12 test tubes with bungs
+                                                                                                                                                                 Take three clean test tubes and pour 5cm? of silver nitrate solution into
+                                                                                                                                                                                                                                                 1-chlorobutane
+                                                                                                                                                                 each one. Then place the test tubes in the water bath.
+                                                                                                                                                                                                                                                 1-bromobutane
+                                                                                                                                                                 When the halogenoalkane-ethanol solutions have reached the
+                                                                                                                                                                 temperature of the water bath, add one test tube of silver nitrate solution     1-iodobutane
+
+                                                                                                                                                                 to one of the halogenoalkane-ethanol solutions and replace the bung.            2-bromobutane
+                                                                                                                                                                 At the same time, start the stop clock.                                         2-bromo-2-methylpropane
+                                                                                                                                                                 Measure the time taken for a precipitate to appear. As soon as the solution     0.05 moldm? silver nitrate
+                                                                                                                                                                 becomes cloudy, stop the stop clock.                                            solution
+                                                                                                                                                             8   Repeat steps 6 and 7 for the other two halogenoalkanes.                         15 cm? ethanol
+
+                                                                                                                                                             Part 2                                                                              dropping pipettes
+
+                                                                                                                                                             9   Repeat Part 1 using 1-bromobutane, 2-bromobutane and                            two 10cm? measuring cylinders
+                                                                                                                                                                 2-bromo-2-methylpropane instead of the other halogenoalkanes.                   stop clock
+
+                                                                                                                                                                                                                                                 labels for test tubes
+                                                                                                                                                             Results (Use this space to record your results.)
+                                                                                                                                                                                                                                                 kettle
+
+
+
+                                                                                                                                                                                                                                               @ Wear eye protection.
+
+                                                                                                                                                                                                                                               e Avoid skin contact with the
+                                                                                                                                                                                                                                                 reactants.
+
+                                                                                                                                                                                                                                               @ There must be no naked
+                                                                                                                                                                                                                                                 flames in the vicinity as
+                                                                                                                                                                                                                                                 ethanol and halogenoalkanes
+                                                                                                                                                                                                                                                 are highly flammable.
+
+                                                                                                                                                                                                                                               e@ The laboratory needs to be
+                                                                                                                                                                                                                                                 well ventilated to prevent the
+                                                                                                                                                                                                                                                 inhalation of fumes.
+
+
+
+
+                                                                                                                                                                                                                          19
+                                                                                                                                                           CORE PRACTICAL 5:                                                                                         SPECIFICATION
+                                                                                                                                                                                                                                                                     REFERENCE
+
+                                                                                                                                                           INVESTIGATION OF THE RATES OF HYDROLYSIS OF SOME HALOGENOALKANES                                              10.11
+
+
+
+
+                                                                                                                                                             Learning tips
+
+                                                                                                                                                             @ The hydrolysis of halogenoalkanes is a nucleophilic substitution reaction.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             @ In this investigation, the nucleophile is water.
+
+                                                                                                                                                             @ NaOH can be used instead of water to hydrolyse the halogenoalkanes but then any excess NaOH
+                                                                                                                                                                 must be neutralised by HNO, before the AgNO, is added. Otherwise a precipitate of Ag,O will form.
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             1   Describe the pattern shown in your results for Part 1.
+
+
+
+
+                                                                                                                                                             2   Describe the pattern shown in your results for Part 2.
+
+
+
+
+                                                                                                                                                             Questions
+
+                                                                                                                                                             1   Write an equation for the reaction of 1-bromobutane with water.
+
+
+
+
+                                                                                                                                                             2   Inthese reactions, a precipitate forms. Identify the precipitate formed when the halogenoalkane
+                                                                                                                                                                 is 1-iodobutane.
+                                                                                                                                                            CORE PRACTICAL 5:                                                                                             SPECIFICATION
+                                                                                                                                                                                                                                                                          REFERENCE
+
+                                                                                                                                                            INVESTIGATION OF THE RATES OF HYDROLYSIS OF SOME HALOGENOALKANES                                                    10.11
+
+
+                                                                                                                                                              3   Explain why ethanol is used in these reactions.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in pa rt. OPearson 2018
+
+
+
+
+                                                                                                                                                              6   Draw skeletal formulae for each of the halogenoalkanes used in this investigation (there are five of them).
+                                                                                                                                                                  Classify each halogenoalkane as primary, secondary or tertiary.
+
+
+
+
+                                                                                                                                                                                                                        21
+                                                                                                                                                       CORE PRACTICAL 6:                                                                                                      SPECIFICATION
+                                                                                                                                                                                                                                                                              REFERENCE
+
+                                                                                                                                                       CHLORINATION OF 2-METHYLPROPAN-2-OL WITH CONCENTRATED HYDROCHLORIC ACID                                                     10.14
+
+
+
+
+                                                                                                                                                           Procedure
+                                                                                                                                                                                                                                                    Objectives                          »
+                                                                                                                                                            1     Pour 10cm? of 2-methylpropan-2-ol and 35cm? of concentrated
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                                                                                                                    @ To produce and purify a sample
+                                                                                                                                                                  hydrochloric acid into a large conical flask. Very gently swirl the contents of
+                                                                                                                                                                                                                                                      of 2-chloro-2-methylpropane
+                                                                                                                                                                  the flask.
+                                                                                                                                                                  Place the bung in the mouth of the flask. Gently swirl again, then remove         Equipment
+                                                                                                                                                                  the bung to release the pressure.                                                   250cm? conical flask with bung
+                                                                                                                                                                  Continue swirling the mixture with the bung fitted, and then releasing              100 cm? (or larger) separating
+                                                                                                                                                                  the pressure, for around 20 minutes. You should see two layers in the               funnel with bung
+                                                                                                                                                                  flask. The upper layer is the crude product.
+                                                                                                                                                                                                                                                      250cm? beaker for liquid run
+                                                                                                                                                                  Add approximately 6g of powdered anhydrous calcium chloride to the                  off from separating funnel
+                                                                                                                                                                  flask and swirl until it has dissolved. This will ensure that any unreacted
+                                                                                                                                                                                                                                                      filter funnel to fit separating
+                                                                                                                                                                  alcohol is in the lower aqueous layer.
+                                                                                                                                                                                                                                                      funnel
+                                                                                                                                                                  Transfer the reaction mixture to a separating funnel. Allow the mixture to
+                                                                                                                                                                                                                                                      apparatus for distillation
+                                                                                                                                                                  settle into the two layers. Run off and discard the lower layer. Retain the
+                                                                                                                                                                                                                                                      with 50cm? pear-shaped (or
+                                                                                                                                                                  upper organic layer in the separating funnel.
+                                                                                                                                                                                                                                                      round-bottomed) flask and
+                                                                                                                                                                  Add approximately 20cm? of sodium hydrogencarbonate solution to the
+                                                                                                                                                                                                                                                      thermometer able to read up
+                                                                                                                                                                  separating funnel. Swirl the funnel. The production of carbon dioxide will
+                                                                                                                                                                                                                                                      to 100°C
+                                                                                                                                                                  cause the pressure to increase; remove the bung at frequent intervals to
+                                                                                                                                                                                                                                                      25cm? and 100cm? measuring
+                                                                                                                                                                  release this pressure. Run off and discard the lower aqueous layer.
+                                                                                                                                                                                                                                                      cylinders
+                                                                                                                                                                  Repeat the washing with sodium hydrogencarbonate solution, shake
+                                                                                                                                                                                                                                                      2-methylpropan-2-ol
+                                                                                                                                                                  the separating funnel, and release the carbon dioxide gas produced, at
+                                                                                                                                                                  frequent intervals.                                                                 0.1 moldm- sodium
+
+                                                                                                                                                                  Run off and discard the lower layer. Ensure none of the aqueous layer               hydrogencarbonate solution
+
+                                                                                                                                                                  remains in the tap.                                                                 6g powdered anhydrous
+
+                                                                                                                                                                  Run off the organic layer into a small conical flask. Add a full spatula            calcium chloride
+
+                                                                                                                                                                  of anhydrous sodium sulfate. Place the bung in the flask and swirl the              anhydrous sodium sulfate
+                                                                                                                                                                  contents to mix. Leave the mixture until the liquid looks completely clear,         small conical flasks with bungs
+                                                                                                                                                                  swirling occasionally.
+                                                                                                                                                                                                                                                      sample tube
+                                                                                                                                                           10     Decant the organic liquid into a 50cm? pear-shaped (or round-bottomed)
+                                                                                                                                                                                                                                                      0.05 moldm-? silver nitrate
+                                                                                                                                                                  flask.
+                                                                                                                                                                                                                                                      solution
+                                                                                                                                                           11     Set up the flask for distillation.
+                                                                                                                                                                                                                                                      dilute (0.5 moldm-?) sodium
+                                                                                                                                                           12     Collect the fraction boiling between 50°C and 52°C.
+                                                                                                                                                                                                                                                      hydroxide solution
+                                                                                                                                                           13     Place your pure product in a labelled sample tube.
+                                                                                                                                                                                                                                                    @ dilute (0.1 moldm-?) nitric acid
+                                                                                                                                                           14     Carry out the test described in the ‘Analysis’ section of this practical.
+                                                                                                                                                                                                                                                    @ 70cm? concentrated
+
+                                                                                                                                                                                                                                                      hydrochloric acid
+                                                                                                                                                           Learning tips
+
+                                                                                                                                                                The OH group in an alcohol can be replaced by a halogen. As well as the               test tubes
+
+                                                                                                                                                                method used here to chlorinate an alcohol, PCI, can be used to make a                 spatulas
+                                                                                                                                                                chloroalkane. HBr (which is made in situ) can be used to make a bromoalkane.          5cm? ethanol
+                                                                                                                                                                Red phosphorus with iodine can be used to make an iodoalkane.
+                                                                                                                                                                                                                                                      Bunsen burner
+                                                                                                                                                                You can check the purity of a substance by measuring its boiling temperature.
+                                                                                                                                                                                                                                                      beaker for water bath
+
+
+
+                                                                                                                                                            @ This procedure requires the use ofa working fume cupboard.
+                                                                                                                                                            @ Wear eye protection. Goggles are preferred.
+                                                                                                                                                            e@ Avoid skin contact with the reactants and products. Wear gloves.
+                                                                                                                                                            e@ Avoid inhaling vapours.
+                                                                                                                                                            @ The product of the distillation process is flammable.
+                                                                                                                                                            @ The fumes from the concentrated hydrochloric acid are toxic and corrosive and must not be inhaled, especially
+                                                                                                                                                                 by anyone with a respiratory problem.
+
+                                                                                                                                                                                                                          22
+                                                                                                                                                           CORE PRACTICAL 6:                                                                                 SPECIFICATION
+                                                                                                                                                                                                                                                             REFERENCE
+
+                                                                                                                                                           CHLORINATION OF 2-METHYLPROPAN-2-OL WITH CONCENTRATED HYDROCHLORIC ACID                               10.14
+
+
+
+
+                                                                                                                                                             Results (Use this space to record your results.)
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                             Analysis of results
+
+                                                                                                                                                             Perform the following test on the distillate.
+
+                                                                                                                                                             1   Place a few drops of the distillate in a test tube.
+
+                                                                                                                                                             1   Add 5cm? of ethanol and 1cm? of aqueous sodium hydroxide to the test tube.
+
+                                                                                                                                                             3   Warm the mixture in a water bath.
+
+                                                                                                                                                             4   Add excess nitric acid to the mixture followed by a few drops of silver nitrate solution.
+
+                                                                                                                                                             Describe what you see.
+
+
+
+
+                                                                                                                                                                                                                         23
+                                                                                                                                                       CORE PRACTICAL 6:                                                                                                                                                                                                                                                                                                         SPECIFICATION
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 REFERENCE
+
+                                                                                                                                                       CHLORINATION OF 2-METHYLPROPAN-2-OL WITH CONCENTRATED HYDROCHLORIC ACID                                                                                                                                                                                                                                                            10.14
+
+
+
+
+                                                                                                                                                           Questions
+
+                                                                                                                                                           1          Write an equation for the reaction of 2-methylpropan-2-ol with concentrated hydrochloric acid.
+Uncorrected proof, all content subject to change at publisher discretion. Not for resale, circulation or distribution in whole or in part. ©Pearson 2018
+
+
+
+
+                                                                                                                                                           2          What is removed from the crude product when it is shaken with sodium hydrogencarbonate solution?
+                                                                                                                                                                      Write an equation for any reaction that occurs.
+
+
+
+
+                                                                                                                                                           3          2-methylpropan-2-ol has a boiling temperature of 82°C and is soluble in water.
+                                                                                                                                                                      2-chloro-2-methylpropane has a boiling temperature of 51°C and is insoluble in water.
+                                                                                                                                                                      Explain these differences.
+
+
+
+
+                                                                                                                                                           POS CC     HOCH CHEE     HEH EEE HEHEHE HEHEHE          ESE SOOO     ESE SOOO      ESOS SOE OE OES OH OEE OE SOS O OSE OO OOS OSE HOSES ESO OH DOT O SOOO SOTO OOOO DOT E SOOO SOD E OES OO OSTEO ESOS O OOOOH ODO OE OES OO OSES OO OHO OOOOH OOO OE OOO OOO OD
+
+
+
+
+                                                                                                                                                           POC CC     HOCH SESH ESE    E EE HOSE   EEE HEHEHE SEH OS ESTES ESOS OSE SO SOHO SESE SOOO SESE SOOO OEE OO OOS OO OOOO OT OE OOOO OTE E EHO S OTE SO SOS ET ESO OO SESE OOS OS OTE OO HOSE OOOOH ODE OE SOS OS OSES OOOH OSE OOOO OOOO OOO OOO OE
+
+
+
+
+                                                                                                                                                           POC   CC   OHHH   SESH   HEHEHE   HEHEHE   SESE   SET   E   SESS   OSES   ESOS   OSE   SE   SOOO   SESE   SOOO   SESE   HOSE   OE   HOO   OOO   OO   OOO   S   OT   OE   OOOO   OOOO   EHO   S   OTE   OO   SOS   OT   EOE   OO   SESE   OO   SOS   OT   OOOH   ODEO   ESOS   OSE   OE   OOS   OO   OSES   OO   OHO   OOOOH   OOO   OOO   OO   OOO   OE
+
