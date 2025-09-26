@@ -10,8 +10,8 @@ import subprocess
 import sys
 
 # ========== CONFIG ==========
-INPUT_DIR = Path("/Users/ashneeth/Desktop/OCR_Results/cs")          # <-- folder with PDFs
-OUTPUT_DIR = Path("/Users/ashneeth/Desktop/ocr_2/cs")              # <-- folder where .txt will go
+INPUT_DIR = Path("/Users/ashneeth/Desktop/OCR_Results/maths")          # <-- folder with PDFs
+OUTPUT_DIR = Path("//Users/ashneeth/Desktop/ocr_2/maths")              # <-- folder where .txt will go
 USE_LAYOUT = True  # Set to False if you don't want -layout option
 # ============================
 
