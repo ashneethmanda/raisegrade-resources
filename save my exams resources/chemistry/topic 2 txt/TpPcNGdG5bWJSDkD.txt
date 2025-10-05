@@ -1,0 +1,254 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Organic Chemistry: Alcohols
+Contents
+  Alcohols - Introduction
+  Reactions of Alcohols
+  Oxidation of Alcohols
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Alcohols - Introduction
+                                                                                              Your notes
+
+Alcohols - Introduction
+  Alcohols are a family of molecules that contain the hydroxyl functional group, -OH
+  Their general formula is CnH2n+1OH
+  The nomenclature of alcohols follows the pattern alkan + ol
+  If there are two -OH groups present the molecule is called a diol
+
+The first four Alcohols and their Structures Table
+
+
+
+
+  Alcohols are classified as primary, secondary or tertiary depending on the number of
+  carbons attached to the functional group carbon
+      Primary alcohols are alcohols in which the carbon atom bonded to the -OH group is
+      attached to one other carbon atom (or alkyl group)
+      Secondary alcohols are alcohols in which the carbon atom bonded to the -OH
+      group is attached to two other carbon atoms (or alkyl groups)
+      Tertiary alcohols are alcohols in which the carbon atom bonded to the -OH group is
+      attached to three other carbon atoms (or alkyl groups)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+                                                                                          Your notes
+
+
+
+
+Classifying primary, secondary and tertiary alcohols and alcohols with more than one
+                                  alcohol group
+
+
+
+
+                          © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   3
+ Reactions of Alcohols
+                                                                                                Your notes
+
+Alcohols - Reactions
+Combustion of alcohols
+  Alcohols react with oxygen in the air when ignited and undergo complete combustion to
+  form carbon dioxide and water
+                      alcohol + oxygen → carbon dioxide + water
+
+
+
+
+       Complete combustion of alcohols to produce carbon dioxide and water
+Conversions to halogenoalkanes
+  These reactions involve replacing the hydroxyl group in an alcohol molecule with a
+  halogen atom(known as halogenation)
+  Different methods are required for each halogen
+
+Chlorination
+  Phosphorus(V) chloride is added to the alcohol resulting in a vigorous reaction at room
+  temperature
+      This means the mixture doesn't need heating
+  This reaction is used as a qualitative test for the presence of the -OH group
+      If you add PCl5 to an unknown liquid the evolution of steamy fumes (HCl gas) is
+      evidence for the presence of the -OH group
+  Two inorganic products are formed: phosphoryl chloride and hydrogen chloride
+                 CH3CH2CH2OH + PCl5 → CH3CH2CH2Cl + POCl3 + HCl
+  Chlorination of tertiary alcohols can be carried out in a different way by mixing (shaking)
+  with hydrochloric acid at room temperature
+  An example equation for the reaction of 2-methyl propan-2-ol is:
+                          (CH3)3COH + HCl → (CH3)3CCl + H2O
+  This reaction does not work for primary and secondary alcohols
+
+Bromination
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+  This reaction is carried out using a warmed mixture of potassium bromide and 50%
+  concentrated sulfuric acid with the reacting alcohol
+                                                                                               Your notes
+  More concentrated sulfuric acid would would oxidise bromide ions to bromine resulting
+  in different products
+  The reaction can be written as two equations as the inorganic reactants first react
+  together to form hydrogen bromide and potassium sulfate
+                             2KBr + H2SO4 → K2SO4 +2HBr
+  The resulting hydrogen bromide then reacts with the alcohol, for example the reaction
+  with butan-1-ol would be as follows:
+                 CH3CH2CH2CH2OH + HBr → CH3CH2CH2CH2Br + H2O
+
+Iodination
+  This reaction is carried out using a mixture of red phosphorus and iodine with the alcohol
+  whilst heating under reflux
+  Similar to bromination, the reaction can be written as two equations as the inorganic
+  reactants first react to form phosphorus(III) iodide
+                                     2P + 3I2 → 2PI3
+  The reaction for the iodination of ethanol would be:
+                           3C2H5OH + PI3 → 3C2H5I + H3PO3
+  This reaction results in the formation of phosphorous acid as shown above
+
+Dehydration to Alkenes
+  Dehydration is done by heating the alcohol with concentrated phosphoric acid
+  The reaction is similar to the elimination reaction of a halogenoalkene
+      The OH group and hydrogen of adjacent carbons are removed forming a C=C bond
+  The equation for the dehydration of ethanol would be
+                             CH3CH2OH → CH2=CH2 + H2O
+  Phosphoric acid does not appear in the equation as the water formed dilutes the
+  concentrated phosphoric acid
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+ Oxidation of Alcohols
+                                                                                                  Your notes
+
+Alcohols - Oxidation
+Oxidation of alcohols
+  Primary alcohols can be oxidised to form aldehydes which can undergo further oxidation
+  to form carboxylic acids
+  Secondary alcohols can be oxidised to form ketones only
+  Tertiary alcohols do not undergo oxidation
+  The oxidising agents of alcohols include acidified K2Cr2O7
+  Acidified potassium dichromate(VI), K2Cr2O7, is an orange oxidising agent
+      Acidified means that that the potassium dichromate(VI) is in a solution
+      of dilute acid (such as dilute sulfuric acid)
+      For potassium dichromate(VI) to act as an oxidising agent, it itself needs to be
+      reduced
+      This reduction requires hydrogen (H+) ions which are provided by the acidic medium
+           When alcohols are oxidised the orange dichromate ions (Cr2O72-) are reduced
+           to green Cr3+ ions
+  The primary alcohol is added to the oxidising agent and warmed
+  The aldehyde product has a lower boiling point than the alcohol reactant so it can
+  be distilled off as soon as it forms
+  If the aldehyde is not distilled off, further refluxing with excess oxidising agent will
+  oxidise it to a carboxylic acid
+  Since ketones cannot be further oxidised, the ketone product does not need to
+  be distilled off straight away after it has been formed
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   6
+                                                                                                Your notes
+
+
+
+
+                         Oxidation Stages of Primary Alcohols
+
+
+
+
+           Oxidation of propan-2-ol by acidified K2Cr2O7 to form a ketone
+  The presence of an aldehyde group (-CHO) in an unknown compound can be
+  determined by the oxidising agents Fehling’s and Tollens’ reagents
+
+Fehling’s solution
+  Fehling’s solution is an alkaline solution containing copper(II) ions which act as the
+  oxidising agent
+  When warmed with an aldehyde, the aldehyde is oxidised to a carboxylic acid and
+  the Cu2+ ions are reduced to Cu+ ions
+      In the alkaline conditions, the carboxylic acid formed will be neutralised to a
+      carboxylate ion (the -COOH will lose a proton to become -COO- )
+      The carboxylate ion (-COO-) will form a salt with a positively charged metal ion such
+      as sodium (-COO-Na+)
+  The clear blue solution turns opaque due to the formation of a red precipitate,
+  copper(I) oxide
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   7
+   Ketones cannot be oxidised and therefore give a negative test when warmed with
+   Fehling’s solution
+                                                                                                 Your notes
+
+
+
+
+ The copper(II) ions in Fehling’s solution are oxidising agents, oxidising the aldehyde to a
+carboxylic acid and getting reduced themselves to copper(I) ions in the Cu2O precipitate
+Tollens’ reagent
+   Tollens' reagent is an aqueous alkaline solution of silver nitrate in excess ammonia
+   solution
+        Tollen’s reagent is also called ammoniacal silver nitrate solution
+   When warmed with an aldehyde, the aldehyde is oxidised to a carboxylic acid and the
+   Ag+ ions are reduced to Ag atoms
+        In the alkaline conditions, the carboxylic acid will become a carboxylate ion and
+        form a salt
+   The Ag atoms form a silver ‘mirror’ on the inside of the tube
+   Ketones cannot be oxidised and therefore give a negative test when warmed with
+   Tollens’ reagent
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+   The Ag+ ions in Tollens’ reagent are oxidising agents, oxidising the aldehyde to a
+          carboxylic acid and getting reduced themselves to silver atoms
+                                                                                             Your notes
+Different practical techniques
+  Because of the easier oxidation of aldehydes compared to alcohols, two different
+  techniques are used
+      Heating under reflux
+      Distillation with addition
+
+Heating under reflux
+  This technique is used when we want full oxidation
+      Producing a carboxylic acid for a primary alcohol
+      Producing a ketone for a secondary alcohol
+
+
+
+
+                       Apparatus set up for heating under reflux
+  This set up means any products of oxidation remain in the reaction mixture
+  Products which boil off condense in the vertical condenser then return to the heating
+  flask
+
+Distillation with addition
+  This technique is used when we do not want to complete oxidation
+      To obtain an aldehyde rather than carboxylic acid for primary alcohol
+
+
+
+
+                             © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   9
+                                                                                            Your notes
+
+
+
+
+                   Apparatus set up for distillation with addition
+Only the oxidising agent is heated whilst the alcohol is slowly added
+When the aldehyde is formed it immediately distils off as it has a much lower boiling
+point than the alcohol used to make it
+The aldehyde is then collected in the reciever
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   10
+

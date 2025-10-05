@@ -1,0 +1,505 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Physical Chemistry Core Practicals
+Contents
+  Molar Volume of a Gas
+  Determining Enthalpy Change of Reaction
+  Determining Concentrations
+  Standard Solutions
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Molar Volume of a Gas
+                                                                                            Your notes
+
+Core Practical 1: Measuring the Molar
+Volume of a Gas
+Measuring gas volumes
+  The volume of gas produced in a reaction can be measured by collecting the gas with a
+  gas syringe or by the displacement of water
+
+
+
+
+        Gas syringe equipment for collecting the gas produced in a reaction
+
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   2
+    Displacement of water equipment for collecting the gas produced in a reaction
+Sample method                                                                                     Your notes
+   For the reaction of hydrochloric acid and sodium carbonate
+                 Na2CO3 (s) + 2HCl (aq) → 2NaCl (aq) + H2O (l) + CO2 (g)
+ 1. Measure out a fixed volume of hydrochloric acid, e.g. 25.0 cm3, into a conical flask
+ 2. Add a known mass of sodium carbonate, e.g. 0.05 g, to the conical flask
+ 3. Immediately connect the gas syringe delivery tube
+ 4. Allow the reaction to go to completion
+ 5. Record the volume of carbon dioxide produced
+ 6. Repeat the experiment with different masses of sodium carbonate, e.g. 0.10 g, 0.15 g,
+    0.20 g, 0.25 g... 0.50 g
+ 7. Some assumptions are made about the experiment:
+       The amount of gas lost between adding the sodium carbonate and connecting the
+       delivery tube is negligible
+       The delivery tube set up is airtight so no gas is lost
+       The reaction does go to completion
+
+Sample results
+                                 Mass Volume Results Table
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+  The results are then plotted on to a graph
+      Mass of sodium carbonate on the x-axis and volume or carbon dioxide produced on          Your notes
+      the y-axis
+  Anomalous results are ignored and one straight line (or one smooth curve) of best fit is
+  added
+
+
+
+
+Analysis
+  Read off the volume of gas produced for a sensible mass of sodium carbonate, e.g. 0.35
+  g produces 79.0 cm3
+      The mass of sodium carbonate may be specified in an exam question
+                Na2CO3 (s) + 2HCl (aq) → 2NaCl (aq) + H2O (l) + CO2 (g)
+  From the reaction equation, one mole of sodium carbonate produces one mole of
+  carbon dioxide
+  Calculate the molar mass of sodium carbonate
+      (2 x 23.0) + 12.0 + (3 x 16.0) = 106.0
+  Calculate the number of moles of sodium carbonate, using the mass from your graph
+  reading
+
+                    mass           0 . 35
+      Moles =                   = 106
+                 molar mass             . 0 = 0.0033 moles
+  Convert the volume of carbon dioxide from your graph reading from cm3 to dm3
+
+          .
+       79 0 cm 3
+                 = 0.079 dm3
+         1000
+
+  Calculate the molar volume of gas produced:
+
+
+
+
+                              © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   4
+      Molar gas volume =
+                            volume
+                             moles
+                                        = 00. .0033
+                                                079
+                                                    = 23.93 dm3
+                                                                                                       Your notes
+
+
+
+
+Application
+  This experiment can be used to determine the identity of an unknown metal, M, in a metal
+  carbonate, MCO3
+  This process can be applied to thermal decomposition of metal carbonates as well as
+  their reaction with acid
+
+
+
+
+  Worked Example
+  At room temperature and pressure, 0.950 g of a Group 2 metal carbonate, MCO3,
+  reacted with hydrochloric acid to produce 226.0 cm3 of carbon dioxide.
+  Deduce the identity of the metal M.
+  Answer:
+  Step 1: Find the number of moles of carbon dioxide released using the volume
+  produced at room temperature and pressure:
+
+                                     volume of gas dm 3
+      number of moles of CO2 =
+                                                     (       )
+
+
+
+
+                                 molar gas volume dm 3   (       )
+
+
+
+
+          n(CO2) =
+                      .
+                     0 226
+                           = 0.009417 mol
+                       24
+  Step 2: Find the number of moles of metal carbonate, MCO3
+      One mole of metal carbonate will release one mole of carbon dioxide
+          Number of moles of CO2 = number of moles of MCO3
+          n(MCO3) = 0.009417 mol
+
+
+
+                           © 2025 Save My Exams, Ltd.                Get more and ace your exams at savemyexams.com   5
+  Step 3: Calculate the molar mass of MCO3
+             mass                                                                                Your notes
+      Mr =
+             moles
+
+             Mr =
+                         .
+                      0 950
+                             = 100.9 g mol-1
+                     .
+                    0 009417
+  Step 4: Calculate the atomic mass of M in MCO3 and deduction of the Group 2 metal
+      Mr = Σ(atomic masses)
+             100.9 = M + 12.0 + (3 x 16.0)
+             M = 100.9 - 60.0 = 40.9 g mol-1
+             The closest Group 2 atomic mass is calcium at 40.1 g mol-1, therefore the
+             metal M is calcium
+
+
+
+
+  Examiner Tips and Tricks
+  Careful: Examiners can write these questions to include the following distractions:
+      The molar mass of the metal carbonate / MCO3 is close to the mass of a Group 2
+      metal
+          The mass of the carbonate ion needs to be subtracted from the molar mass in
+          order to deduce the identity of the metal
+      The atomic mass of the metal is close the atomic mass of another metal, not
+      necessarily a Group 2 metal
+         Read the question as it will provide information about the metal
+  The above points can be applied to any metal carbonate, not just Group 2 metal
+  carbonates although they are the most common
+
+Hazards, risks and precautions
+
+
+
+
+  The hazards associated with acids depend on the type and concentration of the acid
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+Most dilute acids either require no hazard symbol or they are an irritant, so require the
+symbol to show they are harmful to health
+                                                                                              Your notes
+    Eye protection should be worn when handling
+Moderately concentrated acids are often corrosive
+    In addition to eye protection, gloves should also be worn
+Some concentrated acids, e.g. nitric acid, are oxidising which can cause or intensify a
+fire in contact with combustible materials
+    Eye protection and gloves are necessary when handling concentrated acids and the
+    use of a fume cupboard is often required
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+  Determining Enthalpy Change of Reaction
+                                                                                                   Your notes
+
+Core Practical 2: Determining Enthalpy
+Change of Reaction
+Measuring enthalpy changes
+    Calorimetry is a technique used to measure changes in enthalpy of chemical reactions
+    A calorimeter can be made up of a polystyrene drinking cup, a vacuum flask or metal
+    can
+
+
+
+
+A polystyrene cup can act as a calorimeter to find enthalpy changes in a chemical reaction
+The energy needed to raise the temperature of 1 g of a substance by 1 K is called the specific
+heat capacity (c) of the liquid The specific heat capacity of water is 4.18 J g-1 K-1 The energy
+transferred as heat can be calculated by:
+
+
+
+
+                Equation for calculating energy transferred in a calorimeter
+
+
+
+                               © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+Enthalpy changes for reactions in solution
+   The principle of these calorimetry experiments is to carry out the reaction with an excess      Your notes
+   of one reagent and measure the temperature change over the course of a few minutes
+   The apparatus needed to carry out an enthalpy of reaction in solution calorimetry
+   experiment is shown above
+Sample method for a displacement reaction
+ 1. Using a measuring cylinder place 25 cm3 of the 1.0 mol dm-3 copper(II) sulphate solution
+    into the polystyrene cup
+ 2. Weigh about 6 g of zinc powder - as this is an excess there is no need to be very accurate
+ 3. Draw a table to record the initial temperature and then the temperature and time every
+    half minute up to 9.5 minutes
+ 4. Put a thermometer or temperature probe in the cup, stir, and record the temperature
+    every half minute for 2.5 minutes
+ 5. At precisely 3 minutes, add the zinc powder to the cup (DO NOT RECORD THE
+    TEMPERATURE AT 3 MINUTES)
+ 6. Continue stirring and record the temperature for an additional 6 minutes
+   For the purposes of the calculations, some assumptions are made about the
+   experiment:
+       That the specific heat capacity of the solution is the same as pure water, i.e. 4.18 J g-
+       1 K-1
+
+
+       That the density of the solution is the same as pure water, i.e. 1 g cm-3
+       The specific heat capacity of the container is ignored
+       The reaction is complete
+       There are negligible heat losses
+
+Temperature correction graphs
+   For reactions which are not instantaneous there may be a delay before the maximum
+   temperature is reached
+   During that delay the substances themselves may be losing heat to the surroundings, so
+   that the true maximum temperature is never actually reached
+   To overcome this problem we can use graphical analysis to determine the maximum
+   enthalpy change
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   9
+                                                                                                   Your notes
+
+
+
+
+  A temperature correction graph for a metal displacement reaction between zinc and
+              copper sulfate solution. The zinc is added after 4 minutes
+The steps to make a temperature correction graph are:
+ 1. Take a temperature reading before adding the reactants for a few minutes to get a
+    steady value
+ 2. Add the second reactant and continue recording the temperature and time
+ 3. Plot the graph and extrapolate the cooling part of the graph until you intersect the time
+    at which the second reactant was added
+
+Analysis
+    Use both extrapolated lines to calculate ΔT as shown on the graph
+    Use the equation q = mcΔT to calculate the energy transferred
+        q = energy transferred
+        m = mass - this will be the mass of the 25 cm3 solution which will be 25 g (assuming a
+        density of 1 g cm-3)
+        c = specific heat capacity - this will be assumed to be 4.18 J g-1 K-1, which is the
+        specific heat capacity of water
+        ΔT = the temperature change from the graph
+
+    Convert your value for energy transferred from J into kJ
+
+                                  q
+    Then use the equation ΔH =      to calculate the enthalpy change for the reaction
+                                  n
+        q = energy transferred
+
+
+
+                               © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+    n = number of moles - this would be the number of moles of the limiting reagent,
+    which means that you will have an extra calculation to do to determine whether this is
+    the zinc or the copper sulfate                                                           Your notes
+Remember that in the example above, the temperature of the reaction mixture
+increased which means that the reaction is exothermic and should, therefore, have a
+negative value
+
+
+
+
+                        © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+ Determining Concentrations
+                                                                                                 Your notes
+
+Core Practical 3: Hydrochloric Acid
+Concentration
+Performing the Titration
+  The key piece of equipment used in the titration is the burette
+  Burettes are usually marked to a precision of 0.10 cm3
+      Since they are analogue instruments, the uncertainty is recorded to half the smallest
+      marking, in other words to ±0.05 cm3
+  The end point or equivalence point occurs when the two solutions have reacted
+  completely and is shown with the use of an indicator
+
+
+
+
+                                  The steps in a titration
+  A white tile is placed under the conical flask while the titration is performed, to make it
+  easier to see the colour change
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   12
+                                                                                                 Your notes
+
+
+
+
+                                          Titrating
+  The steps in a titration are:
+      Measuring a known volume (usually 20 or 25 cm3) of one of the solutions with
+      a volumetric pipette and placing it into a conical flask
+      The other solution is placed in the burette
+           To start with, the burette will usually be filled to 0.00 cm3
+      A few drops of the indicator are added to the solution in the conical flask
+      The tap on the burette is carefully opened and the solution added, portion by
+      portion, to the conical flask until the indicator starts to change colour
+      As you start getting near to the end point, the flow of the burette should be slowed
+      right down so that the solution is added dropwise
+           You should be able to close the tap on the burette after one drop has caused
+           the colour change
+      Multiple runs are carried out until concordant results are obtained
+           Concordant results are within 0.1 cm3 of each other
+
+Recording and processing titration results
+  Both the initial and final burette readings should be recorded and shown to
+  a precision of ±0.05 cm3, the same as the uncertainty
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   13
+                                                                                                Your notes
+
+
+
+
+                      A typical layout and set of titration results
+The volume delivered (titre) is calculated and recorded to an uncertainty of ±0.10 cm3
+     The uncertainty is doubled, because two burette readings are made to obtain
+     the titre (V final – V initial), following the rules for propagation of uncertainties
+Concordant results are then averaged, and non-concordant results are discarded
+The appropriate calculations are then done
+
+
+
+
+Worked Example
+25.0 cm3 of hydrochloric acid was titrated with a 0.200 mol dm-3 solution of sodium
+hydrogencarbonate, NaHCO3.
+                          NaHCO3 + HCl → NaCl + H2O + CO2
+Use the following results to calculate the concentration of the acid, to 3 significant
+figures.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   14
+                                                                                          Your notes
+
+
+
+
+Answer
+Step 1: Calculate the average titre
+
+                        22. 80 + 22. 80
+    Average titre   =          2
+                                        = 22.80 cm3
+Step 2: Calculate the number of moles of sodium hydrogencarbonate
+
+              22. 80
+    Moles =          x 0.200 = 4.56 x 10-3 moles
+              1000
+Step 3: Calculate (or deduce) the number of moles of hydrochloric acid
+    The stoichiometry of NaHCO3 : HCl is 1 : 1
+        Therefore, the number of moles of sodium hydrogencarbonate is also 4.56 x
+        10-3 moles
+Step 4: Calculate the concentration of hydrochloric acid
+
+                           moles   4 . 56 × 10−3
+    Concentration =     = volume = 25. 0 / 1000 = 0.182 mol dm-3
+                                         (              )
+
+
+
+
+                          © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   15
+ Standard Solutions
+                                                                                             Your notes
+
+Core Practical 4: Preparing a Standard
+Solution
+Volumetric Analysis
+   Volumetric analysis is a process that uses the volume and concentration of one
+   chemical reactant (a volumetric solution) to determine the concentration of another
+   unknown solution
+   The technique most commonly used is a titration
+   The volumes are measured using two precise pieces of equipment,
+   a volumetric or graduated pipette and a burette
+   Before the titration can be done, the standard solution must be prepared
+   Specific apparatus must be used both when preparing the standard solution and when
+   completing the titration, to ensure that volumes are measured precisely
+
+
+
+
+Some key pieces of apparatus used to prepare a volumetric solution and perform a simple
+                                       titration
+ 1. Beaker
+ 2. Burette
+ 3. Volumetric Pipette
+ 4. Conical Flask
+ 5. Volumetric Flask
+
+Making a Volumetric Solution
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   16
+  Chemists routinely prepare solutions needed for analysis, whose concentrations are
+  known precisely
+                                                                                           Your notes
+  These solutions are termed volumetric solutions or standard solutions
+  They are made as accurately and precisely as possible using three decimal place
+  balances and volumetric flasks to reduce the impact of measurement uncertainties
+  The steps are:
+
+
+
+
+Volumes & concentrations of solutions
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   17
+The concentration of a solution is the amount of solute dissolved in a solvent to make 1
+dm3 of solution
+                                                                                              Your notes
+    The solute is the substance that dissolves in a solvent to form a solution
+    The solvent is often water
+A concentrated solution is a solution that has a high concentration of solute
+A dilute solution is a solution with a low concentration of solute
+Concentration is usually expressed in one of three ways:
+    moles per unit volume
+    mass per unit volume
+    parts per million
+
+
+
+
+Worked Example
+Calculate the mass of sodium hydroxide, NaOH, required to prepare 250 cm3 of a
+0.200 mol dm-3 solution
+Answer:
+Step 1: Find the number of moles of NaOH needed from the concentration and
+volume:
+    number of moles = concentration (mol dm-3) x volume (dm3)
+         n = 0.200 mol dm-3 x 0.250 dm3
+         n = 0.0500 mol
+Step 2: Find the molar mass of NaOH
+    M = 22.99 + 16.00 + 1.01 = 40.00 g mol-1
+Step 3: Calculate the mass required
+    mass = moles x molar mass
+        mass = 0.0500 mol x 40.00 g mol-1 = 2.00 g
+
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   18
+

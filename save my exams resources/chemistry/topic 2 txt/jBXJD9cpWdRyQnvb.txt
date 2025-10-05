@@ -1,0 +1,726 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Introduction to Kinetics & Equilibria
+Contents
+  Collision Theory
+  Rates of Reaction
+  Maxwell-Boltzmann Distributions
+  Catalysts & Energy
+  Dynamic Equilibrium in Reversible Reactions
+  Le Chatelier's Principle
+  Industrial Compromises
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Collision Theory
+                                                                                                Your notes
+
+Changing Reaction Conditions
+Collision Theory
+  When reactants come together the kinetic energy they possess means their particles
+  will collide and some of these collisions will result in chemical bonds being broken and
+  some new bonds being formed
+  The rate of a chemical reaction depends on factors including:
+      collision frequency
+      collision energy
+      activation energy
+  Ultimately, the rate of reaction depends on the number of successful / effective
+  collisions that happen per unit time
+      A successful / effective collision is where the particles collide in the correct
+      orientation and with sufficient energy for a chemical reaction to occur
+      An unsuccessful / ineffective collision is when particles collide in the wrong
+      orientation or when they don’t have enough energy and bounce off each other
+      without causing a chemical reaction
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+(a) shows an ineffective collision due to the particles not having enough energy whereas
+  (b) shows an effective collision where the particles have the correct orientation and
+                  enough energy for a chemical reaction to take place                                Your notes
+
+Collision frequency
+   If a chemical reaction is to take place between two particles, they must first collide
+   The number of collisions between particles per unit time in a system is known as the
+   collision frequency
+   The collision frequency of a given system can be altered by:
+       Changing the concentration of the reactants
+            Increasing the concentration will mean that there are more particles available to
+            react in the same volume / amount of space leading to more frequent,
+            successful collisions
+       Changing the total pressure
+            Increasing the pressure means that there will be the same number of particles
+            but in a smaller volume leading to more frequent, successful collisions
+       Changing the temperature
+            This will increase the kinetic energy of the reacting particles, ultimately, resulting
+            in more frequent, successful collisions
+       Changing the size of the reacting particles
+            This is achieved by increasing the surface area which means that there are more
+            particles available to react in the same volume / amount of space leading to
+            more frequent, successful collisions
+
+Collision energy
+   Not all collisions result in a chemical reaction
+       Most collisions just result in the colliding particles bouncing off each other
+       Collisions which do not result in a reaction are known as unsuccessful collisions
+   Unsuccessful collisions happen when the colliding species do not have enough energy
+   to break the necessary bonds
+   If they do not have sufficient energy, the collision will not result in a chemical reaction
+   If they have sufficient energy, they will react, and the collision will be successful
+
+Activation Energy
+   For a reaction to take place, the reactant particles need to overcome a minimum amount
+   of energy
+   This energy is called the activation energy (Ea)
+   In exothermic reactions, the reactants are higher in energy than the products
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   3
+   In endothermic reactions, the reactants are lower in energy than the products
+   Therefore, the Ea in endothermic reactions is relatively larger than in exothermic           Your notes
+   reaction
+
+
+
+
+   The diagram shows that the reactants are higher in energy than the products in the
+exothermic reaction, so the energy needed for the reactants to go over the energy barrier
+                                    is relatively small
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+ The diagram shows that the reactants are lower in energy than the products in the
+endothermic reaction, so the energy needed for the reactants to go over the energy
+                             barrier is relatively large                                         Your notes
+ Even though particles collide with each other in the same orientation, if they don’t
+ possess a minimum energy that corresponds to the Ea of that reaction, the reaction will
+ not take place
+ Therefore, for a collision to be effective the reactant particles must collide in the correct
+ orientation AND possess a minimum energy equal to the Ea of that reaction
+ The success of a reaction can be measured using the rate of reaction, which could be
+ achieved by measuring:
+     The amount of reactant lost
+     The amount of product formed
+     The time it takes for a specific colour change to happen
+     The time it takes for a certain amount of precipitate to form
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+Rates of Reaction
+                                                                                                   Your notes
+
+Rates of Reaction - Graphs &
+Calculations
+ Some reactions take place instantly, but most are much slower and it is possible to
+ measure how long these reactions take to reach a certain stage
+ As a chemical reaction proceeds, the concentration of the reactants decreases and the
+ concentration of the products increases
+ The rate of a reaction is the speed at which a chemical reaction takes place and has units
+ mol dm-3 s-1
+ The rate of a reaction can be calculated by:
+
+                   change in amount of reactants or products mol dm−3       (           )
+
+
+Rate of reaction =
+                                         time s          (   )
+
+
+
+
+ Graphically we can represent the rate of reaction as:
+
+
+
+
+                               Rate of reaction graphs
+
+
+
+ Worked Example
+ Iodine and methanoic acid react in aqueous solution.
+                  I2 (aq) + HCOOH (aq) → 2I− (aq) + 2H+ (aq) + CO2 (g)
+ The rate of reaction can be found by measuring the volume of carbon dioxide
+ produced per unit time and plotting a graph as shown
+
+
+
+
+                           © 2025 Save My Exams, Ltd.            Get more and ace your exams at savemyexams.com   6
+                                                                                              Your notes
+
+
+
+
+Calculate the rate of reaction at 20 seconds
+Answer:
+    Draw a tangent to the curve at 20 seconds:
+
+
+
+
+    Complete the triangle and read off the values of x and y
+        Determine the gradient of the line using ∆y / ∆x
+        Rate of reaction = 24 ÷ 40 = 0.60 cm3 s-1
+
+
+
+
+Examiner Tips and Tricks
+When drawing the tangent to a curve make the triangle large and try to intersect with
+gridlines if you can. This minimises errors of precision and reduces the chance you will
+accidently misread the graph values
+
+To measure the rate of a reaction, we need to be able to measure either how quickly the
+reactants are used up or how quickly the products are formed
+The method used for measuring depends on the substances involved
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+  There are a number of ways to measure a reaction rate in the lab; they all depend on
+  some property that changes during the course of the reaction
+                                                                                              Your notes
+  That property is taken to be proportional to the concentration of the reactant or
+  product, e.g., colour, mass, volume
+  Some reaction rates can be measured as the reaction proceeds (this generates more
+  data);
+      faster reactions can be easier to measure when the reaction is over, by averaging a
+      collected measurement over the course of the reaction
+  Commonly used techniques are:
+      mass loss
+      gas production
+Changes in mass
+  When a gas is produced in a reaction it usually escapes from the reaction vessel, so the
+  mass decreases
+      This can be used to measure the rate of reaction
+      For example, the reaction of calcium carbonate with hydrochloric acid produces
+      CO2
+      The mass is measured every few seconds and change in mass over time is plotted as
+      the CO2 escapes
+
+
+
+
+                      Measuring changes in mass using a balance
+  The mass loss provides a measure of the amount of reactant, so the graph is the same as
+  a graph of amount of reactant against time
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+                                                                                              Your notes
+
+
+
+
+                          Mass loss of a product against time
+  However, one limitation of this method is the gas must be sufficiently dense or the
+  change in mass is too small to measure on a 2 or 3 d.p. balance
+      So carbon dioxide would be suitable (Mr = 44.0) but hydrogen would not (Mr = 2.0)
+
+Volumes of gases
+  When a gas is produced in a reaction, it can be trapped and its volume measured over
+  time
+      This can be used to measure the rate of reaction.
+      For example, the reaction of magnesium with hydrochloric acid produces hydrogen
+
+
+
+
+                         Collecting gases experimental set up
+  An alternative gas collection set up involves collecting a gas through water using an
+  inverted measuring cylinder (as long as the gas is not water soluble)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+                                                                                                 Your notes
+
+
+
+
+                            Alternative gas collection set up
+  The volume can be measured every few seconds and plotted to show how the volume of
+  gas varies with time
+  The volume provides a measure of the amount of product, so the graph is a graph of
+  amount of product against time
+
+
+
+
+                       Graph of gas volume evolved against time
+Measuring concentration changes
+  Measuring concentration changes during a reaction is not easy; the act of taking a
+  sample and analysing it by titration can affect the rate of reaction (unless the reaction is
+  deliberately stopped- this is called quenching).
+  Often it is more convenient to ‘stop the clock’ when a specific (visible) point in the
+  reaction is reached
+      For example when a piece of magnesium dissolves completely in hydrochloric acid
+      Another common rate experiment is the reaction between sodium thiosulfate and
+      hydrochloric acid which slowly produces a yellow precipitate of sulfur that obscures
+      a cross when viewed through the solution:
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   10
+            Na2S2O3 (aq) + 2HCl (aq) → 2NaCl aq) + SO2 (g) + H2O (l) + S(s)
+
+                                                                                               Your notes
+
+
+
+
+                         The disappearing cross experiment
+The main limitation here is that often it only generates one piece of data for analysis
+
+
+
+
+Worked Example
+Using the results shown below, calculate the initial rate of reaction for the reaction
+using 2.0 mol dm-3 HCl (aq)
+                         Mg (s) + 2HCl (aq) → MgCl2 (aq) + H2 (g)
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   11
+Answer
+Step 1: Draw a graph of the results                                                         Your notes
+
+
+
+
+   The gradient can be used to give the rate of reaction, however, the graph has
+   produced a curve
+Step 2: Draw a tangent to the curve at time = 0 seconds
+Step 3: Calculate the gradient
+
+                  Δy        40
+    Gradient   = Δx = 38 = 1.05 mol dm-3 s-1
+
+
+
+Examiner Tips and Tricks
+You should be familiar with the interpretation of graphs of changes in concentration,
+volume or mass against time and be able to calculate a rate from a tangent to the
+graph
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+ Maxwell-Boltzmann Distributions
+                                                                                                  Your notes
+
+Maxwell-Boltzmann & Temperature
+Maxwell-Boltzmann distribution curve
+   A Maxwell-Boltzmann distribution curve is a graph that shows the distribution of
+   energies at a certain temperature
+   In a sample of a gas, a few particles will have very low energy, a few particles will have
+   very high energy, but most particles will have energy in between
+
+
+
+
+The Maxwell-Boltzmann distribution curve shows the distribution of the energies and the
+                                 activation energy
+   The graph shows that only a small proportion of molecules in the sample have enough
+   energy for an effective collision and for a chemical reaction to take place
+
+Changes in temperature
+   When the temperature of a reaction mixture is increased, the particles gain more kinetic
+   energy
+   This causes the particles to move around faster resulting in more frequent collisions
+   Furthermore, the proportion of successful collisions increases, meaning a higher
+   proportion of the particles possess the minimum amount of energy (activation energy)
+   to cause a chemical reaction
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   13
+   With higher temperatures, the Boltzmann distribution curve flattens and the peak shifts
+   to the right
+                                                                                              Your notes
+
+
+
+
+The Maxwell-Boltzmann distribution curve at T oC and when the temperature is increased
+                                      by 10 oC
+   Therefore, an increase in temperature causes an increased rate of reaction due to:
+       There being more effective collisions as the particles have more kinetic energy,
+       making them move around faster
+       A greater proportion of the molecules having kinetic energy greater than the
+       activation energy
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   14
+Catalysts & Energy
+                                                                                               Your notes
+
+Reaction Profiles & Maxwell-Boltzmann
+ Catalysis is the process in which the rate of a chemical reaction is increased, by adding a
+ catalyst
+ A catalyst increases the rate of a reaction by providing the reactants with an alternative
+ reaction pathway which is lower in activation energy than the uncatalysed reaction
+ There are three main advantages to using catalysts in chemical reactions:
+   1. They increase the rate of reaction which means that more product is potentially
+      made in a given amount of time
+   2. They reduce energy costs as the reaction can happen at lower temperatures and
+      pressures
+   3. They can increase atom economy as the alternative reaction pathway that they
+      provide can reduce the unwanted reactions and, in some cases, even reduce the
+      amount of other products, e.g. the use of zeolites in the synthesis of phenol
+ Catalysts can be divided into two types:
+     Homogeneous catalysts
+     Heterogeneous catalysts
+ Homogeneous means that the catalyst is in the same phase as the reactants
+     For example, the reactants and the catalysts are all in solution
+ Heterogeneous means that the catalyst is in a different phase to the reactants
+     For example, the reactants are gases but the catalyst used is a solid
+     This type of catalyst is the most common in industry
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   15
+                                                                                                Your notes
+
+
+
+
+The diagram shows that the catalyst allows the reaction to take place through a different
+       mechanism, which has a lower activation energy than the original reaction
+Maxwell-Boltzmann distribution curve
+   Catalysts provide the reactants another pathway which has a lower activation energy
+   On the graph below, the original number of successfully reacting particles is shown by
+   the dark shaded area
+   By lowering Ea, a greater proportion of molecules in the reaction mixture have the
+   activation energy, and therefore have sufficient energy for an effective collision
+       This is shown by the combined number of particles in the light and dark shaded
+       areas
+   As a result of this, the rate of the catalysed reaction is increased compared to the
+   uncatalysed reaction
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+                                                                                           Your notes
+
+
+
+
+ The diagram shows that the total shaded area (both dark and light shading) under the
+curve shows the number of particles with energy greater than the Ea when a catalyst is
+present. This area is much larger than the dark shaded area which shows the number of
+              particles with energy greater than the Ea without a catalyst
+
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   17
+ Dynamic Equilibrium in Reversible Reactions
+                                                                                                Your notes
+
+Dynamic Equilibrium in Reversible
+Reactions
+Reversible reaction
+   Some reactions go to completion where the reactants are used up to form the products
+       The reaction stops when all of the reactants are used up
+   In reversible reactions, the products can react to reform the original reactants
+       To show a reversible reaction, two opposing half arrows are used: ⇌
+
+
+
+
+The diagram shows an example of a forward and backward reaction that can be written as
+                         one equation using two half arrows
+Dynamic equilibrium
+   In a dynamic equilibrium, the reactants and products are dynamic (they are constantly
+   moving)
+   In a dynamic equilibrium, the rate of the forward reaction is the same as the rate of
+   the backward reaction in a closed system, and the concentrations of
+   the reactants and products are constant
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   18
+                                                                                           Your notes
+
+
+
+
+ The diagram shows a snapshot of a dynamic equilibrium in which molecules of hydrogen
+iodide are breaking down to hydrogen and iodine at the same rate as hydrogen and iodine
+                molecules are reacting together to form hydrogen iodide
+
+
+
+
+The diagram shows that the concentration of the reactants and products does not change
+     anymore once equilibrium has been reached (equilibrium was approached using
+                                      reactants)
+
+
+
+
+                          © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   19
+                                                                                               Your notes
+
+
+
+
+The diagram shows that the concentration of the reactants and products does not change
+     anymore once equilibrium has been reached (equilibrium was approached using
+                                      products)
+   A closed system is one in which none of the reactants or products escape from the
+   reaction mixture
+   In an open system, matter and energy can be lost to the surroundings
+   When a reaction takes place entirely in solution, equilibrium can be reached in open
+   flasks as a negligible amount of material is lost through evaporation
+   If the reaction involves gases, equilibrium can only be reached in a closed system
+
+
+
+
+The diagram shows a closed system in which no carbon dioxide gas can escape and the
+calcium carbonate is in equilibrium with the calcium oxide and carbon dioxide
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   20
+                                                                                             Your notes
+
+
+
+
+ The diagram shows an open system in which the calcium carbonate is continually
+decomposing as the carbon dioxide is lost causing the reaction to eventually go to
+                                completion
+
+
+
+Examiner Tips and Tricks
+A common misconception is to think that the concentrations of the reactants and
+products are equal.
+They are not equal but they remain constant at dynamic equilibrium (i.e. the
+concentrations are not changing).
+The concentrations will change as the reaction progresses, only until the equilibrium is
+reached.
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   21
+ Le Chatelier's Principle
+                                                                                               Your notes
+
+The Position of Equilibrium
+Position of the equilibrium
+  The position of the equilibrium refers to the relative amounts of products and reactants
+  in an equilibrium mixture
+  When the position of equilibrium shifts to the left, it means the concentration
+  of reactants increases
+  When the position of equilibrium shifts to the right, it means the concentration
+  of products increases
+
+Le Chatelier’s principle
+  Le Chatelier’s principle says that if a change is made to a system in dynamic equilibrium,
+  the position of the equilibrium moves to counteract this change
+  The principle is used to predict changes to the position of equilibrium when there are
+  changes in temperature, pressure or concentration
+
+Effects of concentration
+               How the Equilibrium Shifts with Concentration Changes
+
+
+
+
+  Worked Example
+  Changes in equilibrium position
+  Using the reaction below:
+  CH3COOH (I) + C2H5OH (I) ⇌ CH3COOC2H5 (I) + H2O (I)
+  Explain what happens to the position of equilibrium when:
+   1. More CH3COOC2H5 is added
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   22
+   2. Some C2H5OH is removed
+  Using the reaction below:                                                                      Your notes
+  Ce4+ (aq) + Fe2+ (aq) ⇌ Ce3+ (aq) + Fe3+ (aq)
+  Explain what happens to the position of equilibrium when
+   3. Water is added to the equilibrium mixture
+  Answer 1:
+      The position of the equilibrium moves to the left and more ethanoic acid and
+      ethanol are formed
+         The reaction moves in this direction to oppose the effect of added ethyl
+         ethanoate, so the ethyl ethanoate decreases in concentration
+  Answer 2:
+      The position of the equilibrium moves to the left and more ethanoic acid and
+      ethanol are formed
+         The reaction moves in this direction to oppose the removal of ethanol so
+         more ethanol (and ethanoic acid) are formed from ethyl ethanoate and water
+  Answer 3:
+      There is no effect as the water dilutes all the ions equally so there is no change in
+      the ratio of reactants to products
+
+Effects of pressure
+  Changes in pressure only affect reactions where the reactants or products are gases
+                    How the Equilibrium Shifts with Pressure Changes
+
+
+
+
+  Worked Example
+  Changes in pressure
+  Predict the effect of increasing the pressure on the following reactions:
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   23
+   1. N2O4 (g) ⇌ 2NO2 (g)
+   2. CaCO3 (s) ⇌ CaO (s) + CO2 (g)                                                             Your notes
+  Predict the effect of decreasing the pressure on the following reaction:
+   3. 2NO2 (g) ⇌ 2NO (g) + O2 (g)
+  Answer 1:
+      The equilibrium shifts to the left as there are fewer gas molecules on the left
+         This causes a decrease in pressure
+  Answer 2:
+      The equilibrium shifts to the left as there are no gas molecules on the left but
+      there is CO2 on the right
+         This causes a decrease in pressure
+  Answer 3:
+      The equilibrium shifts to the right as there is a greater number of gas molecules on
+      the right
+          This causes an increase in pressure
+
+Effects of temperature
+                 How the Equilibrium Shifts with Temperature Changes
+
+
+
+
+  Worked Example
+  Changes in temperature
+  Using the reaction below:
+  H2 (g) + CO2 (g) ⇌ H2O (g) + CO (g) ΔH = +41.2 kJ mol-1
+   1. Predict the effect of increasing the temperature on this reaction
+  Using the reaction below:
+  Ag2CO3 (s) ⇌ Ag2O (s) + CO2 (g)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   24
+ 2. Increasing the temperature increases the amount of CO2(g) at constant
+pressure. Is this reaction exothermic or endothermic?
+                                                                                             Your notes
+Explain your answer
+Answer 1:
+   The reaction will absorb the excess energy and since the forward reaction is
+   endothermic, the equilibrium will shift to the right
+Answer 2:
+    The reaction will absorb the excess energy and since this causes a shift of the
+    equilibrium towards the right (as more CO2(g) is formed) this means that the
+    reaction is endothermic
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   25
+Industrial Compromises
+                                                                                                 Your notes
+
+The Yield-Rate Compromise
+ The Haber Process is, once again, a good example of the need for a compromise of
+ reaction conditions in industrial processes
+                                N2 (g) + 3H2 (g) ⇌ 2NH3 (g)
+ The reaction is exothermic in the forward direction
+     Therefore, an increase in temperature may increase the rate of reaction but it will
+     decrease the overall yield as the equilibrium shifts to the left
+ An increase in pressure will increase the yield
+     This is because there are 4 moles of reactant compared to only 2 moles of product
+ The overall effect of changing the pressure at different temperatures can be seen:
+
+
+
+
+        The yield of ammonia with varying conditions for the Haber Process
+ Temperature is the first compromise in conditions
+ 450 oC is used as this still produces an acceptable yield of ammonia (roughly 35%) but
+ also within an acceptable time frame
+     Higher temperatures are not used because of the lower yields combined with the
+     increased costs to achieve these temperatures
+
+
+
+                          © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   26
+    Lower temperatures are not used because the rate is too slow despite an increased
+    yield
+                                                                                               Your notes
+
+
+Examiner Tips and Tricks
+In very simplistic terms, this temperature compromise can be thought of as the
+following question:
+Is it better to produce 100 g per hour or 1000 g per day?
+    For 100 g per hour, less product is being made but it is being made more quickly
+    For 1000g per day, more product is being made but it is being made much more
+    slowly
+    Overall, 100 g per hour is better as this results in a total of 2400 g per day
+
+The second compromise in conditions is pressure
+A pressure of around 20 MPa (or 200 atmospheres) is used, which produces an
+acceptable yield (around 35%)
+    Doubling the pressure to around 40 MPa (roughly 400 atmospheres, only increases
+    the yield by around 7%
+    However, this comes with the financial and energy costs of producing the pressure
+    requires along with the health and safety considerations of working at such high
+    pressure
+While industry aims for a high yield where possible, sometimes this is balanced and
+compromised by:
+    Financial and profit considerations - is the cost of altered reaction conditions
+    balanced out by a sufficient increase in yield and, therefore, profit?
+    Energy and environmental considerations - will altering the reaction conditions have
+    an effect on the energy needs (linking back to finance) and will there be an increased
+    use of fossil fuels resulting from the change of conditions?
+    Health and safety considerations - are the proposed reaction conditions actually
+    safe to work with? What potential harm to workers and the manufacturing plant
+    could happen? Is this balanced out by the increase in yield and, therefore, profit?
+
+
+
+
+Examiner Tips and Tricks
+The Haber Process has been used as the example for industrial considerations as you
+should be relatively familiar with this process
+However, you can be expected to apply the ideas shown here to any potential
+industrial reaction
+
+
+
+
+                         © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   27
+

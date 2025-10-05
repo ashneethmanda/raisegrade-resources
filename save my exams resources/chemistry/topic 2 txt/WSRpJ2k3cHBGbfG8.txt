@@ -1,0 +1,695 @@
+  Edexcel International AS                                                            Your notes
+Chemistry
+Redox Chemistry & Acid-Base
+Titrations
+Contents
+  Oxidation Numbers - Introduction
+  Oxidation & Reduction
+  Disproportionation Reactions
+  Ionic Equations
+  Acid-Base Titrations with Indicators
+
+
+
+
+                       © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Oxidation Numbers - Introduction
+                                                                                              Your notes
+
+Oxidation Numbers - Introduction
+  There are three definitions of oxidation and reduction used in different branches of
+  chemistry
+  Oxidation and reduction can be used to describe any of the following processes
+
+Definitions and Examples of Oxidation & Reduction
+
+
+
+
+   Use the acronym "Oil Rig" to help you remember the definitions of oxidation and
+                                      reduction
+Oxidation Number
+  The oxidation number of an atom is the charge that would exist on an individual atom if
+  the bonding were completely ionic
+  It is like the electronic ‘status’ of an element
+  Oxidation numbers are used to
+      Tell if oxidation or reduction has taken place
+      Work out what has been oxidised and/or reduced
+
+
+
+                              © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   2
+         Construct half equations and balance redox equations
+Oxidation Numbers of Simple Ions                                                                  Your notes
+
+
+
+
+  Worked Example
+  What are the oxidation numbers of the elements in the following species?
+  a) C        b) Fe3+         c) Fe2+
+  d) O2-       e) He           f) Al3+
+  Answers:
+  a) 0 b) +3 c) +2
+  d) -2 e) 0 f) +3
+
+
+         So, in simple ions, the oxidation numbers of the atom is the charge on the ion:
+             Na+, K+, H+ all have an oxidation number of +1
+             Mg2+, Ca2+, Pb2+ all have an oxidation number of +2
+             Cl–, Br–, I– all have an oxidation number of -1
+             O2-, S2- all have an oxidation number of -2
+
+Oxidation Number Rules
+  A few simple rules help guide you through the process of determining the oxidation
+  number of any element
+  Remember, you are determining the oxidation number of a single atom
+  The oxidation number (ox.no.) refers to a single atom in a compound
+
+Oxidation Number Rules Table
+
+
+
+
+                               © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+                                                                                              Your notes
+
+
+
+
+Roman Numerals
+  Transition metals are characterised by having variable oxidation numbers.
+  Oxidation numbers can be used in the names of compounds to indicate which
+  oxidation number a particular element in the compound is in
+  Where the element has a variable oxidation number, the number is written afterwards in
+  Roman numerals.
+  This is called the STOCK NOTATION (after the German inorganic chemist Alfred Stock),
+  but is not as widely used for non-metals, so SO2 is often referred to as sulfur dioxide
+  rather than sulfur(IV) oxide
+  For example, iron can be both +2 and +3 so Roman numerals are used to distinguish
+  between them
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+      Fe2+ in FeO can be written as iron(II) oxide
+     Fe3+ in Fe2O3 can be written as iron(III) oxide                                              Your notes
+  More complicated examples include other atoms / ions as part of the formula
+      Potassium manganate(VII) implies that the manganese is in a +7 oxidation
+      Potassium manganate(VII) contains the potassium ion K+ and the manganate ion
+      MnO4–
+           Since the oxygen in the manganate ion is in the -2 oxidation state, there is a total
+           of -8 from the oxygen
+           The manganate ion has an overall -1 charge, which means that the manganese
+           ion must be in the +7 oxidation state
+
+Oxidation Numbers - Calculations
+Molecules or Compounds
+  In molecules or compounds, the sum of the oxidation numbers on the atoms is zero
+
+Oxidation Number in Molecules or Compounds Table
+
+
+
+
+  Because CO2 is a neutral molecule, the sum of the oxidation states must be zero
+  For this, one element must have a positive oxidation number and the other must be
+  negative
+
+How do you determine which is the positive one?
+  The more electronegative species will have the negative value
+  Electronegativity increases across a period and decreases down a group
+  O is further to the right than C in the periodic table so it has the negative value
+
+How do you determine the value of an element's oxidation
+number?
+  From its position in the periodic table and / or the other element(s) present in the formula
+
+Hydrogen in metal hydrides, H-
+  An example of a metal hydride is sodium hydrogen, NaH which is a neutral compound
+  The hydrogen atom is present as a hydride ion
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   5
+     This has the symbol H- and therefore the oxidation state -1
+  We can also think of this as a sum
+                                                                                                Your notes
+       Since group 1 metals always have an oxidation state of +1 in their compounds, it
+       follows that the hydrogen must have an oxidation state of -1 (+1 -1 = 0)
+Oxygen in peroxides, O-
+  Peroxides include hydrogen peroxide, H2O2, which again is a neutral compound
+  The sum of the oxidation states of the hydrogen and oxygen must be 0
+  Since each hydrogen has an oxidation state of +1, each oxygen must have an oxidation
+  state of -1 to accommodate the neutral charge of the compound
+
+Ions
+  The oxidation number of elements within an ion can be calculated using the rules shown
+  in the Oxidation Number Rules Table (above)
+
+
+
+
+  Worked Example
+  Deduce the oxidation number of the highlighted element in:
+   1. The nitrite ion: NO2–
+   2. The nitrate ion: NO3–
+   3. The thiosulfate ion: S2O32–
+   4. The tetrathionate ion: S4O62–
+  Answers
+     In all of the answers, the O is more electronegative than the other element, so the
+     oxidation number of O will be –2
+  Answer 1:
+       The nitrite ion contains two oxygen atoms
+           2 x –2 = –4
+           The overall ion has an oxidation state of –1, which means that the oxidation
+           numbers of the elements in the ion must add up to –1
+           Therefore, the oxidation number of N is +3
+               N + (2 x –2) = –1 N = +3
+  Answer 2:
+       The nitrate ion contains three oxygen atoms
+           3 x –2 = –6
+           The overall ion has an oxidation state of –1, which means that the oxidation
+           numbers of the elements in the ion must add up to –1
+           Therefore, the oxidation number of N is +5
+               N + (3 x –2) = –1 N = +5
+  Answer 3:
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   6
+   The thiosulfate ion contains three oxygen atoms
+       3 x –2 = –6                                                                         Your notes
+       The overall ion has an oxidation state of –2, which means that the oxidation
+       numbers of the elements in the ion must add up to –2
+       The oxidation number of both S atoms is +4
+           2S + (3 x –2) = –2 2S = +4
+       Therefore, the oxidation number of S is +2
+            2S = +4
+            S = +2
+Answer 4:
+   The tetrathionate ion contains six oxygen atoms
+       6 x –2 = –12
+       The overall ion has an oxidation state of –2, which means that the oxidation
+       numbers of the elements in the ion must add up to –2
+       The oxidation number of all four S atoms is +10
+           4S + (6 x –2) = –2 4S = +10
+       Therefore, the oxidation number of S is +2.5
+            4S = +10
+            S = 2.5
+       This specific question is a rare example showing a fractional oxidation
+       number for the element in question / sulfur
+            This is because the sulfur atoms are in two different environments
+
+
+
+
+            The fractional oxidation number shows the average oxidation number of
+            the sulfur environments
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+ Oxidation & Reduction
+                                                                                               Your notes
+
+Electron Transfer & Oxidation Numbers
+  Oxidation and reduction in a reaction can be demonstrated in terms of electron transfer
+      For example:
+                                2NH3 + 3Br2 → N2 + 6HBr
+  The oxidation number of N in NH3 has changed from -3 to 0
+      As the oxidation number has increased, nitrogen has been oxidised
+  The oxidation number of Br has changed from 0 to -1
+      As the oxidation number has decreased, bromine has been reduced
+  Overall, nitrogen has reduced bromine by donating electrons
+
+Reducing & Oxidising Agents
+Oxidising agent
+  An oxidising agent is a substance that oxidises another atom or ion by causing it to lose
+  electrons
+  An oxidising agent itself gets reduced – gains electrons
+  Therefore, the ox. no. of the oxidising agent decreases
+
+
+
+
+                 Example of an oxidising agent in a chemical reaction
+Reducing agent
+  A reducing agent is a substance that reduces another atom or ion by causing it to gain
+  electrons
+  A reducing agent itself gets oxidised – loses / donates electrons
+  Therefore, the ox. no. of the reducing agent increases
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+                                                                                              Your notes
+
+
+
+
+                 Example of a reducing agent in a chemical reaction
+For a reaction to be recognised as a redox reaction, there must be both an oxidising and
+reducing agent
+Some substances can act both as oxidising and reducing agents
+Their nature is dependent upon what they are reacting with and the reaction conditions
+
+
+
+
+Worked Example
+Four reactions are shown.
+In which reaction is the species in bold acting as an oxidising agent?
+ 1. Cr2O72- + 8H+ + 3SO32- → 2Cr3+ + 4H2O + 3SO42-
+ 2. Mg + Fe2+ → Mg2+ + Fe
+ 3. Cl2 + 2Br- → 2Cl- + Br2
+ 4. Fe2O3 + 3CO → 2Fe + 3CO2
+Answer:
+    The correct option is 2
+        Oxidising agents are substances that oxidise other species, gain electrons
+        and are themselves reduced.
+        Write down the oxidation numbers of each species in the reaction
+
+
+
+
+    In equation 2, Fe2+ oxidises Mg(0) to Mg2+(+2) and is itself reduced from Fe2+(+2)
+    to Fe(0)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+ Disproportionation Reactions
+                                                                                              Your notes
+
+Disproportionation
+Disproportionation reactions
+   A disproportionation reaction is a reaction in which the same species is simultaneously
+   oxidised and reduced
+
+
+
+
+Example of a disproportion reaction in which the same species (chlorine in this case) has
+                           been both oxidised and reduced
+
+
+
+  Worked Example
+  Balancing disproportionation reactions
+  Balance the disproportionation reaction which takes place when chlorine is added to
+  hot concentrated aqueous sodium hydroxideThe products are Cl- and ClO3- ions and
+  water
+  Answer
+  Step 1: Write the unbalanced equation and identify the atoms that change in
+  oxidation number:
+
+
+
+
+  Step 2: Deduce the oxidation number changes:
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   10
+                                                                                       Your notes
+
+
+
+
+Step 3: Balance the oxidation number changes:
+
+
+
+
+Step 4: Balance the charges
+
+
+
+
+Step 5: Balance the atoms
+
+
+
+
+                       © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   11
+Ionic Equations
+                                                                                                Your notes
+
+Chemical Formulae & Oxidation
+Numbers
+ Oxidation numbers are a useful tool for naming compounds as some elements can exist
+ with more than one oxidation number
+ For compound with two elements it is straight forward to name the compound
+ For example
+      PCl3 is phosphorus(III) chloride or phosphorus trichloride
+      PCl5 is phosphorus(V) chloride or phosphorus pentachloride
+      OF2 is oxygen difluoride
+      O2F2 is dioxygen difluoride
+ In order to name a more complete compound we use Roman numerals for the element
+ that has a variable oxidation number
+      K2CrO4 potassium chromate(VI)
+
+
+
+
+ Worked Example
+ Can you name these transition metal compounds?
+  1. Cu2O
+  2. MnSO4
+  3. Na2CrO4
+  4. KMnO4
+  5. Na2Cr2O7
+ Answer:
+ Answer 1: copper(I) oxide:
+ The ox. no. of 1 O atom is -2 and Cu2O has overall no charge so the ox. no. of Cu is +1
+ Answer 2: manganese(II) sulfate:
+ The charge on the sulfate ion is -2, so the charge on Mn and ox. no. is +2
+ Answer 3: sodium chromate(VI):
+ The ox. no. of 2 Na atoms is +2 so CrO4 has an overall -2 charge, so the ox. no. of Cr is
+ +6
+ Answer 4: potassium manganate(VII):
+ The ox. no. of a K atom is +1 so MnO4 has overall -1 charge, so the ox. no. of Mn is +7
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   12
+  Answer 5: sodium dichromate(VI):
+  The ox. no. of 2 Na atoms is +2 so Cr2O7 has an overall -2 charge, so the ox. no. of Cr is     Your notes
+  +6. To distinguish it from CrO4 we use the prefix di in front of the anion
+
+
+Forming Anions & Cations
+Metals
+  Metals, in general, will form positive ions by losing electrons
+  Therefore, they are oxidised and the oxidation number increases
+  Example 1:
+       When sodium reacts with water, sodium hydroxide and hydrogen gas is formed
+                          2Na (s) + H2O (l) → 2NaOH (aq) + H2 (g)
+  The oxidation number of sodium changes from 0 to +1
+  Example 2:
+       When magnesium reacts with hydrochloric acid, magnesium chloride and hydrogen
+       gas is formed
+                          Mg (s) + 2HCl (l) → MgCl2 (aq) + H2 (g)
+  The oxidation number of magnesium changed from 0 to +2
+
+Non-metals
+  Non-metals, in general, will form negative ions by gaining electrons
+  Therefore, they are reduced and the oxidation number decreases
+  Example:
+       When sodium reacts with oxygen, sodium oxide is formed
+                                4Na (s) + O2 (g) → Na2O (s)
+  The oxidation number of oxygen changes from 0 to -2
+
+Constructing Ionic Equations
+Half Equations and Ionic Equations
+  Half equations and ionic equations are specific types of equations for showing some of
+  the fine details going on in chemical reactions
+  Half equations are used to show what happens to the electrons in reactions where
+  atoms, molecules or ions are gaining or losing electrons
+  They are called half equations, because they represent only half of what is happening in a
+  reaction involving electron transfer
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   13
+     One species gains electrons
+   Another species loses electrons                                                             Your notes
+Examples of half equations are:
+                                Pb2+ + 2e- → Pb
+                                    2Br- → Br2 + 2e-
+Some half equations are more complicated and require the addition of water and
+hydrogen ions in addition to electrons
+The steps required to balance a half equation are:
+     Step 1: Write the unbalanced equation to show the species that undergoes
+     reduction or oxidation, if necessary, balance the atom that is being reduced or
+     oxidised
+     Step 2: Add H2O to balance O atoms
+     Step 3: Add H+ to balance H atoms
+     Step 4: Add e- to balance the charge
+Half equations can be combined to form an ionic equation
+An ionic equation shows what happens in terms of ions in a chemical reaction
+This is best shown with an example:
+
+
+
+
+Worked Example
+Dichromate ions, Cr2O72- ions react with iron(II) ions, Fe2+, in acidic conditions,
+forming chromium(III) ions, Cr3+, and iron(III) ions, Fe3+. Write the half equations and
+use these to construct an ionic equation for this reaction.
+Answer:
+    Fe2+ ions are being oxidised as they gain an electron to form Fe3+, this half
+    equation can be simply constructed showing the loss of an electron:
+        Fe2+ → Fe3+ + e-
+    The reduction of Cr2O72- ions to Cr3+ is not as straightforward, so use the steps
+    above to construct the half equation:
+         Step 1: Write the unbalanced equation to show the species that undergoes
+         reduction or oxidation, if necessary, balance the atom that is being reduced
+         or oxidised:
+            Cr2O72- → 2Cr3+
+         Step 2: Add H2O to balance O atoms
+            Cr2O72- → 2Cr3+ + 7H2O
+         Step 3: Add H+ to balance H atoms
+             Cr2O72- + 14H+ → 2Cr3+ + 7H2O
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   14
+           Step 4: Add e- to balance the charge
+              Cr2O72- + 14H+ + 6e- → 2Cr3+ + 7H2O                                               Your notes
+      To construct the full ionic equation, combine the two half equations
+           To do this, the number of electrons in each half equation needs to be the
+           same so that they cancel out when the equations are combined, and so that
+           electrons do not appear in the ionic equation
+           In this example, multiply the first half equation by 6:
+              6Fe2+ → 6Fe3+ + 6e-
+              Cr2O72- + 14H+ + 6e- → 2Cr3+ + 7H2O
+           Now add all of the reactants and products together - the electrons will
+           cancel to give the full ionic equation:
+               6Fe2+ + Cr2O72- + 14H+ → 6Fe3+ + 2Cr3+ + 7H2O
+
+Balancing full ionic equations
+  You do not have to construct the half equations to be able to write a full ionic equation,
+  you can use oxidation numbers to balance them
+  This is not as straightforward as just balancing the atoms involved
+  Balancing equations using redox principles is a useful skill and is best illustrated by
+  following an example
+  It is important to follow a methodical step-by-step approach so that you don't get lost:
+
+
+
+
+  Worked Example
+  Writing overall redox reactions
+  Manganate(VII) ions (MnO4- ) react with Fe2+ ions in the presence of acid (H+) to form
+  Mn2+ ions, Fe3+ ions and water
+  Write the overall redox equation for this reaction
+  Answer
+  Step 1: Write the unbalanced equation and identify the atoms which change in
+  oxidation number
+
+
+
+
+  Step 2: Deduce the oxidation number changes
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+                                                                                         Your notes
+
+
+
+
+Step 3: Balance the oxidation number changes
+
+
+
+
+Step 4: Balance the charges
+
+
+
+
+Step 5: Finally, balance the atoms
+
+
+
+
+                         © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   16
+ Acid-Base Titrations with Indicators
+                                                                                                Your notes
+
+Acid-Base Titrations with Indicators
+  Acid-base titrations are used to find the unknown concentrations of solutions of acids
+  and bases
+  Acid-base indicators give information about the change in chemical environment
+  They change colour reversibly depending on the concentration of H+ ions in the solution
+  Indicators are weak acids and bases where the conjugate bases and acids have a
+  different colour
+  Many acid-base indicators are derived from plants, such as litmus
+
+Common Indicators Table
+
+
+
+
+  A good indicator gives a very sharp colour change at the equivalence point
+  In titrations is it not always possible to use two colour indicators because of this
+  limitation, so for example litmus cannot be used successfully in a titration
+  When phenolphthalein is used, it is usually better to have the base in the burette
+  because it is easier to see the sudden and permanent appearance of a colour (pink in
+  this case) than the change from a coloured solution to a colourless one
+
+Volumes & concentrations of solutions
+  The concentration of a solution is the amount of solute dissolved in a solvent to make 1
+  dm3 of solution
+      The solute is the substance that dissolves in a solvent to form a solution
+      The solvent is often water
+
+                                       number of moles of solute mol       (       )
+
+
+         Concentration (mol dm3) =
+                                          volume of solution dm3      (        )
+
+
+
+
+  A concentrated solution is a solution that has a high concentration of solute
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+A dilute solution is a solution with a low concentration of solute
+When carrying out calculations involve concentrations in mol dm-3 the following points          Your notes
+need to be considered:
+     Change mass in grams to moles
+     Change cm3 to dm3
+To calculate the mass of a substance present in solution of known concentration and
+volume:
+     Rearrange the concentration equation
+        number of moles (mol) = concentration (mol dm-3) x volume (dm3)
+Multiply the moles of solute by its molar mass
+         mass of solute (g) = number of moles (mol) x molar mass (g mol-1)
+
+
+
+
+Worked Example
+Neutralisation calculation
+25.0 cm3 of 0.050 dm-3 sodium carbonate was completely neutralised by 20.00 cm3
+of dilute hydrochloric acid.Calculate the concentration in mol dm-3 of the
+hydrochloric acid.
+Answer
+Step 1: Write the balanced symbol equation
+                        Na2CO3 + 2HCl → 2NaCl + H2O + CO2
+Step 2: Calculate the amount, in moles, of sodium carbonate reacted by rearranging
+the equation for amount of substance (mol) and dividing the volume by 1000 to
+convert cm3 to dm3
+amount (Na2CO3) = 0.025 dm3 x 0.050 mol dm-3 = 0.00125 mol
+Step 3: Calculate the moles of hydrochloric acid required using the reaction’s
+stoichiometry
+1 mol of Na2CO3 reacts with 2 mol of HCl, so the molar ratio is 1 : 2
+Therefore 0.00125 moles of Na2CO3 react with 0.00250 moles of HCl
+Step 4: Calculate the concentration, in mol dm-3, of hydrochloric acid
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   18
+  concentration (HCl) (mol dm-3) = 0.125 mol dm-3
+                                                                                                        Your notes
+
+
+  Worked Example
+  Concentration in g dm-3
+  A student dissolved 10 g of sodium hydroxide, NaOH, in 2 dm3 of distilled water.
+  Calculate the concentration of the solution.
+  Answer:
+
+                                  Mass g
+       Concentration     =                (       )
+
+
+
+
+                              Volume dm 3(                )
+
+
+
+
+                                   5 g dm −3
+                              10
+       Concentration     =     2
+                                  =
+
+Uncertainty - Calculations
+Percentage Uncertainties
+  Percentage uncertainties are a way to compare the significance of an absolute
+  uncertainty on a measurement
+  This is not to be confused with percentage error, which is a comparison of a result to a
+  literature value
+  The formula for calculating percentage uncertainty is as follows:
+
+                 percentage uncertainty %     (       )   = total uncertainty
+                                                             measured value
+                                                                              × 100
+Adding or subtracting measurements
+  When you are adding or subtracting two measurements then you add together
+  the absolute measurement uncertainties
+  For example,
+      Using a balance to measure the initial and final mass of a container
+      Using a thermometer for the measurement of the temperature at the start and the
+      end
+      Using a burette to find the initial reading and final reading
+  In all of these examples, you have to read the instrument twice to obtain the quantity
+  If each time you read the instrument the measurement is ‘out’ by the stated uncertainty,
+  then your final quantity is potentially ‘out’ by twice the uncertainty
+
+Total experimental uncertainty
+
+
+                            © 2025 Save My Exams, Ltd.               Get more and ace your exams at savemyexams.com   19
+Some experiments use multiple pieces of equipment, which each have a measure of
+uncertainty in their use
+                                                                                                 Your notes
+For example, a titration against a standard solution will have the following uncertainties:
+    Using a balance to measure the mass of the solid used to make the standard
+    solution
+    Using a volumetric flask to make the standard solution
+    Using a volumetric pipette to measure the sample that is being titrated against
+    Using a burette to find the initial reading and final reading that determine the titre
+    volume
+If each piece of equipment used in the experiment has its own associated uncertainty,
+you can determine the total experimental uncertainty by adding the total individual
+uncertainties
+
+ total experimental percentage uncertainty %      (   )   = Σ individual uncertainties
+                                                              (                          )
+
+
+
+
+For example, a titration against a standard solution may have:
+    An uncertainty of ±0.5% for the use of the balance
+    An uncertainty of ±0.1% for the use of the volumetric flask
+    An uncertainty of ±0.2% for the use of the volumetric pipette
+    An uncertainty of ±0.4% for the use of the burette
+    Therefore, the total experimental uncertainty would be 0.5 + 0.1 + 0.2 + 0.4 = ±1.2%
+
+
+
+
+                         © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com   20
+

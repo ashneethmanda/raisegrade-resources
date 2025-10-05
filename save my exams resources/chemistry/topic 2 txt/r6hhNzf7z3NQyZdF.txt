@@ -1,0 +1,162 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Organic Chemistry: Introduction
+Contents
+  Types of Reaction
+  Reaction Mechanisms: Introduction
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Types of Reaction
+                                                                                                Your notes
+
+Types of Reaction
+  Reactions can be classified as:
+      Addition
+      Elimination
+      Substitution
+      Oxidation
+      Reduction
+      Hydrolysis
+      Polymerisation
+
+Addition reactions
+  These involve two reactants combining to form one product
+  The most common example of an addition reaction involves alkenes, e.g.
+                                     C 2 H 4 + H 2 → C2 H 6
+                                    C2H4 + Br2 → C2H4Br2
+                                 C2H4 + H2O → C2H5OH
+
+Elimination reactions
+  These are usually identified by one or two reactants forming more products
+      The products often include an alkene and a smaller molecule that has been
+      eliminated from the reactant, e.g.
+                                                +
+                        CH3CH2Br + OH-      ⎯⎯⎯
+                                             H
+                                                  C2H4 + H2O + Br–
+
+Substitution reactions
+  An atom or group of atoms in a compounds is replaced by another atom or group of
+  atoms, e.g.
+                           CH3CH2Br + OH- → C2H5OH + Br–
+
+Oxidation reactions
+  This can involve the loss of hydrogen or the gain of oxygen
+  A reactant is oxidised by another chemical species, usually an inorganic reagent, e.g.
+                              CH3CHO + [O] → CH3COOH
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+   In this example, the oxidising agent [O] could be acidified potassium dichromate(VI)
+   solution, Fehling's solution or Tollens' reagent
+                                                                                                Your notes
+Reduction reactions
+   This can involve the gain of hydrogen or the loss of oxygen
+   A reactant is reduced by another chemical species
+       This can often be completed using a catalyst and a small reactant molecule such as
+       H2 or HCl, e.g.
+                               CH3CHO + [H] → CH3CH2OH
+   In this example, the oxidising agent [H] could be lithium aluminium hydride
+
+Hydrolysis reactions
+   The name can be misleading as hydrolysis suggests that water is being used to split (or
+   lyse) a compound
+   Hydrolysis reactions are a specific reaction with water, e.g.
+                               CH3Cl + H2O → CH3OH + HCl
+
+Polymerisation reactions
+   At AS level, you should know about addition polymerisation
+   This is where the carbon-carbon double bond of an alkene monomer breaks open and
+   forms a polymer chain, e.g.
+
+
+
+
+Addition polymerisation of one alkene monomer is polymerised, a (poly)alkene is formed
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+Reaction Mechanisms: Introduction
+                                                                                                 Your notes
+
+Reaction Mechanisms - Introduction
+  Reaction equations tell you about the amount of reactants and products, including their
+  stoichiometry, in a reaction
+  Reaction mechanisms tell you about how the reaction actually takes place
+  In a reaction mechanism, curly arrows show the movement of electrons
+      Curly arrows can be single headed, sometimes called fish-hook arrows or half curly
+      arrows, to show the movement of one electron which can occur when:
+           A covalent bond undergoes homolytic fission to form two radicals
+           Two radicals terminate forming a covalent bond in the process
+           A radical and a covalent compound propagate as part of a reaction, as shown:
+
+
+
+
+   During this propagation step, the unpaired electron from chlorine and one of the
+electrons from the C-H bond react together to form a new covalent bond and the other
+              electron from the C-H bond moves to form a methyl radical
+
+
+
+  Examiner Tips and Tricks
+  The use of single headed arrows is not required knowledge Their main use is in free
+  radical reactions which are usually represented using written equations rather than
+  outlined mechanisms
+
+  Curly arrows can be double headed to show the movement of a pair of electrons, which
+  can occur when:
+      A covalent bond undergoes fission to form a positive and a negative ion
+      The positive ion is electron deficient and is an electrophile
+      The negative ion is electron rich and is a nucleophile
+      A lone pair of electrons attacks a positive or δ+ centre and forms a new covalent
+      bond, as shown:
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   4
+                                                                                                   Your notes
+
+
+
+
+During this step of an addition reaction, the lone pair from the bromide ion reacts with the
+                     positive carbocation to form a new covalent bond
+   Curly arrows are a feature of three main types of reaction:
+     1. Addition reactions - where two reactants combine to form one product, e.g. ethene
+        and bromine undergoing addition to form 1,2-dibromoethane
+     2. Substitution reactions - where an atom or group of atoms in a compounds is
+        replaced by another atom or group of atoms, e.g. bromoethane reacting with the
+        hydroxide ion to form ethanol and the bromide ion
+     3. Elimination reactions - where a small molecule is removed from a larger molecule,
+        e.g. ethanol reacting with an acid catalyst to form ethene alongside a small
+        molecule of water which is eliminated
+
+Bond Polarity & Mechanisms
+   Bond polarity can be used to suggest reaction mechanisms
+                                  C2H6 + Cl2 → C2H5Cl + HCl
+   A hydrogen atom in ethane is substituted by a chlorine atom
+        All of the bonds in the reaction of ethane with chlorine are either non-polar or only
+        slightly polar
+        This suggests that the type of bond breaking will be homolytic fission
+        The reaction is likely to involve free radicals
+        Therefore, the reaction mechanism is likely to be free radical substitution
+                                     C2H4 + HBr → C2H5Br
+   The hydrogen bromide is added to the ethene molecule
+        The hydrogen bromide molecule contains a polar bond
+        This suggests that the type of bond breaking will be heterolytic fission
+        The reaction could involve electrophiles or nucleophiles
+        The ethene molecule contains a carbon-carbon double bond which will attract an
+        electrophile
+        Therefore, the reaction mechanism is most likely to be electrophilic addition
+
+
+
+                               © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   5
+

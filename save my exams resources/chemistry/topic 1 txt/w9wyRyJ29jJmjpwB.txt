@@ -1,0 +1,451 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Atomic Structure
+Contents
+  Sub-Atomic Particles
+  Isotopes & Mass Spectra
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+Sub-Atomic Particles
+                                                                                             Your notes
+
+Sub-Atomic Particles
+ All matter is composed of atoms, which are the smallest parts of an element that can
+ take place in chemical reactions
+ Atoms are mostly made up of empty space around a very small, dense nucleus that
+ contains protons and neutrons
+ The nucleus has an overall positive charge
+     The protons have a positive charge and the neutrons have a neutral charge
+ Negatively charged electrons are found in orbitals in the empty space around the
+ nucleus
+
+
+
+
+                    The basic structure of an atom (not to scale)
+ Subatomic particles are the particles an element is made up of and include protons,
+ neutrons and electrons
+ These subatomic particles are so small that it is not possible to measure their masses
+ and charges using conventional units (such as grams and coulombs)
+ Instead, their masses and charges are compared to each other using ‘relative atomic
+ masses’ and ‘relative atomic charges’
+ These are not actual charges and masses but they are charges and masses of particles
+ relative to each other
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+      Protons and neutrons have a very similar mass so each is assigned a relative mass of
+      1 whereas electrons are 1836 times smaller than a proton and neutron
+                                                                                               Your notes
+      Protons are positively charged, electrons negatively charged and neutrons are
+      neutral
+  The relative mass and charge of the subatomic particles are:
+Relative Mass & Charge of Subatomic Particles Table
+
+
+
+
+  Examiner Tips and Tricks
+  The relative mass of an electron is almost negligible.
+  The charge of a single electron is -1.602 x 10-19 coulombs whereas the charge of a
+  proton is +1.602 x 10-19 coulombs, however, relative to each other, their charges are -1
+  and +1 respectively.
+
+
+Chemical Elements
+  The atomic number (or proton number) is the number of protons in the nucleus of an
+  atom and has symbol Z
+      The atomic number is equal to the number of electrons present in a neutral atom of
+      an element
+      E.g. the atomic number of lithium is 3 which indicates that the neutral lithium atom
+      has 3 protons and 3 electrons
+  The mass number (or nucleon number) is the total number of protons and neutrons in
+  the nucleus of an atom and has symbol A
+  The number of neutrons can be calculated by:
+                 Number of neutrons = mass number - atomic number
+  Protons and neutrons are also called nucleons
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+                                                                                             Your notes
+  Examiner Tips and Tricks
+
+
+
+
+  The mass (nucleon) and atomic (proton) number are given for each element in the
+                                  Periodic Table
+
+  An atom is neutral and has no overall charge
+  Ions on the other hand are formed when atoms either gain or lose electrons, causing
+  them to become charged
+  The number of subatomic particles in atoms and ions can be determined given their
+  atomic (proton) number, mass (nucleon) number and charge
+
+Protons
+  The atomic number of an atom and ion determines which element it is
+  Therefore, all atoms and ions of the same element have the same number of protons
+  (atomic number) in the nucleus
+      E.g. lithium has an atomic number of 3 (three protons) whereas beryllium has atomic
+      number of 4 (4 protons)
+  The number of protons equals the atomic (proton) number
+  The number of protons of an unknown element can be calculated by using its mass
+  number and number of neutrons:
+               Mass number = number of protons + number of neutrons
+               Number of protons = mass number - number of neutrons
+Electrons
+  An atom is neutral and therefore has the same number of protons and electrons
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   4
+  Ions have a different number of electrons to their atomic number depending on their
+  charge
+                                                                                               Your notes
+      A positively charged ion has lost electrons and therefore has fewer electrons than
+      protons
+      A negatively charged ion has gained electrons and therefore has more electrons
+      than protons
+Neutrons
+  The mass and atomic numbers can be used to find the number of neutrons in ions and
+  atoms:
+           Number of neutrons = mass number (A) - number of protons (Z)
+
+
+
+  Worked Example
+  Determine the number of protons, electrons and neutrons for the following ions and
+  atoms:
+   1. Mg2+ ion
+   2. Carbon atom
+   3. An unknown atom of element X with mass number 63 and 34 neutrons
+  Answer 1:
+   The atomic number of a magnesium atom is 12
+      Therefore, the number of protons in a Mg2+ ion is also 12
+          However, the 2+ charge in Mg2+ ion suggests it has lost two electrons
+              Therefore, the Mg2+ ion only has 10 electrons left now
+   The atomic number of a magnesium atom is 12 and its mass number is 24
+      Number of neutrons = mass number (A) - number of protons (Z)
+        Number of neutrons = 24 - 12 = 12
+        The Mg2+ ion has 12 neutrons in its nucleus
+   Answer 2:
+   The atomic number of a carbon atom is 6
+      Therefore, the number of protons in a carbon atom is also 6
+   The atom has no overall charge so the number of protons = the number of electrons
+      Therefore, the carbon atom has 6 electrons
+   The atomic number of a carbon atom is 6 and its mass number is 12
+      Number of neutrons = mass number (A) - number of protons (Z)
+        Number of neutrons = 12 - 6 = 6
+        The carbon atom has 6 neutrons in its nucleus
+   Answer 3:
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+   Use the formula to calculate the number of protons
+      Number of protons = mass number - number of neutrons                                    Your notes
+          Number of protons = 63 - 34
+          Number of protons = 29
+          (Element X is therefore copper)
+   The atom is not charged so the number of protons = the number of electrons
+      Therefore, the atom of element X has 29 electrons
+   The number of neutrons is 34 (given in the question)
+
+Isotopes
+  The symbol for an isotope is the chemical symbol (or word) followed by a dash and then
+  the mass number
+      E.g. carbon-12 and carbon-14 are isotopes of carbon containing 6 and 8 neutrons
+      respectively
+  Isotopes are atoms of the same element that contain the same number of protons and
+  electrons but a different number of neutrons
+
+
+
+
+         The atomic structure and symbols of the three isotopes of hydrogen
+Properties of Isotopes
+  Isotopes have similar chemical properties but different physical properties
+
+Chemical properties
+  Isotopes of the same element display the same chemical characteristics
+  This is because they have the same number of electrons in their outer shells
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   6
+  Electrons take part in chemical reactions and therefore determine the chemistry of an
+  atom
+Physical properties                                                                            Your notes
+
+  The only difference between isotopes is the number of neutrons
+  Since these are neutral subatomic particles, they only add mass to the atom
+  As a result of this, isotopes have different physical properties such as small differences
+  in their mass, density, melting point and boiling point
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+ Isotopes & Mass Spectra
+                                                                                               Your notes
+
+The Mass Spectrometer
+  The mass spectrometer is an instrument used to determine the relative isotopic mass
+  and the relative abundance of each isotope
+  Relative isotopic mass is the mass of an individual isotope relative to the mass of
+  carbon-12
+  Apart from finding the masses of isotopes, mass spectrometry is a vey useful tool for
+  detecting illegal drugs, forensic science, space exploration and carbon-14 dating
+
+
+
+
+                       The components of a mass spectrometer
+How the mass spectrometer works
+  A sample is injected into the spectrometer where it is heated and vaporised
+  The atoms or molecules are then bombarded by high energy electrons created by an
+  electron gun
+  The high energy electrons collide with the sample material and remove electrons
+  creating positive ions
+  The ions are then accelerated by attraction towards negatively charged plates
+  Many ions strike the plate and are discharged, but a few will pass through a gap in the
+  plates into a curved section of the spectrometer known as the flight tube
+  The flight tube is encased in electromagnets which create a strong electromagnetic
+  field that deflects the path of the ions in a curve
+  The ions pass onto a charged detector plate where every strike is recorded as a small
+  current which is then amplified
+  By varying the electric and magnetic fields all the charged particles can be deflected to
+  the detector which gives information about the mass/charge ratio and abundance of
+  each ion
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+Isotopes & Mass Spectra
+                                                                                                                     Your notes
+    Isotopes are different atoms of the same element that contain the same number of
+    protons and electrons but a different number of neutrons
+        These are atoms of the same elements but with different mass numbers
+    Therefore, the mass of an element is given as relative atomic mass (Ar) by using the
+    average mass of the isotopes
+        The relative atomic mass of an element can be calculated by using the relative
+        abundance values
+                                                   Ar =
+r elative abundanc e is ot op e 1
+(
+                                    × m as s is ot op e 1 + r elative abundanc e is ot op e 2 × m as s is ot op e 2 etc
+                                                      )     (                                                    )
+
+
+
+
+                                                           100
+
+    The relative abundance of an isotope is either given or can be read off the mass
+    spectrum
+
+
+
+
+    Worked Example
+    Calculating the relative atomic mass of oxygen
+    A sample of oxygen contains the following isotopes:
+
+
+
+
+    What is the relative atomic mass, Ar, of oxygen in this sample, to 2dp?
+    Answer
+
+               (   99. 76 × 16 + 0 . 04 × 17 + 0 . 20 × 18
+                              )       (                )        (           )
+
+
+        Ar =
+                                     100
+               Ar = 16.0044
+               Ar = 16.00
+
+
+
+
+                                  © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com              9
+  Worked Example
+  Calculating the relative atomic mass of boron                                               Your notes
+  Calculate the relative atomic mass of boron using its mass spectrum, to 1dp:
+
+
+
+
+   Answer
+
+                 19. 9 × 10 + 80. 1 × 11
+                                                 = 10. 801 = 10. 8
+             (            )      (           )
+
+
+      Ar =
+                           100
+
+
+
+
+  Examiner Tips and Tricks
+  You can be expected to work with tables or graphs of data to calculate relative atomic
+  mass
+  You can also be expected to do these calculations backwards to determine the
+  abundance of one isotope given sufficient information
+
+Mass spectra of molecules
+  When a compound is analysed in a mass spectrometer, vaporised molecules are
+  bombarded with a beam of high-speed electrons
+  These knock off an electron from some of the molecules, creating molecular ions:
+
+
+
+
+  The relative abundances of the detected ions form a mass spectrum: a kind of molecular
+  fingerprint that can be identified by computer using a spectral database
+  The peak with the highest m/z value is the molecular ion (M+) peak which gives
+  information about the molecular mass of the compound
+  This value of m/z is equal to the relative molecular mass of the compound
+
+
+
+
+                              © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   10
+The M+1 peak
+  The [M+1] peak is a smaller peak which is due to the natural abundance of the isotope       Your notes
+  carbon-13
+  The height of the [M+1] peak for a particular ion depends on how many carbon atoms are
+  present in that molecule; The more carbon atoms, the larger the [M+1] peak is
+      For example, the height of the [M+1] peak for an hexane (containing six carbon
+      atoms) ion will be greater than the height of the [M+1] peak of an ethane (containing
+      two carbon atoms) ion
+
+
+
+
+  Worked Example
+  Determine whether the following mass spectrum belongs to propanal or butanal
+
+
+
+
+  Answer:
+      The mass spectrum corresponds to propanal as the molecular ion peak is at m/z =
+      58
+          Propanal arises from the CH3CH2CHO+ ion which has a molecular mass of 58
+          Butanal arises from the CH3CH2CH2CHO+ ion which has a molecular mass of
+          72
+
+
+
+
+  Examiner Tips and Tricks
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+   A mass spectrum can give lots of information about fragments of the overall
+   compound being analysed
+                                                                                                  Your notes
+Mass Spectra - Predictions
+    You can also predict how a mass spectrum might appear for a given compound, e.g.
+    ethanol, CH3CH2OH
+        The methyl, CH3+, fragment has a mass of 15.0
+        The ethyl, CH3CH2+, fragment has a mass of 29.0
+        The base ion, CH2OH+, fragment has a mass of 31.0
+        The whole molecule has a mass of 46.0
+    Predicting mass spectra becomes more complex with the inclusion of halogen isotopes
+    such as chlorine and bromine
+
+Chlorine
+Chlorine exists as two isotopes, 35Cl and 37Cl
+    A compound containing one chlorine atom will therefore have two molecular ion peaks
+    due to the two different isotopes it can contain
+        35Cl = M+ peak
+
+        37Cl = [M+2] peak
+
+
+        The ratio of the peak heights is 3:1 (as the relative abundance of 35Cl is 3x greater
+        than that of 37Cl)
+    A diatomic chlorine molecule or a compound containing two chlorine atoms will have
+    three molecular ion peaks due to the different combinations of chlorine isotopes they
+    can contain
+        35Cl + 35Cl = M+ peak
+
+        35Cl + 37Cl = [M+2] peak
+
+
+             There is an alternative of 37Cl + 35Cl doubling the [M+2] peak
+        37Cl + 37Cl = [M+4] peak
+
+
+        The ratio of the peak heights is 9:6:1
+             This ratio can be deduced by using the probability of each chlorine atom
+             being 35Cl or 37Cl
+
+             35Cl + 35Cl = 3
+                               4 × 3 4 = 9 16
+             35Cl + 37Cl = 3
+                               4 × 1 4 = 3 16 but this doubles for the 37Cl + 35Cl option,
+             therefore, 6 16
+
+
+
+
+                               © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+          37Cl + 37Cl = 1   4 × 1 4 = 1 16
+  The presence of bromine or chlorine atoms in a compound gives rise to a [M+2] and               Your notes
+  possibly [M+4] peak
+
+
+
+
+Mass spectrum of compounds containing one chlorine atom (1) and two chlorine atoms
+                                      (2)
+Bromine
+  Bromine too exists as two isotopes, 79Br and 81Br
+  A compound containing one bromine atom will have two molecular ion peaks
+      79Br = M+ peak
+
+      81Br = [M+2] peak
+
+      The ratio of the peak heights is 1:1 (they are of similar heights as their relative
+      abundance is the same!)
+  A diatomic molecule of bromine or a compound containing two bromine atoms will have
+  three molecular ion peaks
+      79Br + 79Br= M+ peak
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   13
+79Br+ 81Br = [M+2] peak
+
+81Br + 81Br= [M+4] peak
+                                                                                     Your notes
+The ratio of the peak heights is 1:2:1
+
+
+
+
+       Mass spectrum of compounds containing one bromine atom
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   14
+

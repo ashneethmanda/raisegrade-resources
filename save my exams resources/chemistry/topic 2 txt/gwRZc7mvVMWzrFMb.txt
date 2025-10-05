@@ -1,0 +1,941 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Energetics
+Contents
+  Enthalpy Level Diagrams
+  Enthalpy Change - Definitions
+  Using Calorimetry
+  Using Hess Cycles
+  Bond Enthalpies
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Enthalpy Level Diagrams
+                                                                                                Your notes
+
+Enthalpy Level Diagrams
+  The total chemical energy inside a substance is called the enthalpy (or heat content)
+  When chemical reactions take place, changes in chemical energy take place and
+  therefore the enthalpy changes
+  An enthalpy change is represented by the symbol ΔH (Δ= change; H = enthalpy)
+  An enthalpy change can be positive or negative
+
+
+
+
+  Examiner Tips and Tricks
+  Activation energy is not shown in enthalpy level diagrams
+  Activation is shown in reaction profile diagrams
+
+Exothermic reactions
+  A reaction is exothermic when the products have less energy than the reactants
+  Heat energy is given off by the reaction to the surroundings
+      The temperature of the environment increases - this can be measured with a
+      thermometer
+      The energy of the system decreases
+  There is an enthalpy decrease during the reaction so ΔH is negative
+  Exothermic reactions are thermodynamically possible (because the enthalpy of the
+  reactants is higher than that of the products)
+  However, if the rate is too slow, the reaction may not occur
+      In this case the reaction is kinetically controlled
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+                                                                                               Your notes
+
+
+
+
+                  The enthalpy change during an exothermic reaction
+Endothermic reactions
+  A reaction is endothermic when the products have more energy than the reactants
+  Heat energy is absorbed by the reaction from the surroundings
+      The temperature of the environment decreases - this can be measured with a
+      thermometer
+      The energy of the system increases
+  There is an enthalpy increase during the reaction so ΔH is positive
+
+
+
+
+                 The enthalpy change during an endothermic reaction
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+  Examiner Tips and Tricks
+                                                                                                  Your notes
+  It is important to specify the physical states of each species in an equation when
+  dealing with enthalpy changes as any changes in state can cause very large changes
+  of enthalpy. For example:
+                     NaCl (s) → Na+ (aq) + Cl- (aq) ΔH = +4 kJ mol-1
+                     NaCl (g) → Na+ (g) + Cl- (g) ΔH = +500 kJ mol-1
+  Also, remember that the system is the substances that are reacting (i.e. the reaction
+  itself) and the surroundings is everything else (e.g. the flask the reaction is taking
+  place in).
+
+Reaction profile diagrams
+  Reaction profile diagrams are similar to enthalpy level diagrams
+      The difference between the energy level of the reactants and the energy level of the
+      products is still the overall enthalpy change of the reaction, ΔH
+  The main differences are that they include information about:
+      The activation energy, Ea, of the reaction
+           Activation energy can be defined as ‘the minimum amount of energy needed
+           for reactant molecules to have a successful collision and start the reaction’
+           This is the difference between the energy level of the reactants and the peak of
+           the curve
+      Possible transition states
+           The peak of the curve indicates a transition state
+           The transition state is a stage during the reaction at which chemical bonds are
+           partially broken and formed
+           The transition state is very unstable – a molecule in the transition state cannot be
+           isolated and is higher in energy than the reactants and products
+
+Exothermic reaction profiles
+  In an exothermic reaction, the reactants are higher in energy than the products
+  The reactants are therefore closer in energy to the transition state
+  This means that exothermic reactions have a lower activation energy compared to
+  endothermic reactions
+
+
+
+
+                            © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   4
+                                                                                              Your notes
+
+
+
+
+            The reaction profile diagram for a general exothermic reaction
+Endothermic reaction profiles
+  In an endothermic reaction, the reactants are lower in energy than the products
+  The reactants are therefore further away in energy from the transition state
+  This means that endothermic reactions have a higher activation energy compared to
+  exothermic reactions
+
+
+
+
+           The reaction profile diagram for a general endothermic reaction
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+ Enthalpy Change - Definitions
+                                                                                                 Your notes
+
+Enthalpy Change - Definitions
+  To be able to compare the changes in enthalpy between reactions, all thermodynamic
+  measurements are carried out under standard conditions
+  These standard conditions are:
+      A pressure of 100 kPa (you may see some older exam questions that use a figure of
+      101 kPa; the exact figure is 101 325 Pa, but it has been simplified in the current
+      syllabus for problem-solving purposes)
+      A temperature of 298 K (25 oC)
+      Each substance involved in the reaction is in its standard physical state (solid, liquid
+      or gas)
+  To show that a reaction has been carried out under standard conditions, the symbol ‘ ’ is
+  used
+      ΔH = the standard enthalpy change
+
+  There are a number of standard definitions relating to enthalpy changes that you are
+  expected to know
+
+Enthalpy Definitions Table
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   6
+                                                                                             Your notes
+
+
+
+
+A further definition that is expected knowledge, although less used at AS level, is:
+    Standard enthalpy of atomisation - the enthalpy change when one mole
+    of gaseous atoms is formed from an element in its standard state, under standard
+    conditions
+
+
+
+
+Examiner Tips and Tricks
+You will see various enthalpy change symbols used with subtle changes, e.g.
+                       ΔHc or ΔcH for enthalpy of combustion
+
+Whichever symbol you use must have the following basic points:
+    Δ to represent change
+    H to represent enthlalpy
+      to respresent standard conditions
+    A symbol to represent the type of enthalpy change occurring, e.g.
+        c for combustion
+        f for formation
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+         neut for neutralisation
+         r for reaction
+                                                                                                 Your notes
+
+
+
+Worked Example
+Calculating the enthalpy change of reaction
+One mole water is formed from hydrogen and oxygen, releasing 286 kJ of energy
+                     H2 (g) + ½O2 (g) → H2O (I)     ΔHr = -286 kJ mol-1
+
+Calculate ΔHr for the reaction below:
+                                2H2 (g) + O2 (g) → 2H2O (I)
+Answer
+    Since two moles of water molecules are formed in the question above, the
+    energy released is simply:
+    ΔHr = 2 mol x (-286 kJ mol-1) = -572 kJ mol-1
+
+
+
+
+Worked Example
+Calculating the enthalpy change
+Calculate ΔHf for the reaction below, given that ΔHf [Fe2O3(s)] = -824.2 kJ mol-1
+                              4Fe(s) + 3 O2(g) → 2 Fe2O3(s)
+Answer
+    Since two moles of Fe2O3 (s) are formed the total change in enthalpy for the
+    reaction above is:
+         ΔHf = 2 x ( -824.2 kJ mol-1) = - 1648 kJ
+
+
+
+
+Worked Example
+Calculating enthalpy changes
+Identify each of the following as ΔHr , ΔHf , ΔHc or ΔHneut
+ 1. MgCO3 (s) → MgO (s) + CO2 (g)
+ 2. C (graphite) + O2 (g) → CO2 (g)
+ 3. HCl (aq) + NaOH (aq) → NaCl (aq) + H2O (I)
+Answer
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   8
+Answer 1: ΔHr
+Answer 2: ΔHf as one mole of CO2 is formed from its elements in standard state and        Your notes
+ΔHc as one mole of carbon is burnt in oxygen
+
+Answer 3: ΔHneut as one mole of water is formed from the reaction between an acid
+and an alkali
+
+
+
+
+Examiner Tips and Tricks
+The ΔHf of an element in its standard state is zero.
+For example, ΔHf of O2(g) is 0 kJ mol-1
+
+
+
+
+                           © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   9
+  Using Calorimetry
+                                                                                                   Your notes
+
+Using Calorimetry
+    Calorimetry is the measurement enthalpy changes in chemical reactions
+    There are two types of calorimetry experiments you need to know:
+        Enthalpy changes of reactions in solution, e.g. displacement and neutralisation
+        Enthalpy changes of combustion
+    In both cases, you should be able to give an outline of the experiment and be able to
+    process experimental data using calculations or graphical methods
+
+Enthalpy changes for reactions in solution
+    The principle of these calorimetry experiments is to carry out the reaction with an excess
+    of one reagent and measure the temperature change over the course of a few minutes
+    The apparatus needed to carry out an enthalpy of reaction in solution calorimetry
+    experiment is shown below
+        A calorimeter can be made up of a polystyrene drinking cup, a vacuum
+        flask or metal can
+
+
+
+
+A polystyrene cup can act as a calorimeter to find enthalpy changes in a chemical reaction
+The energy needed to raise the temperature of 1 g of a substance by 1 K is called the specific
+heat capacity (c) of the liquid The specific heat capacity of water is 4.18 J g-1 K-1 The energy
+transferred as heat can be calculated by:
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+                                                                                                   Your notes
+
+
+
+
+               Equation for calculating energy transferred in a calorimeter
+Sample method for a displacement reaction
+ 1. Using a measuring cylinder place 25 cm3 of the 1.0 mol dm-3 copper(II) sulphate solution
+    into the polystyrene cup
+ 2. Weigh about 6 g of zinc powder - as this is an excess there is no need to be very accurate
+ 3. Draw a table to record the initial temperature and then the temperature and time every
+    half minute up to 9.5 minutes
+ 4. Put a thermometer or temperature probe in the cup, stir, and record the temperature
+    every half minute for 2.5 minutes
+ 5. At precisely 3 minutes, add the zinc powder to the cup (DO NOT RECORD THE
+    TEMPERATURE AT 3 MINUTES)
+ 6. Continue stirring and record the temperature for an additional 6 minutes
+   For the purposes of the calculations, some assumptions are made about the
+   experiment:
+       That the specific heat capacity of the solution is the same as pure water, i.e. 4.18 J g-
+       1 K-1
+
+       That the density of the solution is the same as pure water, i.e. 1 g cm-3
+       The specific heat capacity of the container is ignored
+       The reaction is complete
+       There are negligible heat losses
+
+
+
+
+  Examiner Tips and Tricks
+  As well as any assumptions made for the experiment, you can be expected to
+  comment on:
+       Sources of error, e.g. incorrect masses or volumes of chemicals, heat loss to the
+       surroundings, etc.
+       Uncertainty, e.g. measurements for mass, volume and temperature
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    11
+           Be aware that you will have to double the uncertainty reading for temperature
+           as the calculation requires an initial and final temperature to determine the
+           temperature change                                                                   Your notes
+
+Temperature correction graphs
+    For reactions which are not instantaneous there may be a delay before the maximum
+    temperature is reached
+    During that delay the substances themselves may be losing heat to the surroundings, so
+    that the true maximum temperature is never actually reached
+    To overcome this problem we can use graphical analysis to determine the maximum
+    enthalpy change
+
+
+
+
+  A temperature correction graph for a metal displacement reaction between zinc and
+              copper sulfate solution. The zinc is added after 4 minutes
+The steps to make a temperature correction graph are:
+ 1. Take a temperature reading before adding the reactants for a few minutes to get a
+    steady value
+ 2. Add the second reactant and continue recording the temperature and time
+ 3. Plot the graph and extrapolate the cooling part of the graph until you intersect the time
+    at which the second reactant was added
+
+Analysis
+    Use both extrapolated lines to calculate ΔT as shown on the graph
+    Use the equation q = mcΔT to calculate the energy transferred
+        q = energy transferred
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   12
+     m = mass - this will be the mass of the 25 cm3 solution which will be 25 g (assuming a
+     density of 1 g cm-3)
+                                                                                                Your notes
+     c = specific heat capacity - this will be assumed to be 4.18 J g-1 K-1, which is the
+     specific heat capacity of water
+   ΔT = the temperature change from the graph
+Convert your value for energy transferred from J into kJ
+
+                               q
+Then use the equation ΔH =       to calculate the enthalpy change for the reaction
+                               n
+     q = energy transferred
+     n = number of moles - this would be the number of moles of the limiting reagent,
+     which means that you will have an extra calculation to do to determine whether this is
+     the zinc or the copper sulfate
+Remember that in the example above, the temperature of the reaction mixture
+increased which means that the reaction is exothermic and should, therefore, have a
+negative value
+
+
+
+
+Worked Example
+Enthalpy of neutralisation calculation
+The initial temperature of 25.0 cm3 of sodium hydroxide and 50.0 cm3 of sulfuric acid
+was measured every 30 seconds for 3 minutes. The two liquids were then mixed and
+the temperature of the resulting solution was taken every 30 seconds for 5 minutes. A
+temperature correction graph of the results was plotted and the temperature change
+was determined to be 6.5 oC.
+Calculate the energy transferred during this reaction.
+Answer
+    q = m x c x ΔT
+         m (of resulting solution) = 25.0 + 50.0 = 75.0 g
+         c (of water) = 4.18 J g-1 oC-1
+         ΔT (of water) = 6.5 oC
+         q = 75.0 x 4.18 x 6.5 = 2038 J
+
+
+
+
+Examiner Tips and Tricks
+It is more likely that you would be asked to calculate the enthalpy change for this
+neutralisation reaction
+  1. Calculate the number of moles of NaOH and H2SO4 to determine which reactant
+     is the limiting reagent
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   13
+     2. Calculate the enthalpy change by dividing the energy transferred by the number
+        of moles of the limiting reagent
+  Another twist to this calculation could be for the NaOH and H2SO4 to have different         Your notes
+  initial temperatures
+      In this case, you work out the energy transferred for the NaOH and for the H2SO4
+      separately and then add them together
+      After that you follow steps 1 and 2 above to calculate the enthalpy change
+
+Enthalpy of combustion
+  The principle here is to use the heat released by a combustion reaction to increase the
+  heat content of water
+  A typical simple calorimeter is used to measure the temperature changes to the water
+
+
+
+
+                           A simple combustion calorimeter
+  To complete this experiment, the following steps will need to be completed:
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+                                                                Your notes
+
+
+
+
+© 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   15
+                                                                                                 Your notes
+
+  It is important that you record the starting temperature, and the final temperature in
+  order to complete the calculations
+  You must also record the starting mass of the spirit burner and the final mass of the spirit
+  burner, so that you can work out the mass of the fuel burned during the reaction
+       This will then be used to calculate the moles, which will be used to convert Q to an
+       enthalpy change in your calculations
+
+Key points to consider
+  Not all the heat produced by the combustion reaction is transferred to the water
+       Some heat is lost to the surroundings
+       Some heat is absorbed by the calorimeter
+  To minimise the heat losses the copper calorimeter should not be placed too far above
+  the flame and a lid placed over the calorimeter
+  Shielding can be used to reduce draughts
+  In this experiment the main sources of error are
+       Heat losses
+       Incomplete combustion
+
+
+
+
+  Worked Example
+  Enthalpy of combustion
+  In a calorimetry experiment 2.50 g of methane is burnt in excess oxygen.
+  30% of the energy released during the combustion is absorbed by 500 g of water,
+  the temperature of which rises from 25 °C to 68 °C.
+  The specific heat capacity of water is 4.18 J g-1 K−1
+  What is the total energy released per gram of methane burnt?
+   Answer
+   Step 1:
+      q = m x c x ΔT
+             m (of water) = 500 g
+             c (of water) = 4.18 J g-1 oC-1
+             ΔT (of water) = 68 oC - 25 oC = 43 oC
+   Step 2:
+
+
+
+                              © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   16
+     q = 500 x 4.18 x 43 = 89 870 J
+  Step 3:
+                                                                                             Your notes
+     This is only 30% of the total energy released by methane
+         Total energy x 0.3 = 89 870 J
+         Total energy = 299 567 J
+  Step 4:
+     This is released by 2.50 g of methane
+          Energy released by 1.00 g of methane = 299 567 ÷ 2.50 = 120 000 J g-1 (to 3
+          s.f.) or 120 kJ g-1
+
+
+Calculating Enthalpy Changes
+ Aqueous solutions of acid, alkalis and salts are assumed to be largely water so you can
+ just use the m and c values of water when calculating the energy transferred.
+ To calculate any changes in enthalpy per mole of a reactant or product the following
+ relationship can be used:
+
+                                       q    m × c × ΔT
+                              ΔH =       or
+                                       n        n
+ When there is a rise in temperature, the value for ΔH becomes negative suggesting that
+ the reaction is exothermic
+     This means that your value should be negative for an exothermic reaction, e.g.
+     combustion
+ When the temperature falls, the value for ΔH becomes positive suggesting that the
+ reaction is endothermic
+     This means that your value should be positive for an endothermic reaction, e.g.
+     ammonium salts dissolving in water
+
+
+
+
+ Worked Example
+ 1.50 g of an organic liquid (Mr = 58.0) underwent complete combustion. The heat
+ formed raised the temperature of 100 g of water from 20 oC to 75 oC.
+ Calculate the enthalpy of combustion for the organic liquid
+ Answer
+ Step 1: Calculate the energy released by the organic liquid
+     Q = mcΔT
+          Q = 100 x 4.18 x (75 - 20)
+          Q = 22990 J
+          Q = 22.99 kJ
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   17
+Step 2: Calculate the number of moles of the organic liquid
+
+                              mass       1 . 50                                             Your notes
+    Number of moles =     = molar mass = 58. 0 = 0.0259 moles (to 3s.f.)
+Step 3: Calculate the enthalpy change of combustion
+
+               Q    22. 99
+    Δc H θ   = n = 0 . 0259 = -887 kJ mol-1 (to 3s.f.)
+         Remember, combustion is an exothermic process and will, therefore, be a
+         negative enthalpy change value
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   18
+  Using Hess Cycles
+                                                                                                  Your notes
+
+Hess Cycles - Construction
+    In 1840, the Russian chemist Germain Hess formulated a law which went on to be known
+    as Hess’s Law
+    This went on to form the basis of one of the laws of thermodynamics. The first law of
+    thermodynamics relates to the Law of Conservation of Energy
+    It is sometimes expressed in the following form:
+Energy cannot be created or destroyed, it can only change form
+    This means that in a closed system, the total amount of energy present is always
+    constant
+    Hess’s law can be used to calculate the standard enthalpy change of a reaction from
+    known standard enthalpy changes
+    Hess’s Law states that:
+"The total enthalpy change in a chemical reaction is independent of the route by which the
+chemical reaction takes place as long as the initial and final conditions are the same."
+    This means that whether the reaction takes place in one or two steps, the total enthalpy
+    change of the reaction will still be the same
+
+
+
+
+ According to Hess’ Law, the enthalpy change of the direct route, going from reactants
+      (A+B) to product (C), is equal to the enthalpy change of the indirect routes
+    Hess’ Law is used to calculate enthalpy changes which can’t be found experimentally
+    using calorimetry, e.g.:
+                                  3C (s) + 4H2 (g) → C3H8(g)
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   19
+   ΔfH (propane) can’t be found experimentally as hydrogen and carbon don’t react under
+   standard conditions
+                                                                                                Your notes
+Calculating ΔHr from ΔHf using Hess’s Law energy cycles
+   You can see the relationships on the following diagram:
+
+
+
+
+ The enthalpy change from elements to products (direct route) is equal to the enthalpy
+       change of elements forming reactants and then products (indirect route)
+   The products can be formed:
+       Directly from the elements = ΔH2
+       OR
+       Indirectly from the elements = ΔH1 + ΔHr
+   Equation
+                                        ΔH2 = ΔH1 + ΔHr
+
+   Therefore for energy to be conserved,
+                                        ΔHr = ΔH2 – ΔH1
+
+
+
+
+  Examiner Tips and Tricks
+  You do not need to learn Hess's Law word for word as it is not a syllabus requirement,
+  but you do need to understand the principle as it provides the foundation for all the
+  problem solving in Chemical Energetics
+
+
+Hess Cycles - Calculations
+Calculating ΔHr from ΔHf using Hess’s Law energy
+cycles
+   Knowing the enthalpy change of formation, ΔHf, allows us to determine the overall
+   enthalpy change of a reaction, ΔHr
+   To do this, we follow these steps:
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   20
+  1. Write the equation for the reaction
+  2. Write the elements with the correct number of moles and state symbols                    Your notes
+     underneath
+  3. Draw upwards pointing arrows to each compound
+  4. Write the appropriate values on the arrows and multiply by the number of moles
+  5. In a cycle, go from the reactants to the products, changing the sign of the value if
+     the arrow points in the opposite direction
+
+
+
+
+Worked Example
+Calculating the enthalpy change of reaction
+Use the information in the table to calculate the enthalpy change for this reaction:
+                 NH4NO3 (s) + ½C (s) → N2 (g) + 2H2O (g) + ½CO2 (g)
+
+     Substance           C (s)     N2 (g)     H2O(g)     CO2 (g)       NH4NO3 (s)
+
+    ∆Hfө / kJ mol–1        0         0         –242         –394             –365
+
+Answer:
+Step 1: Write the balanced equation
+
+
+
+
+Step 2: Write the elements with the correct number of moles and state symbols
+underneath
+
+
+
+
+Step 3: Draw upwards pointing arrows to each compound
+
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   21
+                                                                                             Your notes
+
+
+
+
+Step 4: Write the appropriate values on the arrows and multiply by the number of
+moles
+
+
+
+
+Step 5: In a cycle, go from the reactants to the products, changing the sign of the
+value if the arrow points in the opposite direction
+
+
+
+
+ΔHrө = +365 - 484 - 197 = -316 kJ mol-1
+
+    The sign on -365 needs reversing as the cycle goes in the opposite direction to
+    the arrow pointing upwards
+    There is no need to draw arrows from the elements to carbon and nitrogen as ΔHfө
+    is 0 for elements
+
+
+
+
+Examiner Tips and Tricks
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   22
+  Keep your enthalpy values inside their own brackets so that you don't accidentally
+  lose a minus sign
+                                                                                                Your notes
+Calculating ΔHf from ΔHc using Hess’s Law energy
+cycles
+  It can be difficult to find the enthalpy change of formation of compounds experimentally
+  However, many enthalpy changes of combustion can be measured experimentally so
+  these can be used to find the enthalpy of formation
+  To do this, we follow these steps:
+    1. Write the equation for the formation of the compound
+    2. Write the combustion products below the equation
+    3. Draw downward pointing arrows from each substance to its combustion products
+    4. Write values on the arrows and multiply by the number of moles
+    5. In a cycle, go from the reactants to the products, changing the sign of the value if
+       the arrow points in the opposite direction
+
+
+
+
+  Worked Example
+  Calculating the enthalpy change of formation
+  Using the data provided, calculate the standard enthalpy change of formation, ΔHf, of
+  propanone.
+                   3C (s) + 3H2 (g) + ½ O2 (g)      → CH3COCH3 (l)
+            Substance                  C (s)       H2 (g)           CH3COCH3 (l)
+
+         ∆HCө / kJ mol–1               -394        -286                  -1821
+
+  Answer:
+      Step 1: Write the balanced equation
+
+
+
+
+      Step 2:Write the combustion products below the equation
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   23
+                                                                                            Your notes
+
+
+
+
+    Step 3: Draw downward pointing arrows from each substance to its combustion
+    product
+
+
+
+
+    Step 4: Write the appropriate values on the arrows and multiply by the number of
+    moles
+
+
+
+
+    Step 5: In a cycle, go from the reactants to the products, changing the sign of the
+    value if the arrow points in the opposite direction
+
+
+
+
+ΔHfө = -1182 - 858 + 1821 = -219 kJ mol-1
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   24
+    The sign on -1821 needs reversing as the cycle goes in the opposite direction to
+    the arrow pointing to the combustion products
+                                                                                            Your notes
+
+
+
+Examiner Tips and Tricks
+Don't forget to make sure the number of atoms for each element is balanced when
+drawing your cycle.
+
+
+
+
+                        © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   25
+ Bond Enthalpies
+                                                                                              Your notes
+
+Bond Enthalpy - Definitions
+   When bonds are broken or made enthalpy changes take place
+       A chemical bond is a force of attraction between two atoms
+       Breaking the bond requires the input of energy it is therefore an endothermic
+       process
+   The energy change required to break the bond depends on the atoms that form the
+   bond
+       The energy required to break a particular bond is called the bond dissociation
+       enthalpy
+       This is usually just shortened to bond enthalpy or bond energy
+   Bond formation is the opposite of bond breaking and so energy is released when bonds
+   are formed
+       It is therefore an exothermic process
+
+
+
+
+To break bonds energy is required from the surroundings and to make new bonds energy
+                  is released from the reaction to the surroundings
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   26
+   The amount of energy released when a particular bond is formed has the same
+   magnitude as the energy taken in when the bond is broken but has the opposite sign
+                                                                                             Your notes
+Overall enthalpy changes
+   If more energy is released when new bonds are formed than energy is required to break
+   bonds, the reaction is exothermic
+       The products are more stable than the reactants
+   If more energy is required to break bonds than energy is released when new bonds are
+   formed, the reaction is endothermic
+       The products are less stable than the reactants
+   The relationship between bond breaking and bond making can be shown graphically like
+   this:
+
+
+
+
+                                 Bond enthalpy profiles
+Average bond energy
+   Bond energies are affected by other atoms in the molecule (the environment)
+   Therefore, an average of a number of the same type of bond but in different
+   environments is calculated
+   This bond energy is known as the average bond energy and is defined as
+'The energy needed to break one mole of bonds in a gaseous molecule averaged over
+similar compounds'
+
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   27
+                                                                                            Your notes
+
+
+
+
+                    Average bond enthalpy of C-H in methane
+The average bond enthalpy of C-H is found by taking the bond dissociation enthalpy
+for the whole molecule and dividing it by the number of C-H bonds
+The first C-H bond is easier to break than the second as the remaining hydrogens are
+pulled more closely to the carbon
+However, since it is impossible to measure the energy of each C-H bond an average is
+taken
+This value is also compared with a range of similar compounds to obtain an accepted
+value for the average bond enthalpy
+Bond enthalpies can be used to predict which bonds will break first in a reaction
+    Bonds with high bond enthalpy values require more energy to break them
+        Reactions involving these types of bond often require heat and / or the use of a
+        catalyst
+    Bonds with low bond enthalpy values require less energy to break them
+        Reactions involving these types of bonds are more likely to happen at room
+        temperature
+    Therefore, bonds with lower bond enthalpy values are easier to break and are likely
+    to be the first bonds to break in a reaction
+
+
+
+
+Examiner Tips and Tricks
+
+
+
+                        © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   28
+ A lot of students mix up endothermic / exothermic and bond breaking / bond making.
+ An easy way to remember is that ENDOTHERMIC leads to the poetic phrase the 'end               Your notes
+ o' the bond'
+
+
+Bond Enthalpy - Calculations
+ Bond energies are used to find the ΔHrꝋ of a reaction when this cannot be done
+ experimentally
+ The process is a step-by-step summation of the bond enthalpies of the all the
+ molecules present finishing with this formula:
+    ΔrHꝋ = enthalpy change for bonds broken + enthalpy change for bonds formed
+
+ These two worked examples show how to lay out your calculation
+
+
+
+
+ Worked Example
+ Calculate the enthalpy of reaction for the Haber process reaction. The relevant bond
+ energies are given in the table below:
+
+
+
+
+ Answer:
+ Step 1: The chemical equation for the Haber process is:
+                              N2 (g) + 3H2 (g) ⇌ 2NH3 (g)
+                                N≡N 3 H-H        6 N-H
+ Step 2: Set out the calculation as a balance sheet as shown below:
+
+
+
+
+                         © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   29
+                                                                                            Your notes
+
+
+
+
+Note! Values for bonds broken are positive (endothermic) and values for bonds
+formed are negative (exothermic)
+Step 3: Calculate the standard enthalpy of reaction
+    ΔrHꝋ = enthalpy change for bonds broken + enthalpy change for bonds formed
+
+        ΔrHꝋ = (+2253 kJ mol-1) + (-2346 kJ mol-1)
+        ΔrHꝋ = -93 kJ mol-1
+
+
+
+
+Worked Example
+The complete combustion of ethyne, C2H2 , is shown in the equation below:
+                     2C2H2 (g) + 5 O2 (g) → 2H2O (g) + 4CO2 (g)
+Using the average bond enthalpies given in the table, what is the enthalpy of
+combustion of ethyne?
+
+
+
+
+Answer:
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   30
+Step 1: The enthalpy of combustion is the enthalpy change when one mole of a
+substance reacts in excess oxygen to produce water and carbon dioxide
+                                                                                           Your notes
+The chemical reaction should be therefore simplified such that only one mole of
+ethyne reacts in excess oxygen:
+                     H-C≡C-H + 2 ½ O=O → H-O-H + 2O=C=O
+Step 2: Set out the calculation as a balance sheet as shown below:
+
+
+
+
+    ΔrHꝋ = enthalpy change for bonds broken + enthalpy change for bonds formed
+
+        ΔrHꝋ = (+2912 kJ mol-1) + (- 4142 kJ mol-1)
+        ΔrHꝋ = -1230 kJ mol-1
+
+
+
+
+Examiner Tips and Tricks
+The key to success in bond enthalpy calculations is to be very careful when
+accounting for every bond present. Always draw out the full displayed structures of
+the molecules so you don't miss any of the bonds.
+Watch out for coefficients in the balanced equations as students often miss those,
+forget to multiply them by the bond enthalpies and get the answer wrong!
+It is super important to show your steps because bond enthalpy calculations often
+carry 3 marks, 2 of which could be for workings if you get the final answer wrong
+
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   31
+

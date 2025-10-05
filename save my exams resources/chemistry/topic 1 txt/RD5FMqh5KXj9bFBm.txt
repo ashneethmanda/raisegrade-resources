@@ -1,0 +1,638 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Alkanes
+Contents
+  Alkanes - Introduction
+  Alkanes as Fuels
+  Combustion of Alkanes
+  Alternative Fuels
+  Free Radicals & Fission
+  The Free Radical Substitution Mechanism
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Alkanes - Introduction
+                                                                                              Your notes
+
+Alkanes - Introduction
+  Hydrocarbons are compounds containing hydrogen and carbon only
+  Some of the hydrocarbon families that you are expected to know include: alkanes,
+  alkenes and arenes
+      Alkanes and alkenes can be described as aliphatic
+      Arenes can be described as aromatic
+  Alkanes have the general molecular formula CnH2n+2
+  They contain only single bonds and are said to be saturated
+  Alkanes are named using the nomenclature rule alk + ane
+      The alk portion of the name depends on the number of carbons
+          1 carbon = meth
+          2 carbons = eth
+          3 carbons = prop
+          4 carbons = but
+          5 carbons = pent
+          After 5 carbons, the naming of alkanes matches the names of the polygons in
+          Maths
+      The ane portion of the name suggests single bonds between the carbon atoms
+
+The First Six Members of the Alkane Family
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   2
+                                                                                           Your notes
+
+
+
+
+Alkanes can be linear, branched or cyclic
+    The key points are that there are no functional groups and only single bonds
+    between the carbon atoms
+Cycloalkanes have the general formula CnH2n
+    This general formula is the same as the alkene general formula but cycloalkanes are
+    still saturated
+    Cycloalkanes are named using the nomenclature rule cyclo + alk + ane
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   3
+           The cyclo portion of the name shows that there is a ring stucture
+           As with alkanes, the alk portion of the name depends on the number of carbons       Your notes
+           The ane portion of the name suggests single bonds between the carbon atoms
+
+
+
+
+ Alkanes are compounds made up of carbon and hydrogen atoms only and contain no
+                               functional group
+
+Alkanes - Reactions
+  The unreactive nature of alkanes can be explained by two factors
+      The high bond enthalpies of the C-C and C-H bonds
+      The very low polarity of the sigma (σ) bonds present
+
+Bond enthalpy
+  The C-C bond has a bond enthalpy of 316 kJ mol-1 and the C-H bond has a bond enthalpy
+  of 411 kJ mol-1
+  The C-H bond is stronger as the bond length is less than the C-C bond
+      This is because the hydrogen atom only consists of one shell, so the distance
+      between the nuclei is shorter
+      Creating greater force of attraction to the nuclei and the pair of electron between
+      them
+
+Polarity
+  The electronegativities of carbon and hydrogen are very similar, therefore the bonds will
+  have very low polarity
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+                                                                                                 Your notes
+
+
+
+
+         Ethane is an example of an alkane that lacks polarity due to almost similar
+                   electronegativities of the carbon and hydrogen atoms
+Alkanes are combusted (burnt) on a large scale for their use as fuels
+
+Complete combustion
+    When alkanes are burnt in excess (plenty of) oxygen, complete combustion will take
+    place and all carbon and hydrogen will be oxidised to carbon dioxide and water
+    respectively
+        For example, the complete combustion of octane to carbon dioxide and water
+
+
+
+
+                           The complete combustion of alkanes
+Incomplete combustion
+    When alkanes are burnt in only a limited supply of oxygen, incomplete combustion will
+    take place and not all the carbon is fully oxidised
+    Some carbon is only partially oxidised to form carbon monoxide
+        For example, the incomplete combustion of octane to form carbon monoxide
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+                                                                                                Your notes
+
+
+
+
+                         The incomplete combustion of alkanes
+  Incomplete combustion often takes place inside a car engine due to a limited amount of
+  oxygen present
+  With a reduced supply of oxygen, carbon will be produced in the form of soot:
+
+
+
+
+Free-radical substitution
+  Alkanes can undergo free-radical substitution in which a hydrogen atom gets
+  substituted by a halogen (chlorine / bromine)
+  Since alkanes are very unreactive, ultraviolet light (sunlight) is needed for this
+  substitution reaction to occur
+  The free-radical substitution reaction consists of three steps:
+      In the initiation step, the halogen bond (Cl-Cl or Br-Br) is broken by UV energy to
+      form two radicals
+      These radicals create further radicals in a chain reaction called the propagation step
+      The reaction is terminated when two radicals collide with each other in a termination
+      step
+  Alkanes can undergo free-radical substitution in which a hydrogen atom gets
+  substituted by a halogen (chlorine/bromine)
+      Ultraviolet light (sunlight) is needed for this substitution reaction to occur
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+                                                                                              Your notes
+
+
+
+
+The fact that the bromine colour has disappeared only when mixed with an alkane and
+  placed in sunlight suggests that the ultraviolet light is essential for the free radical
+                         substitution reaction to take place
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+ Alkanes as Fuels
+                                                                                                    Your notes
+
+Alkanes as Fuels
+   Alkanes are obtained from the fractional distillation and cracking of crude oil
+
+Fractional distillation of crude oil
+   Crude oil is a mixture of hydrocarbons containing alkanes, cycloalkanes and arenes
+   (compounds with a benzene ring)
+   The crude oil is extracted from the earth in a drilling process and transported to an oil
+   refinery
+   At the oil refinery the crude oil is separated into useful fuels by fractional distillation
+       This is a separating technique in which the wide range of different hydrocarbons are
+       separated into fractions based on their boiling points
+
+
+
+
+Crude oil is initially separated into fractions with similar boiling points in a process called
+                                     fractional distillation
+Cracking of crude oil fractions
+
+
+
+                               © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   8
+  However, the smaller hydrocarbon fractions (such as gasoline fractions) are in high
+  demand compared to the larger ones
+                                                                                               Your notes
+  Therefore, some of the excess heavier fractions are broken down into smaller, more
+  useful compounds
+  These more useful compounds include alkanes and alkenes of lower relative formula
+  mass (Mr)
+  This process is called cracking
+
+
+
+
+The heavier fractions that are obtained in fractional distillation are further cracked into
+                    useful alkane and alkenes with lower Mr values
+  When a large hydrocarbon is cracked, a smaller alkane and alkene molecules are
+  formed
+      E.g.. octane and ethene from decane
+
+
+
+
+              Long hydrocarbon fraction is cracked into two smaller ones
+
+
+  The low-molecular mass alkanes formed make good fuels and are in high demand
+  There are two types of cracking:
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+  Thermal cracking requires high temperatures (up to 1000 oC) and high pressure (up to
+  70 atmospheres) and produces alkanes and a lot of alkenes
+                                                                                                Your notes
+  Catalytic cracking uses a lower temperature (around 450 oC) and slight pressure in the
+  presence of a catalyst such as a zeolite or aluminium oxide to produce mainly aromatic
+  hydrocarbons
+Reforming alkanes
+  Many vehicles run on petrol or diesel which are both a mixture of alkanes along with other
+  hydrocarbons, impurities and additives
+  Many of the alkanes in these fuels are straight chain alkanes
+  These straight chain alkanes are more likely to explode, rather than combust, inside the
+  engine
+      This is known as knocking and makes the combustion less efficient
+  To reduce this straight chain alkanes are reformed into:
+      Branched alkanes, e.g. octane → 2,5-dimethylhexane
+        CH3CH2CH2CH2CH2CH2CH2CH3 → CH3CH(CH3)CH2CH2CH(CH3)CH3
+  Cycloalkanes, e.g. hexane → cyclohexane
+                         CH3CH2CH2CH2CH2CH3 → C6H12 + H2
+  Reforming often uses a platinum catalyst
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   10
+ Combustion of Alkanes
+                                                                                            Your notes
+
+Problems of Pollution - General
+  When alkanes are burnt in excess (plenty of) oxygen, complete combustion will take
+  place and all carbon and hydrogen will be oxidised to carbon dioxide and water
+  respectively
+  When alkanes are burnt in only a limited supply of oxygen, incomplete combustion will
+  take place and not all the carbon is fully oxidised
+      Some carbon is only partially oxidised to form carbon monoxide
+  Incomplete combustion often takes place inside a car engine due to a limited amount of
+  oxygen present
+  With a reduced supply of oxygen, carbon will be produced
+  Solid carbon particles (or particulates) released from incomplete combustion clump
+  together to form soot which gradually falls back to the ground
+
+
+
+
+  Car exhaust fumes include toxic gases such as carbon monoxide (CO), oxides of
+  sulfur, oxides of nitrogen (NO/NO2) and volatile organic compounds (VOCs)
+  When released into the atmosphere, these pollutants have serious environmental
+  consequences damaging nature and health
+
+Carbon monoxide
+  CO is a toxic and odourless gas which can cause dizziness, loss of consciousness and
+  eventually death
+      The CO binds well to haemoglobin which therefore cannot bind oxygen and carbon
+      dioxide
+      Oxygen is transported to organs
+      Carbon dioxide is removed as waste material from organs
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   11
+                                                                                               Your notes
+
+
+
+
+    The high affinity of CO to haemoglobin prevents it from binding to O2 and CO2
+Oxides of sulfur
+  Some of the crude oil products from fractional distillation, cracking and reforming
+  contain sulfur atoms
+  When these molecules are combusted, the sulfur atoms form sulfur dioxide and sulfur
+  trioxide
+      Both of these sulfur oxides are acidic
+                                       S + O2 → SO2
+                                   2SO2 + O2 → 2SO3
+  When these acidic sulfur oxides dissolve into water in the atmosphere, they form
+  sulfurous and sulfuric acid
+                                  SO2 + H2O → H2SO3
+                                  SO3 + H2O → H2SO4
+  Both of these acids contribute to acid rain, which is responsible for various
+  environmental issues:
+      Damage / death of aquatic life
+      Damage / death to crops and forests
+      Release of carbon dioxide from carbonate rocks and building materials
+      Corrosion of metallic structures
+
+Oxides of nitrogen
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   12
+  Normally, nitrogen is too unreactive to react with oxygen in air
+  However, in a car engine, high temperatures and pressures are reached causing the              Your notes
+  oxidation of nitrogen to take place:
+                                      N2 + O2 → 2NO
+                                    N2 + 2O2 → 2NO2
+  The oxides of nitrogen are then released in the exhaust fumes into the atmosphere
+  Car exhaust fumes also contain unburnt hydrocarbons from fuels and their oxides
+  (VOCs)
+  In air, the nitrogen oxides can react with these VOCs to form peroxyacetyl nitrate (PAN)
+  which is the main pollutant found in photochemical smog
+      PAN is also harmful to the lungs, eyes and plant-life
+  Nitrogen oxides can also dissolve and react in water with oxygen to form nitrous and
+  nitric acid
+                              3NO2 + O2 → HNO2 + 2HNO3
+  Both of these acids are a cause of acid rain, which can corrode buildings, endanger
+  plant and aquatic life (as lakes and rivers become too acidic) as well as directly
+  damaging human health
+
+Pollutants, their Effect & Removal Table
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   13
+                                                                Your notes
+
+
+
+
+© 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   14
+ Alternative Fuels
+                                                                                               Your notes
+
+Reducing Emissions
+  To reduce the amount of pollutants released in car exhaust fumes, many cars are now
+  fitted with catalytic converters
+  Precious metals (such as platinum, rhodium and palladium) are coated on a honeycomb
+  to provide a large surface area
+  The reactions that take place in the catalytic converter include:
+      Oxidation of unburnt hydrocarbons:
+                        CnH2n+2 + (3n+1)[O] → nCO2 + (n+1)H2O
+  Oxidation of CO to CO2:
+                                    2CO + O2 → 2CO2
+                                            or
+                                2CO + 2NO → 2CO2 + N2
+
+Catalytic removal of NOx and CO
+  Carbon monoxide and the nitrogen oxides released through cars’ exhaust fumes pollute
+  the atmosphere
+  The nitrogen oxides are reduced on the surface of the hot catalyst to form the
+  unreactive and harmless nitrogen gas which is then released from the vehicle’s exhaust
+  pipe into the atmosphere
+  The chemical reaction for the reduction of nitrogen oxide to nitrogen gas by the catalyst
+  is as follows:
+                         2CO (g) + 2NO (g) → 2CO2 (g) + N2 (g)
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+                                                                                                Your notes
+
+
+
+
+        A catalytic converter helps reduce the pollutants from motor vehicles
+Alternative fuels
+  There are a number of reasons for finding and developing alternative fuels:
+      Reducing pollution from the combustion of fossil fuels, including issues associated
+      with global warming and climate change
+      The limited amount and depletion of non-renewable fossil fuels are two reasons for
+      finding alternative fuels
+  Biofuels are renewable fuels
+      Renewable meaning that they can be replaced over a short period of time
+      The bio part of biofuel meaning that it comes from living matter
+  The three main biofuels are biodiesel, bioethanol and biogas
+      Biodiesel - made by refining renewable fats and oils
+      Bioethanol - made by fermentation
+      Biogas - made / released when organic waste breaks down
+
+Benefits of biofuels
+  Biofuels are often considered as carbon neutral
+  Biodiesel and biogas can reduce the amount of waste going to landfill as the waste can
+  be used to produce them
+  Biofuel production could provide money for less developed countries as they have the
+  space to grow the crops required
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   16
+Drawbacks of biofuels
+  The cost of converting engines and machinery to run on biofuels instead of petrol /           Your notes
+  diesel
+  Many developed countries don't have the space to be able to produce enough plants to
+  make the biofuels because the land is needed for food production
+
+Greenhouse Gases
+  When shortwave radiation from the sun strikes the Earth’s surface it is absorbed and re-
+  emitted from the surface of the Earth as infrared radiation
+  Much of the radiation, however, is trapped inside the Earth’s atmosphere by greenhouse
+  gases which can absorb and store the energy
+  Carbon dioxide, methane and water vapour are gases that have this effect
+  Increasing levels of carbon dioxide, although present in only a small amount, is causing
+  significant upset to the Earth’s natural conditions by trapping extra heat energy
+  This process is called the enhanced greenhouse effect
+
+Carbon Neutrality
+  Carbon neutral is defined as a net-zero effect on the amount of carbon dioxide in the
+  atmosphere
+  Hydrogen gas is an important carbon neutral fuel that produces only water when it
+  combusts
+                                H2 (g) + O2 (g) → 2H2O (l)
+  Although it produces a large amount of energy, the low density of hydrogen means you
+  need large amounts compared to fossil fuels to give the same amount of energy per
+  gram
+      Along with its explosive nature, this results in storage problems when using
+      hydrogen as a fuel
+      Producing hydrogen is not cheap, so although it qualifies as a carbon neutral fuel its
+      widespread use remains limited
+  Biofuels are commonly thought of as being plant-based
+      As a plant grows, it absorbs carbon dioxide from the atmosphere during
+      photosynthesis
+      When the plant is then burnt as a fuel it releases the carbon that is stored as carbon
+      dioxide
+      If the amount of carbon dioxide during growth is the same as the amount of carbon
+      dioxide released during combustion, then this is considered to be carbon neutral
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+                                                                                                 Your notes
+
+
+
+
+As a plant grows, it absorbs carbon dioxide from the atmosphere during photosynthesis
+  There is an argument for fossil fuels being carbon neutral because they are releasing the
+  carbon dioxide that they absorbed millions of years ago
+       However, they are not carbon neutral because they absorbed carbon dioxide
+       millions of years ago when the levels of carbon dioxide in the atmosphere were
+       higher than the present day
+  Biofuels are considered to be carbon neutral, although this is not necessarily true
+       There is no consideration for the carbon dioxide used in their production, harvesting,
+       manufacture and any transport involved
+  Biofuel is a generic term applied to any fuel that is considered to have a biological (often
+  plant-based) origin and is an indication of the way that the fuel was produced
+  One of the most common biofuels is bioethanol, which is the same as ethanol
+  It is produced by the fermentation of sugars using yeast enzymes
+  There is a limit to the concentration of ethanol in solution that can be produced using this
+  method, although more efficient and higher yield processes are being developed
+  The separation of the ethanol from the solution is one of the reasons that bioethanol can
+  be argued not to be carbon neutral
+  The following four points are the major considerations for biofuels:
+    1. Land - should the land used for biofuel production be used for food production
+       instead?
+    2. Yield - what volume of biofuel can be produced in the land provided? What
+       percentage of the crop becomes useful fuel?
+    3. Manufacture and transport - what are the energy costs involved in growing,
+       harvesting, processing and transporting the biofuel from crop to finished product?
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   18
+4. Carbon neutrality - how close is the finished product (including manufacture and
+   transport) to being carbon neutral?
+                                                                                         Your notes
+
+
+
+
+                      © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   19
+ Free Radicals & Fission
+                                                                                                Your notes
+
+Free Radicals & Fission
+   In chemical reactions, there are two types of fission or bond breaking:
+     1. Heterolytic fission
+     2. Homolytic fission
+
+
+
+
+The diagram shows heterolytic fission in which the most electronegative atom takes both
+   electrons in the covalent bond and homolytic fission in which each atom takes one
+                            electron from the covalent bond
+Heterolytic fission
+   Heterolytic fission is breaking a covalent bond in such a way that the more
+   electronegative atom takes both the electrons from the bond to form a negative ion and
+   leaving behind a positive ion
+   In heterolytic fission, a double-headed arrow is used to show the movement of a pair of
+   electrons
+   The resulting negative ion is an electron-rich species that can donate a pair of electrons
+       This makes the negative ion a nucleophile
+   The resulting positive ion is an electron-deficient species that can accept a pair of
+   electrons
+
+
+                              © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   20
+        This makes the positive ion an electrophile
+
+                                                                                                Your notes
+
+
+
+
+  A nucleophile ‘loves’ a positive charge and an electrophile ‘loves’ a negative charge
+Homolytic fission
+   Homolytic fission is breaking a covalent bond in such a way that each atom takes an
+   electron from the bond to form two free radicals
+        A free radical is a species that contains an unpaired electron
+   In homolytic fission, single-headed (or fishhook) arrows are used to show the movement
+   of a single electron
+
+
+
+
+The homolytic fission of a chlorine-chlorine bond results in the formation of two chlorine-
+                                       free radicals
+   Each atom involved in the original bond receives one of the two bonding electrons
+        This makes each atom into a free radical
+        This makes the negative ion a nucleophile
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   21
+ The Free Radical Substitution Mechanism
+                                                                                                 Your notes
+
+Free Radical Substitution - Mechanism
+   The free-radical substitution reaction consists of three steps:
+
+Initiation step
+   In the initiation step, the Cl-Cl or Br-Br is broken by energy from the UV light
+   This produces two radicals in a homolytic fission reaction
+
+
+
+
+ The first step of the free-radical substitution reaction is the initiation step, in which two
+                             free radicals are formed by sunlight
+Propagation step
+   The propagation step refers to the progression (growing) of the substitution reaction in
+   a chain reaction
+        Free radicals are very reactive and will attack the unreactive alkanes
+        A C-H bond breaks homolytically (each atom gets an electron from the covalent
+        bond)
+        An alkyl free radical is produced
+        This can attack another chlorine/bromine molecule to form the halogenoalkane and
+        regenerate the chlorine/bromine free radical
+        This free radical can then repeat the cycle
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   22
+                                                                                                Your notes
+
+
+
+
+The second step of the free-radical substitution reaction is the propagation step in which
+                          the reaction grows in a chain reaction
+   This reaction is not very suitable for preparing specific halogenoalkanes as a mixture of
+   substitution products are formed
+        If there is enough chlorine/bromine present, all the hydrogens in the alkane will
+        eventually get substituted (eg. ethane will become C2Cl6/C2Br6)
+
+
+
+
+    The free-radical substitution reaction gives a variety of products and not a pure
+                                    halogenoalkane
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   23
+Termination step
+  The termination step is when the chain reaction terminates (stops) due to two free           Your notes
+  radicals reacting together and forming a single unreactive molecule
+      Multiple products are possible
+
+
+
+
+    The final step in the substitution reaction to form a single unreactive molecule
+Limitations of the free radical mechanism
+  In the termination step, there are a number of possibilities
+  Remember that termination involves any free radical bonding with another free radical
+  If we have two •CH3 radicals, they can bond to form ethane, CH3CH3
+      •CH + •CH → CH CH
+         3     3    3   3
+
+      If we are trying to form a chloroalkane, then ethane is an impurity
+
+Further substitution
+  Excess chlorine present when reacted with methane in the presence of UV light will
+  promote further substitution and could produce CH2Cl2, CHCl3, CCl4
+  Further substitution can occur as follows
+      CH3Cl + •Cl → HCl + •CH2Cl
+      •CH Cl + Cl → CH Cl + •Cl
+         2       2    2 2
+
+  These reactions could occur
+      CH3Cl + Cl2 → CH2Cl2 + HCl
+      CH2Cl2 + Cl2 → CHCl3 + HCl
+      CHCl3 + Cl2 → CCl4 + HCl
+
+Substitution of different carbon atoms
+  If we have an alkane with a middle carbon such as propane, substitution can occur here
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   24
+Propagation steps for the substitution of propane with excess bromine in the presence
+of UV light on the middle carbon are as follows:
+                                                                                           Your notes
+    CH3CH2CH3 + •Br → CH3•CHCH3 + HBr
+    CH3•CHCH3 + Br2 → CH3CH(Br)CH3 + •Br
+If the question asks for the halogen to be substituted onto a middle carbon, you must
+show the radical dot in the correct place, so on the electron-deficient carbon
+
+
+
+
+                        © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   25
+

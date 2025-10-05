@@ -1,0 +1,498 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Group 7
+Contents
+  Trends of the Group 7 Elements
+  Halogen Displacement Reactions
+  Redox Reactions of the Halogens
+  Other Reactions of the Halogens
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Trends of the Group 7 Elements
+                                                                                                 Your notes
+
+Trends of the Group 7 Elements
+   The Group 7 elements are called halogens
+   The halogens have uses in water purification and as bleaching agents (chlorine), as
+   flame-retardants and fire extinguishers (bromine) and as antiseptic and disinfectant
+   agents (iodine)
+
+Colours
+   All halogens have distinct colours which get darker going down the group
+
+
+
+
+         The colours of the Group 7 elements get darker going down the group
+Volatility
+   Volatility refers to how easily a substance can evaporate
+       A volatile substance will have a low boiling point
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+                                                                                                 Your notes
+
+
+
+
+ The melting and boiling points of the Group 7 elements increase going down the group
+                which indicates that the elements become less volatile
+   Going down the group, the boiling point of the elements increases which means that the
+   volatility of the halogens decreases
+       This means that fluorine is the most volatile and iodine the least volatile
+
+Trend in melting and boiling points
+   Halogens are non-metals and are diatomic molecules at room temperature
+       This means that they exist as molecules which are made up of two similar atoms,
+       such as F2
+   The halogens are simple molecular structures with weak London dispersion forces
+   between the diatomic molecules caused by instantaneous dipole-induced dipole
+   forces
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+                                                                                                 Your notes
+
+
+
+
+  The diagram shows that a sudden imbalance of electrons in a nonpolar molecule can
+  cause an instantaneous dipole. When this molecule gets close to another non-polar
+   molecule it can induce a dipole as the cloud of electrons repel the electrons in the
+                        neighbouring molecule to the other side
+   The more electrons there are in a molecule, the greater the instantaneous dipole-
+   induced dipole forces
+   Therefore, the larger the molecule the stronger the London dispersion forces between
+   molecules
+   This is why as you go down the group, it gets more difficult to separate the molecules
+   and the melting and boiling points increase
+   As it gets more difficult to separate the molecules, the volatility of the halogens
+   decreases going down the group
+
+Trend in electronegativity
+   The electronegativity of of the halogens decreases down the group
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+                                                                                             Your notes
+
+
+
+
+     The electronegativity of the halogens decreases going down the group
+The electronegativity of an atom refers to how strongly it attracts electrons towards
+itself in a covalent bond
+The decrease in electronegativity is linked to the size of the halogens
+Going down the group, the atomic radii of the elements increase which means that the
+outer shells get further away from the nucleus
+An ‘incoming’ electron will therefore experience more shielding from the attraction of
+the positive nuclear charge
+The halogens’ ability to accept an electron (their oxidising power) therefore decreases
+going down the group
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+                                                                                                 Your notes
+
+
+
+
+      With increasing atomic size of the halogens (going down the group) their
+            electronegativity, and therefore oxidising power, decreases
+Reactivity
+  When a halogen atom reacts it will usually gain an electron, to form a 1- ion (X + e- → X-)
+  The oxidation number has decreased from 0 to -1, therefore reduction has occurred
+  Therefore halogens will act as oxidising agents
+  Down Group 7 we have seen that the atoms become larger so the outer electrons are
+  further away and are therefore more shielded from the positive nucleus
+  Larger halogen atoms such as iodine will find it more difficult to attract incoming
+  electrons needed to form the 1- ion
+  Therefore the reactivity decreases down Group 7
+
+Reaction with hydrogen
+  To demonstrate the decrease in the reactivity we can look a the reaction with hydrogen
+  gas
+  The table outlines the trend in the reactivity of the halogens with hydrogen gas
+  As we can see the reaction becomes less vigorous down the group
+
+Reaction between Halogen & Hydrogen Gas
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   6
+                                                               Your notes
+
+
+
+
+© 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   7
+ Halogen Displacement Reactions
+                                                                                                Your notes
+
+Halogen Displacement
+  The reactivity of halogens is also shown by their displacement reactions with other
+  halide ions in solutions
+      A more reactive halogen can displace a less reactive halogen from a halide solution
+      of the less reactive halogen
+      Eg. The addition of chlorine water to a solution of bromine water:
+  Cl2 (aq) + 2NaBr (aq) → 2NaCl (aq) + Br2 (aq)
+      The chlorine has displaced the bromine from solution as it is more reactive which can
+      be summarised in the following ionic equation by removing the sodium spectator
+      ions:
+                          Cl2 (aq) + 2Br- (aq) → 2Cl- (aq) + Br2 (aq)
+      Chlorine can also displace iodine from a solution of iodide ions:
+                           Cl2 (aq) + 2I- (aq) → 2Cl- (aq) + I2 (aq)
+  We can see these are both redox reactions by taking a look at changes in the oxidation
+  number of each element in the reaction
+      Br and I both change from = -1 → 0 so the bromine and iodine have been oxidised in
+      their respective reactions
+      Cl = 0 → -1 so the chlorine has been reduced in both reactions
+      No change in oxidation number for the sodium
+
+Chlorine with Bromides & Iodides
+  If you add chlorine solution to colourless potassium bromide or potassium iodide
+  solution a displacement reaction occurs:
+      The solution becomes yellow-orange as bromine is formed
+      The solution becomes brown as iodine is formed
+  If an organic solvent is added, such as cyclohexane, the following observations are
+  seen:
+      The organic layer will appear yellow-orange as bromine is formed
+      The organic layer will appear purple as iodine is formed
+      The organic solvent is useful as the the halogens are more soluble in this layer which
+      helps observe the colour changes more easily
+  Chlorine is above bromine and iodine in Group 7 so it is more reactive
+  Chlorine will displace bromine or iodine from an aqueous solution of the metal halide:
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   8
+                       Cl2 (aq) + 2KBr (aq) → 2KCl (aq) + Br2 (aq)
+            chlorine + potassium bromide → potassium chloride + bromine                         Your notes
+                         Cl2 (aq) + 2KI (aq) → 2KCl (aq) + I2 (aq)
+               chlorine + potassium iodide → potassium chloride + iodine
+
+Bromine with Iodides
+  Bromine is above iodine in Group 7 so it is more reactive
+  Bromine will displace iodine from an aqueous solution of the metal iodide
+              bromine + potassium iodide → potassium bromide + iodine
+                         Br2 (aq) + 2KI (aq) → 2KBr (aq) + I2 (aq)
+  The reaction will turn brown as iodine is formed
+  If an organic solvent is added the organic layer will appear purple as iodine is formed
+  We can show that this is a redox reaction by looking at the changes in oxidation numbers:
+      I = -1 → 0 so the iodine has been oxidised
+      Br = 0 → -1 so the bromine has been reduced
+      No change in oxidation number for the potassium
+  Rather than writing the full equation, we can also write the ionic equation by removing
+  the potassium spectator ion
+                         Br2 (aq) + 2I- (aq) → 2Br- (aq) + I2 (aq)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   9
+ Redox Reactions of the Halogens
+                                                                                                   Your notes
+
+Redox Reactions of the Halogens
+Reactions with Group 1 & 2 metals
+   The halogens react with some metals to form ionic compounds which are metal halide
+   salts
+   In all reactions where halogens are reacting with metals, the metals are being oxidised
+   Reaction of sodium and chlorine
+       2Na (s) + Cl2 (g) → 2NaCl (s)
+       Na is being oxidised, the oxidation number is changing from 0 to +1
+   Calcium is a group 2 metal:
+       Ca (s) + Br2 (l) → CaBr2 (s)
+       Ca is being oxidised, the oxidation number is changing from 0 to +2
+   Therefore the halogens are acting as oxidising agents
+
+Reactions with Iron(II)
+   Chlorine and bromine can oxidise iron(II) to iron(III)
+                          Cl2 (g) + 2Fe2+ (aq) → 2Cl- (aq) + 2Fe3+ (aq)
+                          Br2 (g) + 2Fe2+ (aq) → 2Br- (aq) + 2Fe3+ (aq)
+   However, iodine is not a strong enough oxidising agent to oxidise iron(II) to iron(III)
+   Iodine is actually oxidised from iodide ions to iodine by iron(III)
+                           2I- (aq) + 2Fe3+ (aq) → I2 (aq) + 2Fe2+ (aq)
+
+Disproportionation reaction
+   A disproportionation reaction is a reaction in which the same species is both oxidised
+   and reduced
+   The reaction of chlorine with dilute alkali is an example of a disproportionation reaction
+   In these reactions, the chlorine gets oxidised and reduced at the same time
+   Different reactions take place at different temperatures of the dilute alkali
+
+Chlorine in cold alkali (15 oC)
+   The reaction that takes place is:
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   10
+   The ionic equation is:
+
+                                                                                                 Your notes
+
+
+
+
+   The ionic equation shows that the chlorine gets both oxidised and reduced
+   Chlorine gets oxidised as there is an increase in ox. no. from 0 to +1 in ClO-(aq)
+       The half-equation for the oxidation reaction is:
+
+
+
+
+   Chlorine gets reduced as there is a decrease in ox. no. from 0 to -1 in Cl-(aq)
+       The half-equation for the reduction reaction is:
+
+
+
+
+Chlorine in hot alkali (70 oC)
+   The reaction that takes place is:
+
+
+
+
+   The ionic equation is:
+
+
+
+
+   The ionic equation shows that the chlorine gets both oxidised and reduced
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   11
+   Chlorine gets oxidised as there is an increase in ox. no. from 0 to +5 in ClO3-(aq)
+       The half-equation for the oxidation reaction is:                                             Your notes
+
+
+
+
+   Chlorine gets reduced as there is a decrease in ox. no. from 0 to -1 in Cl-(aq)
+       The half-equation for the reduction reaction is:
+
+
+
+
+Drinking water
+   Chlorine can be used to clean water and make it drinkable
+   The reaction of chlorine in water is a disproportionation reaction in which the chlorine
+   gets both oxidised and reduced
+
+
+
+
+The disproportionation reaction of chlorine with water in which chlorine gets reduced to
+                              HCl and oxidised to HClO
+   Chloric(I) acid (HClO) sterilises water by killing bacteria
+   Chloric acid can further dissociate in water to form ClO-(aq):
+                              HClO (aq) → H+ (aq) + ClO- (aq)
+   ClO-(aq) also acts as a sterilising agent cleaning the water
+
+
+
+
+                             © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   12
+ Other Reactions of the Halogens
+                                                                                                Your notes
+
+Other Reactions of the Halogens
+Concentrated sulfuric acid
+  Chloride, bromide and iodide ions react with concentrated sulfuric acid to produce
+  toxic gases
+  These reactions should therefore be carried out in a fume cupboard
+  The general reaction of the halide ions with concentrated sulfuric acid is:
+                        H2SO4(l) + X-(aq) → HX(g) + HSO4-(aq)
+                                      (general equation)
+                                Where X- is the halide ion
+
+Reaction of chloride ions with concentrated sulfuric acid
+  Concentrated sulfuric acid is dropwise added to sodium chloride crystals to produce
+  hydrogen chloride gas
+
+
+
+
+ Apparatus set up for the reaction of sodium chloride with concentrated sulfuric acid
+  The reaction that takes place is:
+                      H2SO4 (l) + NaCl (s) → HCl (g) + NaHSO4 (s)
+  The HCl gas produces is seen as misty fumes
+
+Reaction of bromide ions with concentrated sulfuric acid
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   13
+  The thermal stability of the hydrogen halides decreases down the group
+  The reaction of sodium bromide and concentrated sulfuric acid is:                              Your notes
+                      H2SO4 (l) + NaBr (s) → HBr (g) + NaHSO4 (s)
+  The concentrated sulfuric acid oxidises HBr which decomposes into bromine and
+  hydrogen gas and sulfuric acid itself is reduced to sulfur dioxide gas:
+                    2HBr (g) + H2SO4 (l) → Br2 (g) + SO2 (g) + 2H2O (l)
+  The bromine is seen as a reddish-brown gas
+
+Reaction of iodide ions with concentrated sulfuric acid
+  The reaction of sodium iodide and concentrated sulfuric acid is:
+                       H2SO4 (l) + NaI (s) → HI (g) + NaHSO4 (s)
+  Hydrogen iodide decomposes the easiest
+  Sulfuric acid oxidises the hydrogen iodide to several extents:
+  The concentrated sulfuric acid oxidises HI and is itself reduced to sulfur dioxide gas:
+                      2HI (g) + H2SO4 (l) → I2 (g) + SO2 (g) + 2H2O (l)
+  Iodine is seen as a violet/purple vapour
+  The concentrated sulfuric acid oxidises HI and is itself reduced to sulfur:
+                       6HI (g) + H2SO4 (l) → 3I2 (g) + S (s) + 4H2O (l)
+  Sulfur is seen as a yellow solid
+  The concentrated sulfuric acid oxidises HI and is itself reduced to hydrogen sulfide:
+                     8HI (g) + H2SO4 (l) → 4I2 (g) + H2S (s) + 4H2O (l)
+  Hydrogen sulfide has a strong smell of bad eggs
+
+Further redox reaction involving sulfur dioxide
+  HI is such a strong reducing agent that it can reduce sulfur dioxide, SO2, further to
+  hydrogen sulfide, H2S
+                        SO₂ (g) + 2HI (g) → H2S (g) + I2 (s) + H2O (l)
+  Sulfur is reduced from +4 in SO₂ to –2 in H2S, a gain of 6 electrons:
+      This demonstrates reduction
+  The iodide ion is oxidised to iodine (I2), seen as purple vapour
+  The bad egg smell of H2S confirms the presence of this gas
+  This final step highlights the maximum reducing power of iodide ions, not seen with Cl⁻ or
+  Br⁻
+
+Halide ion Reactions with Concentrated Sulfuric Acid Table
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   14
+Halide          Reaction with conc H2SO4                    Observations
+ion
+                                                                                                         Your notes
+Cl- (aq)        H2​SO4​(l) + NaCl (s) → HCl (g) +           Misty fumes of HCl gas
+                NaHSO4​(s)
+
+Br- (aq)        H2​SO4​(l) + NaBr (s) → HBr (g) +           Misty fumes of HBr gas
+                NaHSO4​(s)
+                                                            Chocking gas of SO2 and reddish
+                H2​SO4​(l) + 2HBr (g) → Br2 (g) + SO2       brown gas of Br2
+                (g) + 2H2O (l)
+
+I- (aq)         H2​SO4​(l) + NaI (s) → HI (g) + NaHSO4      Misty fumes of HI gas
+                (s)
+                                                            Chocking gas of SO2 and purple vapour
+                H2​SO4​(l) + 2HI (g) → I2 (s) + SO2 (g) +   of I2
+                2H2O (l)
+                                                            Yellow solid of S (s)
+                H2​SO4​(l) + 6HI (g) → 3I2 (s) + S (s) +
+                4H2O (l)                                    Strong, bad egg smell of H2S (g)
+
+                H2​SO4​(l) + 8HI (g) → 4I2 (s) + H2S (g)
+                + 4H2O (l)
+
+
+Explaining the Trend in Reducing Ability of Halide Ions
+   As you go down Group 7, the halide ions get bigger (Cl⁻ → Br⁻ → I⁻)
+   So, the attraction between the outer electrons and the nucleus gets weaker
+   This makes it easier for the larger halide ions to lose electrons
+   When they lose electrons, they reduce other substances,
+   So the reducing power increases down the group:
+           Cl⁻ < Br⁻ < I⁻
+
+Silver ions & ammonia
+   Halide ions can be identified in an unknown solution by dissolving the solution in nitric
+   acid and then adding a silver nitrate solution followed by ammonia solution
+   The halide ions will react with the silver nitrate solution as follows:
+                              AgNO3 (aq) + X- (aq) → AgX (s) + NO3- (aq)
+                                       Ag+ (aq) + X- (aq) → AgX (s)
+   X- is the halide ion in both equations
+   If the unknown solution contains halide ions, then a precipitate of the silver halide will be
+   formed (AgX)
+
+
+
+
+                                  © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   15
+                                                                                               Your notes
+
+
+
+
+A silver halide precipitate is formed upon addition of silver nitrate solution to halide ion
+                                         solution
+  Dilute followed by concentrated ammonia is added to the silver halide solution to
+  identify the halide ion
+  If the precipitate dissolves in dilute ammonia the unknown halide is chloride
+  If the precipitate does not dissolve in dilute but in concentrated ammonia the unknown
+  halide is bromide
+  If the precipitate does not dissolve in dilute nor concentrated ammonia the unknown
+  halide is iodide
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+                                                                                             Your notes
+
+
+
+
+Silver chloride and silver bromide precipitates dissolve on addition of ammonia solution
+                              whereas silver iodide doesn’t
+Reaction of Halide Ions with Silver Nitrate & Ammonia
+Solutions Table
+Halide     Colour of Silver Halide      Effect of adding dil.   Effect of adding conc.
+ion        Solution                     NH3                     NH3
+
+Cl- (aq)   White                        Dissolves               Dissolves
+
+Br- (aq)   Cream                        Insoluble               Dissolves
+
+I- (aq)    Pale yellow                  Insoluble               Insoluble
+
+
+Reactions with hydrogen halides
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   17
+    When a halogen reacts with hydrogen a hydrogen halide is produced, for example:
+        Cl2 (g) + H2 (g) → 2HCl (g)                                                               Your notes
+    These hydrogen halides react with ammonia gas to form ammonium halides
+        NH3 (g) + HCl (g) → NH4Cl (s)
+    Hydrogen halides will also react with water
+    For example, hydrogen chloride also dissolves in water to form hydrochloric acid
+        HCl (g) → H+ (aq) + Cl- (aq)
+
+Fluorine & Astatine
+Fluorides and Astatides
+    If you are asked to predict reactions of fluorides and astatides that you are not familiar
+    with you can use the information about Group 7 to help
+    There are, however, exceptions to some of the reactions
+        For example, silver fluoride is soluble, so we can not used acidified silver nitrate to
+        test for the presence of fluoride ions
+             Ag+ (aq) + F- (aq) → AgF (aq)
+
+
+
+
+   Worked Example
+   Write an equation to show the formation of an acid when hydrogen astatide is added
+   to water.
+   Answer:
+       Based on the reaction of hydrogen iodide with water:
+            HI (g) + H2O (g) → H3O+ (aq) + I– (aq)
+            So, hydrogen astatide must be:
+                HAt (g) + H2O (g) → H3O+ (aq) + At– (aq)
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   18
+

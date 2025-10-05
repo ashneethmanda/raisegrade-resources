@@ -1,0 +1,684 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Amount of Substance
+Contents
+  Concentration Calculations
+  Reacting Mass Calculations
+  Reacting Volume Calculations
+  Calculations of Product
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Concentration Calculations
+                                                                                                Your notes
+
+Concentration Calculations
+Amount of substance calculations
+  As previously discussed, the amount of substance can be defined as the number of
+  particles in a substance, n, measured in moles (often abbreviated to mol)
+  In reality, amount of substance is used as a blanket term to cover most chemical
+  calculations, especially those that involve moles
+  The two main calculations for amount of substance are:
+
+                                             mass , m
+                              Moles, n =
+                                           molar mass , M
+                           Moles, n = concentration x volume
+  Other common calculations for amount of substance include:
+
+                                     number of particles
+                        Moles, n =
+                                                 '
+                                     Avogadro s constant
+                              PV
+                 Moles, n =      from the ideal gas equation (PV = nRT)
+                              RT
+Concentration calculations
+  Concentration can be defined as the amount of a substance dissolved in a quantity of
+  liquid
+  When a mass concentration is calculated, the units are usually g dm-3
+      Other units are possible such as g cm-3, kg m-3 and sometimes in medicines you
+      might see them as mg / ml
+      The equation to calculate mass concentration is:
+
+                                                mass of solute in g
+           mass concentration in g dm3 =
+                                             volume of solution in dm3
+  When a molar concentration is calculated, the units are mol dm-3
+      Calculating molar concentrations requires the use of two equations:
+
+                                                       mass
+                    number of moles (or amount) =
+                                                     molar mass
+  Molar mass is the mass per mole of a substance in g mol-1
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+                                            number of moles or amount (          )
+
+
+     molar concentration in mol dm-3 =
+                                             volume of solution in dm3                            Your notes
+
+
+
+Worked Example
+Mass concentration calculations
+ 1. What is the mass concentration when 6.34 g of sodium chloride is dissolved into a
+    0.250 dm3 solution?
+ 2. A sodium carbonate solution has a mass concentration of 5.2 g dm-3. What is the
+    volume of the solution made when 250 g of sodium carbonate is used?
+ 3. The mass concentration of a solution is 26.7 g dm-3. What is the mass of sodium
+    bromide in 500 cm3 of solution?
+Answer 1
+
+                             mass g      6 . 34
+                         = volume dm3 = 0 . 250 = 25.4 g dm-3 (to 3 s.f.)
+                                        (   )
+
+
+    Mass concentration
+                                        (       )
+
+
+
+
+ Answer 2
+
+                                        mass g                            250
+                         = mass concentration g dm3 = 5 . 2 = 48 dm3
+                                                    (   )
+
+
+    Volume of solution
+                                                            (     )
+
+
+
+
+      This answer should be given to 2 s.f. as there is a value in the question with
+      only 2 significant figures
+ Answer 3
+    Mass = mass concentration (g dm-3) x volume of solution (dm3) = 26.7 x 0.5 = 13.4
+    g (to 3 s.f.)
+        The 500 cm3 in the question has to be converted into dm3
+          500
+              = 0.5 dm3
+         1000
+
+
+
+
+Worked Example
+Molar concentration calculations
+ 1. What is the molar concentration when 6.34 g of sodium chloride is dissolved into
+    a 250 cm3 solution?
+ 2. A sodium carbonate solution has a molar concentration of 1.25 mol dm-3. What is
+    the volume of the solution made when 250 g of sodium carbonate is used?
+ 3. The molar concentration of a sodium bromide solution is 0.250 mol dm-3. What is
+    the mass of sodium bromide in 500 cm3 of this solution?
+Answer 1
+
+
+
+
+                          © 2025 Save My Exams, Ltd.            Get more and ace your exams at savemyexams.com   3
+                                          mass           6 . 34
+      Number of moles of NaCl         = molar mass = 23. 0 + 35. 5 = 0.1084
+                                                               (            )
+                                                                                                     Your notes
+      moles
+          Molar concentration in mol dm-3
+             number of moles or amount    0 . 1084
+            = volume of solution in dm3 = 0 . 250 = 0.434 mol dm-3
+                                         (             )
+
+
+
+
+   Answer 2
+      Number of moles of Na2CO3
+              mass                               250
+      = molar mass = 23. 0 × 2 + 12. 0 + 16. 0 × 3 = 2.358 moles
+                              (              )             (           )
+
+
+
+
+          Volume of solution in dm3
+     number of moles or amount        2 . 358
+  = Molar concentration in mol dm−3 = 1 . 25 = 1.89 dm3
+                                  (              )
+
+
+
+
+   Answer 3
+      Number of moles of NaBr = molar concentration x volume of solution
+  = 0.250 x 0.500 = 0.125 moles
+       Mass of NaBr = number of moles of NaBr x molar mass
+  = 0.125 x (23.0 + 79.9) = 12.9 g
+
+Parts per million
+  When expressing extremely low concentrations a unit that can be used is parts per
+  million or ppm
+  This is useful when giving the concentration of a pollutant in water or the air when the
+  absolute amount is tiny compared the the volume of water or air
+  1 ppm is defined as
+      A mass of 1 mg dissolved in 1 dm3 of water
+  Since 1 dm3 weighs 1 kg we can also say it is
+      A mass of 1 mg dissolved in 1 kg of water, or 10-3 g in 103 g which is the same as
+      saying the concentration is 1 in 106 or 1 in a million
+
+
+
+
+  Worked Example
+  The concentration of chlorine in a swimming pool should between between 1 and 3
+  ppm. Calculate the maximum mass, in kg, of chlorine that should be present in an
+  olympic swimming pool of size 2.5 million litres.
+  Answer:
+  Step 1: calculate the total mass in mg assuming 3ppm(1 litre is the same as 1 dm3)
+
+
+
+                             © 2025 Save My Exams, Ltd.            Get more and ace your exams at savemyexams.com   4
+     3 x 2.5 x 106 = 7.5 x 106 mg
+  Step 2: convert the mass into kilograms (1 mg = 10-6 kg)
+                                                                                               Your notes
+      7.5 x 106 x 10-6 kg = 7.5 kg
+
+Atmospheric gas concentration
+  The concentration of atmospheric gases, particularly pollutants, can be measured in
+  parts per million, ppm
+  Instead of using mass, the comparison of gas is done by volume
+      You might see the values quoted in ppmv - the v shows that the value relates to
+      concentration by volume
+  A concentration of 1 ppmv means that there is 1 cm3 of a particular gas in 1000000cm3
+  or 1000 dm3
+  The equation to calculate the concentration of a gas in ppm is:
+
+                                            volume of gas × 1000000
+            concentration in ppm =
+                                                 volume of air
+  The volumes can be given in any units but they must be the same units, otherwise one of
+  them will need to be converted
+
+
+
+
+  Worked Example
+  Atmospheric gas concentration calculations
+  Calculate the concentration, in ppm, of the following:
+   1. A volume of 2.5 dm3 of carbon dioxide in 10000 dm3 of air
+   2. A volume of 2.5 dm3 of sulfur dioxide in 4000 dm3 of air
+   3. A volume of 152 cm3 of ozone in 112 dm3 of air
+  Answer 1
+      Concentration in ppm
+      volume of gas × 1000000 2 . 5 × 1000000
+  =        volume of air
+                             = 10000 = 250 ppm
+   Answer 2
+      Concentration in ppm
+      volume of gas × 1000000 2 . 5 × 1000000
+  =        volume of air
+                             =       4000
+                                              = 625 ppm
+   Answer 3
+  A volume of 152 cm3 of ozone in 112 dm3 of air
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+    Concentration in ppm
+        volume of gas × 1000000 0 . 152 × 1000000
+    =        volume of air
+                               =       112 . 0
+                                                  = 1360 ppm                             Your notes
+
+
+
+
+Examiner Tips and Tricks
+When completing atmospheric gas calculations, the gas involved does not affect the
+calculation as shown by worked examples 1 and 2
+
+
+
+
+                         © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   6
+Reacting Mass Calculations
+                                                                                              Your notes
+
+Reacting Mass Calculations
+ Chemical equations can be used to calculate the moles or masses of reactants and
+ products
+ To do this, information given in the question is used to find the amount in moles of the
+ substances being considered
+ Then, the ratio between the substances is identified using the balanced chemical
+ equation
+ Once the moles have been determined they can then be converted into grams using the
+ relative atomic or relative formula masses
+
+
+
+
+ Worked Example
+ Example 1
+ Calculate the mass of magnesium oxide that can be made by completely burning 6.0
+ g of magnesium in oxygen in the following reaction:
+                             2Mg (s) + O2 (g) ⟶ 2 MgO (s)
+ Answer:
+
+
+
+
+ Worked Example
+ Example 2
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+  Calculate the mass of aluminium, in tonnes, that can be produced from 51 tonnes of
+  aluminium oxide. The equation for the reaction is:
+                                                                                              Your notes
+                                  2Al2O3 ⟶ 4Al + 3O2
+  Answer:
+
+
+
+
+  Examiner Tips and Tricks
+  As long as you are consistent it doesn't matter whether you work in grams or tonnes or
+  any other mass unit as the reacting masses will always be in proportion to the
+  balanced equation.
+
+Balancing Equations using Reacting Masses
+  If the masses of reactants and products of a reaction are known then we can use them to
+  write a balanced equation for that reaction
+  This is done by converting the masses to moles and simplifying to find the molar ratios
+
+
+
+
+  Worked Example
+  Example 3
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+A student reacts 1.2 g of carbon with 16.2 g of zinc oxide. The resulting products are
+4.4 g of carbon dioxide and 13 g of zinc.
+                                                                                              Your notes
+Determine the balanced equation for the reaction.
+Answer:
+
+
+
+
+Examiner Tips and Tricks
+These questions look hard but they are actually quite easy to do, as long as you follow
+the steps and organise your work neatly.
+Remember: The molar ratio of a balanced equation gives you the ratio of the amounts
+of each substance in the reaction.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+Reacting Volume Calculations
+                                                                                               Your notes
+
+Reacting Volume Calculations
+ Reacting volume calculations are commonly associated with the reactions of gases
+ All gases occupy the same volume under the same conditions
+     At room temperature and pressure (r.t.p.), the molar gas volume of any gas is 24.0
+     dm3
+           Room temperature and pressure are 293 K / 20 oC and 101.3 kPa respectively
+     At standard temperature and pressure (s.t.p.), the molar gas volume of any gas is
+     22.4 dm3
+           Standard temperature and pressure are 273 K / 0 oC and 101.3 kPa respectively
+ The equation to calculate the number of moles for any volume of gas is:
+
+                                      Volume of gas dm3         (       )
+
+
+                   Number of moles =
+                                     Molar gas volume dm3           (       )
+
+
+
+
+ Worked Example
+ Molar gas volume calculations
+ Calculate the number of moles present in 4.5 dm3 of carbon dioxide at:
+  1. Room temperature and pressure
+  2. Standard temperature and pressure
+ Answers
+
+                        Volume of gas dm3                         4.5
+  1. Number of moles =                                          = 24 = 0.1875 moles
+                                                (       )
+
+
+
+
+                       Molar gas volume dm3         (       )
+
+
+
+
+                        Volume of gas dm3                          4.5
+  2. Number of moles =                                          = 22. 4 = 0.201 moles
+                                                (       )
+
+
+
+
+                       Molar gas volume dm3         (       )
+
+
+
+
+     (to 3 s.f.)
+
+ Volumes of gas can also be calculated using
+     Number of moles calculations
+     Volume calculations
+ This can help determine the size of the equipment that you use in an experiment
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   10
+ Worked Example
+ Calculating gas volumes from moles                                                            Your notes
+ Calculate the volume of gas produced when 1.50 g of sodium reacts with water at
+ standard temperature and pressure.
+ Answer
+ Step 1: Write the balanced equation for the reaction
+    2Na (s) + 2H2O (l) → 2NaOH (aq) + H2 (g)
+ Step 2: Calculate the number of moles of sodium
+
+                                 mass g         1.5
+                         = molar mass g mol−1 = 23. 0 = 0.0652 moles (to
+                                               (    )
+
+
+     Number of moles
+                                              (         )
+
+
+
+
+     3s.f.)
+ Step 3: Use the stoichiometry of the equation to calculate the number of moles of
+ hydrogen
+     The stoichiometric ratio of Na : H2 is 2 : 1
+
+                                                            0 . 0652
+          Therefore, the number of moles of hydrogen is
+                                                                 2
+                                                                     = 0.0326 moles
+ Step 4: Calculate the volume of hydrogen gas evolved
+     Volume of gas = number of moles x molar gas volume
+          Volume of gas = 0.0326 x 22.4 = 0.730 dm3 (to 3s.f.)
+
+
+
+
+ Worked Example
+ Calculating gas volumes from other volumes
+ Calculate the total volume of gas produced when 6.50 dm3 of propane combusts
+ completely
+ Answer
+ Step 1: Write the balanced equation for the reaction
+    C3H8 (g) + 5O2 (g) → 3CO2 (g) + 4H2O (g)
+ Step 2: Determine the number of moles of gas produced
+     One mole of propane produces 3 moles of carbon dioxide and 4 moles of water
+         Therefore, one mole of propane produces a total of 7 moles of gas
+ Step 3: Calculate the volume of gas that is produced
+     6.50 dm3 of propane will produce 7 x 6.50 dm3 of gas = 45.5 dm3 gas
+
+
+The Ideal Gas Expression
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   11
+Kinetic theory of gases
+  The kinetic theory of gases states that molecules in gases are constantly moving            Your notes
+  The theory makes the following assumptions:
+      That gas molecules are moving very fast and randomly
+      That molecules hardly have any volume
+      That gas molecules do not attract or repel each other (no intermolecular forces)
+      No kinetic energy is lost when the gas molecules collide with each other (elastic
+      collisions)
+      The temperature of the gas is related to the average kinetic energy of the molecules
+  Gases that follow the kinetic theory of gases are called ideal gases
+  However, in reality gases do not fit this description exactly but may come very close and
+  are called real gases
+
+Ideal gas equation
+  The ideal gas equation shows the relationship between pressure, volume, temperature
+  and number of moles of gas of an ideal gas:
+                                            PV = nRT
+  P = pressure (pascals, Pa)
+      V = volume (m3)
+      n = number of moles of gas (mol)
+      R = gas constant (8.31 J K-1 mol-1)
+      T = temperature (kelvin, K)
+
+
+
+  Worked Example
+  Calculating the volume of a gas
+  Calculate the volume occupied by 0.781 mol of oxygen at a pressure of 220 kPa and a
+  temperature of 21 °C
+  Answer
+  Step 1: Rearrange the ideal gas equation to find volume of gas
+
+                                                 nRT
+                                            V=
+                                                  P
+  Step 2: Calculate the volume the oxygen gas occupies
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+    P = 220 kPa = 220 000 Pa
+         n = 0.781 mol                                                                      Your notes
+         R = 8.31 J K-1 mol-1
+         T = 21 oC = 294 K
+                 0 . 781 × 8 . 31 × 294
+           V=                           = 0 . 00867 m3 = 8 . 67 dm3
+                         220000
+
+
+
+
+Worked Example
+Calculating the molar mass of a gas
+A flask of volume 1000 cm3 contains 6.39 g of a gas. The pressure in the flask was 300
+kPa and the temperature was 23 °C.
+Calculate the relative molecular mass of the gas.
+Answer
+Step 1: Rearrange the ideal gas equation to find the number of moles of gas
+
+                                            PV
+                                       n=
+                                            RT
+Step 2: Calculate the number of moles of gas
+    P = 300 kPa = 300 000 Pa
+         V = 1000 cm3 = 1 dm3 = 0.001 m3
+         R = 8.31 J K-1 mol-1
+         T = 23 oC = 296 K
+                              300000 × 0 . 001
+                         n=                    = 0 . 12 mol
+                                8 . 31 × 296
+Step 3: Calculate the molar mass using the number of moles of gas
+
+                                         mass
+                                  n=
+                                       molar mass
+                                    6 . 39
+                     molar mass   = 0 . 12 = 53. 25 g mol−1
+
+
+
+Examiner Tips and Tricks
+To calculate the temperature in Kelvin, add 273 to the Celsius temperature, e.g. 100
+oC is 373 Kelvin.
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   13
+You must be able to rearrange the ideal gas equation to work out all parts of it.
+The units are incredibly important in this equation - make sure you know what units           Your notes
+you should use, and do the necessary conversions when doing your calculations!
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+ Calculations of Product
+                                                                                                Your notes
+
+Calculating Yield & Atom Economy
+Percentage yield
+  In a lot of reactions, not all reactants react to form products which can be due to several
+  factors:
+      Other reactions take place simultaneously
+      The reaction does not go to completion
+      Products are lost during separation and purification
+  The percentage yield shows how much of a particular product you get from the
+  reactants compared to the maximum theoretical amount that you can get:
+
+                                             actual yield
+                percentage yield =                           × 100
+                                           theoretical yield
+  The actual yield is the number of moles or mass of product obtained experimentally
+      The theoretical yield is the number of moles or mass obtained by a reacting mass
+      calculation
+
+
+
+
+  Worked Example
+  In an experiment to displace copper from copper(II) sulfate, 6.5 g of zinc was added
+  to an excess of copper(II) sulfate solution. The resulting copper was filtered off,
+  washed and dried. The mass of copper obtained was 4.8 g.
+  Calculate the percentage yield of copper.
+   Answer:
+   Step 1: The balanced symbol equation is:
+                         Zn (s) + CuSO4 (aq) → ZnSO4 (aq) + Cu (s)
+   Step 2: Calculate the amount of zinc reacted in moles
+
+                                               6.5 g
+              number of moles =                          = 0 . 10 mol
+                                          65. 4 g mol −1
+  Step 3: Calculate the maximum amount of copper that could be formed from the
+  molar ratio: Since the ratio of Zn(s) to Cu(s) is 1:1 a maximum of 0.10 moles can be
+  produced
+  Step 4: Calculate the maximum mass of copper that could be formed (theoretical
+  yield)
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   15
+                                      mass = mol x M
+                             mass = 0.10 mol x 63.55 g mol-1                                     Your notes
+                                  mass = 6.4 g (2 sig figs)
+   Step 5: Calculate the percentage yield of copper
+
+                                              4.8 g
+                  percentage yield =                × 100 = 75%
+                                              6.4 g
+
+
+
+
+  Examiner Tips and Tricks
+  It is possible to calculate a percentage yield that is greater than 100%. This would be
+  an error which could occur when preparing crystals due to:
+      The crystals may still be dry when weighed
+      There are impurities in the crystals
+      The mass of the filter paper or container could mistakingly be included in the total
+      mass of the product
+
+Atom economy
+   The atom economy of a reaction shows how many of the atoms used in the reaction
+   become the desired product
+       The rest of the atoms or mass is wasted
+   It is found directly from the balanced equation by calculating the Mr of the desired
+   product
+
+                            molecular mass of desired product
+Atom economy =                                                    × 100
+                         sum of molecular masses of ALL reactants
+In addition reactions, the atom economy will always be 100% because all of the atoms are
+used to make the desired product Whenever there is only one product, the atom economy
+     will always be 100% For example, in the reaction between ethene and bromine:
+                              CH2=CH2 + Br2 → CH2BrCH2Br
+   The atom economy could also be calculated using mass, instead or Mr
+       In this case, you would divide the mass of the desired product formed by the total
+       mass of all reactants, and then multiply by 100
+   Questions about atom economy often ask in qualitative or quantitative terms
+
+
+
+
+  Worked Example
+  Qualitative atom economy Ethanol can be produced by various reactions, such as:
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   16
+                    Hydration of ethene: C2H4 + H2O → C2H5OH
+          Substitution of bromoethane: C2H5Br + NaOH → C2H5OH + NaBr                             Your notes
+Explain which reaction has a higher atom economy.
+ Answer
+Hydration of ethene has a higher atom economy (of 100%) because all of the
+reactants are converted into products, whereas the substitution of bromoethane
+produces NaBr as a waste product
+
+
+
+
+Worked Example
+Quantitative atom economy
+The blast furnace uses carbon monoxide to reduce iron(III) oxide to iron.
+                               Fe2O3 + 3CO → 2Fe + 3CO2
+Calculate the atom economy for this reaction, assuming that iron is the desired
+product. (Ar / Mr data: Fe2O3 = 159.6, CO = 28.0, Fe = 55.8, CO2 = 44.0)
+ Answer
+ Step 1: Write the equation:
+
+                              molecular mass of desired product
+Atom economy =                                                      × 100
+                           sum of molecular masses of ALL reactants
+ Step 2: Substitute values and evaluate:
+
+                                         2 × 55. 8
+          Atom economy =                               × 100 = 45. 9%
+                                   159 . 6 + 3 × 28. 0
+                                              (           )
+
+
+
+
+Examiner Tips and Tricks
+Careful: Sometimes a question may ask you to show your working when calculating
+atom economy.
+In this case, even if it is an addition reaction and it is obvious that the atom economy is
+100%, you will still need to show your working.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   17
+

@@ -1,0 +1,493 @@
+  Edexcel International AS                                                         Your notes
+Chemistry
+Organic Chemistry: Techniques &
+Spectra
+Contents
+  Organic Chemistry Techniques
+  Interpreting Mass Spectra
+  Using Infrared Spectrometry
+
+
+
+
+                    © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Organic Chemistry Techniques
+                                                                                                Your notes
+
+Reflux, Distillation & Boiling Point
+Determination
+Heating under reflux
+  Organic reactions often occur slowly at room temperature
+  Therefore, organic reactions can be completed by heating under reflux to produce an
+  organic liquid
+  This allows the mixture to react as fully as possible without the loss of any reactants,
+  products or solvent
+      In distillation, you are trying to separate a chemical or product from a mixture
+      When heating under reflux, you aim to keep all the chemicals inside the reaction
+      vessel
+
+The Heating under Reflux Process:
+  Example reactions where heating under reflux could be used include:
+      The production of a carboxylic acid from a primary alcohol using acidified potassium
+      dichromate
+      The production of an ester from an alcohol and acid in the presence of an acid
+      catalyst
+  The reaction mixture is placed into a pear-shaped or round bottomed flask
+  Anti-bumping granules are, again, added to promote smooth boiling
+  The flask is placed in a heating mantle or it can be immersed in a water bath for heating
+  Quickfit apparatus is then set up with the condenser clamped vertically in place
+      The joints of the Quickfit apparatus are commonly greased as with distillation
+  A steady and constant stream of water passes through the condenser in a 'water jacket'
+  - it enters at the bottom of the condenser and the drainage pipe removes the water from
+  the top of the condenser
+  The water is heated and the reaction mixture allowed to boil
+  The heated is stopped and the mixture allowed to cool back to room temperature
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   2
+                                                                                                      Your notes
+
+
+
+
+ The preparation of ethyl ethanoate involves heating under reflux for about 15 minutes
+Distillation
+   Distillation is a common practical completed in organic chemistry
+   Distillation is used as there are times that a reaction does not go to completion or there
+   are other chemicals produced as well as the desired product
+   Distillation allows you to separate compounds by their boiling point
+       Chemicals with the lowest boiling point will distill first
+   One of the most common distillation practicals is the oxidation of primary and
+   secondary alcohol to aldehydes and ketones
+
+The Distillation Process:
+   To produce an aldehyde from a primary alcohol, a reaction mixture containing the
+   primary alcohol and acidified potassium dichromate solution is placed into a pear-
+   shaped or round bottomed flask
+   Anti-bumping granules are added to promote smooth boiling
+   Quickfit apparatus is then set up, including a still head and condenser connected to the
+   side
+       The joints of the Quickfit apparatus are often have a thin layer of silicon grease
+       smeared over them to give a better seal as well as to make it easier to disassemble
+       the equipment afterwards
+
+
+
+
+                              © 2025 Save My Exams, Ltd.            Get more and ace your exams at savemyexams.com   3
+A Quickfit thermometer can be used, with the thermometer bulb sitting where the
+vapours will pass into the condenser
+                                                                                               Your notes
+A steady and constant stream of water passes through the condenser in a 'water jacket'
+- it enters at the bottom of the condenser and the drainage pipe removes the water from
+the top of the condenser
+
+
+
+
+                        Heating under Distillation Apparatus
+The reaction mixture is heated until it boils using a heating mantle
+    Electric heating mantles are used for this because the temperature can be
+    controlled, and because you are using chemicals which are flammable
+The distillate which forms in the condenser drips directly into a receiving vessel
+    The distillate which should be collected, is that which is given off at +/- 2 oC of the
+    boiling point of the desired product
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+      Some distillate may be given off below this temperature - this needs to be
+      discarded and a clean vessel used to collect the desired product
+                                                                                                    Your notes
+      Stop collecting the distillate if the temperature rises above +/- 2oC of the boiling
+      point of the desired product
+  The aldehyde product has a lower boiling point than the alcohol (since it has lost the H-
+  bonding) so it can be distilled off as soon as it forms
+
+
+
+
+  Examiner Tips and Tricks
+      These practicals give you the opportunity to discuss:
+          The use of an electric heating mantles and water baths rather than a Bunsen
+          burner
+          The choice and setup of laboratory apparatus
+          Health and safety considerations including the careful handling of different
+          liquids, including those which are corrosive, irritant, flammable and toxic
+
+Boiling point determination
+  The boiling point of a liquid is indicative of its purity and identity
+  Boiling point is determined by distillation
+  The sample is gently heated until it boils and this temperature is recorded
+      This boiling point can then be compared against literature / database values
+  If the sample contains impurities:
+      The boiling point may appear higher than the literature / database values
+      The sample may boil over a range of temperatures instead of at a single temperature
+
+Solvent Extraction & Drying
+  There are different methods to purify organic compounds, including:
+      Solvent extraction / use of a separating funnel
+      Use of drying agents
+
+Solvent extraction / use of a Separating Funnel
+  When organic liquids are being prepared, water can often be obtained along with the
+  organic product
+  The water will usually form an aqueous layer with the product in the organic layer
+      It can sometimes be hard to identify which layer is the organic layer - this can be
+      achieved by simply adding water and seeing which layer increases in volume
+  Other organic reactions may need to be neutralised before being purified, this can be
+  achieved by adding sodium carbonate solution to the reaction vessel or separating
+
+
+
+                              © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   5
+  funnel
+      This can also be used to remove other impurities by washing                             Your notes
+  The contents of the reaction vessel are transferred to a separating funnel and a stopper
+  added
+  The separating funnel is inverted and the stopcock opened to release the pressure - this
+  is repeated 15-20 times
+      If neutralisation has occurred then the stopcock is opened slowly to avoid losing
+      any product
+  The two layers are allowed to separate
+      In the following example, the aqueous layer is the bottom layer inside the separating
+      funnel
+  The stop cock is opened so that the aqueous layer drains away and the organic layer can
+  be drained into a clean beaker
+
+
+
+
+           A separating funnel allows the product to be cleaned and isolated
+Use of drying agents
+  Drying agents can be used to remove traces of water from an organic product
+  Drying agents are usually anhydrous inorganic salts that readily hydrate in the presence
+  of water
+      Anhydrous calcium chloride is commonly used to dry hydrocarbons
+      Anhydrous calcium or magnesium sulfate are used as more general purpose drying
+      agents
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   6
+A spatula of drying agent is added into the organic product and swirled
+    If the organic product has a low boiling point, a lid / stopped can be added to              Your notes
+    reduce the potential evaporation of any product
+If the drying agent clumps together, then there is still water in the organic liquid
+More drying agent is added until some remains dispersed in the organic liquid as a fine
+powder
+The dry organic liquid can then be decanted or filtered
+    If the organic liquid is dry then it should appear clear
+
+
+
+
+                           © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   7
+Interpreting Mass Spectra
+                                                                                              Your notes
+
+Mass Spectroscopy - Interpretation
+ Mass spectroscopy is an analytical technique used to identify unknown compounds
+ The molecules in the small sample are bombarded with high energy electrons which can
+ cause the molecule to lose an electron
+ This results in the formation of a positively charged molecular ion with one unpaired
+ electron
+     One of the electrons in the pair has been removed by the beam of electrons
+
+
+
+
+ The molecular ion can further fragment to form new ions, molecules, and radicals
+
+
+
+
+                Fragmentation of a molecule in mass spectroscopy
+ These fragmented ions are accelerated by an electric field
+ Based on their mass (m) to charge (z) ratio, the ion fragments are then separated by
+ deflecting them into the detector
+     Most ions will only gain a charge of 1+ and therefore a ion with mass 12 and charge 1+
+     will have an m/z value of 12
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+      It is, however, possible for a greater charge to occur. For example, an ion with mass
+      16 and charge 2+ will have a m/z value of 8
+  The smaller and more positively charged fragment ions will be detected first as they will    Your notes
+  get deflected the most and are more attracted to the negative pole of the magnet
+  Each fragment corresponds to a specific peak with a particular m/z value in the mass
+  spectrum
+  The base peak is the peak corresponding to the most abundant ion
+  The m/z is sometimes referred to as the m/e ratio and it is almost always 1:1
+Isotopes
+  Isotopes are different atoms of the same element that contain the same number of
+  protons and electrons but a different number of neutrons.
+      These are atoms of the same elements but with different mass number
+      For example, Cl-35 and Cl-37 are isotopes as they are both atoms of the same
+      element (chlorine, Cl) but have a different mass number (35 and 37 respectively)
+  Mass spectroscopy can be used to find the relative abundance of the isotopes
+  experimentally
+  The relative abundance of an isotope is the proportion of one particular isotope in a
+  mixture of isotopes found in nature
+      For example, the relative abundance of Cl-35 and Cl-37 is 75% and 25%
+      respectively
+      This means that in nature, 75% of the chlorine atoms is the Cl-35 isotope and 25% is
+      the Cl-37 isotope
+  The heights of the peaks in mass spectroscopy show the proportion of each isotope
+  present
+
+
+
+
+ The peak heights show the relative abundance of the boron isotopes: boron-10 has a
+     relative abundance of 19.9% and boron-11 has a relative abundance of 80.1%
+
+
+
+  Worked Example
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+  Calculating m/z ratio
+  In a sample of iron, the ions 54Fe2+ and 56Fe3+ are detected. Calculate their m/z ratio       Your notes
+  and determine which ion is deflected more inside the spectrometer.
+  Answer
+
+
+
+
+      56Fe3+ has a smaller m/z ratio and will therefore be deflected more.
+
+
+           It also has the largest positive charge and will be more attracted to the
+           negative pole of the magnet within the mass spectrometer.
+
+
+
+
+  Examiner Tips and Tricks
+  A small m/z value corresponds to fragments that are either small or have a high
+  positive charge or a combination of both.
+
+Deducing molecular formulae
+  Each peak in the mass spectrum corresponds to a certain fragment with a particular
+  m/z value
+  The peak with the highest m/z value is the molecular ion (M+) peak which gives
+  information about the molecular mass of the compound
+  The molecular ion is the entire molecule that has lost one electron when bombarded with
+  a beam of electrons
+
+
+
+
+  The [M+1] peak is a smaller peak which is due to the natural abundance of the isotope
+  carbon-13
+  The amount of naturally occurring C-13 is a little over 1%, so the [M+1] peak is very small
+  The height of the [M+1] peak for a particular ion depends on how many carbon atoms are
+  present in that molecule; the more carbon atoms, the larger the [M+1] peak is
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+     For example, the height of the [M+1] peak for an hexane (containing six carbon
+     atoms) ion will be greater than the height of the [M+1] peak of an ethane (containing
+     two carbon atoms) ion                                                                   Your notes
+
+
+
+ Worked Example
+ Analysing mass spectra
+ Determine whether the following mass spectrum corresponds to but-1-ene or pent-
+ 1-ene:
+
+
+
+
+ Answer
+     The mass spectrum corresponds to pent-1-ene as the molecular ion peak is at
+     m/z = 70
+          The small peak at m/z = 71 is a C-13 peak, which does not count as the
+          molecular ion peak
+          But-1-ene arises from the C4H8+ ion which has a molecular mass of 56
+          Pent-1-ene arises from the C5H10+ ion which has a molecular mass of 70
+
+
+Mass Spectrum - Fragmentation
+ The molecular ion peak can be used to identify the molecular mass of a compound
+ However, different compounds may have the same molecular mass
+ To further determine the structure of the unknown compound, fragmentation is used
+ Fragments may appear due to the formation of characteristic fragments or the loss of
+ small molecules
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   11
+      For example, a peak at 29 is due to the characteristic fragment C2H5+
+      Loss of small molecules give rise to peaks at 18 (H2O), 28 (CO), and 44 (CO2)           Your notes
+Alkanes
+  Simple alkanes are fragmented in mass spectroscopy by breaking the C-C bonds
+  M/e values of some of the common alkane fragments are given in the table below
+m/e Values of Fragments Table
+
+
+
+
+                Mass spectrum showing the fragmentation of C10H22
+Halogenoalkanes
+  Halogenoalkanes often have multiple peaks around the molecular ion peak
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   12
+  This is caused by the fact that there are different isotopes of the halogens
+
+                                                                                               Your notes
+
+
+
+
+     Mass spectrum showing different isotopes of bromine in the molecular ion
+Alcohols
+  Alcohols often tend to lose a water molecule giving rise to a peak at 18 below the
+  molecular ion
+  Another common peak is found at m/e value 31 which corresponds to the CH2OH+-
+  fragment
+  For example, the mass spectrum of propan-1-ol shows that the compound has
+  fragmented in four different ways:
+      Loss of H• to form a C3H7O+ fragment with m/e = 59
+      Loss of a water molecule to form a C3H6+ fragment with m/e = 42
+      Loss of a •C2H5 to form a CH2OH+ fragment with m/e = 31
+      And the loss of •CH2OH to form a C2H5+ fragment with m/e = 29
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   13
+                                                                                             Your notes
+
+
+
+
+   Mass spectrum showing the fragmentation patterns in propan-1-ol (alcohol)
+
+
+
+Worked Example
+Ion fragmentation
+Which of the following statements about the mass spectrum of CH3Br is correct?
+A. There is one peak for the molecular ion with an m/e value of 44
+B. There is one peak for the molecular ion with an m/e value of 95
+C. The last two peaks have abundances in the ratio 3:1 and occur at m/e values of 94
+and 96
+D. The last two peaks are of equal size and occur at m/e values of 94 and 96
+Answer
+The correct answer is option D
+    Bromomethane (CH3Br) can produce 3 peaks
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+         CH381Br → [CH381Br]+ + e− at m/e 96
+         CH379Br → [CH379Br]+ + e− at m/e 94
+         CH3Br → [CH3]+ + •Br at m/e 15                                                       Your notes
+         The last two peaks (which correspond to the molecular ion peak) therefore
+         are equal in size and occur at m/e values of 94 and 96
+
+
+
+
+Worked Example
+Alcohol fragmentation
+Which alcohol is not likely to have a fragment ion at m/e at 43 in its mass spectrum?
+A. (CH3)2CHCH2OH
+B. CH3CH(OH)CH2CH2CH3
+C. CH3CH2CH2CH2OH
+D. CH3CH2CH(OH)CH3
+Answer
+The correct answer is option D
+    Because a line at m/e = 43 corresponds to an ion with a mass of 43 for example:
+         [CH3CH2CH2]+
+         [(CH3)2CH]+
+         2-butanol is not likely to have a fragment at m/e = 43 as it does not have
+         either of these fragments in its structure.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+ Using Infrared Spectrometry
+                                                                                               Your notes
+
+Infrared Spectrometry - Interpretation
+  Infrared (IR) spectroscopy is a technique used to identify compounds based on
+  changes in vibrations of atoms when they absorb IR of certain frequencies
+  A spectrophotometer irradiates the sample with electromagnetic waves in the infrared
+  region and then detects the intensity of the wavelength of IR radiation which goes
+  through the sample
+  All organic molecules absorb IR radiation and depending on which energies of radiation
+  are absorbed, bonds between atoms will vibrate by stretching, bending and twisting
+  The molecules will only vibrate at a specific frequency
+  The resonance frequency is the specific frequency at which the molecules will vibrate to
+  stimulate larger vibrations
+  Depending on the rest of the molecule, each vibration will absorb specific wavelengths
+  of IR radiation which are also shown as the reciprocal of the wavelength
+      This unit is called the wavenumber (cm-1)
+  Particular absorbance have characteristic widths (broad or sharp) and intensities
+  (strong or weak)
+      For example, hydrogen bonds cause the O-H bonds in alcohols and carboxylic
+      acids to be broad whereas the C-O bond in carbonyl (C=O) groups have a strong,
+      sharp absorbance peak
+  The energies absorbed by different functional groups are given as a range and an
+  unknown compound can be identified by comparing its IR spectrum to the IR spectrum
+  of a known compound
+
+Absorption Range of Bonds Table
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+                                                                                         Your notes
+
+
+
+
+Due to some absorption bands overlapping each other, other analytical techniques such
+as mass spectroscopy should be used alongside IR spectroscopy to identify an
+unknown compound
+
+
+
+
+Worked Example
+Analysing IR Spectra
+Look at the two infrared spectra below and determine which one corresponds to
+propanone and which one to propan-2-ol
+
+
+
+
+                       © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   17
+                                                                                           Your notes
+
+
+
+
+Answer
+   IR spectrum A is propanone and spectrum B is propan-2-ol.
+         In IR spectrum A the presence of a strong, sharp absorption around 1710 cm-1
+         corresponds to the characteristic C=O, carbonyl, group in a ketone.
+         In spectrum B the presence of a strong, broad absorption around 3200-
+         3500 cm-1 suggests that there is an alcohol group present, which
+         corresponds to the -OH group in propan-2-ol.
+
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   18
+

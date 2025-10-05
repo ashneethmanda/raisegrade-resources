@@ -1,0 +1,329 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Organic Chemistry: Halogenoalkanes
+Contents
+  Halogenoalkanes - Introduction
+  Reactions of Halogenoalkanes
+  The Nucleophilic Substitution Mechanism
+  Hydrolysis of Halogenoalkanes
+  Trends in Halogenoalkanes
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Halogenoalkanes - Introduction
+                                                                                              Your notes
+
+Halogenoalkanes - Introduction
+Naming halogenoalkanes
+  We use the prefixes
+      Fluoro for fluorine
+      Chloro for chlroine
+      Bromo for bromine
+      Iodo for iodine
+  The name of the halogenoalkane is based on the orignal alkane
+      So CH3CH2CH2Br would be 1-bromopropane
+  The position of the halogen atom must be taken into account
+      So CH3CH(Br)CH3 would be 2-bromopropane
+  Finally the substituents are listed alphabetically
+      So CH3CH(Cl)CH2Br would be 1-bromo-2-chloropropane
+
+Classifying halogenoalkanes
+  Halogenoalkanes can be classified as primary, secondary or tertiary depending on the
+  number of carbon atoms attached to the C-X functional group
+      A primary halogenoalkane is when a halogen is attached to a carbon that itself is
+      attached to one other alkyl group
+      A secondary halogenoalkane is when a halogen is attached to a carbon that itself is
+      attached to two other alkyl groups
+      A tertiary halogenoalkane is when a halogen is attached to a carbon that itself is
+      attached to three other alkyl groups
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   2
+                 Primary, secondary and tertiary halogenoalkanes
+                                                                                            Your notes
+
+
+Examiner Tips and Tricks
+You are also expected to be able to draw structural, displayed and skeletal formulae
+of halogenoalkanes
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   3
+ Reactions of Halogenoalkanes
+                                                                                                 Your notes
+
+Halogenoalkanes - Reactions
+  A nucleophile is an electron-rich species that can donate a pair of electrons
+      ‘Nucleophile’ means ‘nucleus / positive charge loving’ as nucleophiles are attracted
+      to positively charged species
+      Nucleophilic refers to reactions that involve a nucleophile
+
+Formation of alcohols
+  The nucleophile in this reaction is the hydroxide ion, OH-
+  An aqueous solution of sodium hydroxide (NaOH) or potassium hydroxide (KOH) with
+  ethanol is used to form an alcohol
+  This reaction is very slow at room temperature, so the reaction mixture is warmed
+  This is an example of a hydrolysis reaction and the product is an alcohol
+      The rate of this reaction depends on the type of halogen in the halogenoalkane
+      The stronger the C-X bond, the slower the rate of the reaction
+      In terms of bond enthalpy, C-F > C-Cl > C-Br > C-I
+      Fluoroalkanes do not react at all, but iodoalkanes have a very fast rate of reaction
+
+
+
+
+                   The halogen is replaced by the nucleophile, OH-
+  This reaction could also be done with water as the nucleophile, but it is very slow
+      The hydroxide ion is a better nucleophile than water as it carries a full negative
+      charge
+      In water, the oxygen atom only carries a partial charge
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   4
+A hydroxide ion is a better nucleophile as it has a full formal negative charge whereas the
+oxygen atom in water only carries a partial negative charge; this causes the nucleophilic
+      substitution reaction with water to be much slower than the aqueous alkali                     Your notes
+Reaction with water
+   The water molecule is a weak nucleophile, but it will eventually substitute for the halogen
+   This occurs much more slowly compared to when warm aqueous sodium hydroxide is
+   used
+   An alcohol is produced
+       RX + H2O → ROH + H+ + X-
+       CH3CH2Br + H2O → CH3CH2OH + H+ + Br-
+   If silver nitrate solution in ethanol is added to the solution, the silver ions will react with
+   the halide ions as soon as they form, giving a silver halide precipitate
+       Ag+ (aq) + X- (aq) → AgX (s)
+
+Formation of nitriles
+   The nucleophile in this reaction is the cyanide ion, CN-
+   An ethanolic solution of potassium cyanide (KCN in ethanol) is heated under reflux with
+   the halogenoalkane
+   The product is a nitrile
+       E.g. bromoethane is heated under reflux with ethanolic potassium cyanide to form
+       propanenitrile
+
+
+
+
+                      The halogen is replaced by a cyanide group, CN -
+   The nucleophilic substitution of halogenoalkanes with KCN adds an extends the carbon
+   chain by adding an extra carbon atom
+   This reaction can therefore be used by chemists to make a compound with one more
+   carbon atom than the best available organic starting material
+
+Formation of primary amines by reaction with ammonia
+   The nucleophile in this reaction is the ammonia molecule, NH3
+   An ethanolic solution of excess ammonia (NH3 in ethanol) is heated under pressure with
+   a primary halogenoalkane
+       An excess of ammonia is used because the product is more reactive than ammonia
+       so further substitution reactions could occur
+
+
+
+
+                               © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   5
+  The product is a primary amine
+      E.g. bromoethane reacts with excess ethanolic ammonia when heated under                 Your notes
+      pressure to form ethylamine
+
+
+
+
+                   The halogen is replaced by an amine group, NH2
+Formation of alkenes
+  The halogenoalkanes are heated with ethanolic sodium hydroxide causing the C-X
+  bond to break heterolytically, forming an X- ion and leaving an alkene as an organic
+  product
+      E.g. bromoethane is heated with ethanolic sodium hydroxide to form ethene
+
+
+
+
+  Production of an alkene from a halogenoalkane by reacting it with ethanolic sodium
+                               hydroxide and heating it
+
+
+
+
+                   Hydrogen bromide is eliminated to form ethene
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+ The Nucleophilic Substitution Mechanism
+                                                                                               Your notes
+
+Nucleophilic Substitution - Mechanism
+   A nucleophilic substitution reaction is one in which a nucleophile attacks a carbon atom
+   which carries a partial positive charge
+   An atom that has a partial negative charge is replaced by the nucleophile
+   Halogenoalkanes will undergo nucleophilic substitution reactions due to the polar C-X
+   bond (where X is a halogen)
+
+
+
+
+Due to large differences in electronegativity between the carbon and halogen atom, the
+                                    C-X bond is polar
+Mechanism with aqueous potassium hydroxide
+   In the following reaction a halogenoalkane reacts with aqueous alkali to form an alcohol
+
+
+
+
+                     The halogen is replaced by a nucleophile, OH–
+   The mechanism for the reaction is as follows
+
+
+
+
+  Nucleophilic substitution reaction of bromoethane and aqueous alkali (e.g. NaOH)
+Mechanism with ammonia
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+ When ammonia reacts with a haloalkane a nucleophilic substitution reaction takes place
+ forming a primary amine
+                                                                                            Your notes
+     For example chloromethane reacts with ammonia in two steps to make methylamine
+     and ammonium chloride
+                           CH3Cl + NH3 → [CH3NH3]+Cl-
+                     [CH3NH3]+Cl- + NH3 → CH3NH2 + NH4+Cl-
+ Excess ammonia is used to prevent further substitution and favour the formation of a
+ primary amine
+
+
+
+
+The mechanism of nucleophilic substitution between ammonia and a halogenoalkane
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+ Hydrolysis of Halogenoalkanes
+                                                                                                  Your notes
+
+Halogenoalkanes - Hydrolysis
+Measuring the rate of hydrolysis
+  Acidified aqueous silver nitrate can be used to measure the rate of hydrolysis of
+  halogenoalkanes
+  The following method is used:
+      Set up three test tubes in a 50 oC water bath, with a mixture of ethanol and acidified
+      silver nitrate
+      Add a few drops of a chloroalkane, bromoalkane and an iodoalkane to each test
+      tube and start a stop watch
+      Time how long it takes for the precipitates to form
+  Reacting halogenoalkanes with aqueous silver nitrate solution will result in the
+  formation of a precipitate
+  The rate of formation of these precipitates can also be used to determine the reactivity
+  of the haloalkane
+
+Haloalkane Precipitates Table
+
+
+
+
+  The precipitates will form as the reaction progresses and the halide ions are formed
+      The yellow silver iodide precipitate is the fastest nucleophilic substitution reaction
+           This is because the C-I bond has the lowest bond enthalpy, so it is the easiest to
+           break and will cause the I- ions to form the fastest
+      The white chloride precipitate is the slowest nucleophilic substitution reaction
+           This is because the C-Cl bond has the highest bond enthalpy, so it is the hardest
+           to break and will cause the Cl- ions to form the slowest
+  Silver fluoride is soluble, so a precipitate will not be formed in this reaction
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   9
+This confirms that fluoroalkanes are the least reactive and iodoalkanes are the most
+reactive halogenoalkanes
+                                                                                               Your notes
+    It can be predicted that the formation of silver astatide would be even quicker than
+    silver iodide
+
+
+
+
+                       The trend in reactivity of haloalkanes
+A similar experiment can be set up to compare the rate of hydrolysis in primary,
+secondary and tertiary halogenoalkanes
+    The halogen involved and the overall molecular formula of the halogenoalkane must
+    remain the same
+    E.g. 1-chlorobutane (primary), 2-chlorobutane (secondary) and 2-chloro-2-
+    methylpropane (tertiary)
+Results would show that:
+    The tertiary halogenoalkane / 2-chloro-2-methylpropane reacts the quickest
+    The primary halogenoalkane / 1-chlorobutane reacts the slowest
+    Therefore, the secondary halogenoalkane / 2-chlorobutane is in the middle
+        Although, the explanation for this is not required at AS level, it is required at A-
+        level
+        The rate of hydrolysis is determined by the use of either an SN1 or an SN2 reaction
+        mechanism
+
+
+
+
+                         © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   10
+ Trends in Halogenoalkanes
+                                                                                              Your notes
+
+Reactivity & Bond Enthalpy
+   Halogenoalkanes contain at least one halogen atom covalently bonded to a carbon
+   atom within the molecules structure
+   Due to the difference in electronegativity between the halogen and carbon atoms:
+       The carbon-halogen, C-X, bond is polar
+       The carbon atom has a δ+ charge
+       The halogen atom has a δ– charge
+
+
+
+
+Due to large differences in electronegativity between the carbon and halogen atom, the
+                                    C-X bond is polar
+   As the electronegativity down the group decreases, so does the polarity of the bond
+       This suggests that fluoroalkanes would be the quickest to react but the strength of
+       the bond is another important and greater factor
+
+Bond Enthalpy
+   The halogenoalkanes have different rates of substitution reactions
+   Since substitution reactions involve breaking the carbon-halogen bond the bond
+   energies can be used to explain their different reactivities
+
+Halogenoalkane Bond Energy
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   11
+                                                                                             Your notes
+
+
+
+
+The table above shows that the C-I bond requires the least energy to break, and is
+therefore the weakest carbon-halogen bond
+During substitution reactions, the C-I bond of the halogenoalkane will
+therefore heterolytically break to form the alcohol
+    For example
+                          CH3CH2I + OH- → CH3CH2OH + I-
+The C-F bond, on the other hand, requires the most energy to break and is, therefore,
+the strongest carbon-halogen bond
+Fluoroalkanes will, therefore, be less likely to undergo substitution reactions
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   12
+

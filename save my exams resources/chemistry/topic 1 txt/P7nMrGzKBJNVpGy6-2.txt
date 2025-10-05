@@ -1,0 +1,642 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Alkenes
+Contents
+  Alkenes - Introduction
+  Isomers - Geometric
+  Reactions of Alkenes
+  Saturation Test
+  Electrophilic Addition - Mechanism
+  Addition Polymerisation
+  Polymer Disposal
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Alkenes - Introduction
+                                                                                              Your notes
+
+Alkenes - Introduction
+  All alkenes contain a double carbon bond, which is shown as two lines between two of
+  the carbon atoms i.e. C=C
+  All alkenes contain a double carbon bond, which is the functional group and is what
+  allows alkenes to react in ways that alkanes cannot
+  Alkenes have the general molecular formula CnH2n
+  They are said to be unsaturated hydrocarbons
+      They contain carbon-carbon double bonds
+      They are made up of hydrogen and carbon atoms only
+  Alkenes are named using the nomenclature rule alk + ene
+  In molecules with a straight chain of 4 or more carbon atoms, the position of the C=C
+  double bond must be specified
+  The carbon atoms on the straight chain must be numbered, starting with the end closest
+  to the double bond
+  The lowest-numbered carbon atom participating in the double bond is indicated just
+  before the -ene:
+
+The First Five Members of the Alkene Family
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   2
+                                                                                              Your notes
+
+
+
+
+Bonding in Alkenes
+  Each carbon atom has four electrons in its outer shell (electronic configuration:
+  1s22s22p2)
+  Carbon atoms share these four electrons in four covalent bonds with other atoms to
+  achieve a full outer shell configuration
+  These electrons are found in orbitals within the respective atoms
+  When forming a covalent bond, the orbitals overlap in such a way to form two types of
+  bonds
+      Sigma bonds (σ)
+      Pi bonds (π)
+  When carbon atoms use only three of their electron pairs to form a σ bond, each carbon
+  atom will have a p orbital which contains one spare electron
+  When the p orbitals of two carbon atoms overlap with each other, a π bond is formed
+  (the π bond contains two electrons)
+  The two orbitals that form the π bond lie above and below the plane of the two carbon
+  atoms to maximise bond overlap
+
+σ bonds
+  Sigma (σ) bonds are formed from the end to end overlap of atomic orbitals
+  s orbitals overlap this way as well as p orbitals
+
+
+
+
+        Sigma orbitals can be formed from the end to end overlap of s orbitals
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   3
+  The electron density in a σ bond is symmetrical about a line joining the nuclei of the
+  atoms forming the bond
+                                                                                                Your notes
+  The pair of electrons is found between the nuclei of the two atoms
+  The electrostatic attraction between the electrons and nuclei bonds the atoms to each
+  other
+
+Hydrogen
+  The hydrogen atom has only one s orbital
+  The s orbitals of the two hydrogen atoms will overlap to form a σ bond
+
+
+
+
+π bonds
+  Pi (π) bonds are formed from the sideways overlap of adjacent p orbitals
+  The two lobes that make up the π bond lie above and below the plane of the σ bond
+  This maximises overlap of the p orbitals
+  A single π bond is drawn as two-electron clouds, one arising from each lobe of the p
+  orbitals
+  The two clouds of electrons in a π bond represent one bond containing two electrons
+
+
+
+
+           π orbitals can be formed from the sideways overlap of p orbitals
+
+Ethene
+  Each carbon atom uses three of its four electrons to form σ bonds
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+       Two σ bonds are formed with the hydrogen atoms
+       One σ bond is formed with the other carbon atom                                       Your notes
+       The fourth electron from each carbon atom occupies a p orbital which
+       overlaps sideways with another p orbital on the other carbon atom to form a π bond
+       This means that the C-C is a double bond: one σ and one π bond
+
+
+
+
+Each carbon atom in ethene forms two sigma bonds with hydrogen atoms and one σ bond
+with another carbon atom. The fourth electron is used to form a π bond between the two
+                                    carbon atoms
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+ Isomers - Geometric
+                                                                                              Your notes
+
+Isomers - Geometric
+  One of the features of alkenes is their stereoisomerism or geometric isomerism, which
+  can be classed as E / Z or cis / trans
+      E / Z isomerism is an example of stereoisomerism where different atoms or groups
+      of atoms are attached to each carbon atom of the C=C bond
+      Cis / trans isomerism is a special case of E / Z isomerism where two of the atoms or
+      groups of atoms attached to each carbon atom of the C=C bond are the same
+
+Cis / trans isomers
+  In saturated compounds, the atoms / functional groups attached to the single, σ-
+  bonded carbons are not fixed in their position due to the free rotation about the C-C σ-
+  bond
+  In unsaturated compounds, the groups attached to the C=C carbons remain fixed in
+  their position
+      This is because free rotation of the bonds about the C=C bond is not possible due to
+      the presence of a π bond
+  Cis / trans nomenclature can be used to distinguish between the isomers
+      Cis isomers have two functional groups on the same side of the double bond /
+      carbon ring, i.e. both above the C=C bond or both below the C=C bond
+      Trans isomers have two functional groups on opposite sides of the double bond /
+      carbon ring, i.e. one above and one below the C=C bond
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+                                                                                                 Your notes
+
+
+
+
+  The presence of a π bond in unsaturated compounds restricts rotation about the C=C
+bond forcing the groups to remain fixed in their position and giving rise to the formation of
+                             certain configurational isomers
+
+Deducing E / Z Isomers
+Naming cis / trans isomers
+    For cis / trans isomers to exist, we need two different atoms or groups of atoms on either
+    side of the C=C bond
+        This means that 2-methylpropene cannot have cis / trans isomers as the methyl
+        groups are both on the same side of the C=C bond:
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+              2-methylpropene molecules do not have cis / trans isomers
+   However, moving one of the methyl groups to the other side of the C=C bond causes cis      Your notes
+   / trans isomerism:
+
+
+
+
+But-2-ene does have cis / trans isomers
+   The atoms or groups of atoms on either side of the C=C bond do not have to be the
+   same for cis / trans isomers:
+
+
+
+
+                 1-chloroprop-1-ene also shows cis / trans isomerism
+   However, the cis / trans naming system starts to fail once we have more than one atom or
+   group of atoms on either side of the C=C bond
+       The cis / trans naming system can still be used with three atoms / groups of atoms
+       but only if:
+           Two of the three atoms or groups of atoms are the same
+           These two atoms or groups of atoms are on opposite sides of the double bond
+
+
+
+
+                  1,2-dichloropropene can be named using cis / trans
+   The cis / trans naming system cannot be used with three atoms / groups of atoms when
+   they are all different
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+       This requires the use of the E / Z naming system
+
+                                                                                                   Your notes
+
+
+
+
+             1-bromo-2-chloropropene cannot be named using cis / trans
+E / Z isomers
+   To discuss E / Z isomers, we will use an alkene of the general formula C2R4:
+
+
+
+
+                                  The general alkene, C2R4
+   When the groups R1, R2, R3 and R4 are all different (i.e. R1 ≠ R2 ≠ R3 ≠ R4), we have to use
+   the E / Z naming system
+       This is based on Cahn-Ingold-Prelog (CIP) priority rules
+   To do this, we look at the atomic number of the first atom attached to the carbon in
+   question
+       The higher the atomic number; the higher the priority
+   For example, 1-bromo-1-propen-2-ol has four different atoms or groups of atoms
+   attached to the C=C bond
+       This means that it can have two different displayed formulae:
+
+
+
+
+                      1-bromo-1-propen-2-ol (compounds A and B)
+Compound A
+
+
+
+
+                               © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   9
+   Step 1: Apply the CIP priority rules
+       Look at R1 and R3:                                                                     Your notes
+           Bromine has a higher atomic number than hydrogen so bromine has priority
+       Look at R2 and R4:
+           Oxygen has a higher atomic number than carbon so oxygen has priority
+   Step 2: Deduce E or Z
+       E isomers have the highest priority groups on opposite sides of the C=C bond, i.e.
+       one above and one below
+           The E comes from the German word "entgegen" meaning opposite
+       Z isomers have the highest priority groups on the same side of the C=C bond, i.e.
+       both above or both below
+           The Z comes from the German word "zusammen" meaning together
+       In compound A, the two highest priority groups are on opposite sides (above and
+       below) the C=C bond
+           Therefore, compound A is E-1-bromo-1-propen-2-ol
+Compound B
+   Step 1: Apply the CIP priority rules
+       Look at R1 and R3:
+           Bromine has a higher atomic number than hydrogen so bromine has priority
+       Look at R2 and R4:
+           Oxygen has a higher atomic number than carbon so oxygen has priority
+   Step 2: Deduce E or Z
+       In compound B, the two highest priority groups are on the same side (both below)
+       the C=C bond
+           Therefore, compound B is Z-1-bromo-1-propen-2-ol
+
+More complicated E / Z isomers
+   Compound X exhibits E / Z isomerism:
+
+
+
+
+                            © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   10
+                                       Compound X
+Step 1: Apply the CIP priority rules                                                       Your notes
+    Look at R1 and R3:
+        Carbon is the first atom attached to the C=C bond, on the left hand side
+    Look at R2 and R4:
+        Carbon is the first atom attached to the C=C bond, on the right hand side
+    This means that we cannot deduce if compound X is an E or Z isomer by applying the
+    CIP priority rules to the first atom attached to the C=C bond
+        Therefore, we now have to look at the second atoms attached
+    Look again at R1 and R3:
+        The second atoms attached to R1 are hydrogens and another carbon
+        The second atoms attached to R3 are hydrogens and bromine
+        We can ignore the hydrogens as both R groups have hydrogens
+        Bromine has a higher atomic number than carbon, so bromine is the higher
+        priority
+             Therefore, the CH2Br group has priority over the CH3CH2 group
+    Look again at R2 and R4:
+        The second atoms attached to R2 are hydrogens
+        The second atoms attached to R3 are hydrogens and an oxygen
+        Oxygen has a higher atomic number than hydrogen, so oxygen is the higher
+        priority
+             Therefore, the CH2OH group has priority over the CH3 group
+Step 2: Deduce E or Z
+    In compound X, the two highest priority groups are on the same side (both below)
+    the C=C bond
+        Therefore, compound X is the Z isomer
+
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   11
+Reactions of Alkenes
+                                                                                                Your notes
+
+Alkenes - Reactions
+ The double bond in alkenes is an area of high electron density (there are four electrons
+ found in this double bond)
+ This makes the double bond susceptible to attack by electrophiles (electron-loving
+ species)
+ An electrophilic addition is the addition of an electrophile to a double bond
+ The C-C double bond is broken, and a new single bond is formed from each of the two
+ carbon atoms
+ Electrophilic addition reactions include the addition of:
+     Hydrogen (also known as hydrogenation reaction)
+     Steam (H2O (g))
+     Hydrogen halide (HX)
+     Halogen
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   12
+                                                                                             Your notes
+
+
+
+
+The diagram shows an overview of the different electrophilic addition reactions alkenes
+                                    can undergo
+Oxidation
+  Alkenes can also be oxidised by acidified potassium manganate(VII) (KMnO4) which is a
+  very powerful oxidising agent
+  When shaken with cold dilute KMnO4 the pale purple solution turns colourless and the
+  product is a diol
+       This colour change means this reaction can be used, like bromine, to distinguish
+       alkanes from alkenes (alkanes do not have double bonds and so are not oxidised in
+       this way)
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   13
+                                                                                            Your notes
+
+
+
+
+Although you do not need to know the full details of the working of this reaction you can
+think of it as an oxidation followed by an addition
+    The potassium manganate provides an oxygen atom (oxidation)
+    Then water in the solution provides another oxygen atom and two hydrogen atoms,
+    so there is addition of two OH groups across the double bond
+
+
+
+
+                        © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+Saturation Test
+                                                                                              Your notes
+
+Saturation Test
+ Halogens can be used to test if a molecule is unsaturated (i.e. contains a double bond)
+ Br2(aq) is an orange or yellow solution, called bromine water and this is the halogen most
+ commonly used
+ The unknown compound is shaken with the bromine water
+ If the compound is unsaturated, an addition reaction will take place and the coloured
+ solution will decolourise
+
+
+
+
+ The decolourisation of bromine water by an unsaturated compound as a result of an
+                                 addition reaction
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+ Electrophilic Addition - Mechanism
+                                                                                                   Your notes
+
+Electrophilic Addition - Mechanism
+Electrophilic addition of hydrogen halides
+    Hydrogen halides such as hydrogen bromide (HBr) are polar as the hydrogen and
+    halogen atoms have different electronegativities
+    The bromine atom has a stronger pull on the electrons in the H-Br bond
+    As a result of this, the Br atom has a partial negative and the H atom a partial positive
+    charge
+
+
+
+
+Due to differences in electronegativities of the hydrogen and bromine atom, HBr is a polar
+                                         molecule
+    In an addition reaction, the H atom acts as an electrophile and accepts a pair of
+    electrons from the C-C bond in the alkene
+        The H-Br bond breaks heterolytically, forming a Br- ion
+    This result in the formation of a highly reactive carbocation intermediate which reacts
+    with the Br- (nucleophile)
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   16
+                                                                                                Your notes
+
+
+
+
+     Example of an electrophilic addition reaction of HBr and propene to form 1-
+                       bromopropane and 2-bromopropane
+Electrophilic addition of Halogens
+  Halogens such as bromine (Br2) are a non-polar molecules as both atoms have similar
+  electronegativities and therefore equally share the electrons in the covalent bond
+  However, when a bromine molecule gets closer to the double bond of an alkene, the
+  high electron density in the double bond repels the electron pair in Br-Br away from the
+  closest Br atom
+  As a result of this, the closest Br atom to the double bond is slightly positive and the
+  further Br atom is slightly negatively charged
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+  Br2 is a non-polar molecule however when placed close to an area of high electron
+                              density it can get polarised
+                                                                                                Your notes
+  In an addition reaction, the closest Br atom acts as an electrophile and accepts a pair of
+  electrons from the C-C bond in the alkene
+       The Br-Br bond breaks heterolytically, forming a Br- ion
+  This results in the formation of a highly reactive carbocation intermediate which reacts
+  with the :Br- (nucleophile)
+
+
+
+
+Example of an electrophilic addition reaction of Br2 and ethene to form dibromoethane
+
+
+
+  Examiner Tips and Tricks
+  The stability of the carbocation intermediate is as follows:
+  tertiary > secondary > primary
+  When more than one carbocations can be formed, the major product of the reaction
+  will be the one that results from the nucleophilic attack of the most stable
+  carbocation.
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   18
+ Addition Polymerisation
+                                                                                               Your notes
+
+Addition Polymerisation
+Addition polymerisation
+   Addition polymerisation is one of the most important addition reactions of alkenes
+   which form the basis of the plastics industry
+   Addition polymerisation is the reaction in which many monomers containing at least one
+   C=C double bond form long chains of polymers as the only product
+       Just like in other addition reactions of alkenes, the π-bond in each C-C bond breaks
+       and then the monomers link together to form new C-C single bonds
+   A polymer is a long-chain molecule that is made up of many repeating units
+   The small, reactive molecules that join together to form the polymer are called
+   monomers
+   A polymerisation reaction can be represented by a general formula or by using
+   displayed formulae
+       Eg. poly(ethene) and poly(chloroethene) (also known as PVC) are polymers made up
+       of the ethene and chloroethene monomers respectively and are commonly used in
+       making plastics
+
+
+
+
+ The general formulae of the addition polymerisation of ethene (1) and chloroethene (2)
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   19
+                                                                                               Your notes
+
+
+
+
+The displayed formulae of the addition polymerisation of ethene (1) and chloroethene (2)
+   Just like any other addition reaction of alkenes, addition polymerisation gives only one
+   product
+
+Deducing repeat units
+   A repeat unit is the smallest group of atoms that when connected one after the other
+   make up the polymer chain
+       It is represented by square brackets in the displayed and general formula
+   In poly(alkenes) (such as poly(ethene)) and substituted poly(alkenes) (such as PVC)
+   made of one type of monomer the repeating unit is the same as the monomer except
+   that the C=C double bond is changed to a C-C single bond
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   20
+                                                                                            Your notes
+
+
+
+
+The repeating units of poly(ethene) and poly(chloroethene) are similar to their monomer
+               except that the C=C bond has changed into a C-C bond
+
+
+
+  Worked Example
+  Identifying monomers
+  Identify the monomers present in the given sections of addition polymer molecules:
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   21
+                                                                                          Your notes
+
+
+
+
+Answer 1:
+   When ethenol, CH(OH)=CH2, is polymerised, the C=C double bond opens to
+   produce a repeating unit of -CH(OH)-CH2- This gives the polymer poly(ethenol)
+
+
+
+
+Answer 2:
+   To find the monomer, first the repeating unit should be deduced. Repeating units
+   have only 2 carbons in the polymer main chain
+
+
+
+
+                       © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   22
+                                                                                            Your notes
+
+
+
+
+   Since the repeating unit is now found, it can be concluded that the monomer is
+   prop-2-enoic acid
+
+
+
+
+Answer 3:
+   Again, the repeating unit only has 2 carbons in the polymer chain which in this case
+   are two carbon atoms that each contain one OH group
+       Thus, when ethene-1,2-diol, CH(OH)=CH(OH), is polymerised, the C=C
+       double bond opens to produce a repeating unit of -CH(OH)-CH(OH)- which
+       gives the polymer poly(ethene-1,2-diol)
+
+
+
+
+                        © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   23
+Examiner Tips and Tricks                                                                    Your notes
+The section of the polymer chain shown inside the square brackets by the structural or
+displayed formula is the repeat unit and not the monomer.
+The monomer is the same as the repeat unit except that it has C=C bonds instead of
+C-C bonds
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   24
+ Polymer Disposal
+                                                                                                Your notes
+
+Polymer Disposal
+  The three main methods to dispose of plastics are:
+      Landfill waste disposal
+      Incineration / burning
+      Recycling
+
+Landfill waste disposal
+  Landfill sites are not desirable because they take up valuable land
+  Since polymers are nonbiodegradable, micro-organisms such as decomposers cannot
+  break them down
+  Therefore, plastic items will not decompose for hundreds of years which causes landfill
+  sites to fill rapidly
+
+Incineration
+  Polymers release a lot of heat energy when they burn
+  However, incineration / burning of plastic is not a good solution to the waste issue as it
+  produces the greenhouse gas carbon dioxide, which contributes to climate change
+  Some polymers release toxic fumes when they burn
+      An example of this is poly(vinylchloride) which releases toxic hydrogen chloride gas
+      when burned
+      Chemists have designed ways to remove toxic waste products like HCl before they
+      are emitted into the atmosphere
+      The waste gases from the incinerator are scrubbed/reacted with a base or
+      carbonate
+      The base reacts with the acidic HCl gas, neutralising it
+           eg. CaO (s) + 2HCl (aq)→CaCl2 (aq) + H2O (l)
+
+Recycling
+  Recycling plastic reduces the amount of water that goes to landfill sites or is burned
+  It can also help to conserve crude oil reserves as less energy is required to recycle
+  plastics than produce them
+  This means that finite natural resources, such as crude oil and other fossil fuels, can be
+  better managed as they are not being used:
+      As raw materials for plastics in the manufacture of plastics
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   25
+      To power the industrial processes to manufacture plastics
+Biodegradable polymers                                                                        Your notes
+  Chemists have also developed biodegradable and compostable polymers
+  Biodegradable polymers can be broken down over time by microorganisms
+      Common products from this process include carbon dioxide, water and other
+      organic compounds
+  The polyester and polyamide condensation polymers are considered to be
+  biodegradable as they can be broken down using hydrolysis reactions
+      This is a major advantage over the polymers produced using alkene monomers
+      (polyalkenes)
+      When polyesters and polyamides are taken to landfill sites, they can be broken
+      down easily and their products used for other applications
+
+Compostable polymers
+  Compostable polymers are commonly plant-based
+      Plant starch is being used in the production of biodegradable bin liners
+      Sugar cane fibres are replacing polystyrene in the production of disposable plates
+      and cups
+  Compostable polymers degrade naturally leaving no harmful residues
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   26
+

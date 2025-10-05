@@ -1,0 +1,654 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Covalent Bonding & Structure
+Contents
+  Evidence of Covalent Bonding
+  Covalent Bonding
+  Carbon Allotropes
+  Electronegativity
+  VSEPR Theory
+  Predicting Shapes & Angles
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+Evidence of Covalent Bonding
+                                                                                             Your notes
+
+Evidence of Covalent Bonding
+  Covalent bonding occurs between two non-metals
+  A covalent bond involves the electrostatic attraction between nuclei of two atoms and
+  the electrons of their outer shells
+  No electrons are transferred but only shared in this type of bonding
+  When a covalent bond is formed, two atomic orbitals overlap and a molecular orbital is
+  formed
+  Covalent bonding happens because the electrons are more stable when attracted to
+  two nuclei than when attracted to only one
+
+
+
+
+The positive nucleus of each atom has an attraction for the bonding electrons shared in
+                                 the covalent bond
+  In a normal covalent bond, each atom provide one of the electrons in the bond. A
+  covalent bond is represented by a short straight line between the two atoms, H-H
+  Covalent bonds should not be regarded as shared electron pairs in a fixed position; the
+  electrons are in a state of constant motion and are best regarded as charge clouds
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+ A representation of electron charge clouds. The electrons can be found anywhere in the
+                                     charge clouds
+                                                                                               Your notes
+Bond Polarity
+Non-metals are able to share pairs of electrons to form different types of covalent bonds
+Sharing electrons in the covalent bond allows each of the 2 atoms to achieve an electron
+configuration similar to a noble gas This makes each atom more stable
+    When two atoms in a covalent bond have the same electronegativity the covalent bond
+    is nonpolar
+
+
+
+
+The two chlorine atoms have identical electronegativities so the bonding electrons are
+shared equally between the two atoms
+When two atoms in a covalent bond have different electronegativities the covalent bond
+is polar and the electrons will be drawn towards the more electronegative atom As a result
+of this: The negative charge centre and positive charge centre do not coincide with each
+other This means that the electron distribution is asymmetric The less electronegative atom
+gets a partial charge of δ+ (delta positive) The more electronegative atom gets a partial
+charge of δ- (delta negative)
+    The greater the difference in electronegativity the more polar the bond becomes until
+    the bond becomes ionic
+
+
+
+
+Cl has a greater electronegativity than H causing the electrons to be more attracted
+towards the Cl atom which becomes delta negative and the H delta positive
+The octet rule
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   3
+  In some instances, the central atom of a covalently bonded molecule can
+  accommodate more or less than 8 electrons in its outer shell
+                                                                                               Your notes
+      Being able to accommodate more than 8 electrons in the outer shell is known as
+      ‘expanding the octet rule’
+          Atoms from Period 3 and below can accommodate more than 8 electrons as
+          the d-orbitals are accessible
+          Common examples of elements that can have an 'expanded octet' are
+          phosphorous and sulfur
+          For example, PCl5, which has 10 electrons around the central phosphorus atom
+          In SF6, there are 12 electrons around the central sulfur atom
+      Accommodating less than 8 electrons in the outer shell means that the central atom
+      is ‘electron deficient’
+          Boron has 3 electrons in its outer shell, 2s22p1
+          When it forms a covalent compound, these three electrons are paired
+          For example, BF3 which has 6 electrons around the central boron atom
+
+Covalent bonding & simple covalent lattice structures
+  Covalent bonding can be responsible for substances that have many different
+  structures and therefore different physical properties
+  Small molecules such as H2O and N2 are simple units made from covalently bonded
+  atoms
+  These simple molecules contain fixed numbers of atoms
+  Simple covalent lattices have low melting and boiling points
+      These compounds have weak intermolecular forces between the molecules
+      Only little energy is required to break the lattice
+  Most compounds are insoluble with water
+      Unless they are polar and can form hydrogen bonds (such as sucrose)
+  They do not conduct electricity in the solid or liquid state as there are no charged
+  particles
+      Some simple covalent compounds do conduct electricity in solution, but this is
+      because their interaction with water produces ions, for example, HCl which forms H+
+      and Cl- ions when in aqueous solution
+  Buckminsterfullere, C60, is an exception to some of these general points about simple
+  molecules
+      Buckminsterfullerene and other fullerenes are spherical networks of carbon atoms
+      They are made up of large molecules but they are not classed as giant covalent
+      structures
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   4
+      Compared to other simple covalent molecules, buckminsterfullerene has a higher
+      melting and boiling point
+                                                                                                Your notes
+          Fullerenes are generally larger molecules so will have larger intermolecular
+          forces because of the number of electrons within the molecule which require
+          more energy to overcome
+      Fullerenes are good insulators as, despite having delocalised electrons within their
+      structure, these cannot pass between molecules and therefore cannot conduct
+      electricity
+Covalent bonding & giant covalent lattice structures
+  Giant covalent structures have a huge number of non-metal atoms bonded to other
+  non-metal atoms via strong covalent bonds
+  These structures can also be called giant lattices and have a fixed ratio of atoms in the
+  overall structure
+  Some of the common macromolecules you should know about include diamond and
+  graphite
+  Giant covalent lattices have very high melting and boiling points
+      These compounds have a large number of covalent bonds linking the whole
+      structure
+      A lot of energy is required to break the lattice
+  The compounds can be hard or soft
+      Graphite is soft as the forces between the carbon layers are weak
+      Diamond and silicon(IV) oxide are hard as it is difficult to break their 3D network of
+      strong covalent bonds
+  Most compounds are insoluble with water
+  Most compounds do not conduct electricity however some do
+      In graphite, each carbon atom has three outer electrons that are involved in bonding
+      to other carbon atoms, leaving one electron which becomes delocalised between
+      the carbon layers and can move along the layers when a voltage is applied
+      Diamond and silicon(IV) oxide do not conduct electricity as all four outer electrons
+      on every carbon atom are involved in a covalent bond so there are no freely moving
+      electrons available
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   5
+ Covalent Bonding
+                                                                                            Your notes
+
+Covalent Dot & Cross Diagrams
+Covalent compounds
+  The atoms in covalent compounds will share their outer valence electrons to achieve
+  a noble gas configuration
+
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   6
+                                                               Your notes
+
+
+
+
+© 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   7
+                                                                                         Your notes
+
+
+
+
+Dot-and-cross diagrams of covalent compounds in which the atoms share their valence
+                                    electrons
+Double covalent bonding
+Oxygen, O2
+
+
+
+
+                          © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   8
+                                                                                        Your notes
+
+
+
+
+                         Covalent bonding in oxygen
+Carbon dioxide, CO2
+
+
+
+
+                      Covalent bonding in carbon dioxide
+Ethene, C2H4
+
+
+
+
+                       © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   9
+                                                                                  Your notes
+
+
+
+
+                     Covalent bonding in ethene
+Triple covalent bonding
+Nitrogen, N2
+
+
+
+
+                    Covalent bonding in nitrogen
+Dative covalent bonding
+
+                  © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   10
+  In simple covalent bonds, the two atoms involved share electrons
+  Some molecules have a lone pair of electrons that can be donated to form a bond with        Your notes
+  an electron-deficient atom
+      An electron-deficient atom is an atom that has an unfilled outer orbital
+  So both electrons are from the same atom
+  This type of bonding is called dative covalent bonding or coordinate bonding
+  An example with a dative bond is in an ammonium ion
+      The hydrogen ion, H+ is electron-deficient and has space for two electrons in its
+      shell
+      The nitrogen atom in ammonia has a lone pair of electrons which it can donate to the
+      hydrogen ion to form a dative covalent bond
+
+
+
+
+ Ammonia (NH3) can donate a lone pair to an electron-deficient proton (H+) to form a
+                        charged ammonium ion (NH4+)
+Aluminium chloride
+  Aluminium chloride is also formed using dative covalent bonding
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+    At high temperatures aluminium chloride can exist as a monomer (AlCl3)
+        The molecule is electron-deficient and needs two electrons to complete the             Your notes
+        aluminium atom’s outer shell
+    At lower temperatures the two molecules of AlCl3 join together to form a dimer (Al2Cl6)
+        The molecules combine because lone pairs of electrons on two of the chlorine
+        atoms form two coordinate bonds with the aluminium atoms
+
+
+
+
+Aluminium chloride is also formed with a dative covalent bond in which two of the chlorine
+      atoms donate their lone pairs to each of the aluminium atoms to form a dimer
+
+
+
+   Examiner Tips and Tricks
+   Covalent bonding takes place between nonmetal atoms.
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+Remember: Use the Periodic Table to decide how many electrons are in the outer
+shell of a nonmetal atom.
+                                                                                         Your notes
+
+
+
+
+                        © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   13
+ Carbon Allotropes
+                                                                                                Your notes
+
+Carbon Allotropes
+Covalent bonding & giant covalent lattice structures
+  Allotropes of carbon are substances that only contain carbon atoms but due to the
+  differences in bonding arrangements they are physically completely different
+  Giant covalent lattices have very high melting and boiling points
+      These compounds have a large number of covalent bonds linking the whole
+      structure
+      A lot of energy is required to break the lattice
+  The compounds can be hard or soft
+      Graphite is soft as the forces between the carbon layers are weak
+      Diamond and silicon(IV) oxide are hard as it is difficult to break their 3D network of
+      strong covalent bonds
+  Most compounds are insoluble with water
+  Most compounds do not conduct electricity however some do
+      Graphite has delocalised electrons between the carbon layers which can move
+      along the layers when a voltage is applied
+      Diamond and silicon(IV) oxide do not conduct electricity as all four outer electrons
+      on every carbon atom are involved in a covalent bond so there are no freely moving
+      electrons available
+
+Graphite
+  Each carbon atom in graphite is bonded to three others forming layers of hexagons,
+  leaving one free electron per carbon atom
+  These free electrons migrate along the layers and are free to move and carry charge,
+  hence graphite can conduct electricity
+  The covalent bonds within the layers are very strong, but the layers are attracted to each
+  other by weak intermolecular forces, so the layers can slide over each other making
+  graphite soft and slippery
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   14
+                                                                                               Your notes
+
+
+
+
+Diagram showing the structure and bonding arrangement in graphite
+Diamond
+   In diamond, each carbon atom bonds with four other carbons, forming a tetrahedron
+   All the covalent bonds are identical, very strong and there are no intermolecular forces
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+                                                                                                 Your notes
+
+
+
+
+        Diagram showing the structure and bonding arrangement in diamond
+Graphene
+  Graphene consists of a single layer of graphite which is a sheet of carbon atoms
+  covalently bonded forming a continuous hexagonal layer
+  It is essentially a 2D molecule since it is only one atom thick
+  It has very unusual properties make it useful in fabricating composite materials and
+  in electronics
+
+
+
+
+    Graphene is a truly remarkable material that has some unexpected properties
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   16
+Electronegativity
+                                                                                              Your notes
+
+Electronegativity & Bonding
+ Electronegativity is the power of an atom to attract the pair of electrons in a covalent
+ bond towards itself
+ The electron distribution in a covalent bond between elements with different
+ electronegativities will be unsymmetrical
+ This phenomenon arises from the ability of the positive nucleus to attract the negatively
+ charged electrons, in the outer shells, towards itself
+ The Pauling scale is used to assign a value of electronegativity for each atom
+
+
+
+
+       First three rows of the periodic table showing electronegativity values
+ Fluorine is the most electronegative atom on the Periodic Table, with a value of 4.0 on
+ the Pauling Scale
+ It is best at attracting electrons towards itself when covalently bonded to another atom
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   17
+                                                                                             Your notes
+
+
+
+
+               Electron distribution in the C-F bond of fluoromethane
+Ionic and covalent bonding
+  Elements with large differences in electronegativity tend to form ionic bonds
+  Atoms of elements with similar electronegativity tend to form covalent bonds
+  Intermediate differences in electronegativity between covalently bonded atoms lead to
+  polarity in the bond
+      As a rule, an electronegativity difference of 2 or more on the Pauling scale between
+      atoms leads to the formation of an ionic bond
+      A difference of less than 2 between atoms leads to covalent bond formation
+
+Polar Bonds & Polar Molecules
+  When two atoms in a covalent bond have the same electronegativity the covalent bond
+  is nonpolar
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   18
+                                                                                                 Your notes
+
+
+
+
+The two chlorine atoms have the same electronegativities so the bonding electrons are
+                       shared equally between the two atoms
+  The difference in electronegativities will dictate the type of bond that is formed
+  When the electronegativities are very different (difference of more than 1.7) then ions will
+  be formed and the bond will be ionic
+  When two atoms in a covalent bond have a difference in electronegativities of 0.3 to 1.7
+  a covalent bond is formed and the bond will be polar
+      The electrons will be drawn towards the more electronegative atom
+  As a result of this:
+      The negative charge centre and positive charge centre do not coincide with each
+      other
+      This means that the electron distribution is asymmetric
+      The less electronegative atom gets a partial charge of δ+ (delta positive)
+      The more electronegative atom gets a partial charge of δ- (delta negative)
+  The greater the difference in electronegativity the more polar the bond becomes
+
+
+
+
+ Cl has a greater electronegativity than H causing the electrons to be more attracted
+     towards the Cl atom which becomes delta negative and the H delta positive
+Dipole moment
+  The dipole moment is a measure of how polar a bond is
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com    19
+   The direction of the dipole moment is shown by the following sign in which the arrow
+   points to the partially negatively charged end of the dipole:
+                                                                                              Your notes
+
+
+
+
+  The sign shows the direction of the dipole moment and the arrow points to the delta
+                              negative end of the dipole
+Assigning polarity to molecules
+   To determine whether a molecule with more than two different atoms is polar, the
+   following things have to be taken into consideration:
+       The polarity of each bond
+       How the bonds are arranged in the molecule
+   Some molecules have polar bonds but are overall not polar because the polar bonds in
+   the molecule are arranged in such way that the individual dipole moments cancel each
+   other out
+
+
+
+
+There are four polar covalent bonds in CH3Cl which do not cancel each other out causing
+CH3Cl to be a polar molecule; the overall dipole is towards the electronegative chlorine
+                                          atom
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   20
+                                                                                          Your notes
+
+
+
+
+Though CCl4 has four polar covalent bonds, the individual dipole moments cancel each
+                  other out causing CCl4 to be a nonpolar molecule
+
+
+
+
+                         © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   21
+VSEPR Theory
+                                                                                                 Your notes
+
+Shapes & Angles
+ The valence shell electron pair repulsion theory (VSEPR) predicts the shape and bond
+ angles of molecules
+ Electrons are negatively charged and will repel other electrons when close to each
+ other
+ In a molecule, the bonding pairs of electrons will repel other electrons around
+ the central atom forcing the molecule to adopt a shape in which these repulsive
+ forces are minimised
+ When determining the shape and bond angles of a molecule, the following VSEPR rules
+ should be considered:
+     Valence shell electrons are those electrons that are found in the outer shell
+     Electron pairs repel each other as they have the same charge
+     Lone pair electrons repel each other more than bonded pairs
+     Repulsion between multiple and single bonds is treated the same as for repulsion
+     between single bonds
+     Repulsion between pairs of double bonds are greater
+     The most stable shape is adopted to minimize the repulsion forces
+ Different types of electron pairs have different repulsive forces
+     Lone pairs of electrons have a more concentrated electron charge cloud than
+     bonding pairs of electrons
+     The cloud charges are wider and closer to the central atom’s nucleus
+     The order of repulsion is therefore: lone pair – lone pair > lone pair – bond pair > bond
+     pair – bond pair
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    22
+           Different types of electron pairs have different repulsive forces
+Bond length                                                                                   Your notes
+  The bond length is internuclear distance of two covalently bonded atoms
+      It is the distance from the nucleus of one atom to another atom which forms the
+      covalent bond
+  The greater the forces of attraction between electrons and nuclei, the more the atoms
+  are pulled closer to each other
+  This decreases the bond length of a molecule and increases the strength of the
+  covalent bond
+  Triple bonds are the shortest and strongest covalent bonds due to the large electron
+  density between the nuclei of the two atoms
+  This increase the forces of attraction between the electrons and nuclei of the atoms
+  As a result of this, the atoms are pulled closer together causing a shorter bond length
+  The increased forces of attraction also means that the covalent bond is stronger
+
+
+
+
+   Triple bonds are the shortest covalent bonds and therefore the strongest ones
+Bond Angle
+  Molecules can adapt the following shapes and bond angles:
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   23
+                                                                                      Your notes
+
+
+
+
+Molecules of different shapes can adapt with their corresponding bond angles
+
+
+
+
+                     © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   24
+ Predicting Shapes & Angles
+                                                                                                  Your notes
+
+Predicting Shapes & Angles
+   You will need to know and explain the shapes of the following molecules:
+        BeCl2
+        BCl3
+        CH4
+        NH3
+        NH4+
+        H 2O
+        CO2
+        PCl5 (g)
+        SF6
+        C2 H 4
+   In order to write the correct shapes and structures of the molecules listed we need to
+   consider the number of valence electrons
+BeCl2
+   Beryllium is in group 2, so has 2 valence electrons; Cl is in group 17, so has 7 valence
+   electrons
+   Both electrons are used to form covalent bonds with Cl and there are no lone pairs
+   Accommodating less than 8 electrons in the outer shell means than the central atom
+   is ‘electron deficient’
+   This gives a linear shape with bond angles of 180°
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   25
+                                                                                                 Your notes
+
+
+
+
+BCl3
+   Boron is in group 13, so has 3 valence electrons; Cl is in group 17, so has 7 valence
+   electrons
+   All 3 electrons are used to form covalent bonds with Cl and there are no lone pairs
+   Accommodating less than 8 electrons in the outer shell means than the central atom
+   is ‘electron deficient’
+   This gives a trigonal planar shape with bond angles of 120°
+
+
+
+
+CH4 & NH3
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   26
+   Carbon is in group 14, so has 4 valence electrons; H is in group 1, so has 1 valence electron
+   All 4 electrons are used to form covalent bonds with H                                          Your notes
+   This gives a tetrahedral arrangement with a bond angle of 109.5°
+   Nitrogen is in group 15, so has 5 valence electrons
+   Only 3 electrons are used to form covalent bonds with H and 2 are unbonded as a lone
+   pair
+   This gives a trigonal pyramid arrangement with a bond angle of 107°
+
+
+
+
+NH4+
+   Nitrogen is in group 15, so has 5 valence electrons; H is in group 1, so has 1 valence
+   electron
+   Only 3 electrons are used to form covalent bonds with H and 2 are used to form a dative
+   covalent bond
+   This gives a tetrahedral arrangement
+   With a bond angle of 109.5° (similar to CH4)
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   27
+                                                                                 Your notes
+
+
+
+
+                           The NH4+ ion
+Other examples
+
+
+
+
+                 © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   28
+                                                                                                   Your notes
+
+
+
+
+PCl5 (g)
+    Phosphorus is in group 15, so has 5 valence electrons; Cl is in group 17, so has 7 valence
+    electrons
+           All 5 electrons are used to form covalent bonds with Cl and there are no lone pairs
+           This gives a trigonal (or triangular) bipyramidal shape
+           With bond angles of 120° and 90°
+
+
+
+
+                               © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   29
+                            Phosphorus pentachloride molecule
+C 2 H4                                                                                           Your notes
+    Each carbon atom is in group 14, so has 4 valence electrons, each hydrogen atom is in
+    group 1 so has 1 valence electron
+    This gives a total of 12 electrons
+    There are 4 C-H bonds which use 8 electrons
+    This leaves 4 electrons which are involved in the C=C
+    Therefore the overall shape is trigonal planar as there are three regions of electron
+    density for each carbon atom
+
+
+
+
+                                         Ethene molecule
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   30
+

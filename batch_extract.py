@@ -1,19 +1,14 @@
 #!/usr/bin/env python3
-"""
-Batch extract text from PDFs using pdftotext
-- Reads all PDFs from INPUT_DIR (recursively)
-- Writes .txt files into OUTPUT_DIR, mirroring folder structure
-"""
+
 
 from pathlib import Path
 import subprocess
 import sys
 
-# ========== CONFIG ==========
-INPUT_DIR = Path("/Users/ashneeth/Desktop/OCR_Results/maths")          # <-- folder with PDFs
-OUTPUT_DIR = Path("//Users/ashneeth/Desktop/ocr_2/maths")              # <-- folder where .txt will go
-USE_LAYOUT = True  # Set to False if you don't want -layout option
-# ============================
+
+INPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/chemistry/topic 3")          # <-- folder with PDFs
+OUTPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/chemistry/topic 3 txt")              # <-- folder where .txt will go
+USE_LAYOUT = True   
 
 def run_pdftotext(pdf: Path, txt: Path):
     """Run pdftotext on one file"""

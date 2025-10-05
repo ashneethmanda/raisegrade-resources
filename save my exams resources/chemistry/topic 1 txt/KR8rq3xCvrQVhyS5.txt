@@ -1,0 +1,552 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Ionic & Metallic Bonding & Structure
+Contents
+  Evidence of Ions
+  Ionic Bonding & Structures
+  Ionic Bond Strength
+  Polarisation
+  Metallic Bonding & Lattices
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Evidence of Ions
+                                                                                                Your notes
+
+Evidence of Ions
+  Most ionic, metallic and covalent solids are crystalline lattices
+  The ions, atoms or molecules are arranged in a regular and repeating arrangement
+
+Giant ionic lattices
+  An ionic bond is an electrostatic force of attraction between a positively charged metal
+  (cation) ion and a negatively charged non-metal (anion) ion
+      The metal becomes positively charged as it transfers electrons to the non-metal
+      which then becomes negatively charged
+      When an ionic compound is formed, the attraction between the ions happens in all
+      directions
+  Ionic compounds are arranged in giant ionic lattices (also called giant ionic structures)
+  The type of lattice formed depends on the sizes of the positive and negative ions which
+  are arranged in an alternating fashion
+      The ionic lattice of MgO and NaCl are cubic
+
+
+
+
+                 Ionic lattices of the ionic compounds NaCl and MgO
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+                                                                                                Your notes
+
+
+
+
+ Electron density maps shown above show the likelihood of finding electrons in a region.
+  This shows the electron density map for NaCl. The contours are lines of equal electron
+density. A = Na+ ions (smaller), B = Cl- ions (larger). Between the ions the electron density
+                                          falls to zero.
+
+
+
+
+             General ionic lattice which shows the actual packing of the ions
+Melting and boiling point
+   Most ionic compounds are solids at room temperature
+   This is because there isn't enough energy to overcome the strong electrostatic forces of
+   attraction between the oppositely charged ions that make up the lattice
+   Therefore, high temperatures are required to make an ionic compound melt or boil
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+   Melting (and boiling) points are also higher for lattices that contain ions with a greater
+   ionic charge
+                                                                                                  Your notes
+       For example, the melting point of sodium oxide, Na2O, is 1405 K while the melting
+       point of calcium oxide, CaO, is 2845 K
+       This is due to a stronger attraction between the ions - the size of the ions is not a
+       factor here as the Na+ and Ca2+ ions are a similar size
+Electrical Conductivity
+   For electrical current to flow there must be present freely moving charged particles such
+   as electrons or ions
+   Ionic compounds can conduct electricity in the molten state or in solution as they have
+   ions that can move and carry charge
+   They cannot conduct electricity in the solid state as the ions are in fixed positions within
+   the lattice and are unable to move
+
+
+
+
+ Molten or aqueous particles move and conduct electricity but cannot in the solid state
+Solubility
+   Many ionic compounds will dissolve in polar solvents, e.g. water
+   Solubility is dependent on two main factors:
+     1. Breaking down the ionic lattice
+     2. The polar molecules attracting and surrounding the ions
+   Polar molecules, such as water, can break down or disrupt the ionic lattice and surround
+   each ion in solution
+   The δ+ end of the polar molecule can surround the negative anion
+   The δ- end of the polar molecule can surround the positive cation
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+   The solubility of an ionic compound depends on the relative strength of the electrostatic
+   forces of attraction within the ionic lattice and the attractions between the ions and the
+   polar molecule                                                                                Your notes
+   In general, the greater the ionic charge the less soluble an ionic compound is
+        For example, 356.9 g of sodium chloride, NaCl, will dissolve in one dm3 of water
+        while only 74.4 g of calcium chloride will dissolve in one dm3 of water
+        This is a general rule though and there are many exceptions
+
+
+
+
+The polar water molecules will form ion-dipole bonds with the ions in solution causing the
+                                ions to become hydrated
+Evidence
+   The behaviour of ionic substances during electrolysis is a clear piece of evidence for the
+   existence of ions
+        Positive ions in solution are attracted to the negative electrode
+        Negative ions in solution are attracted to the positive electrode
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+                                                                                              Your notes
+
+
+
+
+Set up of electrolysis
+  An example which is simple to see the separation is using copper(II) chromate(VI),
+  CuCrO4
+  The solution contains
+      Cu2+ ions (blue)
+      CrO42- ions (yellow)
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   6
+                                                                                            Your notes
+
+
+
+
+Overall the solution is an olive green colour, but when the solution undergoes
+electrolysis a blue colour appears around the negative electrode, and a yellow colour
+appears around the positive electrode
+This is because the Cu2+ ions are attracted to the negative electrode and their blue
+colour is observed and the CrO42- ions are attracted to the positive electrode and their
+yellow colour is observed
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+Ionic Bonding & Structures
+                                                                                              Your notes
+
+Ionic Dot-and-Cross Diagrams
+ As a general rule, metals are on the left of the periodic table and nonmetals are on
+ the right-hand side
+ Ionic bonding involves the transfer of electrons from a metallic element to a non-
+ metallic element
+ Transferring electrons usually leaves the metal and the non-metal with a full outer shell
+ Metals lose electrons from their valence shell forming positively charged cations
+ Non-metal atoms gain electrons forming negatively charged anions
+ Once the atoms become ions, their electronic configurations are the same as a noble
+ gas
+     A potassium ion (K+) has the same electronic configuration as argon: [2,8,8]+
+     A chloride ion (Cl-) also has the same electronic configuration as argon: [2,8,8]-
+
+
+
+
+              Forming cations by the removal of electrons from metals
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+                                                                                            Your notes
+
+
+
+
+            Forming anions by the addition of electrons to nonmetals
+Cations and anions are oppositely charged and therefore attracted to each other
+Electrostatic attractions are formed between the oppositely charged ions to
+form ionic compounds
+The ionic bond is the electrostatic attraction formed between the oppositely charged
+ions, which occurs in all directions ( this called non-directional bonding)
+This form of attraction is very strong and requires a lot of energy to overcome
+    This causes high melting points in ionic compounds
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+                                                                                                    Your notes
+
+
+
+
+Cations and anions bond together using strong electrostatic forces, which require a lot of
+                                 energy to overcome
+   The ions form a lattice structure which is an evenly distributed crystalline structure
+   Ions in a lattice are arranged in a regular repeating pattern so that positive charges
+   cancel out negative charges
+   The attraction between the cations and anions is occurring in all directions
+        Each ion is attracted to all of the oppositely charged ions around it
+   Therefore the final lattice is overall electrically neutral
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   10
+                                                                                              Your notes
+
+
+
+
+                     Ionic solids are arranged in lattice structures
+Dot and cross diagrams
+  These are diagrams that show the arrangement of the outer-shell electrons in
+  an ionic or covalent compound or element
+  The electrons are shown as dots and crosses
+  In a dot and cross diagram:
+      Only the outer electrons are shown
+      The charge of the ion is spread evenly which is shown by using brackets
+      The charge on each ion is written at the top right-hand corner
+
+Ionic compounds
+  Ionic bonds are formed when metal atoms transfer electrons to a non-metal to form a
+  positively charged and negatively charged ion
+  The atoms achieve a noble gas configuration
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+                                                                                                   Your notes
+
+
+
+
+ Dot-and-cross diagrams of ionic compounds in which one of the atoms transfers their
+                          valence electrons to the other
+Calcium fluoride
+   Calcium is a Group 2 metal
+       It loses its 2 outer electrons to form a calcium ion with a +2 charge (Ca2+)
+   Fluorine is a Group 7 non-metal
+       It gains 1 electron to form a fluoride ion with a -1 charge (F-)
+   As before, the positive and negative ions are attracted to each other via an ionic bond
+   However, to cancel out the 2+ charge of the calcium ion, 2 fluorine atoms are needed
+       Each fluorine atom can only accept 1 electron from the calcium atom
+       2 fluoride ions will be formed
+   Calcium fluoride is made when 1 calcium ion and 2 fluoride ions form ionic bonds, CaF2
+   The final ionic solid of CaF2 is neutral in charge
+
+
+
+
+  Worked Example
+  Draw a dot cross diagram for lithium nitride
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   12
+Answer
+    Lithium is a Group 1 metal                                                                Your notes
+         It loses its outer electron to form a lithium ion with a +1 charge (Li+)
+         Nitrogen is a Group 5 non-metal
+         It gains 3 electrons to form a nitride ion with a -3 charge (N3-)
+         To cancel out the -3 charge of the nitride ion, 3 lithium atoms are needed and
+         3 lithium ions will be formed
+         Lithium nitride is made when 1 nitride ion and 3 lithium ions form ionic bonds
+         The final ionic solid of Li3N is neutral in charge
+
+
+
+
+         Dot and cross diagram to show the ionic bonding in lithium nitride
+
+
+
+
+Worked Example
+Draw a dot cross diagram for aluminium oxide
+Answer
+    Aluminium is a Group 3 metal
+         It loses its outer electrons to form an aluminium ion with a +3 charge (Al3+)
+         Oxygen is a Group 6 non-metal
+         It gains 2 electrons to form an oxide ion with a -2 charge (O2-)
+         To cancel out the negative and positive charges, 2 aluminium and 3 oxygen
+         atoms are needed
+
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   13
+Aluminium oxide is made when 2 aluminium ions and 3 oxygen ions form ionic
+bonds
+The final ionic solid of Al2O3 is neutral in charge                              Your notes
+
+
+
+
+Dot and cross diagram to show the ionic bonding in aluminium oxide
+
+
+
+
+                © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   14
+ Ionic Bond Strength
+                                                                                               Your notes
+
+Trend: Atomic Radius
+  Elements in the periodic table are arranged in order of increasing atomic number and
+  placed in vertical columns (groups) and horizontal rows (periods)
+  The elements across the periods show repeating patterns in chemical and physical
+  properties
+  This is called periodicity
+
+
+
+
+  All elements are arranged in the order of increasing atomic number from left to right
+Atomic radius
+  The atomic radius is the distance between the nucleus and the outermost electron of an
+  atom
+  The atomic radius is measured by taking two atoms of the same element, measuring the
+  distance between their nuclei and then halving this distance
+
+
+
+                               © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   15
+  In metals this is also called the metallic radius and in non-metals, the covalent radius
+Atomic radii of Period 3 elements                                                               Your notes
+  You can see a clear trend across the period:
+
+
+
+
+  The graph shows a decrease in atomic radii of Period 3 elements across the period
+  Across the period, the atomic radii decrease
+  This is because the number of protons (the nuclear charge) and the number of electrons
+  increases by one every time you go an element to the right
+  The elements in a period all have the same number of shells (so the shielding effect is the
+  same)
+  This means that as you go across the period the nucleus attracts the electrons more
+  strongly pulling them closer to the nucleus
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+   Because of this, the atomic radius (and thus the size of the atoms) decreases across the
+   period
+                                                                                                 Your notes
+
+
+
+
+ The diagram shows that across Period 3, the elements gain extra electrons in the same
+                               principal quantum shell
+
+Ionic Radius & Charge
+Ionic radius
+   The ionic radius of an element is a measure of the size of an ion
+   Ionic radii show predictable patterns
+       Ionic radii increase with increasing negative charge
+       Ionic radii decrease with increasing positive charge
+   For negative ions
+       They are formed by atoms gaining electrons
+       The outermost electrons are further away from the positively charged nucleus and
+       are therefore held only weakly to the nucleus which increases the ionic radius
+       The greater the negative charge, the larger the ionic radius
+   For positive ions
+       Positively charged ions are formed by atoms losing electrons
+       The nuclear charge remains the same but there are now fewer electrons that
+       undergo a greater electrostatic force of attraction to the nucleus which decreases
+       the ionic radius
+       The greater the positive charger, the smaller the ionic radius
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+                                                                                               Your notes
+
+
+
+
+               Trends in the ionic radii across a period and down a group
+  The strength of ionic bonding, therefore, depends on both the charges and the sizes of
+  the two ions
+  Higher charges and smaller sizes produce stronger bonds
+  This is because:
+      As the ionic charge increases, or the ionic radius decreases, the charge density
+      increases
+
+Trends in Ionic Radius
+Isoelectronic Ions
+  These are ions that have the same electronic configuration
+  For example the following ions all have the electronic configuration of 1s2 2s2 2p6
+  However, they all have different numbers of protons, therefore will have a different ionic
+  radius
+      N3- (7 protons)
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   18
+    O2- (8 protons)
+    F- (9 protons)                                                                              Your notes
+    Na+ (11 protons)
+    Mg2+ (12 protons)
+    Al3+ (13 protons)
+As the number of protons in the nucleus of the ion increases, the electrons get pulled in
+more closely to the nucleus
+The radii of the isoelectronic ions therefore fall across this series of ions
+    N3- has an ionic radius of 0.171 nm and Al3+ has an ionic radius of 0.054 nm
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   19
+  Polarisation
+                                                                                                     Your notes
+
+The Polarisation of anions & Cations
+    Theoretical lattice energies assume a perfect ionic model where the ions are 100%
+    spherical and the attractions are purely electrostatic
+        So overall, there has a been a complete and irreversible exchange of outer shell
+        electrons between the two elements in the compound so that one ion is negatively
+        charged and the other ion positively charged and the charges are whole values
+    Theoretical lattice energy can differ from measured lattice energy
+    This is because covalent character is introduced when there is polarisation of the anions
+    When this occurs, the cation attracts electrons from the anion therefore distorting
+    electron density of the anion
+
+
+
+
+Polarisation of anion leading to covalent character
+Cations
+    A cation with a large charge density will have a larger polarising power
+    The charge density can be calculated as the charge of the cation divided but the surface
+    area, for example
+        K+ will have a lower polarising power than Li+ as the ionic radius is greater
+        Na+ will have a lower polarising power than Mg2+ as the charge is smaller
+    So a cation that is small and highly charged will have the greatest polarising power
+
+Anions
+    Anions are polarised
+    The polarisability of the anion depends of its ionic radius
+    The larger the ionic radius the more easily it will be distorted, for example
+        Br- will be more polarisable than Cl- as the ionic radius is larger
+
+
+
+
+                              © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   20
+Metallic Bonding & Lattices
+                                                                                                Your notes
+
+Metallic Bonding & Lattices
+ Metal atoms are tightly packed together in lattice structures
+ When the metal atoms are in lattice structures, the electrons in their outer shells are free
+ to move throughout the structure
+ The free-moving electrons are called ‘delocalised electrons’ and they are not bound to
+ their atom
+ When the electrons are delocalised, the metal atoms become positively charged ions
+ The positive ions repel each other
+ The strong forces between the positive metal centres and the ‘sea’ of delocalised
+ electrons holds the lattice together and keeps it stable
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   21
+       The positive metal ions are suspended in a ‘sea’ of delocalised electrons
+
+Simple Properties of Metals                                                                    Your notes
+
+  Metals form giant metallic lattices in which the metal ions are surrounded by a ‘sea’ of
+  delocalised electrons
+  The metal ions are often packed in hexagonal layers or in a cubic arrangement
+  This layered structure with the delocalised electrons gives a metal its key properties
+
+
+
+
+   Layers of copper ions (the delocalised electrons are not shown in the diagram)
+  If other atoms are added to the metal structure, such as carbon atoms, this creates an
+  alloy
+  Alloys are much stronger than pure metals, because the other atoms stop the layers of
+  metal ions sliding over each other easily
+  The strength of the metallic attraction can be increased by:
+      Increasing the number of delocalised electrons per metal atom
+      Increasing the positive charges on the metal centres in the lattice
+      Decreasing the size of the metal ions
+  Due to the delocalised ‘sea’ of electrons, metallic structures have some characteristic
+  properties shown below:
+
+Metallic Bonding Properties Table
+   Property                                        Reason
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   22
+High melting and There are strong electrostatic forces of attraction between the
+  boiling point  delocalised electrons and positive metal ions which results in strong
+                                                                                                Your notes
+                 metallic bonds within giant metallic structures.
+                    These require large amounts of energy to overcome the forces and
+                    break the bonds
+
+     Good           The delocalised electrons are able to move and carry charge.
+ conductors of
+   electricity      For example, in a circuit, electrons entering one end of the metal
+                    cause a delocalised electron to be displaced from the other need.
+                    Hence, electrons can flow and conduct electricity
+
+    Good            The delocalised electrons are free to move within the metal structure.
+ conductors of
+     heat           The conversion of the kinetic energy of the electron to heat energy
+                    when it collides with the metal atoms/nuclei results in the transfer of
+                    energy.
+                    This is alongside the increased vibrations and movement of the
+                    particles (positive ions and delocalised electrons)
+
+ Malleable and      Layers of positive ions can easily slide over one another to take up
+    ductile         different positions.
+                    This does not disrupt the metallic bonding as the delocalised
+                    electrons do not belong to any particular metal atom and so they can
+                    move with the layers of positive ions, maintaining the electrostatic
+                    forces.
+                    Therefore, the metallic bonds are not broken and, as a result, metallic
+                    bonds are strong but flexible/
+
+
+
+
+  Examiner Tips and Tricks
+  You should be able to draw the structure of a metal with positive ions in layers and the
+  delocalised electrons surrounding the ions
+  If drawing the structure of a metal in the exam, make sure to include labels for metal
+  ions and delocalised electrons
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   23
+

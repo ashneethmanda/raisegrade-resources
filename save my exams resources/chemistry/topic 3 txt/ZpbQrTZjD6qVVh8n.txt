@@ -1,0 +1,318 @@
+  Edexcel International AS                                                          Your notes
+Chemistry
+Inorganic & Organic Chemistry Core
+Practicals
+Contents
+  Hydrolysis of Halogenoalkanes
+  Chlorination of 2-Methylpropan-2-ol
+  Propan-1-ol Oxidation
+  AS Qualitative Analysis
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Hydrolysis of Halogenoalkanes
+                                                                                                 Your notes
+
+Core Practical 5: Investigating
+Halogenoalkane Hydrolysis
+   Halogenoalkanes can be hydrolysed with an aqueous solution of sodium hydroxide
+   (NaOH) or potassium hydroxide (KOH)
+   This reaction is very slow at room temperature, so the reaction mixture is warmed
+   The rate of this reaction depends on the type of halogen in the halogenoalkane
+       The stronger the C-X bond, the slower the rate of the reaction
+       In terms of bond enthalpy, C-F > C-Cl > C-Br > C-I
+       Fluoroalkanes do not react at all, but iodoalkanes have a very fast rate of reaction
+
+
+
+
+                    The halogen is replaced by the nucleophile, OH-
+   This reaction could also be done with water as the nucleophile, but it is very slow
+       The hydroxide ion is a better nucleophile than water as it carries a full negative
+       charge
+       In water, the oxygen atom only carries a partial charge
+
+
+
+
+A hydroxide ion is a better nucleophile as it has a full formal negative charge whereas the
+oxygen atom in water only carries a partial negative charge; this causes the nucleophilic
+      substitution reaction with water to be much slower than the aqueous alkali
+Measuring the rate of hydrolysis
+   Acidified silver nitrate can be used to measure the rate of hydrolysis of halogenoalkanes
+   Set up three test tubes in a 50 oC water bath, with a mixture of ethanol and acidified
+   silver nitrate
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+Add a few drops of a chloroalkane, bromoalkane and an iodoalkane to each test tube
+and start a stop watch
+                                                                                             Your notes
+Time how long it takes for the precipitates to form
+The precipitate will form as the reaction progresses and the halide ions are formed
+A white precipitate will form from the chloroalkane, a cream precipitate will form from
+the bromoalkane and a yellow precipitate will form from the iodoalkane
+    The yellow precipitate will form the fastest
+    This is because the C-I bond has the lowest bond enthalpy, so it is the easiest to
+    break and will cause the I- ions to form the fastest
+    The white precipitate will form the slowest
+    This is because the C-Cl bond has the highest bond enthalpy, so it is the hardest to
+    break and will cause the Cl- ions to form the slowest
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+ Chlorination of 2-Methylpropan-2-ol
+                                                                                                   Your notes
+
+Core Practical 6: Chlorination of 2-
+Methylpropan-2-ol
+Synthesis of a haloalkane from an alcohol
+  Measure 8 cm3 of 2-methylpropan-2-ol in a measuring cylinder
+  Pour the 2-methylpropan-2-ol into a separating funnel
+  Using a fume hood, add 20 cm3 of concentrated hydrochloric acid to the separating
+  funnel in small portions of 2 - 3 cm3 making sure to release the pressure by opening the
+  stopper after each addition
+  Leave the separating funnel to stand in the fume hood for 20 minutes and gently shake
+  the separating funnel at 2 minute intervals
+  Allow the layers to separate and dispose of the lower aqueous layer by opening the tap
+  Add sodium hydrogen carbonate solution in small portions to the funnel and gently
+  shake the funnel, again, release the pressure at regular intervals
+      This removes acidic impurities
+  Once these layers have separated, open the tap once more and dispose of the queues
+  layer
+  Pour the organic layer into a clean dry conical flask and add two spatulas of magnesium
+  sulfate
+      This will remove water
+  Once clear, decant the liquid into distillation apparatus
+  Distill the liquid and collect the distillate in the range of 47 - 53oC
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   4
+                                                                                             Your notes
+
+
+
+
+         A separating funnel allows the product to be cleaned and isolated
+
+
+
+Examiner Tips and Tricks
+This practical requires a fume hood as concentrated hydrochloric acid is very volatile
+at room temperature and hydrogen chloride gas is released from the solution quickly
+when the cover to a container or bottle is removed.
+When using a fume hood you must make sure the window is not open above the
+safety line, otherwise, the exhaust system will not be strong enough to draw in the
+fumes. Therefore toxic, poisonous, harmful or irritant fumes will escape into the
+laboratory
+If heating is involved in the experiment taking place in the fume hood, having the
+window open above the safety line will mean that carbon monoxide or soot could also
+escape.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+ Propan-1-ol Oxidation
+                                                                                                Your notes
+
+Core Practical 7: Oxidation of Propan-
+1-ol
+Oxidation of propan-1-ol
+  Primary alcohols can be oxidised to form aldehydes which can undergo further oxidation
+  to form carboxylic acids
+      When propan-1-ol is oxidised, propanal is produced and when oxidised further
+      propanoic acid will be formed
+
+Synthesis and purification of propanal and propanoic acid
+  Carefully add 20 cm3 of acidified potassium dichromate(VI) solution, K2Cr2O7 (aq), to a
+  50 cm3 pear-shaped flask and cool the flask in an iced water bath
+  Set up the reflux apparatus keeping pear shaped flask cool
+  Place anti-bumping granules into the pear shaped flask
+  Measure out 1 cm3 of propan-1-ol
+  Using a pipette, slowly add the propan-1-ol drop wise into the reflux condenser
+  When the propan-1-ol has been added remove the ice bath and allow to warm up to
+  room temperature
+  Position the flask over an electric heater or in a water bath and heat for 20 minutes
+      Propan-1-ol is flammable, therefore. naked flames should not be used when
+      heating which is why the use of an electric heater or water bath is an important safety
+      precaution
+  Purify the product using distillation apparatus
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   6
+                                                                                  Your notes
+
+
+
+
+Reflux apparatus for the oxidation of propan-1-ol to propanoic acid
+
+
+
+
+                 © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   7
+                                                                                           Your notes
+
+
+
+
+   Oxidation of propan-1-ol by acidified K2Cr2O7 to form propanal by distillation
+Hazards, risks and precautions
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   8
+                                                                                            Your notes
+
+
+
+
+The alcohols used are flammable and often harmful to health, e.g, propan‐1‐ol, butan‐1‐
+ol, pentan‐1‐ol
+The alcohols should be kept away from naked flames, e.g. a Bunsen burner
+Avoid contact with the skin and breathing in the vapour
+A fume cupboard can be used for harmful alcohols
+Potassium dichromate is a strong oxidising agent and should be handled with care
+Spillages should be mopped up right away with plenty of water
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+ AS Qualitative Analysis
+                                                                                                Your notes
+
+Core Practical 8: Analysis of Inorganic
+and Organic Unknowns
+Test Tube Reactions
+  Simple test tube reactions can be done to identify the following ions:
+      Ammonium ions (NH4+)
+      Halide ions (X-) - covered in 2.3.4 Halide Ion Reactions
+      Carbonate ions (CO32-) and hydrogencarbonate ions (HCO3-)
+      Sulfate ions (SO42-)
+  If the sample to be tested is a solid, then it must be dissolved in deionised water and
+  made into an aqueous solution
+
+Testing for Ammonium Ions
+  About 10 drops of a solution containing ammonium ions, such as ammonium chloride,
+  should be added to a clean test tube
+  About 10 drops of sodium hydroxide should be added using a pipette
+         Overall equation: NH4Cl (aq) + NaOH (aq) → NH3 (g) + H2O (l) + NaCl (aq)
+                 Ionic equation: NH4+ (aq) + OH- (aq) → NH3 (g) + H2O (l)
+  The test tube should be swirled carefully to ensure that it is mixed well
+  The test tube of the solution should then be placed in a beaker of water, and the beaker
+  of water should be placed above a Bunsen burner, so that it can become a water bath
+  As the solution is heated gently, fumes will be produced
+  A pair of tongs should be used to hold a damp piece of red litmus paper near the mouth
+  of the test tube, to test the fumes
+  The red litmus paper will change colour and become blue in the presence of ammonia
+  gas
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   10
+                                                                                              Your notes
+
+
+
+
+         Damp red litmus paper turning blue in the presence of ammonia gas
+Testing for Carbonate Ions
+  A small amount (around 1 cm3) of dilute hydrochloric acid should be added to a test tube
+  using a pipette
+  An equal amount of sodium carbonate solution should then be added to the test tube
+  using a clean pipette
+       Overall equation: 2HCl (aq) + Na2CO3 (aq) → 2NaCl (aq) + CO2 (g) + H2O (l)
+                Ionic equation: 2H+ (aq) + CO32- (aq) → CO2 (g) + H2O (l)
+  As soon as the sodium carbonate solution is added, a bung with a delivery tube should
+  be attached to the test tube
+      The delivery tube should transfer the gas which is formed into a different test tube
+      which contains a small amount of limewater (calcium hydroxide solution)
+  Carbonate ions will react with hydrogen ions from the acid to produce carbon dioxide
+  gas
+  Carbon dioxide gas will turn the limewater milky
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+                                                                                               Your notes
+
+
+
+
+     When carbon dioxide gas is bubbled into limewater it will turn cloudy as calcium
+                                carbonate is produced
+    A similar reaction is seen with sodium hydrogen carbonate, but the equations are:
+          Overall equation: HCl (aq) + NaHCO3 (aq) → NaCl (aq) + CO2 (g) + H2O (l)
+                  Ionic equation: H+ (aq) + HCO3- (aq) → CO2 (g) + H2O (l)
+
+Testing for Sulfate Ions
+Acidify the sample with dilute hydrochloric acid and then add a few drops of aqueous barium
+chloride If a sulfate is present then a white precipitate of barium sulfate is formed:
+                            Ba2+ (aq) + SO42- (aq) → BaSO4 (s)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+                                                                                                  Your notes
+
+
+
+
+ A white precipitate of barium sulfate is a positive result for the presence of sulfate ions
+
+
+
+  Examiner Tips and Tricks
+  HCl is added first to remove any carbonates which may be present and would also
+  produce a precipitate and interfere with the results.
+
+Flame tests
+   Metal ions produce a colour if heated strongly in a flame
+   Ions from different metals produce different colours
+   The flame test is thus used to identify metal ions by the colour of the flame they produce
+   Dip the loop of an unreactive metal wire such as nichrome or platinum in concentrated
+   acid, and then hold it in the blue flame of a Bunsen burner until there is no colour change
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   13
+  This cleans the wire loop and avoids contamination
+      This is an important step as the test will only work if there is just one type of ion       Your notes
+      present
+      Two or more ions means the colours will mix, making identification erroneous
+  Dip the loop into the solid sample and place it in the edge of the blue Bunsen flame
+  Avoid letting the wire get so hot that it glows red otherwise this can be confused with a
+  flame colour
+
+
+
+
+             Diagram showing the technique for carrying out a flame test
+Colours Observed in Flame Tests
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   14
+                                                                Your notes
+
+
+
+
+© 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   15
+

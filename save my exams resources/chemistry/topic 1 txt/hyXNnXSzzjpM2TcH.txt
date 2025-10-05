@@ -1,0 +1,489 @@
+  Edexcel International AS                                                            Your notes
+Chemistry
+Electrons & Ions
+Contents
+  Endothermic Ionisation Energy
+  Electronic Structures
+  Shapes of Orbitals
+  Electronic Configurations & Chemical Properties
+
+
+
+
+                      © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   1
+ Endothermic Ionisation Energy
+                                                                                                Your notes
+
+Ionisation Energy - Definitions
+Ionisation energy
+  The ionisation energy (IE) of an element is the amount of energy required to remove one
+  mole of electrons from one mole of gaseous atoms of an element to form one mole of
+  gaseous ions
+  Ionisation energies are measured under standard conditions which are 298 K and 101
+  kPa
+  The units of IE are kilojoules per mole (kJ mol-1)
+  The first ionisation energy (IE1) is the energy required to remove one mole of electrons
+  from one mole of gaseous atoms of an element to form one mole of gaseous 1+ ions
+      E.g. the first ionisation energy of gaseous calcium:
+                        Ca (g) → Ca+ (g) + e-     IE1 = +590 kJ mol-1
+Second and third ionisation energies of an element
+  More than one electron can be removed form an atom and each time you remove an
+  electron there is a successive ionisation energy
+  These are called second, third ionisation energy and so on
+  The second ionisation energy (IE2) is defined as
+      is the energy required to remove one mole of electrons from one mole of gaseous
+      1+ ions to form one mole of gaseous 2+ ions
+  And can be represented as can be represented as
+                                    X+ (g) → X2+ (g) + e-
+                                      OR (for calcium)
+                         Ca+ (g) → Ca2+ (g) + e- IE2 = 1145 kJ mol-1
+  The third ionisation energy (IE3) of an element can be represented as
+                                    X2+ (g) → X3+ (g) + e-
+                                      OR (for calcium)
+                        Ca2+ (g) → Ca3+ (g) + e- IE3 = 4912 kJ mol-1
+
+Ionisation Energy - Considerations
+Orbitals
+  Subshells contain one or more atomic orbitals
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   2
+Orbitals exist at specific energy levels and electrons can only be found at these specific
+levels, not in between them
+                                                                                                Your notes
+    Each atomic orbital can be occupied by a maximum of two electrons with opposite
+    spins
+This means that the number of orbitals in each subshell is as follows:
+    s : one orbital (1 x 2 = total of 2 electrons)
+    p : three orbitals ( 3 x 2 = total of 6 electrons)
+    d : five orbitals (5 x 2 = total of 10 electrons)
+     f : seven orbitals (7 x 2 = total of 14 electrons)
+Ionisation energies show periodicity - a trend across a period of the Periodic Table
+As could be expected from their electron configuration, the group 1 metals have
+relatively low ionisation energy, whereas the noble gases have very high ionisation
+energies
+The size of the first ionisation energy is affected by four factors:
+Size of the nuclear charge
+    The more protons there are in the nucleus, the more positively charged the nucleus
+    is, and the more strongly electrons are attracted to it
+Distance of outer electrons from the nucleus
+    Attraction falls off very rapidly with distance. An electron close to the nucleus will be
+    much more strongly attracted than one further away
+Shielding effect of inner electrons
+    As the number of shells between the valence electron and positive nucleus
+    increases, the shielding increases. It then becomes easier to remove the valence
+    electron as the shielding increases. This can occur within an orbit due to the
+    presence of different subshells
+Spin-pair repulsion
+    Two electrons in the same orbital experience a bit of repulsion from each other. This
+    offsets the attraction of the nucleus, so that paired electrons are removed more
+    easily
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+ Electronic Structures
+                                                                                                    Your notes
+
+Ionisation Energy & Sub-shells
+  Successive ionisation data can be used to:
+  Predict or confirm the simple electronic configuration of elements
+      Confirm the number of electrons in the outer shell of an element
+      Deduce the group an element belongs to in the Periodic Table
+      We can look at calcium as an example
+  The first electron removed in calcium has a low IE1 as it is easily removed from the atom
+  due to the spin-pair repulsion of the electrons in the 4s orbital
+  The second electron is more difficult to remove than the first electron as there is
+  no spin-pair repulsion
+  The third electron is much more difficult to remove than the second one corresponding
+  to the fact that the third electron is in a principal quantum shell that is closer to the
+  nucleus (3p)
+  Removal of the fourth electron is more difficult as the orbital is no longer full, and there is
+  less spin-pair repulsion
+  The graph shows there is a large increase in successive ionisation energy as the
+  electrons are being removed from an increasingly positive ion
+  The big jumps on the graph show the change of shell and the small jumps are the change
+  of subshell
+
+Ionisation Energies of Calcium Table
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   4
+                                                                                                 Your notes
+
+
+
+
+                  Successive ionisation energies for the element calcium
+By analysing where the large jumps appear and the number of electrons removed when
+these large jumps occur, the electron configuration of an atom can be determined Na, Mg
+and Al will be used as examples to deduce the electronic configuration and positions of
+elements in the Periodic Table using their successive ionisation energies
+
+Successive Ionisation Energies Table
+
+
+
+
+Sodium
+    For sodium, there is a huge jump from the first to the second ionisation energy,
+    indicating that it is much easier to remove the first electron than the second
+    Therefore, the first electron to be removed must be the last electron in
+    the valence shell thus Na belongs to group I
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+  The large jump corresponds to moving from the 3s to the full 2p subshell
+  Na 1s2 2s2 2p6 3s1                                                                                Your notes
+Magnesium
+  There is a huge increase from the second to the third ionisation energy, indicating that it
+  is far easier to remove the first two electrons than the third
+  Therefore the valence shell must contain only two electrons indicating that magnesium
+  belongs to group II
+  The large jump corresponds to moving from the 3s to the full 2p subshell
+  Mg 1s2 2s2 2p6 3s2
+
+Aluminium
+  There is a huge increase from the third to the fourth ionisation energy, indicating that it is
+  far easier to remove the first three electrons than the fourth
+  The 3p electron and 3s electrons are relatively easy to remove compared with the 2p
+  electrons which are located closer to the nucleus and experience
+  greater nuclear charge
+  The large jump corresponds to moving from the third shell to the second shell
+  Al    1s2 2s2 2p6 3s2 3p1
+
+
+
+
+  Worked Example
+  Values for the successive IEs of an unknown element are:
+  IE1 = 899 kJ mol-1, IE2 = 1757 kJ mol-1, IE3 = 14850 kJ mol-1, IE4 = 21005 kJ mol-1
+  Deduce which group of the periodic table of elements you would expect to find the
+  unknown element.
+  Answer:
+       The largest jump is between IE2 and IE3 which will correspond to a change in
+       energy level.
+           Therefore the unknown element must be in group 2
+
+
+
+
+  Worked Example
+  The table shows successive ionisation energies for element X in period 2.
+
+
+
+
+                               © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   6
+                                                                                             Your notes
+
+
+
+
+Identify element X.
+Answer:
+    The largest jump in ionisation energy is between IE6 and IE7 meaning that the 7th
+    electron is being removed from an energy level closer to the nucleus
+        Therefore element X must be group 6
+        If element X is in group 6 and in period 2 it must be oxygen
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+ Shapes of Orbitals
+                                                                                                   Your notes
+
+The Shape of Orbitals
+Orbitals
+  We have seen before that the total number of electrons that each subshell in each orbital
+  can hold are:
+      s : one orbital (1 x 2 = total of 2 electrons)
+      p : three orbitals ( 3 x 2 = total of 6 electrons)
+      d : five orbitals (5 x 2 = total of 10 electrons)
+      f : seven orbitals (7 x 2 = total of 14 electrons)
+  The orbitals have specific 3-D shapes
+
+s orbital shape
+  The s orbitals are spherical in shape
+  The size of the s orbitals increases with increasing shell number
+      E.g. the s orbital of the third quantum shell (n = 3) is bigger than the s orbital of
+      the first quantum shell (n = 1)
+
+p orbital shape
+  The p orbitals have a dumbbell shape
+  Every shell has three p orbitals except for the first one (n = 1)
+  The p orbitals occupy the x, y and z axes and point at right angles to each other, so are
+  oriented perpendicular to one another
+  The lobes of the p orbitals become larger and longer with increasing shell number
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   8
+                                                                                              Your notes
+
+
+
+
+Representation of orbitals (the dot represents the nucleus of the atom) showing spherical
+          s orbitals (a), p orbitals containing ‘lobes’ along the x, y and z axis
+   Note that the shape of the d orbitals is not required
+
+
+
+
+               An overview of the shells, subshells and orbitals in an atom
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   9
+Populating Orbitals
+                                                                                                  Your notes
+  Electrons can be imagined as small spinning charges which rotate around their own axis
+  in either a clockwise or anticlockwise direction
+       The spin of the electron is represented by its direction
+       The spin creates a tiny magnetic field with N-S pole pointing up or down
+
+
+
+
+Electrons can spin either in a clockwise or anticlockwise direction around their own axis
+  Electrons with the same spin repel each other which is also called spin-pair repulsion
+       Therefore, electrons will occupy separate orbitals in the same subshell first to
+       minimise this repulsion and have their spin in the same direction
+       They will then pair up, with a second electron being added to the first p orbital, with
+       its spin in the opposite direction
+  This is known as Hund's Rule
+       E.g. if there are three electrons in a p subshell, one electron will go into each px,
+       py and pz orbital
+
+
+
+
+                  Electron configuration: three electrons in a p subshell
+  The principal quantum number indicates the energy level of a particular shell but also
+  indicates the energy of the electrons in that shell
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   10
+   A 2p electron is in the second shell and therefore has an energy corresponding to n =
+   2
+Even though there is repulsion between negatively charged electrons, they occupy the         Your notes
+same region of space in orbitals
+An orbital can only hold two electrons and they must have opposite spin - the is known
+as the Pauli Exclusion Principle
+This is because the energy required to jump to a higher empty orbital is greater than the
+inter-electron repulsion
+For this reason, they pair up and occupy the lower energy levels first
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+Electronic Configurations & Chemical Properties
+                                                                                                Your notes
+
+Predicting Electronic Configurations
+ The Periodic Table is split up into four main blocks depending on their electron
+ configuration
+ Elements can be classified as an s-block element, p-block element and so on, based on
+ the position of the outermost electron:
+     s block elements - Have their valence electron(s) in an s orbital
+     p block elements - Have their valence electron(s) in a p orbital
+     d block elements - Have their valence electron(s) in a d orbital
+     f block elements - Have their valence electron(s) in an f orbital
+
+
+
+
+ The principal quantum shells increase in energy with increasing principal quantum
+ number
+     E.g. n = 4 is higher in energy than n = 2
+ The subshells increase in energy as follows: s ＜ p ＜ d ＜ f
+     The only exception to these rules is the 3d orbital which has slightly higher energy
+     than the 4s orbital
+     Because of this, the 4s orbital is filled before the 3d orbital
+ All the orbitals in the same subshell have the same energy and are said to be degenerate
+     E.g. px, py and pz are all equal in energy
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   12
+                                                                                             Your notes
+
+
+
+
+                    Relative energies of the shells and subshells
+The electron configuration gives information about the number of electrons in
+each shell, subshell and orbital of an atom
+The subshells are filled in order of increasing energy
+
+
+
+
+The electron configuration shows the number of electrons occupying a subshell in a
+                                  specific shell
+Writing out the electron configuration tells us how the electrons in an atom or ion are
+arranged in their shells, subshells and orbitals
+This can be done using the full electron configuration or the shorthand version
+    The full electron configuration describes the arrangement of all electrons from the
+    1s subshell up
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   13
+      The shorthand electron configuration includes using the symbol of the nearest
+      preceding noble gas to account for however many electrons are in that noble gas
+  Ions are formed when atoms lose or gain electrons                                                    Your notes
+      Negative ions are formed by adding electrons to the outer subshell
+      Positive ions are formed by removing electrons from the outer subshell
+      The transition metals fill the 4s subshell before the 3d subshell but lose electrons
+      from the 4s first and not from the 3d subshell (the 4s subshell is lower in energy
+Full Electron Configurations
+  Hydrogen has 1 single electron
+      The electron is in the s orbital of the first shell
+      Its electron configuration is 1s1
+  Potassium has 19 electrons
+      The first 2 electrons fill the s orbital of the first shell
+      They then continue to fill subsequent orbitals and subshells in order of increasing
+      energy
+      The 4s orbital is lower in energy than the 3d subshell, so it is therefore filled first
+      The full electron configuration of potassium is 1s2 2s2 2p6 3s2 3p6 4s1
+
+Shorthand Electron Configurations
+  Using potassium as an example again:
+      The nearest preceding noble gas to potassium is argon
+      This accounts for 18 electrons of the 19 electrons that potassium has
+      The shorthand electron configuration of potassium is [Ar] 4s1
+
+
+
+
+  Worked Example
+  Write down the full and shorthand electron configuration of the following elements:
+   1. Calcium
+   2. Gallium
+   3. Ca2+
+  Answer
+  Answer 1:
+       Calcium has 20 electrons so the full electronic configuration is:
+   1s2 2s2 2p6 3s2 3p6 4s2
+      The 4s orbital is lower in energy than the 3d subshell and is therefore filled first
+
+
+
+
+                             © 2025 Save My Exams, Ltd.             Get more and ace your exams at savemyexams.com   14
+         The shorthand version is [Ar] 4s2 since argon is the nearest preceding noble
+         gas to calcium which accounts for 18 electrons
+  Answer 2:                                                                                       Your notes
+      Gallium has 31 electrons so the full electronic configuration is:
+   1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p1
+   [Ar] 3d10 4s2 4p1
+     Even though the 4s is filled first, the full electron configuration is often written in
+     numerical order. So, if there are electrons in the 3d sub-shell, then these will be
+     written before the 4s
+  Answer 3:
+     What this means is that if you ionise calcium and remove two of its outer
+     electrons, the electronic configuration of the Ca2+ ion is identical to that of argon
+   Ca2+ is 1s2 2s2 2p6 3s2 3p6
+   Ar is also 1s2 2s2 2p6 3s2 3p6
+
+Exceptions
+  Chromium and copper have the following electron configurations, which are different to
+  what you may expect:
+       Cr is [Ar] 3d5 4s1 not [Ar] 3d4 4s2
+       Cu is [Ar] 3d10 4s1 not [Ar] 3d9 4s2
+  This is because the [Ar] 3d5 4s1 and [Ar] 3d10 4s1 configurations are energetically stable
+
+Presenting the Electron Configuration
+  Electrons can be imagined as small spinning charges which rotate around their own axis
+  in either a clockwise or anticlockwise direction
+       The spin of the electron is represented by its direction
+  Electrons with similar spin repel each other which is also called spin-pair repulsion
+  Electrons will therefore occupy separate orbitals in the same subshell where possible, to
+  minimize this repulsion and have their spin in the same direction
+       E.g. if there are three electrons in a p subshell, one electron will go into each px,
+       py and pz orbital
+
+
+
+
+                  Electron configuration: three electrons in a p subshell
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   15
+  Electrons are only paired when there are no more empty orbitals available within a
+  subshell, in which case the spins are the opposite spins to minimize repulsion
+                                                                                                   Your notes
+       E.g. if there are four electrons in a p subshell, one p orbital contains 2 electrons with
+       opposite spin and two orbitals contain one electron only
+       The first 3 electrons fill up the empty p orbitals one at a time, and then the 4th one
+       pairs up in the px orbital
+
+
+
+
+                  Electron configuration: four electrons in a p subshell
+Box Notation
+  The electron configuration can be represented using the electrons in boxes notation
+  Each box represents an atomic orbital
+  The boxes are arranged in order of increasing energy from bottom to top
+  The electrons are represented by opposite arrows to show the spin of the electrons
+       E.g. the box notation for titanium is shown below
+       Note that since the 3d subshell cannot be either full or half full, the second 4s
+       electron is not promoted to the 3d level and stays in the 4s orbital
+
+
+
+
+ The electrons in titanium are arranged in their orbitals as shown. Electrons occupy the
+            lowest energy levels first before filling those with higher energy
+
+Chemical Properties
+  The way an element reacts with other elements is determined by an number of factors,
+  but in particular the electronic configuration of its atoms
+  The Periodic Table is arranged in periods (horizontal) and groups (vertical)
+       All the elements in the same period have the same number of shells (principle
+       quantum number)
+       All the elements in the same group have the same number of outer electrons
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    16
+The elements in each group of period show particular trends and characteristics in their
+chemical and physical properties that can be explained in terms of their atomic numbers
+                                                                                             Your notes
+This provides valuable information about what is likely to happen when particular
+elements react
+The properties of the elements are a function of their atomic numbers
+Using this information as well as the location of the elements in the different blocks we
+can predict the properties
+For example:
+    Helium, neon and argon all have electronic structures with full sub shells as well as
+    high ionisation energies
+        This confirms that the electronic arrangement is very stable explaining why they
+        rarely react with other chemicals
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   17
+

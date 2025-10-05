@@ -1,0 +1,591 @@
+  Edexcel International AS                                                            Your notes
+Chemistry
+Groups 1 & 2
+Contents
+  Ionisation Energy - Groups 1 & 2
+  Reactivity - Groups 1 & 2
+  Oxides & Hydroxides
+  Group 2 Hydroxides & Sulfates
+  Nitrates & Carbonates
+  Flame Tests
+  Qualitative Tests
+
+
+
+
+                       © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+Ionisation Energy - Groups 1 & 2
+                                                                                               Your notes
+
+Ionisation Energy Trends
+ All elements in Groups 1 (also called alkali metals) have one electron in their outermost
+ principal quantum shell
+ All elements in Groups 2 (also called alkali earth metals) have two electrons in their
+ outermost principal quantum shell
+ All Group 1 and Group 2 metals can form ionic compounds in which they donate these
+ outermost electrons (so they act as reducing agents) to become an ion with either a +1
+ or +2 charge (so they themselves become oxidised)
+ Going down the group, the metals become more reactive
+     This can be explained by looking at the Group 2 ionisation energies:
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   2
+The graph shows that both the first and second ionization energies decrease going down
+                                        the group
+                                                                                               Your notes
+   The same trend is observed with Group 1 alkali metals
+   The first ionisation energy is the energy needed to remove the first outer electron of an
+   atom
+   The second ionisation energy is the energy needed to remove the second outer
+   electron of an atom
+   The graph above shows that going down the group, it becomes easier to remove the
+   outer two electrons of the metals
+   Though the nuclear charge increases going down the group (because there are more
+   protons), factors such as an increased shielding effect and a larger distance between
+   the outermost electrons and nucleus outweigh the attraction of the higher nuclear
+   charge
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   3
+ Reactivity - Groups 1 & 2
+                                                                                                  Your notes
+
+Reactivity Trend
+Group 1 metals
+   The reactivity of the group 1 metals increases as you go down the group
+   When a group 1 element reacts its atoms only need to lose electron, as there is only 1
+   electron in the outer shell
+       When this happens, 1+ ions are formed
+   The next shell down automatically becomes the outermost shell and since it is already
+   full, a group 1 ion obtains noble gas configuration
+   As you go down group 1, the number of shells of electrons increases by 1
+       This means that the outermost electron gets further away from the nucleus, so there
+       are weaker forces of attraction between the outermost electron and the nucleus
+       Less energy is required to overcome the force of attraction as it gets weaker, so the
+       outer electron is lost more easily
+       So, the alkali metals get more reactive as you descend the group
+
+Group 2 metals
+   The reactivity of the Group 2 metals also increases down the group for the same reasons
+       The outermost electron gets further away from the nucleus, so there are weaker
+       forces of attraction between the outermost electron and the nucleus
+       Less energy is required to overcome the force of attraction as it gets weaker, so the
+       outer electron is lost more easily
+   This can be observed when the Group 2 metals react with water as well
+       Magnesium reacts extremely slowly with cold water
+       Calcium reacts fairly vigorously with cold water in an exothermic reaction
+
+Reactions with Oxygen, Chlorine &
+Water
+Group 1 metals
+Reaction with oxygen
+   The alkali metals react with oxygen in the air forming metal oxides, which is why the alkali
+   metals tarnish when exposed to the air
+   The metal oxide produced is a dull coating which covers the surface of the metal
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+    The metals tarnish more rapidly as you go down the group
+Summary of the Reactions of the First Three Alkali Metals                                        Your notes
+with Oxygen
+
+
+
+
+Reaction with chlorine
+    The reactions of the Group 1 elements with chlorine are similar in appearance to the
+    reactions of the Group 1 metals with oxygen
+    Sodium, for example, burns with an intense orange flame in chlorine in exactly the same
+    way that it does in pure oxygen
+    The other metals also behave the same way in both gases
+        In each case, a white solid is formed, the simple chloride
+                                 2M (s) + Cl2 (g) → 2MCl (s)
+Reactions with water
+    The reactions of the alkali metals with water get more vigorous as you descend the
+    group
+
+Summary of the Reactions of the First Three Alkali Metals
+with Water
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+                                                                                                 Your notes
+
+
+
+
+Group 2 metals
+Reactions with water and oxygen
+   The reaction of Group 2 metals with oxygen follows the following general equation:
+                                  2M (s) + O2 (g) → 2MO (s)
+   Where M is any metal in Group 2
+   Remember than Sr and Ba also form a peroxide, MO2
+   The reaction of all metals with water follows the following general equation:
+                            M (s) + 2H2O (l) → M(OH)2 (s) + H2 (g)
+   Except for, Be which does not react with water
+
+Group 2 Metals Reacting with Water and Oxygen -
+Equations
+            Reaction with oxygen                          Reaction with water
+
+ Mg       2Mg (s) + O2 (g) → 2MgO (s)               Mg (s) + H2O (g) → MgO (s) + H2 (g)
+
+ Ca       2 Ca (s) + O2 (g) → 2CaO (s)          Ca (s) + 2H2O (l) → Ca(OH)2 (aq) + H2 (g)
+
+  Sr       2Sr (s) + O2 (g) → 2SrO (s)           Sr (s) + 2H2O (l) → Sr(OH)2 (aq) + H2 (g)
+            Sr (s) + O2 (g) → SrO2 (s)
+
+ Ba       2Ba (s) + O2 (g) → 2BaO (s)           Ba (s) + 2H2O (l) → Ba(OH)2 (aq) + H2 (g)
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+            Ba (s) + O2 (g) → BaO2 (s)
+
+                                                                                                  Your notes
+    Magnesium reacts extremely slowly with cold water:
+                          Mg (s) + 2H2O (l) → Mg(OH)2 (aq) + H2 (g)
+    The solution formed is weakly alkaline (pH 9-10) as magnesium hydroxide is only
+    slightly soluble
+    However, when magnesium is heated in steam, it reacts vigorously with steam to make
+    magnesium oxide and hydrogen gas:
+                             Mg (s) + H2O (g) → MgO (s) + H2 (g)
+Reactions with chlorine
+    Group 2 metals react with chlorine gas to give the metal chloride
+        For example
+                                 Mg (s) + Cl2 (g) → MgCl2 (s)
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   7
+ Oxides & Hydroxides
+                                                                                                Your notes
+
+Reactions with Acid
+Overall equations
+  We have seen that Group 1 and Group 2 metals can react with oxygen to form oxides
+                             metal + oxygen → metal oxide
+  Oxides can react with water to form hydroxides
+                               oxide + water → hydroxide
+  If calcium oxide is added to water, you should know that calcium hydroxide is formed
+      Calcium hydroxide solution is also called limewater
+  When metal oxides react with dilute hydrochloric acid and dilute sulfuric acid, chloride
+  and sulfate salts are formed
+            metal oxide + dilute hydrochloric acid → metal chloride + water
+               metal oxide + dilute sulfuric acid → metal sulfate + water
+  Similar reactions occur with hydroxides
+         metal hydroxide + dilute hydrochloric acid → metal chloride + water
+             metal hydroxide + dilute sulfuric acid → metal sulfate + water
+
+Reactions of Group 1 oxides with water
+  The Group 1 metal oxides will react with water to give a colourless alkaline solution
+      For example
+                            Na2O (s) + H2O (l) → 2NaOH (aq)
+  The solution is alkaline as hydroxide ions are released which also occurs for the reaction
+  of Group 2 oxides with water
+                              O2- (s) + H2O (l) → 2OH- (aq)
+
+Reactions of Group 1 hydroxides with dilute acid
+  The Group 1 metal hydroxide is acting as an alkali when it is added to dilute acid
+  When an alkali reacts with an acid, a neutralisation reaction occurs forming salt and water
+      For example
+                       NaOH (aq) + HCl (aq) → NaCl (aq) + H2O (l)
+                    NaOH (aq) + H2SO4 (aq) → Na2SO4 (aq) + H2O (l)
+
+Reactions of Group 2 oxides with water
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   8
+   All Group 2 oxides are basic, except for BeO which is amphoteric (it can act both as an
+   acid and base)
+                                                                                                  Your notes
+   Group 2 oxides react water to form alkaline solutions which get more alkaline going
+   down the group
+
+Group 2 Oxides reacting with Water
+ Group 2     Reaction with                               Observations
+  oxide         water
+
+  MgO       MgO (s) + H2O (l)       MgO is only slightly soluble in water, therefore a weakly
+             → Mg(OH)2 (s)                   alkaline solution (pH 10.0) is formed
+
+  CaO       CaO (s) + H2O (l)     A vigorous reaction which releases a lot of energy, causing
+             → Ca(OH)2 (s)         some of the water to boil off as the solid lump seems to
+                                                 expand and open (pH 11.0)
+
+  SrO       SrO (s) + H2O (l)
+            → Sr(OH)2 (aq)
+
+
+  BaO       BaO (s) + H2O (l)
+            → Ba(OH)2 (aq)
+
+
+
+Group 2 Oxides reacting with acid
+   Group 2 sulfates also form when a Group 2 oxide is reacted with sulfuric acid
+   The insoluble sulfates form at the surface of the oxide, which means that the solid oxide
+   beneath it can’t react with the acid
+   This can be prevented to an extent by using the oxide in powder form and stirring, in
+   which case neutralisation can take place
+
+Reactions of Group 2 hydroxides with dilute acid
+   The Group 2 metal hydroxides form colourless solutions of metal salts when they react
+   with a dilute acid
+   The sulfates decrease in solubility going down the group (barium sulfate is an insoluble
+   white precipitate)
+
+Group 2 Hydroxide Reactions with Dilute Acids
+   Group 2             Reaction with dilute HCl              Reaction with dilute H2SO4
+  hydroxide
+
+   Mg(OH)2         Mg(OH)2 (s) + 2HCl (aq) → MgCl2        Mg(OH)2 (s) + H2SO4 (aq) → MgSO4
+                           (aq) + 2H2O (l)                          (aq) + 2H2O (l)
+
+
+
+
+                                © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+Ca(OH)2   Ca(OH)2 (s) + 2HCl (aq) → CaCl2   Ca(OH)2 (s) + H2SO4 (aq) → CaSO4
+                  (aq) + 2H2O (l)                     (aq) + 2H2O (l)
+                                                                                    Your notes
+Sr(OH)2   Sr(OH)2 (s) + 2HCl (aq) → SrCl2     Sr(OH)2 (s) + H2SO4 (aq) → SrSO4
+                  (aq) + 2H2O (l)                        (s) + 2H2O (l)
+
+Ba(OH)2   Ba(OH)2 (s) + 2HCl (aq) → BaCl2     Ba(OH)2 (s) + H2SO4 (aq) → BaSO4
+                  (aq) + 2H2O (l)                        (s) + 2H2O (l)
+
+
+
+
+                 © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   10
+ Group 2 Hydroxides & Sulfates
+                                                                                              Your notes
+
+Solubility Trends
+Group 2 hydroxides
+  Going down the group, the solutions formed from the reaction of Group 2 oxides with
+  water become more alkaline
+  When the oxides are dissolved in water, the following ionic reaction takes place:
+                             O2- (aq) + H2O(l) → 2OH- (aq)
+  The higher the concentration of OH- ions formed, the more alkaline the solution
+  The alkalinity of the formed solution can therefore be explained by the solubility of the
+  Group 2 hydroxides
+
+Solubility of the Group 2 Hydroxides Table
+    Group 2 hydroxide                  Solubility at 298 K (mol / 100 g of water)
+
+        Mg(OH)2                                         2.0 x 10–5
+
+         Ca(OH)2                                        1.5 x 10–3
+
+         Sr(OH)2                                        3.4 x 10–3
+
+         Ba(OH)2                                        1.5 x 10–2
+
+
+  The hydroxides dissolve in water as follows:
+                            X(OH)2 (aq) → X(aq) + 2OH- (aq)
+  Where X is the Group 2 element
+  When the metal oxides react with water, a Group 2 hydroxide is formed
+  Going down the group, the solubility of these hydroxides increases
+  This means that the concentration of OH- ions increases, increasing the pH of the
+  solution
+  As a result, going down the group, the alkalinity of the solution formed increases when
+  Group 2 oxides react with water
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   11
+                                                                                               Your notes
+
+
+
+
+ Going down the group, the solubility of the hydroxides increases which means that the
+solutions formed from the reactions of the Group 2 metal oxides and water become more
+                             alkaline going down the group
+Group 2 sulfates
+   The solubility of the Group 2 sulfates decreasing going down the group
+
+
+
+
+             Going down the group, the solubility of the sulfates decreases
+
+
+
+   Examiner Tips and Tricks
+   You may be wondering why there are no trends here for the solubility of Group 1
+   hydroxides and sulfates. You should recall from previous studies that Group 1
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+compounds are all soluble in water. They will therefore not produce any precipitates
+when testing for cations, so to identify them you need to use flame tests.
+                                                                                            Your notes
+Group 1 hydroxides will be more soluble than Group 2 hydroxides. Even though we say
+the solubility of the Group 2 hydroxides increases down the group barium hydroxide is
+less soluble than a Group 1 hydroxide such as potassium hydroxide.
+At 25 °C the solubility of Ba(OH)2 is 4.68 g / 100 cm3
+At 25 °C the solubility of KOH is 121 g / 100 cm3
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   13
+ Nitrates & Carbonates
+                                                                                              Your notes
+
+Thermal Stability
+  Thermal decomposition is the breakdown of a compound into two or more different
+  substances using heat
+
+Thermal decomposition of carbonates
+  In Group 1, lithium carbonate when heated will decompose producing lithium oxide and
+  carbon dioxide
+
+                         Li2CO3 (s) ⎯⎯⎯⎯⎯⎯ Li2O (s) + CO2 (g)
+                                       HEAT
+
+
+
+  The rest of the Group 1 carbonates don't decompose at Bunsen temperatures
+      The decomposition temperatures increase as you go down the Group
+  The Group 2 carbonates break down (decompose) when they are heated to form
+  the metal oxide and give off carbon dioxide gas
+  The general equation for the decomposition of Group 2 carbonates is:
+
+                           XCO3 (s) ⎯⎯⎯⎯⎯⎯ XO (s) + CO2 (g)
+                                       HEAT
+
+
+
+                                 X = Group 2 element
+  Going down the group, more heat is needed to break down the carbonates
+
+                              MgCO3 ⎯⎯⎯⎯⎯⎯ MgO + CO2
+                                         HEAT
+
+
+
+Thermal decomposition of nitrates
+  The only Group 1 nitrate that will decompose to produce nitrogen dioxide (which is a
+  brown toxic gas) and oxygen is lithium nitrate LiNO3
+
+                    4LiNO3 (s) ⎯⎯⎯⎯⎯⎯ 2Li2O (s) + 4NO2 (g) + O2 (g)
+                                HEAT
+
+
+
+  The rest of the Group don't decompose so completely producing the
+  metal nitrite (NO2-) and oxygen, but no nitrogen dioxide
+
+                         2XNO3 (s) ⎯⎯⎯⎯⎯⎯ 2XNO2 (s) + O2 (g)
+                                       HEAT
+
+
+
+  All the nitrates from sodium to caesium decompose in this same way, the only difference
+  being how hot they have to be to undergo the reaction.
+  Down Group 1, the decomposition gets more difficult, and you have to use higher
+  temperatures.
+  The Group 2 nitrates break decomposed when they are heated to form the metal
+  oxide, oxygen gas and nitrogen dioxide gas
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+  Since the formed nitrogen dioxide gas is toxic, the decomposition of nitrates is often
+  carried out in a fume cupboard
+  The general equation for the decomposition of Group 2 nitrates is:                              Your notes
+                                                       1
+                         Mg(NO3)2 ⎯⎯⎯⎯⎯⎯ MgO +
+                                       HEAT
+                                                         O2 + 2NO2
+                                                       2
+
+                                    X = Group 2 element
+  Going down Groups 1 and 2, more heat is needed to break down the carbonate and
+  nitrate ions
+  The thermal stability of the Group 1 and 2 carbonates and nitrates
+  therefore increases down the group
+      The smaller positive ions at the top of the groups will polarise the anions more than
+      the larger ions at the bottom of the group
+           The small positive ion attracts the delocalised electrons in the nitrate or
+           carbonate ion towards itself
+           The higher the charge and the smaller the ion the higher the polarising power
+      The more polarised they are, the more likely they are to thermally decompose as the
+      bonds in the carbonate and nitrate ions become weaker
+
+Testing for gases
+  Carbon dioxide
+      When bubbled through limewater, carbon dioxide gas will turn the limewater milky
+      This is a fine white precipitate of calcium carbonate, CaCO3
+                      Ca(OH)2 (aq) + CO2 (g) → CaCO3 (s) + H2O (l)
+  Oxygen
+      If oxygen gas is present, it will relight a glowing splint
+                                  C (s) + O2 (g) → CO2 (g)
+  Nitrogen dioxide
+      NO2 is a toxic brown - orange gas and if dissolved in water it would give an acidic
+      solution
+                      2NO2 (g) + H2O (l) → 2HNO3 (aq) + HNO2 (aq)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   15
+ Flame Tests
+                                                                                                  Your notes
+
+Characteristic Flame Colours
+  Metal ions produce a colour if heated strongly in a flame
+  Ions from different metals produce different colours
+  The flame test is thus used to identify metal ions by the colour of the flame they produce
+  Dip the loop of an unreactive metal wire such as nichrome or platinum in concentrated
+  acid, and then hold it in the blue flame of a Bunsen burner until there is no colour change
+  This cleans the wire loop and avoids contamination
+      This is an important step as the test will only work if there is just one type of ion
+      present
+      Two or more ions means the colours will mix, making identification erroneous
+  Dip the loop into the solid sample and place it in the edge of the blue Bunsen flame
+  Avoid letting the wire get so hot that it glows red otherwise this can be confused with a
+  flame colour
+
+
+
+
+             Diagram showing the technique for carrying out a flame test
+Explanation for the occurrence of the flame
+  In a flame test the heat causes the electron to move to a higher energy level
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   16
+  The electron is unstable at this energy level so falls back down
+  As it drops back down from the higher to a lower energy level, energy is emitted in the      Your notes
+  form of visible light energy with the wavelength of the observed light
+Colours Observed in Flame Tests
+
+
+
+
+  Mg2+ does not have an observed colour because the energy emitted during a flame test
+  involving magnesium is outside the visible spectrum
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   17
+ Qualitative Tests
+                                                                                                Your notes
+
+Reactions & Ionic Equations
+Test Tube Reactions
+  Simple test tube reactions can be done to identify the following ions:
+      Ammonium ions (NH4+)
+      Carbonate ions (CO32-) and hydrogencarbonate ions (HCO3-)
+      Sulfate ions (SO42-)
+  If the sample to be tested is a solid, then it must be dissolved in deionised water and
+  made into an aqueous solution
+
+Testing for Ammonium Ions
+  About 10 drops of a solution containing ammonium ions, such as ammonium chloride,
+  should be added to a clean test tube
+  About 10 drops of sodium hydroxide should be added using a pipette
+       Overall equation: NH4Cl (aq) + NaOH (aq) → NH3 (g) + H2O (l) + NaCl (aq)
+                Ionic equation: NH4+ (aq) + OH- (aq) → NH3 (g) + H2O (l)
+  The test tube should be swirled carefully to ensure that it is mixed well
+  The test tube of the solution should then be placed in a beaker of water, and the beaker
+  of water should be placed above a Bunsen burner, so that it can become a water bath
+  As the solution is heated gently, fumes will be produced
+  A pair of tongs should be used to hold a damp piece of red litmus paper near the mouth
+  of the test tube, to test the fumes
+  The red litmus paper will change colour and become blue in the presence of ammonia
+  gas
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   18
+                                                                                               Your notes
+
+
+
+
+         Damp red litmus paper turning blue in the presence of ammonia gas
+  Alternatively NH3 can be tested for as it will form a white smoke if reacted with fumes of
+  hydrogen chloride (from concentrated hydrochloric acid)
+  The white smoke formed is ammonium chloride
+                              NH3 (g) + HCl (g) → NH4Cl (s)
+
+Testing for Carbonate Ions
+  A small amount (around 1 cm3) of dilute hydrochloric acid should be added to a test tube
+  using a pipette
+  An equal amount of sodium carbonate solution should then be added to the test tube
+  using a clean pipette
+      Overall equation: 2HCl (aq) + Na2CO3 (aq) → 2NaCl (aq) + CO2 (g) + H2O (l)
+               Ionic equation: 2H+ (aq) + CO32- (aq) → CO2 (g) + H2O (l)
+  As soon as the sodium carbonate solution is added, a bung with a delivery tube should
+  be attached to the test tube
+      The delivery tube should transfer the gas which is formed into a different test tube
+      which contains a small amount of limewater (calcium hydroxide solution)
+  Carbonate ions will react with hydrogen ions from the acid to produce carbon dioxide
+  gas
+  Carbon dioxide gas will turn the limewater milky
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   19
+                                                                                               Your notes
+
+
+
+
+     When carbon dioxide gas is bubbled into limewater it will turn cloudy as calcium
+                                carbonate is produced
+    A similar reaction is seen with sodium hydrogen carbonate, but the equations are:
+         Overall equation: HCl (aq) + NaHCO3 (aq) → NaCl (aq) + CO2 (g) + H2O (l)
+                 Ionic equation: H+ (aq) + HCO3- (aq) → CO2 (g) + H2O (l)
+
+Testing for Sulfate Ions
+Acidify the sample with dilute hydrochloric acid and then add a few drops of aqueous barium
+chloride If a sulfate is present then a white precipitate of barium sulfate is formed:
+                            Ba2+ (aq) + SO42- (aq) → BaSO4 (s)
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   20
+                                                                                               Your notes
+
+
+
+
+A white precipitate of barium sulfate is a positive result for the presence of sulfate ions
+
+
+
+ Examiner Tips and Tricks
+ HCl is added first to remove any carbonates which may be present and would also
+ produce a precipitate and interfere with the results.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   21
+

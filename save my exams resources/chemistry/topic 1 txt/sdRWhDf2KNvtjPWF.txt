@@ -1,0 +1,373 @@
+  Edexcel International AS                                                         Your notes
+Chemistry
+Introductory Organic Chemistry
+Contents
+  Hazards & Risks
+  Functional Groups & Homologous Series
+  Nomenclature & Classification
+  Isomers - Structural
+
+
+
+
+                    © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Hazards & Risks
+                                                                                                  Your notes
+
+Hazards & Risks
+  The hazard of a chemical substance relates to the inherent properties of the substance
+  The risk is more to do with how you plan to use it and the chance of it causing harm
+  For example, water generally has no hazards however a beaker of water being boiled on
+  a tripod and gauze has several risks associated with it
+      The steam coming from the water and the boiling water could both cause damage if
+      they came into contact with your skin
+  Another example would be hydrochloric acid, a substance most people generally
+  consider hazardous
+  You will have been told to use eye protection when using the acid as it can potentially
+  cause harm to your eyes
+      This is due to hydrochloric acid being corrosive
+  This risk, however, depends on how likely it is the acid will get in your eyes
+      Using eye protection does not affect the hazard, but does decrease the risk
+
+Hazard warning symbols
+                   Table showing the most Common Hazard Symbols
+
+                 Hazard Symbol                           Meaning
+
+                                                           Health        includes warning on
+                                                           hazard          skin rashes, eye
+                                                                             damage and
+                                                                              ingestion
+
+
+
+
+                                                         Corrosive      can cause skin burns
+                                                                        and permanent eye
+                                                                              damage
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   2
+                                                       Flammable         can catch fire if
+                                                                       heated or comes into
+                                                                                                Your notes
+                                                                       contact with a flame
+
+
+
+
+                                                          Acute           can cause life-
+                                                         toxicity      threatening effects,
+                                                                           even in small
+                                                                            quantities
+
+
+
+
+Risk Assessments
+  Risk assessments can be used to help reduce the risk of certain hazards in a laboratory
+  This is carried out by looking at the hazards of the chemical substances being used
+  The way the substances will be used is considered to assess the risk associated
+  Control measures or guidelines are then written in order to inform other people using the
+  lab how to operate to reduce the risks associated with the chemicals
+  Such guidelines will consider lots of different factors including:
+      The amount used
+      The age and experience of the person using it
+      Whether it will be heated
+      Whether ventilation or a fume cupboard should be used
+  The control measures may include
+      The type of eye protection that needs to be worn
+      The need to wear gloves
+      Keeping a cap on a bottle after removing some of the substance
+      Keeping the substance away from a source of heat
+      What to do if some of the substance is spilt on the floor or gets on the skin
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+Examiner Tips and Tricks
+When an exam question asks you to suggest a precaution when tackling a practical            Your notes
+assignment you cannot just say 'wear a lab coat and goggles'.
+This is standard practice in any practice. Therefore you need to comment on the
+particular procedure in the practical e.g.
+'HCl gas is produced, so this step needs to be carried out in a fume cupboard'
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   4
+ Functional Groups & Homologous Series
+                                                                                           Your notes
+
+Functional Groups & Homologous
+Series
+Homologous series
+  A homologous series is a group of organic compounds that have the same functional
+  group, but each successive member differs by CH2
+
+
+
+
+            Ethanol and propanol belong to the same homologous series
+Homologous Series of Alkanes
+
+
+
+
+  Things we can say about a homologous series:
+      Each member has the same functional group
+      Each member has the same general formula
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   5
+      Each member has similar chemical properties
+      Each successive member differs by -CH2 –                                                 Your notes
+       Members have gradually changing physical properties, for example, boiling point,
+       melting point and density
+  As a homologous series is ascended, the size of the molecule increases
+  This has an effect on the physical properties, such as boiling point and density
+Functional Groups
+  Functional groups determine the physical and chemical properties of molecules
+  The table below shows a summary of common functional groups found in compounds
+  R is any other atom or group of atoms (except for hydrogen)
+
+Functional Groups Found in Compounds Table
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+ Nomenclature & Classification
+                                                                                             Your notes
+
+IUPAC Nomenclature
+  Systematic nomenclature can be used to name organic compounds and therefore
+  make it easier to refer to them
+  The alkanes provide the basis of the naming system and the stem of each name
+  indicates how many carbon atoms are in the longest chain in one molecule of the
+  compound
+
+Nomenclature of Organic Compounds Table
+
+
+
+
+  If there are any side-chains or functional groups present, then the position of these
+  groups is indicated by numbering the carbon atoms in the longest chain starting at the
+  end that gives the lowest possible numbers in the name
+  The hydrocarbon side-chain is shown in brackets in the structural formula
+                                 CH3CH(CH3)CH2CH3
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+The side-chain is named by adding ‘-yl’ to the normal alkane stem
+This type of group is called an alkyl group                                                   Your notes
+
+
+
+
+                                 Naming Side Chains
+If there are more than one of the same alkyl side-chain or functional groups, di- (for
+two), tri- (for three) or tetra- (for four) is added in front of its name
+The adjacent numbers have a comma between them
+Numbers are separated from words by a hyphen
+
+
+
+
+                            Naming Multiple Side Chains
+If there is more than one type of alkyl side-chain, they are listed in alphabetic order
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+                                                                                   Your notes
+
+
+
+
+               Naming Side Chains in Alphabetical Order
+Functional Groups & their Nomenclature Table
+
+
+
+
+                   © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   9
+                                                                                             Your notes
+ Worked Example
+ Naming organic molecules Name the following molecules using correct systematic
+ nomenclature:
+
+
+
+
+ Answer
+
+
+
+
+Reaction Classification
+ We can classify reactions into different types
+     An addition reaction is an organic reaction in which two (or more) molecules
+     combine to give a single product with no other products
+     A substitution reaction is a reaction that involves replacing an atom or group of
+     atoms by another
+     An elimination reaction is a reaction in which a small molecule (such as H2O or HCl)
+     is removed from an organic molecule
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+      A hydrolysis reaction is a reaction in which a compound is broken down by water (it
+      can also refer to the breakdown of a substance by dilute acids or alkali)
+                                                                                              Your notes
+      A condensation reaction is a reaction in which two organic molecules join together
+      and in the process eliminate small molecules (such as H2O or HCl)
+
+
+
+
+                 The different types of reactions in organic chemistry
+Oxidation & reduction
+  An oxidation reaction is a reaction in which oxygen is added, electrons are removed or
+  the oxidation number of a substance is increased
+      In organic chemistry it often refers to the addition of oxygen or removal of hydrogen
+      atoms to a substance
+      In equations for organic redox reactions, the symbol [O] can be used to represent
+      one atom of oxygen from an oxidising agent
+  A reduction reaction is a reaction in which oxygen is removed, electrons are added or
+  the oxidation number of a substance is decreased
+      In organic chemistry it often refers to the removal of oxygen or addition of hydrogen
+      atoms to a substance
+      In equations for organic redox reactions, the symbol [H] can be used to represent
+      one atom of hydrogen from a reducing agent
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   11
+                                                                                              Your notes
+
+
+
+
+In organic chemistry oxidation is often the gain of oxygen or loss of hydrogen atoms and
+              reduction is the gain of hydrogen and loss of oxygen atoms
+Polymerisation
+   In the AS level course all the polymerisation reactions covered are examples of addition
+   polymerisation
+   Addition polymerisation is the reaction in which many monomers containing at least one
+   C-C double bond form long chains of polymers as the only product
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+ Isomers - Structural
+                                                                                             Your notes
+
+Isomers - Structural
+  Structural isomers are compounds that have the same molecular formula but
+  different structural formulae
+      E.g. propene and cyclopropane
+
+
+
+
+Both propene and cyclopropane are made up of 3 carbon and 6 hydrogen atoms but the
+                       structure of the two molecules differs
+  There are two different types of structural isomerism you need to be aware of:
+      Chain isomerism
+      Positional isomerism
+
+Chain isomerism
+  Chain isomerism is when compounds have the same molecular formula, but their
+  longest hydrocarbon chain is not the same
+  This is caused by branching
+      E.g. pentane and 2,2-dimethylpropane
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   13
+                                                                                               Your notes
+
+
+
+
+ Both compounds are made up of the same atoms, however the longest carbon chain in
+       pentane is 5 and in 2,2-dimethylpropane it is 3 (with two methyl branches)
+Positional isomerism
+   Positional isomers arise from differences in the position of a functional group in each
+   isomer
+       The functional group can be located on different carbons
+       For example, butan-1-ol and butan-2-ol
+
+
+
+
+Both compounds have an alcohol group and are made up of 4 carbons, 10 hydrogens and
+one oxygen, however in butanol the functional group is located on the first carbon and in
+                          2-butanol on the second carbon
+
+
+
+   Worked Example
+   Isomers of dibromopropane How many isomers are there of dibromopropane,
+   C3H6Br2?
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   14
+Answer
+Step 1: Draw the structural formula of the compound                                          Your notes
+
+
+
+
+Step 2: Determine whether it is a stereo or structural isomer
+There is no restricted bond rotation around the C-C bond, so it is structural isomerism
+Step 3: Determine whether it is a functional group, chain or positional isomerism
+    Functional group? No, as Br is the only functional group possible
+         Chain? No, as the longest chain can only be 3
+         Positional? Yes, as the two bromine atoms can be bonded to different carbon
+         atoms
+
+
+
+
+Worked Example
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   15
+Deducing isomers of C4H10 How many isomers are there of the compound with
+molecular formula C4H10?
+                                                                                             Your notes
+Answer
+Step 1: Draw the structural formula of the compound
+
+
+
+
+Step 2: Determine whether it is a stereo or structural isomer.
+There is no restricted bond rotation around the C-C bond so it is structural isomerism
+Step 3: Determine whether it is a functional group, chain or positional isomerism
+    Functional group? No, as there are no functional groups
+         Positional? No, as there are no functional groups which can be positioned on
+         different carbon atoms
+         Chain? Yes!
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+

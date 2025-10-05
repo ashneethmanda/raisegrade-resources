@@ -1,0 +1,393 @@
+  Edexcel International AS                                                           Your notes
+Chemistry
+Intermolecular Forces
+Contents
+  Intermolecular Forces - Introduction
+  Hydrogen Bonding
+  Physical Properties
+  Solvent Choice
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Intermolecular Forces - Introduction
+                                                                                              Your notes
+
+Intermolecular Forces - Introduction
+Intramolecular forces
+  Intramolecular forces are forces within a molecule and are usually covalent bonds
+  Covalent bonds are formed when the outer electrons of two atoms are shared
+  Single, double, triple and co-ordinate bonds are all types of intramolecular forces
+
+
+
+
+Intermolecular forces
+  Molecules also contain weaker intermolecular forces which are forces between the
+  molecules
+  There are three types of intermolecular forces:
+      Induced dipole – dipole forces also called van der Waals or London dispersion
+      forces
+      Permanent dipole – dipole forces are the attractive forces between two
+      neighbouring molecules with a permanent dipole
+      Hydrogen Bonding are a special type of permanent dipole - permanent
+      dipole forces
+      Intramolecular forces are stronger than intermolecular forces
+          For example, a hydrogen bond is about one tenth the strength of a covalent
+          bond
+      The strengths of the types of bond or force are as follows:
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+                                                                                           Your notes
+
+
+
+
+                  The varying strengths of different types of bonds
+Induced dipole-dipole forces:
+  Induced dipole - dipole forces exist between all atoms or molecules
+      They are also known as London dispersion forces
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   3
+                                                                                            Your notes
+
+
+
+
+  The electron charge cloud in non-polar molecules or atoms are constantly moving
+  During this movement, the electron charge cloud can be more on one side of the atom
+  or molecule than the other
+  This causes a temporary dipole to arise
+  This temporary dipole can induce a dipole on neighbouring molecules
+  When this happens, the δ+ end of the dipole in one molecule and the δ- end of the
+  dipole in a neighbouring molecule are attracted towards each other
+  Because the electron clouds are moving constantly, the dipoles are only temporary
+
+Relative strength
+  For small molecules with the same number of electrons, permanent dipoles are
+  stronger than induced dipoles
+      Butane and propanone have the same number of electrons
+      Butane is a nonpolar molecule and will have induced dipole forces
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   4
+       Propanone is a polar molecule and will have permanent dipole forces
+       Therefore, more energy is required to break the intermolecular forces between            Your notes
+       propanone molecules than between butane molecules
+       So, propanone has a higher boiling point than butane
+
+
+
+
+Pd-pd forces are stronger than id-id forces in smaller molecules with an equal number of
+                                       electrons
+Permanent dipole - dipole forces:
+   Polar molecules have permanent dipoles
+   The molecule will always have a negatively and positively charged end
+
+
+
+
+   Forces between two molecules that have permanent dipoles are called permanent
+   dipole - dipole forces
+   The δ+ end of the dipole in one molecule and the δ- end of the dipole in a neighbouring
+   molecule are attracted towards each other
+
+Hydrogen bonding
+   Hydrogen bonding is the strongest form of intermolecular bonding
+       Intermolecular bonds are bonds between molecules
+       Hydrogen bonding is a type of permanent dipole – permanent dipole bonding
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   5
+For hydrogen bonding to take place the following is needed:
+    A species which has an O, N or F (very electronegative) atom bonded to a hydrogen       Your notes
+When hydrogen is covalently bonded to an O, N or F, the bond becomes highly
+polarised
+The H becomes so δ+ charged that it can form a bond with the lone pair of an O, N or F
+atom in another molecule
+For example, in water
+    Water can form two hydrogen bonds, because the O has two lone pairs
+
+
+
+
+                            Hydrogen bonding in water
+
+
+
+Examiner Tips and Tricks
+Make sure to use a dashed, straight line when drawing your intermolecular forces!
+Hydrogen bonds should start at the lone pair and go right up to the delta positive
+atom - it must be really clear where your H bond starts and ends.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   6
+ Hydrogen Bonding
+                                                                                                  Your notes
+
+Molecular Interactions
+Examples of compounds that can form hydrogen bonds are:
+   Alcohols (contains an O-H bond)
+   Ammonia (contains an N-H bond)
+   Amines (contains an N-H bond)
+   Carboxylic acids (contains an O-H bond)
+   Hydrogen fluoride (contains an H-F bond)
+   Proteins (contains an N-H bond)
+
+
+
+
+          Ammonia can form a maximum of one hydrogen bond per molecule
+
+Anomalous Properties of Water
+Properties of water
+   Hydrogen bonding in water, causes it to have anomalous properties such as high
+   melting and boiling points, high surface tension and a higher density in the liquid than the
+   solid
+
+High melting & boiling points
+   Water has high melting and boiling points due to the the strong intermolecular forces
+   of hydrogen bonding between the molecules in both ice (solid H2O) and water (liquid
+   H2O)
+   A lot of energy is therefore required to separate the water molecules and melt or boil
+   them
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   7
+                                                                                              Your notes
+
+
+
+
+  Hydrogen bonds are strong intermolecular forces which are harder to break causing
+water to have a higher melting and boiling point than would be expected for a molecule of
+                                    such a small size
+   The graph below compares the enthalpy of vaporisation (energy required to boil a
+   substance) of different hydrides
+   The enthalpy changes increase going from H2S to H2Te due to the increased number of
+   electrons in the Group 16 elements
+   This causes an increase in the instantaneous dipole - induced dipole forces (dispersion
+   forces) as the molecules become larger
+   Based on this, H2O should have a much lower enthalpy change (around 17 kJ mol-1)
+   However, the enthalpy change of vaporisation is almost 3 times larger which is caused
+   by the hydrogen bonds present in water but not in the other hydrides
+
+
+
+
+ The high enthalpy change of evaporation of water suggests that instantaneous dipole-
+  induced dipole forces are not the only forces present in the molecule – there are also
+              strong hydrogen bonds, which cause the high boiling point
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+High surface tension
+  Water has a high surface tension                                                                 Your notes
+  Surface tension is the ability of a liquid surface to resist any external forces (i.e. to stay
+  unaffected by forces acting on the surface)
+  The water molecules at the surface of liquid are bonded to other water molecules
+  through hydrogen bonds
+  These molecules pull downwards the surface molecules causing the surface of them to
+  become compressed and more tightly together at the surface
+  This increases water’s surface tension
+
+
+
+
+  The surface molecules are pulled downwards due to the hydrogen bonds with other
+       molecules, whereas the inner water molecules are pulled in all directions
+Density
+  Solids are denser than their liquids as the particles in solids are more closely packed
+  together than in their liquid state
+  The water molecules are packed into an open lattice
+  This way of packing the molecules and the relatively long bond lengths of the hydrogen
+  bonds means that the water molecules are slightly further apart than in the liquid form
+  Therefore, ice has a lower density than liquid water by about 9%
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   9
+                                                                                              Your notes
+
+
+
+
+The ‘more open’ structure of molecules in ice causes it to have a lower density than liquid
+                                         water
+
+
+
+   Examiner Tips and Tricks
+   The H-O-H bond angle in water is 104.5° but in ice, this increases to closer to the
+   undistorted tetrahedral bond angle of 109.5°. This is because the lone pairs of
+   electrons on the oxygen atom are drawn towards the δ+ on the hydrogen atom on a
+   neighbouring water molecule, away from the oxygen atom. This reduces the repulsion
+   of the bonded electron pairs around the oxygen, increasing the bond angle.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   10
+ Physical Properties
+                                                                                                Your notes
+
+Physical Properties & Intermolecular
+Forces
+Branching
+  The larger the surface area of a molecule, the more contact it will have with adjacent
+  molecules
+  The surface area of a molecule is reduced by branching
+  The greater its ability to induce a dipole in an adjacent molecule, the greater the London
+  (dispersion) forces and the higher the melting and boiling points
+  This point can be illustrated by comparing different isomers containing the same
+  number of electrons:
+
+
+
+
+ Boiling points of molecules with the same numbers of electrons but different surface
+                                         areas
+Number of electrons
+  The greater the number of electrons (or the greater the molecular mass) in a molecule,
+  the greater the likelihood of a distortion and thus the greater the frequency and
+  magnitude of the temporary dipoles
+  The dispersion forces between the molecules are stronger and the enthalpy of
+  vaporisation, melting and boiling points are larger
+  The greater boiling points of the noble gases illustrate this factor:
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   11
+                                                                                             Your notes
+
+
+
+
+As the number of electrons increases more energy is needed to overcome the forces of
+                      attraction between the noble gases atoms
+
+
+
+
+   Graph showing the increase in boiling point as the number of electrons increases
+Alcohols
+  Hydrogen bonding occurs between molecules where you have a hydrogen atom
+  attached to one of the very electronegative elements - fluorine, oxygen or nitrogen
+  In an alcohol, there are O-H bonds present in the structure
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+  Therefore hydrogen bonds set up between the slightly positive hydrogen atoms (δ+ H)
+  and lone pairs on oxygens in other molecules
+                                                                                                 Your notes
+  The hydrogen atoms are slightly positive because the bonding electrons are pulled away
+  from them towards the very electronegative oxygen atoms
+  In alkanes, the only intermolecular forces are temporary induced dipole-dipole forces
+  Hydrogen bonds are much stronger than these and therefore it takes more energy to
+  separate alcohol molecules than it does to separate alkane molecules
+  Therefore, the boiling point of alkanes is lower than the boiling point of the respective
+  alcohols
+  For example, the boiling point of propane is -42 oC and the boiling point of propanol is
+  97 oC
+Hydrogen Halides
+  The boiling points of the hydrogen halides are as follows
+
+
+
+
+  The boiling points of the rest of the hydrogen halides increase as the molecules become
+  larger
+  The extra electrons allow greater temporary dipoles and so increase the amount of
+  London dispersion forces between the molecules
+  Hydrogen fluoride also has hydrogen bonding between the HF molecules
+  The bond is very polar so that the hydrogen has a significant amount of positive charge
+  and the fluorine a significant amount of negative charge. In addition, the fluorine has
+  small intense lone pairs
+  Hydrogen bonds can form between the hydrogen on one molecule and a lone pair on
+  the fluorine in its neighbour
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   13
+ Solvent Choice
+                                                                                                Your notes
+
+Solvent Choice
+  The general principle is that 'like dissolves like' so non-polar substances mostly dissolve
+  in non-polar solvents, like hydrocarbons, and they form dispersion forces between the
+  solvent and the solute
+  Polar covalent substances generally dissolve in polar solvents as a result of dipole-
+  dipole interactions or the formation of hydrogen bonds between the solute and the
+  solvent
+  A good example of this is seen in organic molecules such as alcohols and water:
+
+
+
+
+                  Hydrogen bonds form between ethanol and water
+  As covalent molecules become larger, their solubility can decrease as the polar part of
+  the molecule is only a smaller part of the overall structure
+      This effect is seen in alcohols, for example, where ethanol, C2H5OH, is readily
+      soluble but hexanol, C6H13OH, is not
+  Polar covalent substances are unable to dissolve well in non-polar solvents as their
+  dipole-dipole attractions are unable to interact well with the solvent
+  Giant covalent substances generally don't dissolve in any solvents as the energy needed
+  to overcome the strong covalent bonds in the lattice structures is too great
+
+Haloalkanes
+  Even though haloalkanes contain a polar bond, they are only partially soluble in water as
+  they can not form hydrogen bonds
+  This is because there are no H-F, H-O or H-N bonds within the molecule
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+                                                                                                Your notes
+
+
+
+
+Due to the large difference in electronegativity between the carbon and halogen atoms,
+                                   the C-X bond is polar
+Ionic compounds
+   Many ionic compounds will dissolve in polar solvents, e.g. water
+   Solubility is dependent on two main factors:
+     1. Breaking down the ionic lattice
+     2. The polar molecules attract and surround the ions
+   Polar molecules, such as water, can break down or disrupt the ionic lattice and surround
+   each ion in solution
+   The δ+ end of the polar molecule can surround the negative anion
+   The δ- end of the polar molecule can surround the positive cation
+   The solubility of an ionic compound depends on the relative strength of the electrostatic
+   forces of attraction within the ionic lattice and the attractions between the ions and the
+   polar molecule
+   In general, the greater the ionic charge, the less soluble an ionic compound is
+       For example, 356.9 g of sodium chloride, NaCl, will dissolve in one dm3 of water
+       while only 74.4 g of calcium chloride will dissolve in one dm3 of water
+       This is a general rule, though and there are many exceptions
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   15
+

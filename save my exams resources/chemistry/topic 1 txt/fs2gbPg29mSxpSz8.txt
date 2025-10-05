@@ -1,0 +1,657 @@
+  Edexcel International AS                                                            Your notes
+Chemistry
+Formulae & Equations
+Contents
+  Formulae & Mass
+  Avogadro & the Mole
+  Full & Ionic Equations
+  Calculating Formulae
+
+
+
+
+                       © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Formulae & Mass
+                                                                                                    Your notes
+
+Formulae - Definitions
+Basic terms
+  There are basic terms that you are expected to know from your previous studies
+      Atom
+            A single particle
+            The smallest part of an element that can participate in a chemical reaction
+      Element
+            An atom or group of atoms of only one type, which can be chemically joined or
+            not
+            A substance that cannot be broken down into simpler substances
+      Ion
+            An atom that has become electrically charged
+            An atom (or group of atoms) that has gained or lost electrons to become a
+            charged species
+      Molecule
+            Two or more atoms chemically joined together
+      Compound
+            A substance with two or more elements chemically joined together
+      Empirical formula
+            The smallest whole-number ratio of atoms (of each element) in a
+            compound/molecule
+      Molecular formula
+            The actual number of atoms (of each element) in a compound/molecule
+
+Mass - Definitions
+  The relative mass of an atom uses the carbon-12 isotope as the international standard
+  One atom of carbon-12 has an accepted mass of 1.992646538 x 10-26 kg
+  It is not realistic to work with this value so the mass of a carbon-12 atom is fixed as exactly
+  12 atomic mass units / 12υ
+  The standard mass for atomic mass is 1υ
+
+
+
+
+                                © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com    2
+      Therefore, the standard mass for comparison is the mass of 1 12 of a carbon-12
+      atom                                                                                     Your notes
+Relative isotopic mass
+  Relative isotopic mass is defined as the mass of an isotope relative to 1 12 of a
+  carbon-12 atom
+  For A Level Chemistry it is common to work with mass values rounded to one decimal
+  place, for example:
+  The accurate relative isotopic mass of nitrogen is 14.00307401 but this is rounded to
+  14.0
+  The accurate relative isotopic mass of oxygen is 15.99491464 but this is rounded to 16.0
+
+Relative atomic mass
+  Most elements on the Periodic Table represent a mixture of different isotopes, which is
+  shown as their relative atomic mass (Ar)
+  The relative atomic mass is the weighted mean / average mass of an atom relative to
+  1 12 of the mass of a carbon-12 atom
+
+  We have seen previously that the symbol for the relative atomic mass is Ar
+  This is calculated from the mass number and relative abundances of all the isotopes of a
+  particular element
+  The symbol for the relative formula mass is Mr and it refers to the total mass of the
+  substance
+      The term relative formula mass should be used for compounds with giant structures
+      e.g. ionic compounds such as sodium chloride
+      If the substance is molecular you can use the term relative molecular mass
+  To calculate the Mr of a substance, you have to add up the relative atomic masses of all
+  the atoms present in the formula
+
+Relative Formula Mass Calculations Table
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+                                                                                              Your notes
+
+
+
+
+Examiner Tips and Tricks
+It is expected that you will use relative atomic mass values from the Periodic Table
+     This means that your values will be more accurate
+     e.g. potassium carbonate = (2 x 39.1) + 12.0 + (3 x 16.0) = 138.2
+If you are in any doubt whether to use relative molecular mass or relative formula
+mass, use the latter because it applies to all compounds whether they are ionic or
+covalent.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+Avogadro & the Mole
+                                                                                                 Your notes
+
+The Mole & Avogadro Calculations
+ The Avogadro constant (NA or L) is the number of particles equivalent to the relative
+ atomic mass or molecular mass of a substance
+      The Avogadro constant applies to atoms, molecules, ions and electrons
+ The value of NA is 6.02 x 1023 mol-1
+ The mass of a substance with this number of particles is called a mole (mol)
+      This can be called the molar mass
+      This is the mass of substance that contains the same number of fundamental units
+      as exactly 12.00g of carbon-12
+ The amount / number of moles of a substance, n, the mass of the substance, m, and the
+ molar mass, M, are linked by the equation:
+
+                                        mass , m
+                                 n=
+                                      Molar mass , M
+ One mole of any element is equal to the relative atomic mass of that element in grams
+      If you had one mole of carbon in your hand, that is 6.02 x 1023 atoms of carbon, you
+      would have a mass of 12.00 g
+      One mole of water would have a mass of (2 x 1 + 16) = 18 g
+
+
+
+
+ Worked Example
+  1. What is the molar mass of water?
+  2. How many moles are there in 100 g of water?
+  3. How many water molecules are there in 100g of water?
+ Answers
+   1. Molar mass of water, H2O = (2 x 1.0) + 16.0 = 18.0 g mol-1
+                     mass               100
+   2. Moles   = molar mass = 18. 0 = 5.56 moles (to 3 s.f.)
+   3. Number of molecules = number of moles x Avogadro's constant = 5.56 x (6.02 x
+      1023) = 3.35 x 1024 molecules
+
+
+
+
+ Worked Example
+ What is the mass of the following:
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   5
+ 1. Five hundred million atoms of platinum
+ 2. (1.31 x 1022) molecules of ethanol
+Answer 1:                                                                                        Your notes
+
+                    number of particles    500 × 106
+Number of moles =                        =              = 8.31 x
+                                     '
+                  Avogadro s constant, NA 6 . 02 × 1023
+10-16 moles
+Mass = moles x molar mass = (8.31 x 10-16) x 195.1 = 1.62 x 10-13 g (lots of atoms, a tiny
+mass)
+Answer 2:
+Molar mass of ethanol, C2H5OH = (2 x 12.0) + (5 x 1.0) + 16.0 + 1.0 = 46.0 g mol-1
+
+                    number of particles     1 . 31 × 1022
+Number of moles =                         = 6 . 02 × 1023 =
+                                      '
+                  Avogadro s constant, NA
+0.0218 moles
+Mass = moles x molar mass = 0.0218 x 46.0 = 1.00 g (an exceptionally large number of
+molecules in just 1 g)
+
+
+
+
+Examiner Tips and Tricks
+    When you are completing calculations using Avogadro's constant, you may end
+    up with answers that seem very large or very small - don't automatically assume
+    that they must be wrong
+    Remember, Avogadro's constant is a VERY large number:
+        6.02 x 1023 or 602 000 000 000 000 000 000 000
+    So when you multiply or divide by Avogadro's constant, your answers will,
+    naturally, become very large or very small
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   6
+ Full & Ionic Equations
+                                                                                               Your notes
+
+Writing & Balancing Equations
+  A symbol equation is a shorthand way of describing a chemical reaction using chemical
+  symbols to show the number and type of each atom in the reactants and products
+  A word equation is a longer way of describing a chemical reaction using only words to
+  show the reactants and products
+
+Balancing equations
+  During chemical reactions, atoms cannot be created or destroyed
+  The number of each atom on each side of the reaction must therefore be the same
+      E.g. the reaction needs to be balanced
+  When balancing equations remember:
+      Not to change any of the formulae
+      To put the numbers used to balance the equation in front of the formulae
+      To balance firstly the carbon, then the hydrogen and finally the oxygen in
+      combustion reactions of organic compounds
+  When balancing equations follow the following the steps:
+      Write the formulae of the reactants and products
+      Count the numbers of atoms in each reactant and product
+      Balance the atoms one at a time until all the atoms are balanced
+      Use appropriate state symbols in the equation
+  The physical state of reactants and products in a chemical reaction is specified by using
+  state symbols
+      (s) solid
+      (l) liquid
+      (g) gas
+      (aq) aqueous
+
+Formulae for Ionic Compounds
+  The formulae of simple ionic compounds can be calculated if you know the charge on
+  the ions
+  Below are some common ions and their charges:
+                         Common Ions & Their Charges Table
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+                                                                                             Your notes
+
+
+
+
+For ionic compounds you have to balance the charge of each part by multiplying each
+ion until the sum of the charges = 0
+Example: what is the formula of aluminium sulfate?
+    Write out the formulae of each ion, including their charges
+    Al3+ SO42-
+Balance the charges by multiplying them out:
+Al3+ x 2 = +6 and SO42- x 3 = -6; so +6 – 6 = 0
+So the formula is Al2(SO4)3
+
+
+
+
+Examiner Tips and Tricks
+Another method that also works is to 'swap the numbers'.
+In the example above the numbers in front of the charges of the ions (3 and 2) are
+swapped over and become the multipliers in the formula (2 and 3).
+Easy when you know how!
+
+
+
+
+                            © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   8
+  Worked Example
+                                                                                                Your notes
+  Balance the following equation:
+                        magnesium + oxygen → magnesium oxide
+  Answer:
+  Step 1: Write out the symbol equation showing reactants and products
+                                       Mg + O2 → MgO
+  Step 2: Count the numbers of atoms in each reactant and product
+
+
+
+
+  Step 3: Balance the atoms one at a time until all the atoms are balanced
+                                      2Mg + O2 → 2MgO
+  This is now showing that 2 moles of magnesium react with 1 mole of oxygen to form 2
+  moles of magnesium oxide
+  Step 4: Use appropriate state symbols in the fully balanced equation
+                               2Mg (s) + O2 (g) → 2MgO (s)
+
+Ionic equations
+  In aqueous solutions ionic compounds dissociate into their ions
+  Many chemical reactions in aqueous solutions involve ionic compounds, however only
+  some of the ions in solution take part in the reactions
+  The ions that do not take part in the reaction are called spectator ions
+  An ionic equation shows only the ions or other particles taking part in a reaction, and not
+  the spectator ions
+
+
+
+
+  Worked Example
+  1. Balance the following equation
+                     zinc + copper(II) sulfate → zinc sulfate + copper
+  2. Write down the ionic equation for the above reaction
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+ Answer 1:
+ Step 1: To balance the equation, write out the symbol equation showing reactants and          Your notes
+ products
+                               Zn + CuSO4 → ZnSO4 + Cu
+ Step 2: Count the numbers of atoms in each reactant and product. The equation is
+ already balanced
+
+
+
+
+ Step 3: Use appropriate state symbols in the equation
+                       Zn (s) + CuSO4 (aq) → ZnSO4 (aq) + Cu (s)
+ Answer 2:
+ Step 1: The full chemical equation for the reaction is
+                       Zn (s) + CuSO4 (aq) → ZnSO4 (aq) + Cu (s)
+ Step 2: Break down reactants into their respective ions
+                Zn (s) + Cu2+ + SO42- (aq) → Zn2++ SO42- (aq) + Cu (s)
+ Step 3: Cancel the spectator ions on both sides to give the ionic equation
+                 Zn (s) + Cu2+ + SO42- (aq) → Zn2++ SO42- (aq) + Cu (s)
+                         Zn (s) + Cu2+(aq) → Zn2+ (aq) + Cu (s)
+
+
+Experimental Observations & Equations
+ Chemical equations give information about the reaction that is taking place
+      Balanced equations show the number of particles participating in the reaction and
+      the number of products being formed
+      Balanced equations can be used to calculate the number of moles involved in
+      reactions
+      Balanced equations can, also, be used to calculate masses and volumes involved in
+      reactions
+      Ionic equations only show the reacting particles
+      Ionic equations allow you to identify spectator ion
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+Types of reaction
+  Chemical equations can be used to determine the type of reaction taking place                    Your notes
+
+Displacement reactions
+                           Br2 (aq) + 2KI (aq) → I2 (aq) + 2KBr (aq)
+  In this reaction, the more reactive bromine displaces the less reactive iodide in
+  potassium iodide
+  This can also be seen in the ionic equation for the reaction
+                            Br2 (aq) + 2I- (aq) → I2 (aq) + 2Br- (aq)
+
+
+
+
+  Examiner Tips and Tricks
+  The use of chemical equations can help identify risks and hazards in the reaction and
+  suggest appropriate precautions where necessary
+  For example, the use of aqueous bromine in the above example should suggest the
+  potential use of a fume cupboard and nitrile gloves because:
+      Bromine liquid is toxic, corrosive and harmful to the environment
+      Bromine water with a concentration of 0.2 mol dm3 is corrosive
+      With a concentration of between 0.06 mol dm3 and 0.2 mol dm3, bromine water
+      is an irritant
+      Only below concentrations of 0.06 mol dm3 is bromine water considered a low
+      hazard
+
+Neutralisation reactions
+  These can be identified by the presence of reactant acids and bases as well as the
+  formation of a neutral solution salt and water (and sometimes other compounds such as
+  carbon dioxide)
+                        HCl (aq) + NaOH (aq) → NaCl (aq) + H2O (l)
+               Na2CO3 (aq) + 2HNO3 (aq) → 2NaNO3 (aq) + H2O (l) + CO2 (g)
+  The ionic equations can more clearly demonstrate the neutralisation of an acid and a
+  base:
+                                H+ (aq) + OH- (aq) → H2O (l)
+                         2H+ (aq) + CO32- (aq) → H2O (l) + CO2 (g)
+
+
+
+
+  Examiner Tips and Tricks
+  For neutralisation reactions, the main hazards are linked to:
+
+
+
+                            © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   11
+      The concentration of the acid
+      The type of acid
+                                                                                               Your notes
+          This could mean strong, e.g. HCl, or weak, e.g. CH3COOH
+          This could also mean monoprotic, e.g. HNO3, diprotic, e.g. H2SO4, or
+          triprotic, e.g. H3PO4
+      The concentration of the base
+      The strength of the base
+      The physical state of the base, e.g. NaOH (s) is arguably considered more
+      corrosive than a high concentration solution of NaOH (aq)
+
+Precipitation reactions
+  These are shown by the reaction of two aqueous solutions to form products which
+  include one solid
+                    BaCl2 (aq) + Na2SO4 (aq) → BaSO4 (s) + 2NaCl (aq)
+  The ionic equation shows the precipitation reactions more clearly as there are no other
+  products considered
+                            Ba2+ (aq) + SO42- (aq) → BaSO4 (s)
+
+
+
+
+  Examiner Tips and Tricks
+  A precipitation reaction is a clear example of where consideration for further practical
+  procedures is most obvious
+  The formation of a solid product should tell you that any purification of the product
+  should include filtering or decanting as a minimum
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   12
+ Calculating Formulae
+                                                                                            Your notes
+
+Empirical & Molecular
+Empirical formula
+  Empirical formula is the simplest whole number ratio of the elements present in one
+  molecule or formula unit of the compound
+  It is calculated from knowledge of the ratio of masses of each element in the compound
+  The empirical formula can be found by determining the mass of each element present in
+  a sample of the compound
+  It can also be deduced from data that gives the percentage compositions by mass of
+  the elements in a compound
+
+
+
+
+  Worked Example
+  Empirical formula from mass Determine the empirical formula of a compound that
+  contains 10 g of hydrogen and 80 g of oxygen.
+  Answer:
+
+
+
+
+  The above example shows how to calculate empirical formula from the mass of each
+  element present in the compound
+  The example below shows how to calculate the empirical formula from percentage
+  composition
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   13
+  Worked Example
+  Empirical formula from % Determine the empirical formula of a compound that                         Your notes
+  contains 85.7% carbon and 14.3% hydrogen.
+  Answer:
+
+
+
+
+Molecular formula
+  The molecular formula gives the exact numbers of atoms of each element present in the
+  formula of the compound
+  The molecular formula can be found by dividing the relative formula mass of the
+  molecular formula by the relative formula mass of the empirical formula
+  Multiply the number of each element present in the empirical formula by this number to
+  find the molecular formula
+
+
+
+
+  Worked Example
+  Calculating molecular formula
+  The empirical formula of X is C4H10S and the relative molecular mass of X is 180.2
+  What is the molecular formula of X?
+  (Ar data: C = 12.0, H = 1.0, S = 32.1 )
+  Answer
+  Step 1: Calculate relative mass of the empirical formula
+       Relative empirical mass = (C x 4) + (H x 10) + (S x 1)
+            Relative empirical mass = (12.0 x 4) + (1.0 x 10) + (32.1 x 1)
+            Relative empirical mass = 90.1
+
+
+
+                               © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   14
+  Step 2: Divide relative formula mass of X by relative empirical mass
+      Ratio between Mr of X and the Mr of the empirical formula = 180.2 / 90.1                  Your notes
+          Ratio between Mr of X and the Mr of the empirical formula = 2
+  Step 3: Multiply each number of elements by 2
+      (C4 x 2) + (H10 x 2) + (S x 2) = (C8) + (H20) + (S2)
+          Molecular Formula of X is C8H20S2
+
+Percentage Composition by Mass
+  The percentage by mass of an element in a compound can be calculated using the
+  following equation:
+
+                                      Ar   × number of atoms of the element
+     % mass of an element         =              Mr of the compound
+                                                                                 × 100
+
+
+
+  Worked Example
+  Calculate the percentage by mass of calcium in calcium carbonate, CaCO3
+  Answer:
+
+
+
+
+Water of Crystallisation
+  Water of crystallisation is when some compounds can form crystals which
+  have water as part of their structure
+  A compound that contains water of crystallisation is called a hydrated compound
+  The water of crystallisation is separated from the main formula by a dot when writing the
+  chemical formula of hydrated compounds
+      E.g. hydrated copper(II) sulfate is CuSO4∙5H2O
+  A compound which doesn’t contain water of crystallisation is called an anhydrous
+  compound
+      E.g. anhydrous copper(II) sulfate is CuSO4
+  A compound can be hydrated to different degrees
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   15
+      E.g. cobalt(II) chloride can be hydrated by six or two water molecules
+      CoCl2 ∙6H2O or CoCl2 ∙2H2O                                                                        Your notes
+  The conversion of anhydrous compounds to hydrated compounds is reversible by
+  heating the hydrated salt:
+               Hydrated:       CuSO4•5H2O ⇌ CuSO4 + 5H2O                :Anhydrous
+  The degree of hydration can be calculated from experimental results:
+      The mass of the hydrated salt must be measured before heating
+      The salt is then heated until it reaches a constant mass
+      The two mass values can be used to calculate the number of moles of water in the
+      hydrated salt - known as the water of crystallisation
+
+
+
+
+  Worked Example
+  Calculating water of crystallisation 10.0 g of hydrated copper sulfate are heated to a
+  constant mass of 5.59 g. Calculate the formula of the original hydrated copper
+  sulfate. (Mr data: CuSO4 = 159.6, H2O = 18.0)
+  Answer:
+
+   List the components                                CuSO4                    H 2O
+
+   Note the mass of each component                    5.59 g                   10 - 5.59 = 4.41
+                                                                               g
+
+   Divide the component mass by the                     5 59 .
+                                                             =
+                                                                                 .
+                                                                                4 41
+                                                                                     = 0.245
+   components Mr                                       159 6     .              18 0 .
+                                                      0.035
+
+   Divide by the lowest figure to obtain the ratio       .
+                                                       0 035
+                                                             =1
+                                                                                 .
+                                                                                0 245
+                                                                                      =7
+                                                         .
+                                                       0 035                     .
+                                                                                0 035
+
+   Hydrated salt formula                              CuSO4•7H2O
+
+
+Ideal Gas Equation
+  The ideal gas equation is:
+                                         PV = nRT
+  P = pressure in pascals (Pa)
+      V = volume in cubic metres (m3)
+      n = the amount of substance in moles (mol)
+      R = the gas constant, which is given in the Data Booklet as 8.31 J mol-1 K-1
+      T = temperature in Kelvin (K)
+
+
+                           © 2025 Save My Exams, Ltd.                Get more and ace your exams at savemyexams.com   16
+                                                                                                Your notes
+Examiner Tips and Tricks
+There are several calculations in Chemistry where you need to convert the units to or
+from SI units
+The ideal gas equation has three:
+  1. Pressure is often quoted in kPa but the calculation needs pressure in Pa
+         kPa to Pa = multiply by 1000 or 103
+  2. Volume is usually quoted in cm3 or dm3 but the calculation needs volume in m3
+        cm3 to m3 = divide by 1000000 or multiply by 10-6
+        dm3 to m3 = divide by 1000 or multiply by 10-3
+  3. Temperature can be quoted in Kelvin or Celsius
+          Celsius to Kelvin = + 273
+This is why you should always show your working! Examiners can't take all of your
+marks for one error, if you show your working then they should check through for
+errors and award marks accordingly
+
+The ideal gas equation can be used to find the amount of moles in a gaseous substance
+    It can also be used for volatile liquids at temperatures above their boiling point
+If the mass of the substance is known, then the molar mass can be calculated
+    This can then be used with empirical formula data to determine the molecular
+    formula of a compound
+
+
+
+
+Worked Example
+An unknown compound was analysed and found to contain 66.7% of carbon, 11.1%
+hydrogen and the remainder was oxygen
+0.135 g of the unknown compound had a volume of 56.0 cm3 at a temperature of 90
+oC and a pressure of 101 kPa
+
+Determine the molecular formula of the unknown compound
+Answer
+Step 1: Calculate the number of moles of carbon, hydrogen and oxygen
+
+         66 . 7         Hydrogen:                       100 − 66 . 7 − 11 . 1
+ Carbon:
+         12 . 0
+                =       11 . 1                 Oxygen:
+                                                         (                        )
+
+
+                                                                                      =
+                               = 11.1                         16 . 0
+ 5.558 moles            1 . 00                1.3875 moles
+                        moles
+
+Step 2: Divide by the smallest answer to get the ratio
+
+
+                         © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   17
+            5 . 558                              11 . 1                  1 . 3875
+ Carbon:
+           1 . 3875
+                    =4         Hydrogen:
+                                               1 . 3875
+                                                        =8     Oxygen:
+                                                                         1 . 3875
+                                                                                  =1            Your notes
+
+Step 3: State the empirical formula
+   The empirical formula is C4H8O
+Step 4: Calculate the amount in moles, using PV = nRT
+
+         PV  101 × 103 × 56. 0 × 10−6
+    n= =    = 8 . 31 × 90 + 273       = 1.875 x 10-3 moles
+                    (              )       (             )
+
+
+
+
+         RT                            (            )
+
+
+
+
+Step 5: Calculate the molar mass
+
+                         0 . 135
+    Molar mass   = 1 . 875 × 10−3 = 72
+Step 6: Deduce the molecular formula
+    The empirical formula, C4H8O, has a mass of (4 x 12.0) + (8 x 1.0) + 16.0 = 72.0
+        Therefore, the molecular formula is also C4H8O
+
+
+
+
+                         © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   18
+
