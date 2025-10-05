@@ -6,8 +6,8 @@ import subprocess
 import sys
 
 
-INPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/chemistry/topic 3")          # <-- folder with PDFs
-OUTPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/chemistry/topic 3 txt")              # <-- folder where .txt will go
+INPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/business /topic 5 and 6")          # <-- folder with PDFs
+OUTPUT_DIR = Path("/Users/ashneeth/Desktop/resources/save my exams resources/business /topic 5 and 6 txt")              # <-- folder where .txt will go
 USE_LAYOUT = True   
 
 def run_pdftotext(pdf: Path, txt: Path):

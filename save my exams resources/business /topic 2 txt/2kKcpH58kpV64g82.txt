@@ -1,0 +1,780 @@
+      Edexcel A Level Business                                                      Your notes
+
+
+2.2 Financial Planning
+Contents
+  Sales Forecasting
+  Sales, Revenue & Costs
+  Break-even
+  Budgets
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Sales Forecasting
+                                                                                              Your notes
+
+The purpose of sales forecasts
+  Sales forecasts predict future revenues based on past sales figures
+  They commonly focus on what will happen in the future to:
+      The volume and value of sales
+      The size of the market
+      Sales as a result of promotional activity
+      Sales as a result of cyclical factors
+  Sales forecasts are an important tool to support planning and can improve the validity
+  of cash flow forecasts
+  Businesses use sales forecasts to determine resource requirements in a variety of ways,
+  including:
+      How many staff will be needed?
+      How much stock will be required?
+      Does capacity need to be expanded (or reduced)?
+      Does the equipment need to be upgraded, replaced or increased (or reduced)?
+      How much and what type of finance will be required?
+      Is promotional activity (e.g. advertising) required — and when?
+
+Factors affecting sales forecasts
+  Developing accurate sales forecasts is a skill that requires an understanding of several
+  factors that can influence the reliability of the forecast
+
+Consumer trends
+  Seasonal variations
+      Demand for certain goods is seasonal
+      Events such as major religious festivals, holiday periods and annual events impact
+      demand for a wide range of products
+            For example, sales of basic homewares increase when students start university
+            each September
+  Fashion
+      Fashion is often led by celebrities, and their influence can have a short-term impact
+      on sales
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   2
+         For example, when Hollywood legend Megan Fox appeared in September 2021
+         at a star-studded event in a Boohoo dress, the company’s sales unexpectedly
+         soared by more than 400% during that month                                            Your notes
+  Long-term trends
+      Consumer behaviour, attitudes and spending habits change over time
+          In recent years, environmentally conscious consumers have led many
+          businesses to amend sales forecasts to reflect increased demand for green
+          products
+          For example, in late 2022, vehicle manufacturer Ford increased its sales
+          forecasts for electric vehicles by almost 70%
+Economic variables
+  Economic growth
+      During periods of economic growth, increased consumer incomes will lead to
+      higher-than-forecast sales
+      The opposite will occur during periods of economic slowdown, and sales may be
+      lower than forecast
+  Inflation
+      The general increase in prices over time reduces consumers’ spending power
+          Firms may revise their sales forecasts downwards during periods of rising
+          inflation
+          Firms may revise their sales forecasts upwards during periods of falling inflation
+  Unemployment
+      Increased levels of unemployment are often experienced during periods of
+      recession and tend to be a key cause of reduced spending in the economy
+          Sales forecasts for lifestyle and luxury goods may reduce as consumers focus
+          their spending on essentials
+  Interest rates
+      When interest rates rise, borrowing becomes more expensive for consumers
+      Businesses that sell products that consumers frequently buy on credit may
+      therefore adjust their sales forecasts downwards
+          For example, property sales are set to drop to 1.01bn in 2023 from 1.27bn in
+          2022, causing many estate agencies to adjust their sales forecasts downwards
+  Exchange rates
+      When the value of the UK pound sterling falls against other global currencies,
+      overseas consumers will find that British exports become relatively cheaper
+      Businesses that sell products overseas or that cater to tourists visiting the UK may
+      adjust their sales forecasts upwards to reflect the expected increase in demand
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   3
+       from a cheaper sterling
+           For example, Visit Britain expects the number of tourists entering Britain in 2023    Your notes
+           to be 14% higher than in 2022
+Actions of competitors
+  Sales forecasts should consider the short-term actions of competitors, such as sales
+  promotions, as well as longer-term strategies, such as changes to product ranges and
+  expansion plans
+  Competitor actions are difficult to predict, so the usefulness of past data to predict
+  future sales may be limited
+       For example, Marks & Spencer announced plans to open 20 new high street stores
+       in 2023, partly in response to the closure of several key competitors, including
+       Debenhams
+
+Difficulties of sales forecasting
+  Sales forecasting usually involves the use of past data to predict the future
+  In the short term, sales forecasts are likely to reflect the recent past
+  Longer-term sales forecasting is often more problematic, as several factors affect its
+  reliability
+
+The main difficulties of sales forecasting
+
+
+
+
+ The difficulties of sales forecasting include interpretation, too much data and the fact
+                       that the future does not always mirror the past
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+Effective sales forecasting requires skill, time and the accurate use of timely data
+    Smaller businesses in particular may lack the experience or specialised personnel           Your notes
+    to construct, analyse and interpret sales forecasts
+         It is difficult to avoid experience bias (e.g. opinions of the future based on
+         experiences in the past)
+         Businesses may face problems in constructing sales forecasts that ignore the
+         priorities of key stakeholders
+The future seldom repeats the occurrences of the past
+    Sales forecasts will rarely reflect the full range of external influences that can affect
+    future inflows, such as fashions, trends and the actions of competitors
+There is a significant amount of data available for businesses to consider when
+constructing sales forecasts
+    Internal data, such as previous sales figures, will be a key source of information
+    when constructing forecasts
+    Selecting the most appropriate external data to support sales forecasts is
+    extremely challenging and requires careful evaluation
+
+
+
+
+Examiner Tips and Tricks
+While sales forecasting as a planning tool has several potential uses for a business,
+you should carefully consider how a sales forecast is constructed when evaluating its
+usefulness.
+    Who is responsible for the sales forecast?
+    Which data is used in its construction?
+    How reliable or accurate are the data sources underpinning the forecast?
+You may even conclude that no sales forecasting is better than a poorly constructed,
+biased attempt!
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   5
+Sales, Revenue & Costs
+                                                                                                Your notes
+
+Calculation of sales volume and sales
+revenue
+ Sales volume is the number of units sold by a business
+     For example, the number of Harry Styles album download purchases
+ Sales revenue is the value of the units sold by a business
+     For example, the revenue earned by Apple Music from sales of music downloads
+     Sales revenue is a key business performance measure and must be calculated to
+     identify profit
+     Sales revenue is calculated using the formula:
+
+             Sales revenue    = Selling price × Number of units sold
+ Sales revenue usually increases as the sales volume increases
+ When a firm sells one product, it is easy to calculate the sales revenue
+     The more products a firm sells, the harder it is to calculate the sales revenue
+     Computer systems make it easier to track sales revenue when multiple products are
+     sold by the business
+
+
+
+
+ Worked Example
+ Fotherhill Organics Limited sold 39,264 packs of its specialist compost to mail-order
+ customers in 2022. The price per pack was £8.75. In addition, it sold 4,280 tonnes to
+ gardening businesses for £123.95 per tonne.
+ Calculate Fotherhill Organics' sales revenue for 2022.
+ Step 1: Calculate the sales revenue from sales to mail-order customers
+
+                            = 39,264 packs × £ 8 . 75
+                            = £ 343,560
+ Step 2: Calculate the sales revenue from sales to gardening businesses
+
+                           = 4,280 packs × £ 123 . 95
+                           = £ 530,506
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   6
+  Step 3: Add together the two sales revenue figures
+
+                               = £ 343,560 + £ 530,506                                              Your notes
+
+                               = £ 874,066
+An introduction to costs
+     In preparing goods/services for sale, businesses incur a range of costs
+     These costs can be broken down into different categories
+
+Fixed costs
+     Fixed costs (FC) do not change as the level of output changes
+         These have to be paid whether the output is zero or 5,000
+             For example, building rent, management salaries, insurance and bank loan
+             repayments
+
+Variable costs
+     Variable costs (VC) vary directly with the output
+         These increase as output increases and vice versa
+             For example, raw material costs and wages of workers directly involved in
+             production
+
+Total costs
+     Total costs (TC) are the sum of FC and total VC
+
+Calculation of fixed, variable and total
+costs
+     Based on the above definitions, we can calculate several different types of costs
+
+Formulas to calculate different types of costs
+Type of cost                              Formula
+
+TC                                        = Total FC + total VC
+
+Total VC                                  = VC per unit × quantity
+
+Average TC (unit cost)                    = TC ÷ quantity produced
+
+
+
+
+                               © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   7
+VC per unit                          = Total VC ÷ quantity produced
+                                                                                              Your notes
+Example: cost calculations where variable costs = $60
+ Output (Q)      FC     TVC = $ 60 × Q     TC = TFC + TVC     AVC =
+                                                                          TVC
+                                                                                AC = Q
+                                                                                       TC
+                                                                           Q
+
+
+      0          200          -                 200                  -             -
+
+      1          200          60                260                  60           260
+
+      2          200         120                320                  60           160
+
+      3          200         180                380                  60          126.67
+
+      4          200         240                440                  60           110
+
+      5          200         300                500                  60           100
+
+      6          200         360                560                  60          93.33
+
+      7          200         420                620                  60          88.57
+
+      8          200         480                680                  60           85
+
+
+Variable costs per unit
+   VC per unit are calculated by adding together the cost of each component or raw
+   material used to produce the unit
+
+
+
+
+  Worked Example
+  Rosebud Aromas manufactures luxury scented candles. The production of each
+  candle incurs the following VC:
+
+   VC                                                 Cost per candle (£)
+
+   Wax                                                        0.14
+
+   Perfume oil                                                0.72
+
+   Telephone bill                                            24.32
+
+   Glass jar                                                  1.46
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+   Outer packaging                                                 0.33
+                                                                                                   Your notes
+  Calculate the VC in pounds sterling for each candle.
+  Step 1: Identify the VC in the list
+  A telephone bill is classified as an FC, so it should not be included in the calculation. [1]
+  Step 2: Total the VC listed
+
+                      = £ 0 . 14 + £ 0 . 72 + £ 1 . 46 + £ 0 . 33
+                      = £ 2 . 65
+
+
+  Examiner Tips and Tricks
+  Take care when calculating VC per unit, as it is likely that one or more FC will be
+  included in the list, as seen above.
+
+
+Diagrammatic representation of costs
+Fixed costs
+
+
+
+
+                        Graph showing fixed costs and output level
+
+
+  The firm has to pay its fixed costs, which do not change according to output
+  The FC for this firm are $4,000
+
+Variable costs
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   9
+                                                                                                 Your notes
+
+
+
+
+                 Graph showing total variable costs and output level
+
+
+  The VC initially rises proportionally with output, as shown in the diagram
+  At some point, the firm will benefit from purchasing economies of scale, and the rise will
+  no longer be proportional
+
+Total costs
+
+
+
+
+ Graph showing a cost analysis involving the fixed cost, variable cost and output level
+
+
+  The TC are the sum of the VC and FC
+  The TC cannot be zero, as all firms have some level of FC
+
+Average total costs
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   10
+                                                                                                Your notes
+
+
+
+
+                  Graph showing average total cost and output level
+
+
+ As a firm grows, it can increase its scale of output, generating efficiencies that lower its
+ average total costs (AC) of production
+ These efficiencies are called economies of scale
+ As a firm continues increasing its scale of output, it will reach a point where its AC will
+ start to increase
+ The reasons for the increase in the average costs are called diseconomies of scale
+
+Contribution
+ Contribution refers to a product’s selling price minus the VC directly involved in
+ producing that unit
+
+
+ Contribution can be calculated using the following formula:
+
+          Contribution   = Selling price per unit − Variable cost per unit
+ It is called "contribution", as this amount contributes towards paying off the FC of the
+ business
+     Once the FC have been paid off, the contribution starts to contribute to the profits
+     of the business
+ Contribution is used to calculate the break-even point
+
+
+
+
+ Worked Example
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   11
+Rosebud Aromas manufactures luxury scented candles. The production of each
+candle incurs the following VC:
+                                                                                              Your notes
+ VC                                                   Cost per candle (£)
+
+ Wax                                                           0.14
+
+ Perfume oil                                                  0.72
+
+ Glass jar                                                     1.46
+
+ Outer packaging                                              0.33
+
+Each candle is sold for an average wholesale price of £15 to retail outlets. Calculate
+the contribution for each candle.
+Step 1: Calculate the total VC per candle
+
+                  = £ 0 . 14 + £ 0 . 72 + £ 1 . 46 + £ 0 . 33
+                  = £ 2 . 65
+Step 2: Deduct the total VC per candle from the selling price
+
+                              = £ 15. 00 − £ 2 . 65
+                              = £ 12. 35
+
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   12
+Break-even
+                                                                                             Your notes
+
+Using the contribution to calculate the
+break-even point
+ The contribution value is used to calculate the break-even point
+ The break-even point is where total revenue earned for a product is exactly equal to its
+ total costs and where the business is making neither a profit nor a loss
+ It is calculated using the formula
+
+                                                        Fixed costs
+                   Break   ‐ even point      =          Contribution
+
+ The break-even point is expressed in units (e.g. the number of scented candles)
+ Identifying the break-even point allows a business to understand how many items it
+ needs to produce and sell to cover all costs before it starts to make a profit
+     Each subsequent unit sold past this point will generate profit for the business
+
+
+
+
+ Worked Example
+                   Cost and revenue data for Canterbury Glamping
+
+  Cost/revenue                                                           Cost (£)
+
+  Revenue per pod per night                                                 95
+
+  Variable costs per pod per night                                          19
+
+  Annual fixed costs                                                     55,000
+
+ Using the information in the table, calculate how many pods need to be occupied
+ each month for Canterbury Glamping to break even. [4]
+ Step 1: State the formula to calculate the break-even point
+
+                                                 Fixed costs
+                   Break ‐ even point =                       [1]
+                                                 Contribution
+ Step 2: Calculate the contribution
+
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   13
+                 = Selling price − variable cost per unit
+                                                                                             Your notes
+                 = £ 95 − £ 19                                         [1]
+
+
+                 = £ 76
+ Step 3: Apply the formula to calculate the break-even point
+
+                                       £ 55,000
+                                  =       £ 76 [1]
+
+                                  = 723 . 68
+ Step 4: Always round up to the nearest whole number because only whole
+ products can be sold
+
+                             = 724 camping pods [1]
+Margin of safety
+ The margin of safety is the difference between the actual level of output of a business
+ and its break-even level of output
+ The margin of safety can be calculated using the following formula:
+
+   Margin of safety    = Actual level of output − Break ‐ even level of output
+
+
+ Worked Example
+ The cost, sales and revenue for an electric bicycle manufacturer are presented in the
+ table below.
+
+  Annual fixed costs                                                £42,000
+
+  Selling price per unit                                                £750
+
+  Variable cost per unit                                                £350
+
+  Number of units sold                                                   240
+
+ Using the data, calculate the margin of safety. You are advised to show your workings.
+ Step 1: Calculate the contribution
+
+                                 = £ 750 − £ 350
+                                 = £ 400
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   14
+   Step 2: Calculate the break-even point
+
+                                            £ 42,000                                           Your notes
+                                      =       £ 400
+
+                                      = 105 units
+   Step 3: Calculate the margin of safety
+
+                               = 240 units − 105 units
+                               = 135 units
+Interpretation of break-even charts
+    A break-even chart is a visual representation of the break-even point and is used to
+    identify the following
+        Fixed costs, total costs and revenue over a range of output
+        The break-even point, where total costs are equal to revenue
+        The profit or loss made at each level of output
+        The margin of safety
+
+An example break-even chart
+
+
+
+
+The break-even chart for A2B Limited shows that at 324 units, the total revenue = the total
+                                        costs
+
+
+Diagram analysis
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   15
+ Fixed costs do not change as output increases
+     A2B's fixed costs are £8,000, and these do not change whether the business               Your notes
+     produces zero units or 500 units
+ Total costs are made up of fixed and variable costs
+     At zero units of output, they are made up exclusively of fixed costs
+     At 500 units, the total variable costs equate to £11,800
+     This line slopes upwards because total variable costs increase as output increases
+ The revenue line also slopes upwards
+     At zero units of output, the revenue is £0
+     At 500 units, the total revenue equates to £11,800
+     Revenue will increase with the output
+     The line will slope more steeply than the total costs and will cross the total costs
+     line at some point
+ The point at which the total costs and the revenue lines cross is the break-even point
+     The break-even level of output for A2B is 324 units
+ The margin of safety can be identified as the difference on the x-axis between the
+ actual level of output (in this case, 450 units) and the break-even point
+ The profit made at a specific level of output can be identified as the space between the
+ revenue and total cost lines
+     In this instance, the profit made at 450 units of output is £14,400 − £11,250 = £3,150
+
+Limitations of break-even analysis
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+                                                                                               Your notes
+
+
+
+
+The limitations of break-even analysis include the assumption that all output is sold
+
+
+
+
+Examiner Tips and Tricks
+When assessing break-even analysis, ensure that you explain why it has an important
+internal planning role, but don’t forget that it has a significant external role as well.
+Break-even analysis should be included in a business plan when a business is trying to
+secure external finance. Businesses looking to borrow money or attract investors
+seeking to manage their risk should take care to model the break-even point, margin
+of safety and level of profit (or loss) at different levels of output and prepare
+themselves to be scrutinised on the figures.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+ Budgets
+                                                                                                Your notes
+
+The purpose of budgets
+  A budget is a financial plan that a business (or department in the business) sets for costs
+  and revenue
+      The budget is usually closely aligned with the business objective
+
+Reasons for using budgets
+      Reason                                        Explanation
+
+    Planning and             Businesses that use budgets are actively planning ahead
+     monitoring
+                             Problems and their solutions may be considered and solved
+                             in advance
+
+      Control                Frequent monitoring of budgets allows managers to
+                             precisely control their functional area
+                             Budgets support the setting and review of company or
+                             department objectives
+
+  Coordination and           Budgeting requires different parts of a business to operate
+   communication             as part of a coordinated whole
+                             Budgets may be communicated throughout the
+                             organisation to provide a framework for decision-making
+                             and communication
+
+   Motivation and            Budgets play an important role in target-setting and
+    efficiency               performance management, which can be used by managers
+                             to measure success
+                             The allocation of budgets spreads decision-making across
+                             the organisation, acting as a motivator to the managers who
+                             control the budgets
+
+
+
+Types of budgets
+  Budgets are usually set annually and then monitored on a monthly basis
+  Businesses may set budgets to monitor the financial performance of any aspect of the
+  business
+  Budgets are generally prepared using one of two methods:
+      Historical figure budgets
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   18
+      Zero-based budgeting
+Historical figure budgets                                                                      Your notes
+  Budgets are usually based on historical data (e.g. sales and costs data from previous
+  years) and allow for factors such as inflation and other relevant economic indicators
+  (e.g. exchange rate variations)
+
+Zero-based budgeting
+  In some cases, businesses make the decision not to allocate budgets and use a zero-
+  budgeting approach
+      This is particularly useful when a business needs to control costs closely (e.g. to
+      improve profitability)
+  Zero budgeting requires all spending to be justified, which means that many
+  unnecessary costs can be eliminated
+      It can be time-consuming, as evidence to support spending decisions needs to be
+      collected and presented
+      Zero budgeting also requires skilled and confident employees to make a
+      persuasive case to convince those who are making purchasing decisions
+
+Variance analysis
+  A budget variance is the difference between the figure budgeted and the actual figure
+  achieved by the end of the budgetary period (e.g. 12 months)
+  Variance analysis seeks to determine the reasons for the differences between the
+  actual figures and the budgeted figures
+
+Favourable variances
+  A favourable variance is when the actual figure achieved is better than the budgeted
+  figure
+      A favourable variance in a revenue or profit budget is when the actual figure is
+      higher than the budgeted figure
+      A favourable variance in a costs budget is when the actual figure is lower than the
+      budgeted figure
+
+Adverse variances
+  An adverse variance is when the actual figure achieved is worse than the budgeted
+  figure
+      An adverse variance in a revenue or profit budget is when the actual figure is lower
+      than the budgeted figure
+      An adverse variance in a costs budget is when the actual figure is higher than the
+      budgeted figure
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   19
+Worked Example                                                                                Your notes
+Selected financial information for Bunsen PLC in 2022
+
+                                                                           ￡ m
+
+ Budgeted sales revenue                                                   12,460
+
+ Actual sales revenue                                                     13,718
+
+ Budgeted total costs                                                     8,420
+
+ Actual total costs                                                       10,627
+
+Using the data, calculate the total profit variance for Bunsen PLC in 2022. You are
+advised to show your workings. [4]
+Step 1: Calculate the budgeted profit for 2022
+
+                            = £ 12,460 − £ 8,420
+                                                          [1]
+                            = £ 4,040
+Step 2: Calculate the actual profit for 2022
+
+                           = £ 13,718 − £ 10,627
+                                                           [1]
+                           = £ 3,091
+Step 3: Subtract the budgeted profit from the actual profit for 2022
+
+                            = £ 3,091 − £ 4,040
+                                                         [1]
+                            = £ 949
+Step 4: Identify the nature of the variance
+    In this case, the variance is adverse because the actual profit for 2022 is lower
+    than the budgeted profit for 2022
+    The correct answer is £949 in adverse variance [1]
+
+
+
+
+Examiner Tips and Tricks
+Although the Bunsen PLC example shows an adverse profit variance, it is worth noting
+that the company’s actual sales revenue was higher than budgeted. There could be
+some sales executives in the business who deserve some sincere congratulations!
+You may recommend that the business investigate the reasons for the adverse profit
+variance. The focus of the examination must be on the higher-than-budgeted costs
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   20
+   rather than on this seemingly positive sales performance. You may recommend that
+   Bunsen review its supply agreements or that it adopt a zero-budgeting approach.
+                                                                                                Your notes
+    Once variances have been identified, a business should carefully investigate the
+    reasons why the variances have occurred and take appropriate action, such as:
+        Where adverse cost variances are identified, a business may seek alternative
+        suppliers or investigate ways to improve efficiency
+        Where adverse sales variances are identified, a business may review its marketing
+        activities to improve their effectiveness
+        Where favourable cost variances are identified, a business may review key quality
+        indicators such as the volume of returns or waste levels to ensure that output
+        standards are being met
+        Where favourable sales variances occur, a business may reward client-facing staff
+        with performance-based incentives
+
+Difficulties of budgeting
+    Budgeting requires significant expertise to be of genuine use to a business, and there
+    are several difficulties associated with its construction
+
+The main difficulties of budgeting
+
+
+
+
+Difficulties of budgeting include the time and skill to set, monitor and review them, as well
+              as unachievable budgets having a negative impact on motivation
+
+
+    Data must be up-to-date, accurate and free of bias
+        Sources of data must be selected carefully and used with care to ensure the most
+        appropriate assumptions are made
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   21
+    Those who are constructing budgets will require skills and relevant experience to
+    do so effectively
+                                                                                          Your notes
+    This may involve training or the recruitment of specialist staff
+Budgets can encourage managers to focus on the short-term rather than the long-
+term success of the business, as budgets are usually set year to year
+    Unrealistic budgets (over or under) can lead to a lack of motivation among those
+    tasked to achieve the financial plan
+Conflict between budget holders may arise, reducing the effectiveness of the business
+as a whole
+
+
+
+
+                       © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   22
+

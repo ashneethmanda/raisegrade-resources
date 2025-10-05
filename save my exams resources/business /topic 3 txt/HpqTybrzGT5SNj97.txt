@@ -1,0 +1,808 @@
+      Edexcel A Level Business                                                       Your notes
+
+
+3.5 Assessing Competitiveness
+Contents
+  Interpretation of Financial Statements
+  Ratio Analysis
+  Human Resources
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Interpretation of Financial Statements
+                                                                                               Your notes
+
+Using the statement of comprehensive
+income
+  The statement of comprehensive income is also known as the profit and loss account
+  It shows the income and expenditure of a business over a period of time — usually a year
+  — and calculates the amount of profit made (see sub-topic 2.3.1)
+
+Example of a statement of comprehensive income for Head
+to Toe Wellbeing Ltd
+
+
+
+
+  The extract from the statement of comprehensive income for Head to Toe Wellbeing
+  Ltd shows figures for both 2022 and the previous year, allowing comparison over time
+
+Stakeholder interest in the statement of
+comprehensive income
+  The profit and loss account is a very useful source of information for stakeholders to
+  evaluate the performance of a business
+      Shareholders
+          Interested in profits earned, business growth and dividend payments
+      Employees
+          Interested in profits earned and potential for wage increases and job stability
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   2
+      Managers and directors
+          Interested in key performance data, such as an improvement in sales revenue                 Your notes
+          and net profit
+      Suppliers
+          Interested in the continued success of the company that they are supplying
+          This information is also used by suppliers to determine the level of trade credit
+          offered to businesses
+      Government
+          Used to determine how much tax is payable
+      Local community
+          Interested in the stability of the business and what this may mean for jobs in the
+          community
+          Another interest is to see if the firm is generating enough profit to perhaps
+          approach them for local sponsorship
+
+Using the statement of financial
+position (balance sheet)
+  The statement of financial position, sometimes called the balance sheet, contains the
+  financial information required to draw conclusions about the liquidity of the business
+      Liquidity is the ability of a business to meet its short-term commitments (e.g.
+      payments to creditors) with its available assets
+      A business that cannot pay its bills will usually fail very quickly, even if it is profitable
+      Managing liquidity is a key way to manage risk in a business and helps a business
+      prepare for the unexpected
+  The statement of financial position shows the financial structure of a business at a
+  specific point in time
+      It identifies a business's assets and liabilities and specifies the capital (money) used
+      to fund the business
+      The statement of financial position is also known as the balance sheet
+
+Example of a statement of financial position for Packer
+Sports Ltd
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com    3
+                                                                                           Your notes
+
+
+
+
+Stakeholder interest in the statement of financial
+position
+  Stakeholders will use the statement of financial position alongside the statement of
+  comprehensive income to perform ratio analysis and compare performance over time
+  or with other businesses
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   4
+How stakeholders use the statement of financial position
+ Stakeholder                   Interest in the statement of financial position                   Your notes
+
+ Shareholders          Used to identify the asset structure of the business and how their
+                       investment has been put to use
+                       Used to calculate the working capital of the business and
+                       determine its solvency
+                       Used to determine the rough value of a business, which helps a
+                       judgement on whether their investment is growing
+
+ Managers and          Used to identify the financial position of the business at a given
+  directors            point in time
+                       Useful to assess the working capital position of the business and
+                       determine if there are enough liquid current assets to pay its bills
+                       Provides information on the capital structure of the business,
+                       which helps guide decisions on whether to raise further funds
+                       through borrowing or via other means (e.g. share issue)
+
+ Suppliers and         Used to judge the solvency of the business to determine the risk
+   creditors           when offering firms trade credit
+                       Businesses with low levels of working capital may find it difficult
+                       to pay short-term debts, and so suppliers may offer trade credit,
+                       but with stricter terms
+
+  Employees            Is the business financially stable, or are jobs at risk?
+                       Has the business's performance improved or worsened?
+                       What is the business spending its money on?
+                       How much are senior executives paid?
+                       How much tax is the business paying?
+
+
+
+
+  Examiner Tips and Tricks
+  Information found in the profit and loss account and the balance sheet can be used in
+  a range of answers.
+  For example, if you are answering a question about sources of finance, you might be
+  able to use the capital structure of the business to recommend whether a business
+  should borrow or look at an alternative source.
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   5
+If a business already relies heavily on borrowing, it may be more sensible to
+recommend seeking to raise more share capital.
+                                                                                              Your notes
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   6
+ Ratio Analysis
+                                                                                                Your notes
+
+An introduction to ratio analysis
+  Ratio analysis involves extracting information from financial accounts to assess
+  business performance and answer key questions, including:
+      Why is one business more profitable than another in the same industry?
+      Is the business growing?
+      How effectively is the business using its assets and capital invested?
+      What returns on investment are expected?
+      How risky is the financial structure of the business?
+Information extracted from the statement of comprehensive income and the statement
+                         of financial position for ratio analysis
+
+    Statement of comprehensive income                 Statement of financial position
+
+   Revenue                                            Current assets
+   Cost of sales                                      Current liabilities
+   Gross profit                                       Inventory (stock)
+   Operating profit                                   Trade receivables
+   Profit for the year (net profit)                   Trade payables
+                                                      Long-term liabilities
+                                                      Capital and reserves
+
+
+  Ratio analysis supports evidence-based decision-making, as it provides measurable
+  data that can be used to support judgements and compare performance against
+  objectives
+
+The ratio analysis process
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+                                                                                                Your notes
+
+
+
+
+The ratio analysis process involves collecting data, calculating ratios, interpreting results
+                         and then using results to make decisions
+
+
+Types of ratios
+Gearing ratio
+   The gearing ratio shows the long-term financial structure of the business
+        It shows the balance of non-current liabilities (e.g. long-term loans) to shareholder
+        capital used to fund a business
+        The outcome is expressed as a percentage
+   The gearing ratio is calculated using the formula
+
+                     Gearing Ratio   = NonCapital
+                                            Current Liabilities
+                                                  Employed
+                                                                x 100
+
+   Capital employed can be calculated by adding non-current liabilities to total equity
+
+
+
+
+   Worked Example
+   The table shows an extract from the company accounts of Keals Cosmetics.
+
+    Current Assets                                         £6.2 million
+
+    Current Liabilities                                    £3.4 million
+
+    Non-current Liabilities                                £9.6 million
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   8
+   Capital Employed                                        £43.3 million
+                                                                                                Your notes
+  Calculate the gearing ratio of Keals Cosmetics.
+                                                                                       (2)
+  Step 1: Identify the data required to calculate the gearing ratio
+     Non-current liabilities = £9.6 million
+     Capital employed       = £43.3 million
+  Step 2: Divide non-current liabilities by the capital employed
+
+                         = £ 43. 3 million ÷ £ 9 . 6 million
+                                                                      (1)
+                         = 0 . 22
+  Step 3: Multiply the outcome by 100, and express the result as a percentage
+
+                                    = 0 . 22 × 100
+                                                      (1)
+                                    = 22%
+      22% of Keals Cosmetics' capital structure is made up of long-term loans
+
+Return on capital employed (RoCE)
+  The return on capital employed is also known as the primary ratio
+  It compares the profit made by a business to the amount of capital invested in the
+  business
+  It is a measure of how effectively a business uses the capital invested in the business to
+  generate profit
+  Return on capital employed is a key performance indicator that can be compared over
+  time and also with competitors and with other potential capital investments
+  Return on capital employed is expressed as a percentage and can be calculated using
+  the formula
+
+                                                Operating Profit
+             Return on Capital Employed      = Capital Employed
+                                                                 × 100
+
+
+
+  Worked Example
+  The table shows an extract from the company accounts of Keals Cosmetics.
+
+   Current Liabilities                               £1.5 million
+
+   Revenue                                           £7 million
+
+
+
+
+                              © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+   Total Assets                                       £15.4 million
+
+   Operating Profit                                   £2.2 million                                 Your notes
+
+  Calculate Keals Cosmetics' return on capital employed.
+                                                                                         (3)
+  Step 1: Calculate the capital employed
+
+                               = £ 15 . 4m − £ 1 . 5m
+                                                              (1)
+                               = £ 13 . 9m
+  Step 2: Divide the operating profit by the capital employed
+
+                                       £ 2 . 2m
+                                    = £ 13 . 9m
+                                                     (1)
+                                    = 0 . 16
+
+  Step 3: Multiply the result by 100, and express the outcome as a percentage
+
+                                  = 0 . 16 × 100
+                                                        (1)
+                                  = 16%
+      The capital employed in Keals Cosmetics has generated a return of 16%
+
+
+Interpreting ratios to make business
+decisions
+Gearing ratio
+  The gearing ratio is used to examine the capital structure of a business
+  It compares the amount of capital raised from shareholders with capital raised from
+  loans and other forms of long-term borrowing to show the proportion of business
+  assets that are financed by long-term borrowing
+  In short, it shows how reliant a business is upon borrowed money
+
+Highly geared business
+  In a highly geared business, more than 50 per cent of its capital employed are long-
+  term loans
+      The outcome of the gearing ratio calculation will be greater than 50 per cent
+      Substantial levels of interest will need to be paid on this high level of borrowing,
+      which means:
+
+
+
+                           © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com   10
+          The level of profit available to pay as dividends to shareholders is reduced
+          Profit available to retain within the business is limited                                 Your notes
+          The business is likely to be considered a risk for further investment
+          It is also likely to face difficulties in raising further loan capital
+Steps to reduce gearing
+  A highly geared business may take steps to lower its ratio by:
+      Issuing more ordinary shares to create further share capital
+      Retaining more profits to avoid further borrowing
+      Repaying loans to lower interest costs for the business
+
+Low geared business
+  A low-geared business has less than 50 per cent of its capital employed as long-term
+  loans
+      The outcome of the gearing ratio calculation will be less than 50 per cent
+      The business may be missing out on the opportunity to access finance without the
+      need to dilute existing shareholders' control
+      This is especially true when interest rates are very low, as has been the case in the
+      UK over the last 15 years
+      Lenders, such as banks, are more likely to approve loan applications from low-
+      geared businesses
+      An unwillingness to access loan capital may indicate a risk-averse business, which
+      may deter investors
+
+Steps to increase gearing
+  A low-geared business may take steps to increase its ratio by:
+      Buying back ordinary shares to reduce share capital in relation to borrowing
+      Issuing more preference shares with limited loss of control
+      Obtaining more loans
+
+
+
+
+ Worked Example
+ Catseye Pressings Ltd is considering making an application for a long-term loan to
+ purchase a new storage facility.
+ The table shows extracts from its balance sheet.
+
+  Non-current Assets                                                 £16.40m
+
+
+
+                            © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com   11
+   Current Assets                                                  £3.62m
+
+   Current Liabilities                                             £2.18m                         Your notes
+
+   Non-current Liabilities                                         £5.75m
+
+  Calculate Catseye Pressings Ltd's gearing ratio, and advise whether an application for
+  a loan is likely to be approved on this basis.
+                                                                                        (5)
+  Step 1: Calculate the capital employed
+
+                         = £ 16 . 40 m + £ 3 . 62 m − £ 2 . 18 m
+                            (                       )
+
+
+
+
+                                                                      (1)
+
+                         = £ 17 . 84 m
+  Step 2: Apply the formula to calculate gearing
+
+                                   = ££175 ..75 m
+                                                  x 100
+                                             84 m            (1)
+
+                                   = 32 . 23 %
+  Step 3: Identify whether the loan application is likely to be approved
+      The loan application is likely to be approved (1) as Catseye Pressings Ltd is a low-
+      geared business and thus a relatively low risk (1) to lenders.
+
+Interpreting return on capital employed (RoCE)
+  RoCE measures how well a business generates profit from the funds invested in the
+  business
+  The rate differs between industries, so comparison across sectors is not recommended
+  However, it can be compared with other forms of return, such as interest rates on
+  savings and with other businesses within the same industry
+  RoCE can be used to support strategic decisions (e.g. investment or divestment
+  decisions) to determine the most profitable option given the level of capital employed
+  With RoCE, the higher the rate, the better, as it indicates that the business is profitable
+  and using its capital efficiently
+      Investors prefer businesses with stable and rising levels of RoCE, as this indicates
+      low-risk growth is being achieved
+      A ROCE of at least 20 per cent is usually a good sign that the company is in a good
+      financial position
+  To increase the RoCE level, a business can:
+      increase the level of profit generated without introducing new capital into the
+      business
+
+
+
+                                © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   12
+     maintain the level of profit generated whilst reducing the amount of capital in the
+     business
+                                                                                               Your notes
+
+
+Worked Example
+Faced with increasing costs, Kent & Medway Properties Ltd is looking to close one of
+its three high street estate agency branches.
+The table below shows some key data for each of the branches.
+
+       Branch                     Capital Employed              Operating Profit
+
+     Sevenoaks                          £2.4m                        £0.37m
+
+     Whitstable                         £3.1m                        £0.57m
+
+     Rochester                          £2.9m                        £0.51m
+
+Calculate the return on capital employed (RoCE) for each branch, and recommend
+which branch, on profitability terms, should close.
+                                                                                        (5)
+Step 1: Apply the formula to calculate the RoCE for each branch
+
+                                           Operating Profit
+  Return on Capital Employed            = Capital Employed
+                                                            × 100
+
+   Sevenoaks    = ££02. .374mm × 100 = 15 . 42 %
+                                                                        (3)
+  Whitstable    =      .
+                    £ 0 57 m
+                                    × 100 = 18 . 39 %
+                     £ 3 1m.
+
+   Rochester    = ££02. .519mm × 100 = 17 . 59 %
+
+Step 2: Identify the least profitable branch for closure
+    Sevenoaks is the least profitable branch, (1) with a RoCE of 15.42%, (1) and should
+    be the branch selected for closure
+
+
+
+
+Examiner Tips and Tricks
+When calculating financial ratios, check that you are using the correct units.
+In some cases, financial data is presented as raw figures (e.g. £14,520), but in most
+cases, you will be working in thousands (£000) or millions (£m).
+
+
+
+                               © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   13
+       Ensure that you convert correctly, e.g. £0.39m is equal to £390,000, and £34.9
+       (000) is equal to £34,900
+       Make sure the decimal is in the correct place                                             Your notes
+       Calculate to two decimal places unless stated otherwise
+
+
+The limitations of ratio analysis
+   There are some drawbacks of using ratio analysis, which businesses need to be aware of
+
+Limitations of ratio analysis
+     Limitation                                     Explanation
+
+      Making               It is important to compare like for like
+    comparisons
+                           Over time, the nature of a business can change, affecting the
+                           desired level of ratio
+                               E.g. A business may diversify into a less competitive
+                               industry where higher levels of RoCE may be expected
+                           Comparisons between firms are only meaningful where
+                           significant similarities exist (e.g. same industry, similar size,
+                           comparable products)
+                               E.g. a high street jewellery business will have very different
+                               working capital needs to those of a fast food outlet, and
+                               their profit margins will differ
+
+ Quality of accounts       Accounts may have been legally window dressed
+                           (manipulated) to present a particular financial picture.
+                           Examples of this include:
+                               Bad debts can be written off
+                               Property can be revalued
+                               Income and costs may be reported during an earlier or
+                               later reporting period (e.g. payments to suppliers may be
+                               delayed to maximise the level of current assets)
+                           Window dressing will have an impact on the quality of ratio
+                           analysis calculations
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   14
+   Statement of            As a "snapshot" of a business's assets, liabilities and capital at
+financial position         a specific point of time, the balance sheet may not be
+                                                                                                 Your notes
+    limitations            representative of its usual circumstances
+                                E.g. a balance sheet may be completed one day before a
+                                business sells a large amount of stock or buys a new
+                                property, rendering current and non-current assets
+                                figures invalid almost immediately
+
+   Qualitative             As ratios only use numerical data from a business's accounts,
+  information              key qualitative factors that affect its performance are ignored
+                                E.g. the collapse of a competitor may lead to increased
+                                sales revenue and profit
+                           Increased profit increases the RoCE without any strategic
+                           decisions being made
+
+
+ Despite these limitations, ratio analysis is used by a wide range of internal and external
+ analysts to assess the performance of companies
+     Venture capitalists and other investors use ratios to support their analysis when
+     they consider investing in or lending to businesses
+     Banks and insurance providers will use ratios to determine the level of risk a
+     business presents and determine the products to which it may be suited
+     Investment analysts and journalists make use of ratio analysis to report to clients
+     and the media in easy-to-digest terms
+
+
+
+
+Examiner Tips and Tricks
+Calculating ratios is straightforward — the real skill is in the interpretation of results
+and making recommendations.
+If a business is highly geared, further borrowing is likely to be neither attractive nor
+possible in most cases. That's quite a simple analytical point.
+However, it may be possible to further develop this analysis.
+For example, in a time of very low interest rates, maximising borrowing to take
+advantage of cheap finance may be preferable to diluting the control of existing
+shareholders by issuing further share capital. Now you have an evaluation because
+you've considered both sides of the argument.
+If you find evidence in the case study that indicates that shareholders would be
+unhappy with this dilution of control, then you have a balanced, applied piece of
+evaluation.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   15
+ Human Resources
+                                                                                               Your notes
+
+An introduction to human resources
+  In common with all resources, a business's employees — its human resources — need to
+  be managed
+  Staff costs can make up a large proportion of a business's costs, so objective
+  monitoring of employee performance is a key element of effective financial and
+  operational control
+  Businesses commonly monitor the following human resources metrics:
+      Labour productivity
+      Labour turnover
+      Labour retention
+      Absenteeism
+
+Labour productivity
+  Labour productivity is a measure of output per employee
+  It is calculated using the formula
+
+                                                 Total Output
+              Labour Productivity      = Average number of employees
+
+  Figures used in this formula are for a specific time period (e.g. a week, month or year)
+  Businesses aim to increase the level of labour productivity to improve competitiveness
+
+Labour productivity and competitiveness
+
+
+
+
+          Higher labour productivity improves businesses' competitiveness
+
+
+
+
+  Worked Example
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   16
+  Last year, Marinka Homewares made 424,000 lava lamps with a production
+  workforce of 350 employees. This year, it forecasts that 480,000 lava lamps will be
+  made with a production workforce of 365 employees.                                            Your notes
+  Calculate the percentage increase in annual labour productivity per worker between
+  last year and this year's forecast.
+                                                                                      (4)
+  Step 1: Apply the labour productivity formula to calculate the labour productivity
+  for both years
+
+                                            ,
+                                         424 000
+    Labour Productivity last year    =     350
+                                                       = 1,211 units per employee
+                                                                                    (2)
+                                            ,
+                                         480 000
+    Labour Productivity last year    =     365
+                                                       = 1,315 units per employee
+  Step 2: Calculate the percentage increase between last year and this year
+
+                            = 1,3151,−2111,211 x 100
+                                (                  )
+
+
+
+
+                                                             (2)
+
+                            = 8 . 59 %
+
+Labour turnover and retention
+  Labour turnover measures the proportion of employees leaving a business during a
+  specific time period
+  It is expressed as a percentage and is calculated using the formula
+
+                                      Number of Staff Leaving
+               Labour Turnover      = Average Number of Staff
+                                                              × 100
+  A rising rate of labour turnover can signal internal human resource management
+  problems, such as:
+      Poor management, leading to workers losing commitment
+      A poor recruitment and selection approach, leading to staff leaving soon after
+      starting their job
+      Low wage levels compared to those that could be earned elsewhere
+  External factors can also increase labour turnover in a business
+      A buoyant local economy in which workers are attracted to employment
+      opportunities elsewhere
+      Improved transport links that provide an opportunity for workers to seek work
+      across a wider geographical area
+
+Consequences of high labour turnover
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   17
+            Problems                                    Opportunities
+                                                                                                 Your notes
+   Increased recruitment and              Workers with existing skills can be recruited to
+   selection costs                        reduce the need for training
+   Increased induction and                New ideas and creativity introduced to the
+   training costs                         business
+   Lower productivity levels as           New perspective and approaches to problem-
+   workers settle into new roles          solving can improve business performance
+
+
+
+
+  Worked Example
+  In 2022, Domus Construction Ltd employed an average of 7,200 workers, six per cent
+  of whom worked at the head office.
+  During 2022, fifty-four head office employees left the business.
+  Calculate the labour turnover of Domus Construction's head office in 2022.
+                                                                                       (3)
+  Step 1: Calculate the number of head office workers
+
+                               = 0 . 06 × 7,200
+                                                        (1)
+                               = 432 workers
+  Step 2: Apply the labour turnover formula
+
+                                  Number of staff leaving
+             Labour turnover    = Average number of staff
+                                                          × 100
+
+                54                                                         (1)
+             = 432 × 100
+
+             = 12 . 5 %
+Labour retention
+  Labour retention measures the proportion of employees remaining with a business
+  during a specific time period
+  It is expressed as a percentage and is calculated using the formula
+
+            Labour Retention       = Number  of Staff Remaining
+                                      Average Number of Staff
+                                                                × 100
+  A high level of labour retention means that few staff are leaving the business during a
+  given period
+
+
+
+                          © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   18
+                                                                                                  Your notes
+ Worked Example
+ In 2022, the University of West Surrey employed an average of 4,240 employees, 265
+ of whom left the university during the year.
+ Calculate the University of West Surrey's staff retention rate in 2022.
+                                                                                      (2)
+ Step 1: Calculate the number of employees not leaving
+
+                               = 4,240 − 265
+                                                         (1)
+                               = 3,975
+ Step 2: Calculate the retention rate using the formula
+
+                                    Number of Staff Remaining
+          Labour Retention     =     Average Number of Staff
+                                                                      × 100
+
+            3,975                                                             (1)
+          = 4,240 × 100
+
+          = 93 . 75 %
+
+Absenteeism
+ The absenteeism rate is a measure of the proportion of staff who were absent from
+ work during a specific period of time (e.g. a day, week or month)
+ It is expressed as a percentage and is calculated using the formula
+
+                                      Number of staff absent
+             Absenteeism rate      = Number of staff employed
+                                                              × 100
+ High levels of absenteeism can cause several problems for a business, including:
+      Absence due to illness requires sick pay to be paid
+      Hiring temporary staff to cover for those absent increases costs
+      Output is likely to be temporarily reduced if staff are key to the production process
+      Other staff may become demotivated if they have to constantly cover for absent
+      workers
+      A wider culture of absenteeism may develop
+
+
+
+
+                           © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   19
+  Worked Example
+  On January 16, twenty-two of Belling Stoneworks Ltd's 189 employees were absent.           Your notes
+  Calculate Belling Stoneworks Ltd's absenteeism rate on January 16.
+                                                                                     (2)
+  Step 1: Substitute the values into the formula
+
+                                      Number of staff absent
+            Absenteeism rate    = Number of staff employed × 100
+
+                  22                                                        (2)
+           = 189 × 100
+
+           = 11 . 64 %
+
+Human resources strategies to improve
+employee performance
+  Raising the labour productivity rate, as well as reducing staff turnover and
+  absenteeism rates, are key human resource management objectives
+      Increased labour productivity will lower the labour cost per unit and contribute to
+      improved competitiveness
+      More output will be produced, so there is more output to sell — potentially
+      increasing revenue
+      Money is saved on recruitment, selection and training costs, and a positive group
+      spirit may emerge
+
+Strategies to improve employee performance
+       Strategy                                      Explanation
+
+  Offering financial           Examples of financial rewards include:
+      rewards
+                                   Increased pay rates
+                                   Profit-sharing schemes
+                                   Bonuses and commissions
+                                   Performance-related pay
+                                   Attendance rewards
+                                   Loyalty bonuses
+                               Paying workers more or sharing profits may increase
+                               commitment and effort, leading to higher output and
+                               productivity
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   20
+                           If financial rewards are greater than those of other
+                           employers, staff are less likely to want to leave
+                                                                                          Your notes
+                           Bonuses and commissions are only paid when they have
+                           been earned or if targets have been met
+                           Attendance and loyalty rewards may improve the intrinsic
+                           motivation of workers as they feel valued
+
+
+ Offering employees        Rewarding senior executives and managers with shares
+shares in the company      may increase their commitment to achieving objectives
+                           Employees who own shares in the business may work
+                           harder and take less time off as they have a financial
+                           stake in the success of the business
+
+    Consultation           Consultation involves managers obtaining the views of
+                           employees when making decisions
+                           Workers are likely to feel more involved within the
+                           business and may be less likely to take days off work or
+                           leave the business
+
+   Empowerment             Empowerment involves providing employees with
+                           autonomy and responsibility to make their own decisions
+                           and work on their own behalf
+                           Employee are encouraged to make use of their own
+                           knowledge and experience and develop their own
+                           solutions
+                           Workers must be properly trained and equipped with the
+                           necessary resources to be properly empowered
+                           Leaders need to be prepared to hand over authority and
+                           focus on providing encouragement praise and feedback
+
+
+
+
+                        © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   21
+

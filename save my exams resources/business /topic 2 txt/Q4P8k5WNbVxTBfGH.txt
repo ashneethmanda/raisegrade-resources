@@ -1,0 +1,904 @@
+      Edexcel A Level Business                                                       Your notes
+
+
+2.4 Resource Management
+Contents
+  Production, Productivity & Efficiency
+  Capacity Utilisation
+  Stock Control
+  Quality Management
+
+
+
+
+                      © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Production, Productivity & Efficiency
+                                                                                            Your notes
+
+Methods of production
+  Production is the transformation of resources (e.g. raw materials, components and
+  processes) into finished goods or services
+      Goods are physical products, such as bicycles and T-shirts
+      Services are non-physical items, such as hairdressing, tourism and manicures
+  Businesses can organise their production processes in a variety of ways
+
+The main methods of production
+
+
+
+
+      The main methods of production are job, batch, flow and cell production
+
+
+  The method of production used by a business will depend on a number of factors,
+  including:
+      The level of output required to be produced
+      The nature of the product
+      Whether the product is standardised or customised
+      The level of automation used in production
+
+Job production
+  Producing one item at a time, as ordered by the customer
+      Advantages
+          High-quality product
+          Motivated and highly skilled workers
+          Customised products can be produced
+      Disadvantages
+          Production is slow
+          Labour costs are high
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   2
+Batch production
+  Groups of the same product are produced before moving on to a group of different           Your notes
+  products
+      Advantages
+          Workers can specialise
+          Production can take place as the previous batch starts running out
+      Disadvantages
+          Requires careful coordination to avoid shortages
+          Money is tied up in stock, as completed products need to be stored
+
+Flow production
+  Continuous manufacturing of standardised products, usually on a production line
+      Advantages
+          Low unit costs due to economies of scale
+          Rapid production
+          Usually highly automated (capital-intensive)
+      Disadvantages
+          Customisation is difficult
+          Capital equipment can be expensive to purchase
+
+Cell production
+  This involves workers being organised into multi-skilled teams, with each team
+  responsible for a particular part of the production process
+      Advantages
+          Cell production is often more efficient than other methods, as workers share
+          their skills and expertise
+          Motivation is usually high, as employees work as a team
+      Disadvantages
+          Requires extensive reorganisation of production processes
+          Teams' efficiency may be reduced by weaker workers
+
+
+
+
+ Worked Example
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   3
+ Blush Cosmetics uses batch production to make its range of soaps and bath bombs,
+ with a variety of unique ingredients and scents. The business sells its products in its
+ own high street store and online and has recently started supplying its products in           Your notes
+ small quantities to a chain of exclusive hotels.
+ Explain one likely reason why Blush Cosmetics chooses to use batch production. [4]
+ Step 1: Identify a reason for the business to use batch production
+ One reason for Blush Cosmetics to use batch production is that it allows groups of
+ products with varied ingredients to be manufactured. [K]
+ Step 2: Include a reference to the business scenario
+ Blush Cosmetics sells a range of bath bombs and soaps that have different
+ fragrances, colours and ingredients. [Ap]
+ Step 3: Develop the reason using a connective
+ Blush Cosmetics needs to produce significant levels of output to meet increasing
+ demand and batch production, as well as to provide the opportunity to change
+ ingredients between batches [An], which can allow quite large quantities to be
+ produced for the company's high street and online stores [An].
+ Or:
+ Using batch production can allow Blush Cosmetics to produce smaller quantities of
+ unique products for exclusive hotel customers [Ap], meeting their specific needs
+ [An].
+
+
+
+
+ Examiner Tips and Tricks
+ Carefully consider the needs of the customers to whom a business sells when
+ recommending a suitable method of production.
+ Where the selling price is a key driver of consumer demand, flow production (where
+ unit costs are minimised) is likely to be very suitable.
+ Where demand is driven by quality or where customisation is required, job production
+ or batch production is likely to be a better choice.
+
+
+Calculating productivity
+  Productivity is the output per input (person or machine) per hour (e.g. an IKEA worker is
+  able to produce two Poā ng chairs per hour)
+       This is not production, which is the total amount of output produced in a time
+       period (e.g. IKEA produced 300 Poā ng chairs in February)
+
+Labour productivity
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+  The labour productivity of a business is a measure of the output per worker during a
+  specified period of time
+                                                                                                   Your notes
+  Labour productivity is calculated using the formula
+
+                    Labour productivity    = NumberOutput
+                                                    of workers
+
+Capital productivity
+  Capital productivity is a measure of the output of capital employed (e.g. machinery)
+  during a specified period of time
+  Capital productivity is calculated using the formula
+
+                   Capital productivity   = NumberOutput
+                                                   of machines
+
+
+
+
+  Worked Example
+  The table shows the number of pairs of luxury wool socks produced by Scotty Socks
+  Ltd in 2021 and 2022.
+
+            Year                                 Units produced
+
+            2021                                         46,000
+
+           2022                                          69,000
+
+  In 2021, Scotty Socks employed 50 staff. In 2022, the number of staff employed by
+  the business increased by 20%.
+  Calculate the percentage change in labour productivity between 2021 and 2022.
+                                                                                      [4]
+  Step 1: Calculate the labour productivity for 2021
+
+                              = 4650,000 units
+                                      workers              [1]
+
+                              = 920 units per worker
+  Step 2: Calculate the labour productivity for 2022
+
+                              = 6960,000 units
+                                      workers               [1]
+
+                              = 1,150 units per worker
+
+
+
+                            © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com   5
+  Step 3: Calculate the percentage difference between the two years ([new−old] ÷
+  old)
+                                                                                               Your notes
+                        = , 1 150   −
+                                    920 units
+                                                     ×     100
+                                920 units                        [1]
+
+                        = 25 %
+  Step 4: Identify whether the percentage difference is an increase or a decrease
+  25% increase [1]
+
+
+
+
+  Worked Example
+  Rolvo Ltd forecasts that by the end of the year, it will produce 250,800 units and that
+  capital productivity will be 1,100 units per machine.
+  Calculate the number of machines Rolvo Ltd has in use.
+  Step 1: Divide the output by the capital productivity
+
+                                         ,800 units
+                                  = 2501,100 units
+
+                                  = 228 machines
+
+Factors that influence productivity
+  The productivity within a business can often be improved
+  When productivity increases, business costs decrease
+  When business costs decrease, the firm can either pass on this decrease to consumers
+  in the form of lower prices or maintain the selling prices and enjoy higher profit margins
+
+Factors that influence productivity
+        Factor                                       Explanation
+
+ Employee motivation           Motivated workers tend to be more productive
+                                   Financial incentives linked to output may increase
+                                   worker productivity
+                                   A non-financial incentive may be including workers in
+                                   decision-making, which will increase their
+                                   commitment and productivity
+
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   6
+ Skills, education and         Well-trained and educated workers are likely to be able to
+      training staff           make useful contributions to decisions that improve
+                                                                                                 Your notes
+                               productivity
+                                    Workers are more autonomous, so the need for
+                                    supervision is reduced
+                                    Contributions from knowledgeable staff are likely to
+                                    lead to improvements in productivity
+
+ Business organisation         Flexible and adaptable workplaces can improve the
+ and working practices         commitment of workers and allow a business to respond
+                               to changes in demand
+                               Hours and locations of work can be adapted to better
+                               meet the needs of workers and the demand
+                               Workstations may be used for various purposes with
+                               careful planning and training
+
+ Investment in capital         Increased automation can improve levels of output and
+      equipment                quality
+                                    Well-chosen machinery is less likely to make mistakes
+                                    than humans
+                                    Machinery and technology can operate for long
+                                    periods without a break, as long as they are properly
+                                    maintained
+
+
+
+The link between productivity and
+competitiveness
+   Competitiveness refers to the ability of a business to maintain or grow its sales and
+   market share, given the presence and actions of rivals
+   Businesses that increase their level of productivity (e.g. of workers or capital equipment)
+   are likely to be more competitive
+
+Productivity and competitiveness
+
+
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   7
+                                                                                               Your notes
+
+
+
+
+      There is a strong link between productivity and business competitiveness
+
+
+  Businesses that are competitive are likely to have the financial resources required to
+  continue investing in improvements to their productivity
+
+Understanding efficiency
+  Efficiency refers to the ability of a business to use its production resources as cost-
+  effectively as possible
+      Efficiency is often measured in terms of the average cost per unit
+      The average cost per unit is calculated using the formula
+
+                                                 Total costs
+                     Average cost per unit    = Number  of units
+
+  Maximum efficiency is achieved when the cost per unit is at its lowest
+
+Diagram showing maximum efficiency
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+                                                                                             Your notes
+
+
+
+
+Graph showing that maximum efficiency occurs at the point where the costs are at their
+                                     lowest
+
+
+  The average cost curve shows that the most efficient level of production is achieved
+  when:
+      Economies of scale are maximised
+      Total costs are spread across an optimum level of output
+      Diseconomies of scale are minimised
+
+Factors that influence efficiency
+Factors that can influence business efficiency
+        Factor                                     Explanation
+
+ Standardisation of the       Occurs when all staff use the same components and
+  production process          techniques in the production process
+                                   Training of workers is minimised
+                                   Bulk buying of components reduces variable costs
+                                   Production lead time is reduced
+                                   But customisation of products is not usually possible
+
+     Relocation or            Moving production to a cheaper or smaller location can
+      downsizing              reduce fixed costs
+                                   Labour-intensive businesses may look for lower-
+                                   wage locations
+                                   Having capital-intensive locations may mean looking
+                                   for lower rents or land costs
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   9
+                                   However, relocation is very disruptive and will incur
+                                   significant short-term costs
+                                                                                               Your notes
+ Investment in capital        Purchasing or upgrading machinery and technology can
+      equipment               increase the rate of output, lower costs and improve
+                              quality
+
+    Organisational            Reducing the level of staff or reorganising staff can
+    restructuring             better match labour to output needs
+                                   Delayering reduces labour costs, as levels of
+                                   management are removed
+                                   Redeployment can motivate workers by providing
+                                   opportunities for staff to take on a new role, which will
+                                   develop their skills and experience
+
+     Outsourcing              Tasks may be given to other specialist businesses that
+                              can complete them at a lower cost
+                                   Outsourcing allows a business to focus on improving
+                                   the efficiency of its core competencies
+
+   Adoption of lean           An approach to production that involves the reduction of
+production techniques         all types of wastage (time, resources and space)
+                                   Kaizen means that improvements are made
+                                   continuously
+                                   Just-in-time involves holding little or no stock, which
+                                   minimises storage costs
+
+
+
+Capital-intensive and labour-intensive
+production
+  Labour-intensive production predominantly uses physical labour in the production of
+  goods/services
+      The delivery of services is usually more labour-intensive than manufacturing
+      In countries where labour costs are low (e.g. Bangladesh), labour-intensive
+      production is common
+      Small-scale production is likely to be labour-intensive
+      For example, UK schools are labour-intensive operations, as teachers plan and
+      deliver lessons and provide pastoral support
+  Capital-intensive production predominantly uses machinery and technology in the
+  production of goods and services
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   10
+      Large-scale production of standardised products is likely to be capital-intensive
+      Manufacturing in developed countries, where labour costs are relatively high, is      Your notes
+      likely to be capital-intensive
+      For example, automotive manufacturers such as Ford use robots and other
+      production technology to manufacture vehicles, with supervisors overseeing the
+      quality of output
+Evaluation of labour-intensive and capital-intensive
+production
+    Type of                Advantages                          Disadvantages
+  production
+
+   Capital-         Low-cost production where            Significant set-up and
+  intensive         output is high                       maintenance costs
+                    Machines are usually                 Breakdowns can severely
+                    consistent and precise               delay production
+                    Machines can run without             May not provide flexibility in
+                    breaks                               production
+
+   Labour-          Low-cost production where            Workers may be unreliable
+  intensive         labour costs are low                 and need regular breaks
+                    Provides opportunities for           Incentives may be needed to
+                    workers to be creative               motivate staff
+                    Workers are flexible (e.g. they      Training costs can be
+                    can be retrained)                    significant
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   11
+Capacity Utilisation
+                                                                                              Your notes
+
+Calculating capacity utilisation
+ Capacity utilisation is a measure of the level to which a business's assets are being used
+ to produce output
+ It compares the current output to the maximum possible output a business can
+ produce using all of its assets and is expressed as a percentage
+ Capacity utilisation is calculated using the formula
+
+                                           Current output
+             Capacity utilisation   = Maximum  possible output
+                                                               × 100
+
+
+
+ Worked Example
+ Lola Bakery produces specialist Indian and Bangladeshi breads that are sold to
+ restaurants in the West Midlands. Batch production is used in the factory to
+ manufacture a range of breads, and the factory can produce a maximum of 68,400
+ units per month.
+ In May, factory output was 51,420 units.
+ Calculate Lola Bakery’s capacity utilisation in May.
+ Step 1: Divide the current output by the maximum output
+
+                                    = 51 ,420 units
+                                      68 ,400 units
+
+                                    = 0 . 75
+ Step 2: Multiply the outcome by 100 to obtain the percentage capacity utilisation
+
+                                    = 0 . 75 × 100
+                                    = 75%
+
+
+ Worked Example
+ Lola Bakery produces specialist Indian and Bangladeshi breads that are sold to
+ restaurants in the West Midlands. Batch production is used in the factory to
+ manufacture a range of breads, and the factory can produce a maximum of 68,400
+ units per month.
+
+
+
+
+                           © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   12
+  In August, capacity utilisation increased to 92%.
+  Calculate the number of units produced by Lola Bakery in August.                                Your notes
+  Step 1: Convert 92% to a decimal
+
+                                      = 92% ÷ 100
+                                      = 0 . 92
+  Step 2: Find 92% of the maximum output using the decimal
+
+                                    = 0 . 92 × 68,400
+                                    = 62,928 units
+Implications of underutilisation and
+overutilisation of capacity
+Underutilisation of capacity
+  If a business has a low level of capacity utilisation, it will not be making the most of its
+  resources and is likely to have increased unit costs
+      The fixed costs are spread over fewer units of output, resulting in higher average
+      total costs
+      Workers may be underdeployed, leading to fears of redundancy
+  Operating under capacity does provide a business with flexibility
+      There may be an opportunity to engage workers in maintenance tasks
+      The business can respond to sudden increases in demand
+
+Overutilisation of capacity
+  If a business has a high level of capacity utilisation, it may not have the flexibility to
+  respond to new orders from customers
+      Staff will be under a lot of pressure to produce high levels of output
+      Overworked staff may be inclined to leave, increasing staff turnover
+      Machinery may be pushed to its limits and prone to breakdowns, which disrupts
+      production and increases costs
+  High capacity utilisation will minimise average total costs and increase business
+  competitiveness
+      If workers are busy, they are likely to feel secure in their employment
+      A business that is busy is likely to be well thought of by customers and will attract
+      customers who are willing to wait for products to be delivered
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   13
+                                                                                                Your notes
+Worked Example
+Production data for pencil manufacturers A and B
+
+   Manufacturer           Current output (units)           Maximum output (units)
+
+          A                         3m                                6m
+
+          B                        2.4m                               4m
+
+Explain one implication of the level of capacity utilisation for pencil manufacturer A,
+compared to manufacturer B. You are advised to show your workings.
+                                                                                          [4]
+Step 1: Demonstrate knowledge of capacity utilisation
+   Capacity utilisation measures how well a business is using its available production
+   capacity. [1]
+Step 2: Calculate the capacity utilisation for both manufacturers
+
+                    Manufacturer A    = 36 million units
+                                                         × 100
+                                           million units            [1]
+
+                   = 50 %
+                   Manufacturer B    = 2 .44million
+                                            million units
+                                                          × 100
+                                                    units            [1]
+
+                  = 60 %
+Step 3: Explain the implications
+One implication is that staff may be bored and demotivated, particularly at
+manufacturer A, because they have less work to do than at manufacturer B. [An]
+Or:
+Unit costs are likely to be higher than they could be at both manufacturers [K]
+because resources such as workers and machinery are not being used to their full
+potential [An].
+
+
+
+
+Examiner Tips and Tricks
+Including a definition of the key term is not essential, as implicit understanding of a
+business term or concept can be shown through correct calculations and identifying
+appropriate points.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com    14
+  In the example above, the definition could attract a mark if calculations had not been
+  included, but the answer achieved full marks because it included correct calculations
+  as well as an appropriate point with an explanation.                                            Your notes
+
+
+Ways of improving capacity utilisation
+   Achieving an optimum level of capacity utilisation is a key production objective
+   A business has several options available to improve its capacity utilisation
+
+A range of ways to improve capacity utilisation
+
+
+
+
+ Ways of improving capacity utilisation include increasing sales, reducing capacity and
+                        using outsourcing or redeployment
+
+
+   Increasing the level of capacity utilisation results in lower unit costs
+   In some cases, increasing demand and thus output is the most suitable way to increase
+   capacity utilisation
+       For example, reducing selling prices or offering short-term price promotions can
+       increase demand
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   15
+   If competitors go out of business, demand should pick up, which will improve
+   capacity utilisation without the need for further promotion
+Reducing the level of overall capacity will improve the level of capacity utilisation        Your notes
+    Capacity can be reduced by selling capital equipment or reducing the number of
+    staff
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   16
+ Stock Control
+                                                                                                Your notes
+
+Interpretation of stock control
+diagrams
+  A stock control diagram illustrates the flow of stock (inventory) into and out of a
+  business over time
+
+Example stock control diagram
+
+
+
+
+ Stock control diagrams show maximum and minimum stock levels, reorder level, lead
+                            time and buffer stock level
+
+
+Diagram analysis
+  The maximum stock level is the maximum amount of stock a business is able to hold in
+  normal circumstances (1,600)
+  The reorder level is the level at which a business places a new order with its supplier
+  (800)
+  The minimum stock level is also known as the buffer stock level and is the lowest level to
+  which a business is willing to allow stock levels to fall (400)
+  The lead time is the length of time from the point of stock being ordered from the
+  supplier to it being delivered (one week)
+  The stock level line shows how stock levels change over the given time period
+      As stock is used up, a downward slope is plotted
+      When an order is delivered by a supplier, the stock level line shoots upwards
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   17
+Worked Example
+                                                                                                Your notes
+The diagram below shows stock movements of kitchen shelving units sold by TamFix
+Ltd.
+
+
+
+
+   Graph showing stock level, reorder level and number of weeks for TamFix Ltd
+
+
+Identify the following points:
+  1. The minimum stock level
+  2. The reorder level
+  3. The reorder quantity
+  4. The lead time for kitchen shelving units (4)
+Step 1: Identify the minimum stock level
+The minimum stock level is identified by the bottom-most dotted line. In this case, it
+shows that the minimum stock level is 200 units. [1]
+Step 2: Identify the reorder level
+The reorder level is clearly identified on the diagram. In this case, it shows that the
+reorder level is 500 units. [1]
+Step 3: Identify the reorder quantity
+The reorder quantity is the difference between the maximum stock level (shown by
+the topmost dotted line) and the minimum stock level.
+1,000 units (maximum stock) − 200 units (minimum stock) = 800 units
+The reorder quantity is therefore 800 units. [1]
+Step 4: Identify the lead time for kitchen shelving units
+The lead time is the difference in time between an order for stock being placed and its
+delivery. In this case, assuming a five-day working week, the lead time for shelving
+units is two days. [1]
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   18
+Buffer stock
+                                                                                              Your notes
+  Buffer stock is a quantity of goods/raw materials kept in case of stock shortages
+      This can provide a competitive edge over rivals unable to meet demand
+      This approach is commonly called "just in case" stock control
+  The decision to keep buffer stocks is one that businesses have to weigh up very carefully
+      The decision will be influenced by the nature of the business and the
+      product/service it provides
+
+Advantages and disadvantages of holding buffer stock
+                Advantages                                    Disadvantages
+
+   Stability in supply                                Cost
+   Buffer stocks ensure a stable supply of            Holding buffer stocks can be
+   goods, so the business is able to respond to       expensive, as it requires storage
+   unexpected customer demand                         facilities and inventory
+                                                      management systems
+   Price stabilisation
+   Buffer stocks can help prevent extreme             Risk of obsolescence
+   price fluctuations, as they help the market        Buffer stocks can become
+   to avoid shortages, which would otherwise          obsolete if the demand for a
+   result in rapid price increases                    particular product or input
+                                                      declines
+   Raw materials security
+   Businesses that are dependent on                   Opportunity cost
+   particular raw materials avoid disruption to       Holding buffer stocks ties up
+   their supply                                       capital that could be invested in
+                                                      other areas of the business
+   Competitive advantage
+   By having a reliable supply of goods,
+   businesses can gain a reputation for always
+   being able to meet the needs of their
+   customers
+
+
+
+Implications of poor stock control
+Too much or too little stock: implications
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   19
+                                                                                               Your notes
+
+
+
+
+Implications of poor stock control include increased storage costs, risk of stockout and
+                               inability to meet demand
+
+
+   Problems may arise from holding too much stock
+       Storage costs (e.g. warehouse rental, security costs) will be higher than necessary
+       The risk of spoilage and stock shrinkage will be increased, leading to increased
+       costs
+   Similarly, holding too little stock is risky
+       A business may run out of stock, resulting in production stoppages and higher unit
+       costs related to underused capacity
+       A sudden increase in demand may not be capable of being met, which leads to a
+       loss of potential sales revenue
+
+Just-in-time stock management
+   Just-in-time stock management is a process in which raw materials are not stored on-
+   site
+       Stock is ordered as required and delivered by suppliers "just in time" for production
+   Careful coordination is needed to ensure that raw materials and components are
+   delivered by suppliers at the moment that they are to be used
+
+Advantages and disadvantages of just-in-time stock
+management
+
+                              © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   20
+              Advantages                                    Disadvantages
+                                                                                              Your notes
+   Stockholding costs, including storage         Bulk-buying economies of scale are
+   costs, are minimised                          not generally possible
+   Close working relationships are               The ability to respond to unexpected
+   developed with a small number of              increases in demand is reduced
+   trusted suppliers
+                                                 Administrative costs related to
+   Cash flow is improved, as money is            frequent ordering are increased
+   not tied up in stock
+                                                 Unreliable suppliers (e.g. late or poor-
+   Unused storage space is available for         quality deliveries) can quickly halt
+   productive use                                production
+   Teamwork is encouraged, so                    Significant changes to organisational
+   employee motivation is likely to be           structure and production controls are
+   improved                                      required
+
+
+
+Waste minimisation
+  Waste in a business can occur for a number of reasons
+      Stock becomes obsolete unless used by a particular date
+      Perishable stock (food and medicines) that is not used before it deteriorates will
+      need to be thrown away
+      Stock may be damaged as a result of poor storage conditions and may not be
+      suitable for use in the production process
+  Allowing waste to go unchecked will increase the unit costs of production and reduce
+  both efficiency and productivity
+  Businesses may take a range of steps to minimise waste
+
+Ways to minimise waste
+
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   21
+                                                                                                   Your notes
+
+
+
+
+Some ways to minimise waste include better storage and planning, as well as changes to
+                                   sales tactics
+
+
+   The minimisation of waste will depend on the nature of the product
+       For perishable items, refrigeration and careful stock rotation can reduce waste
+   Staff training and computer inventory management systems may also reduce waste, as
+   fewer errors are likely to be made
+   Effective sales forecasting can help reduce the amount of wasted stock
+
+Competitive advantage from lean
+production
+   Lean production involves the minimisation of the resources used in production
+       Less time is required, as the production process is organised in the most efficient
+       way
+       Fewer materials are used, as there is a focus on waste reduction
+       Less labour is used, as lean production is typically capital-intensive
+       The space required for production is reduced as a result of just-in-time stock
+       management
+       A small number of trusted suppliers work closely with the business
+   The use of lean production is likely to lead to a competitive advantage
+       Lower unit costs are achieved due to minimal wastage, so prices may be lower than
+       those offered by competitors
+       Better quality of output is likely, as a result of supplier reliability and carefully
+       managed production processes
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   22
+ Quality Management
+                                                                                              Your notes
+
+Quality management methods
+  Quality considers the characteristics and features of a product that satisfy the needs of
+  customers
+  Businesses need to maintain a level of quality that continues to attract and retain
+  customers
+  There are several approaches to managing quality in the production process
+
+Methods of quality management
+     Method                                       Explanation
+
+  Quality control          Inspecting the quality of output at the end of the production
+                           process
+                           Benefits
+                               Quality specialists are employed to check standards
+                               An inexpensive and simple way to check that the output is
+                               fit for purpose
+                           Drawbacks
+                               The rejection of finished goods is a significant waste of
+                               resources
+                               There is little focus on the cause of defects
+
+ Quality assurance         Inspecting the quality of production throughout the
+                           production process
+                           Benefits
+                               Quality issues are identified early, so products may be
+                               reworked rather than rejected
+                               The cause of defects is the focus, so future quality issues
+                               may be prevented
+                           Drawbacks
+                               Staff training and a skilled workforce are required, so
+                               labour costs may be increased
+                               Reworking may lengthen the production process
+
+  Quality circles          Groups of workers meet regularly to solve quality problems
+                           identified in the production process
+
+
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   23
+                          Benefits
+                              Workers may be motivated, as they are involved in              Your notes
+                              decision-making
+                              Relevant and focused solutions are likely, as workers are
+                              familiar with processes
+                          Drawbacks
+                              Management needs to have trust in workers’ views and
+                              solutions
+                              Meetings must be organised regularly
+
+  Total quality           Organisation of the business with quality at its core and with
+  management              every worker responsible for quality
+                          Benefits
+                              Quality in all aspects of the business improves efficiency
+                              A culture of constant improvement exists within the
+                              business
+                          Drawbacks
+                              All workers must be committed and receive significant,
+                              continuous training
+                              Careful monitoring and control are required
+
+
+
+Continuous improvement (kaizen)
+  Kaizen involves a business taking continuous steps to improve productivity through the
+  elimination of all types of waste in the production process
+      Changes are small and ongoing rather than significant one-offs, and they are
+      constantly reviewed to ensure that the desired positive impact on productivity is
+      achieved
+
+Comparison of kaizen and one-off improvements
+
+
+
+
+                          © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   24
+                                                                                            Your notes
+
+
+
+
+  Continuous improvement is likely to lead to higher output per worker over time
+
+
+ Elements of kaizen commonly include:
+     Total quality management
+     Just-in-time stock management
+     Teamwork and quality circles
+     Zero defects in manufacturing
+     High levels of automation
+     High levels of cooperation between workers and management
+ Kaizen requires a long-term management commitment to change
+
+Competitive advantage from quality
+management
+ The quality of a business's products can provide a competitive advantage
+     Unit costs are likely to be low if a business takes a preventative approach through
+     the use of quality assurance or total quality management
+         Low costs may allow a business to reduce its selling price to better compete
+         with or undercut its rivals
+     Increased finance may be available to fund marketing activity to improve brand
+     recognition and attract new customers
+     High levels of quality can be used in promotional activity and provide a unique
+     selling point for businesses in competitive markets
+     Successfully developing a unique selling point for quality can ease expansion into
+     new markets as a result of the positive reputation it creates
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   25
+

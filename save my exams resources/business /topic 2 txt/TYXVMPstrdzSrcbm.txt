@@ -1,0 +1,662 @@
+      Edexcel A Level Business                                                      Your notes
+
+
+2.3 Managing Finance
+Contents
+  Profit
+  Liquidity
+  Business Failure
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Profit
+                                                                                               Your notes
+
+Profit calculations
+  Profit is the money left over after all costs have been accounted for
+  There are several different types of profit
+
+Types of profit
+  Type of                   What does it show?                     How is it calculated?
+   profit
+
+Gross profit       The difference between revenue and the        GP = revenue − cost of
+                   costs directly related to production          sales
+   (GP)
+
+ Operating         The difference between the gross profit       OP = gross profit −
+  profit           and the indirect expenses involved in         operating expenses
+                   operating the business
+   (OP)
+
+ Net profit        The difference between the operating          NP = operating profit −
+                   profit and any interest paid and received,    (net interest + exceptional
+   (NP)            as well as any one-off costs                  costs)
+
+
+
+
+  Worked Example
+  An e-scooter manufacturer sells its products to retailers for £180 per unit. Variable
+  costs are ⅖ of the selling price, with monthly fixed costs being £82,000. It sells 2,200
+  scooters a month.
+  The business pays £240 interest on a mortgage each month. This year, it purchased
+  the patent for a new type of rechargeable battery for £17,000.
+  Calculate the business's net profit for the year.
+                                                                                       [5]
+  Step 1: Calculate the variable cost per unit
+
+
+                                     =   ⅖   of £ 180
+
+                                     = £ 72
+    Step 2: Calculate the gross profit per unit (selling price − variable cost per unit)
+
+
+
+                             © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   2
+                               = £ 180 − £ 72                                                  Your notes
+                                                     [1]
+                               = £ 108
+Step 3: Calculate the gross profit per month (gross profit per unit × units sold)
+
+
+                                = £ 108 × 2,200
+                                = £ 237,600
+Step 4: Calculate the gross profit per year (gross profit per month × 12)
+
+
+                             = £ 237,600 × 12
+                                                       [1]
+                             = £ 2,851,200
+Step 5: Multiply monthly fixed costs by 12 (months)
+
+
+                           = £ 82,000 × 12 months
+                           = £ 984,000
+Step 6: Subtract the annual fixed costs from the annual gross profit
+
+
+                      = £ 2,851,200 − £ 984,000
+                                                               [1]
+                      = £ 1,867,200
+Step 7: Multiply the monthly interest by 12 (months)
+
+
+                                = £ 240 × 12
+                                                    [1]
+                                = £ 2,880
+Step 8: Add the one-off purchase to the annual interest
+
+
+                             = £ 17,000 + £ 2,880
+                             = £ 19,880
+Step 9: Subtract the interest and one-off costs from the operating profit
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   3
+                          = £ 1,867,200 − £ 19,880                                             Your notes
+                                                               [1]
+                          = £ 1,847,320
+
+
+  Examiner Tips and Tricks
+  You may not be asked to complete all of these calculations in one question.
+  The question may, for example, provide the gross profit and some other information
+  and then ask you to calculate the net profit.
+  Look at the data carefully to ensure you are doing the correct calculation.
+
+
+Statement of comprehensive income
+(profit and loss account)
+  The statement of comprehensive income is an end-of-year financial statement that
+  shows all of a business's income and expenses over the previous 12 months
+  Each type of profit is calculated within the statement of comprehensive income
+  The previous year’s figures are also shown for comparison purposes
+
+Example statement of comprehensive income for Head to
+Toe Wellbeing Ltd
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   4
+The statement of comprehensive income shows revenue, gross profit, operating profit
+                             and profit for the year
+                                                                                              Your notes
+
+
+Profit margins
+  A profit margin is the amount by which the sales revenue exceeds the costs
+      Profit margins can be calculated for each type of profit (gross, operating and net
+      profit)
+  Profit margins can be compared to previous years to better understand business
+  performance
+      Higher and increasing profit margins are preferable, as it means that more revenue
+      is being converted to profit
+
+Gross profit margin
+  This shows the proportion of revenue that is turned into gross profit and is expressed as
+  a percentage
+      It is calculated using the formula
+
+                                 Gross profit
+                                  Revenue
+                                                × 100
+
+
+
+  Worked Example
+  Head to Toe Wellbeing Ltd's revenue in 2022 was £124,653. Its gross profit was
+  £105,731.
+  Calculate Head to Toe Wellbeing’s gross profit margin in 2022.
+                                                                                      [2]
+  Step 1: Substitute the values into the formula
+
+                                     Gross profit
+                        GPM =                     × 100
+                                      Revenue
+
+                          £ 105,731                            [1]
+                        = £ 124,653
+
+                        = 0 . 8482
+  Step 2: Multiply the outcome by 100 to find the percentage
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+                                = 0 . 8482 × 100
+                                                         [1]
+                                                                                                 Your notes
+                                = 84. 82%
+Operating profit margin
+  The operating profit margin shows the proportion of revenue that is turned into
+  operating profit and is expressed as a percentage
+  It is calculated using the formula
+
+                                  Operating profit
+                                     Revenue
+                                                     × 100
+
+
+
+  Worked Example
+  Head to Toe Wellbeing Ltd’s revenue in 2022 was £124,653. Its operating profit was
+  £65,864.
+  Calculate Head to Toe Wellbeing’s operating profit margin in 2022.
+                                                                                       [2]
+  Step 1: Substitute the values into the formula
+
+                                   Operating profit
+                      OPM =                         × 100
+                                      Revenue
+
+                         £ 65,864                                  [1]
+                      = £ 124,653
+
+                      = 0 . 5284
+  Step 2: Multiply the outcome by 100 to find the percentage
+
+
+                                = 0 . 5284 × 100
+                                                         [1]
+                                = 52. 84%
+Net profit margin
+  The net profit margin (also known as the profit for the year margin) shows the proportion
+  of revenue that is turned into net profit before tax and is expressed as a percentage
+  It is calculated using the formula
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   6
+                                Profit for the year
+                                     Revenue
+                                                      × 100
+                                                                                                  Your notes
+
+
+
+  Worked Example
+  Head to Toe Wellbeing Ltd’s revenue in 2022 was £124,653. Its profit for the year was
+  £57,596.
+  Calculate Head to Toe Wellbeing’s profit for the year margin (net profit) in 2022.
+                                                                                       [2]
+  Step 1: Substitute the values into the formula
+
+                                Profit for the year
+                    NPM =                           × 100
+                                    Revenue
+
+                       £ 57,596                                       [1]
+                    = £ 124,653
+
+                    = 0 . 4621
+  Step 2: Multiply the outcome by 100 to find the percentage
+
+                                = 0 . 4621 × 100
+                                                          [1]
+                                = 46. 21%
+Ways to improve profitability
+  There are several steps a business can take to improve profitability
+
+Main ways to improve profitability
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   7
+                                                                                                Your notes
+
+
+
+
+    Businesses can improve profitability by reducing costs or increasing revenue
+
+
+Raising prices
+  If costs remain the same, raising prices will improve profitability, as the difference
+  between the selling price and the cost is now greater
+      Raising prices is likely to have an impact on demand, so a business must understand
+      the price elasticity of demand for its products
+           Where demand for products is price elastic, increasing prices will result in lower
+           revenue — in this case, profitability will be reduced
+           Where demand for products is price inelastic, increasing prices will increase
+           revenue — in this case, profitability will rise
+
+Reducing variable costs
+  This may involve purchasing cheaper/alternative resources, negotiating with suppliers or
+  purchasing in bulk
+      Businesses must ensure that reducing variable costs will not have an adverse effect
+      on the quality or desirability of products
+      Buying stock in greater quantities may require investment in increased storage
+      space, which will reduce the impact of the cost savings made
+      Businesses may also be able to reduce the waste of raw materials and components
+
+Reducing other expenses
+
+
+                             © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   8
+  Reducing staffing levels, relocating to cheaper premises or changing utility companies
+  can reduce expenses
+                                                                                                   Your notes
+      Reducing staffing levels may affect staff morale and negatively affect productivity
+      Relocation costs can outweigh some of the benefits of moving to a cheaper
+      location
+      Replacing inefficient or outdated equipment may require staff training
+
+Reducing one-off costs and interest charges
+  Delaying the purchase of fixed assets, entering leasing arrangements or restructuring
+  borrowing can reduce costs
+      Delaying purchases of new fixed assets (e.g. machinery or vehicles) may negatively
+      impact capacity utilisation as a result of increased breakdowns and maintenance of
+      the old equipment
+      The leasing of equipment (e.g. photocopiers) can reduce one-off purchase costs,
+      but the business never owns these assets, which weakens the balance sheet
+      Restructuring borrowing can result in lower monthly payments but requires lenders
+      to agree to new terms, which they may not be willing to do
+
+The distinction between profit and cash
+  Profit and cash are different financial terminologies
+      Profit is simply the difference between revenue generated and business costs
+      Cash is measured by taking into account the full range of money flowing in and out
+      of a business
+  A new business may have to pay cash on purchase for all its supplies until a good
+  business relationship has built up a level of trust with its suppliers
+      A supplier may then give the business trade credit of 30 or 60 days
+      This means that the business can receive its stock now and only pay for it in 30 or 60
+      days, so the cash outflow is delayed
+      As the business sells its products, it receives money generated from the business
+      revenue, and this represents a cash inflow
+      At the end of 60 days, the business will pay its supplier (cash outflow), but the firm
+      may still have stock available for sale
+  A profitable business is likely to fail if it does not have sufficient cash
+      Cash-poor businesses will struggle to pay their suppliers
+           E.g. lifestyle retailer Joules announced plans to liquidate in December 2022 as a
+           result of cash flow difficulties despite making a profit of £2.6 million during the
+           previous year
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   9
+ Liquidity
+                                                                                                      Your notes
+
+Statement of financial position
+(balance sheet)
+  The statement of financial position contains the financial information required to draw
+  conclusions about the liquidity of the business
+      Liquidity is the ability of a business to meet its short-term commitments (e.g.
+      payments to creditors) with its available assets
+      A business that cannot pay its bills will usually fail very quickly, even if it is profitable
+      Managing liquidity is a key way to manage risk in a business — and it helps a business
+      to prepare for the unexpected
+  The statement of financial position shows the financial structure of a business at a
+  specific point in time
+      It identifies a business's assets and liabilities and specifies the capital (money) used
+      to fund the business
+      The statement of financial position is also known as the balance sheet
+
+Example of a statement of financial position for Packer
+Sports Ltd
+
+
+
+
+                            © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com     10
+                                                                                              Your notes
+
+
+
+
+Ways to measure liquidity
+  The liquidity of a business can be measured using two ratios, the current ratio and the
+  acid test ratio
+
+The current ratio
+
+                          © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   11
+  The current ratio is a quick way to measure liquidity, and the outcome is expressed as a
+  ratio
+                                                                                                  Your notes
+  All forms of current assets are considered in this ratio
+  The current ratio is an effective liquidity measure for businesses that hold little stock
+  The result indicates how many £s of current assets a business has available to cover
+  each £1 of its short-term debt
+  It is calculated using the formula
+
+                                          Current assets
+                     Current ratio     = Current liabilities
+                                                             = ?:1
+
+
+
+  Worked Example
+  Packer Sports Ltd has current assets of £15,545, current liabilities of £5,060 and an
+  inventory figure of £8,250.
+  Calculate Packer Sports Ltd’s current ratio.
+                                                                                          [2]
+  Step 1: Substitute the values into the equation
+
+                                         £ 15,545
+                                    =     £ 5,060        [2]
+
+                                    = 3 . 07 : 1
+  In this example, Packer Sports Ltd has £3.07 of current assets to cover each £1 of
+  short-term debt.
+
+The acid test ratio
+  This is a precise way to measure liquidity and is expressed as a ratio
+  The acid test ratio is also known as the liquid capital ratio
+  The least liquid form of current assets (inventory/stock) is deducted, so the acid test
+  ratio provides a more realistic measure of the business's ability to meet short-term
+  debts quickly
+  It is a particularly important measure of liquidity for businesses that hold a large amount
+  of stock
+  It is calculated using the formula
+
+                                       assets − Inventory
+               Acid test   = CurrentCurrent liabilities
+                                                          =             ?:1
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   12
+                                                                                                Your notes
+  Worked Example
+  Packer Sports Ltd has current assets of £15,545, current liabilities of £5,060 and an
+  inventory figure of £8,250.
+  Calculate Packer Sports Ltd’s acid test ratio.
+                                                                                          [2]
+  Step 1: Subtract the inventory figure from the current assets
+
+                             = £ 15,545 − £ 8,250
+                                                            [1]
+                             = £ 7,295
+  Step 2: Substitute the values into the equation
+
+                                      £ 7,295
+                                    = £ 5,060
+                                                     [1]
+
+                                    = 1 . 44 : 1
+  In this example, Packer Sports Ltd has £1.44 of its most liquid current assets to
+  cover each £1 of short-term debt.
+
+
+Ways to improve liquidity
+   The best way to improve liquidity is to manage the business better
+       Use cash flow forecasts to identify potential cash flow issues before they arise —
+       and take appropriate action
+       Budget effectively and consider adopting zero budgeting to carefully control
+       spending
+       Set clear financial objectives and look for ways to reduce costs and increase
+       income wherever possible
+
+How to improve liquidity
+              Method                                        Explanation
+
+ Reduce the credit period offered to         Collecting money owed from customers
+            customers                        more quickly will increase the level of current
+                                             assets in the business
+                                             Customers may move to competing
+                                             businesses that offer better credit terms
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   13
+  Ask suppliers for an extended             Current liabilities will not be reduced
+   repayment period, e.g. an
+                                            The business can use the cash it would have         Your notes
+  extension from 60 to 90 days
+                                            paid to suppliers for other purposes
+                                            Suppliers may be unwilling to extend credit
+                                            terms
+
+ Make use of overdraft facilities or        Current liabilities will increase
+        short-term loans
+                                            The business can spend more money than it
+                                            has in its bank account
+                                            Banks may be reluctant to lend to businesses
+                                            with cash-flow problems
+
+       Sell off excess stock                Less liquid current assets will be reduced and
+                                            converted into more liquid forms of current
+                                            assets (e.g. cash)
+                                            Storage and security costs may also be
+                                            reduced
+                                            Stock may need to be sold at a low price to
+                                            attract sales
+
+ Sell assets and lease fixed assets         Both current assets and current liabilities
+ instead (e.g. sale and leaseback)          will increase
+                                            The business will continue to have the use of
+                                            the assets but must make regular payments
+                                            to the leasing company
+
+ Introduce new capital and reduce           New capital may be introduced by the owner
+     drawings from the business             or from additional investors
+                                            This may result in the dilution of control of the
+                                            business
+
+
+
+Managing working capital
+  Working capital is the money that a business has to fund its day-to-day activities
+  It is often described as net current assets on the statement of financial position
+  Working capital is calculated using the formula
+                  Working capital = Current assets − Current liabilities
+
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+ Worked Example
+ Garrick Components Ltd is a heating components business based in Tamworth. It has                 Your notes
+ been struggling to control its inventory level. Its customers are the country’s leading
+ gas boiler manufacturers. These companies require Garrick Components Ltd to
+ supply products "just in time", and as a result, Garrick must hold large amounts of
+ varied stock to ensure that its customers’ needs can be met. Garrick Components
+ offers its customers 90-day credit terms.
+ Financial information for Garrick Components Ltd
+
+                                                             2022                 2021
+                                                             (£m)                 (£m)
+
+  Inventories                                                8.1                      7.2
+
+  Trade receivables                                          2.2                      3.1
+
+  Cash                                                       0.9                      1.2
+
+  Short-term loan                                            6.4                      4.4
+
+  Trade payables                                             5.1                      5.9
+
+ Calculate the difference between Garrick Components Ltd’s working capital in 2021
+ and 2022.
+                                                                                             [4]
+ Step 1: Identify and calculate the current assets and current liabilities for 2022 and
+ 2021
+
+  Current assets 2022 = £ 8 . 1m + £ 2 . 2m + £ 0 . 9m = £ 11 . 2m                          [1]
+                    2021   = £ 7 . 2m + £ 3 . 1m + £ 1 . 2m = £ 11 . 5m
+
+          Current liabilities    2022   = £ 6 . 4m + £ 5 . 1m = £ 11 . 5m [1]
+                                 2021   = £ 4 . 4m + £ 5 . 9m = £ 10 . 3m
+ Step 2: Subtract the current liabilities from the current assets for 2022 and 2021
+
+             2022     =            .
+                                £ 11 2m   − £ 11 . 5m =        (£ 0 3m  .   )
+                                                                                [1]
+             2021     =            .
+                                £ 11 5m   − £ 10 . 3m =             .
+                                                               £ 1 2m
+
+ Step 3: Calculate the difference between 2022 and 2021
+
+                            = £ 1 . 2m − £ 0 . 3m
+                                                (        )
+
+
+
+                                                              [1]
+
+                            = £ 1 . 5m
+Managing working capital
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com     15
+Working capital is described as the lifeblood of a business because a lack of it often
+leads to business failure, as a business cannot meet its immediate financial obligations
+                                                                                               Your notes
+     Cash is the most liquid of a business's current assets and can be used to settle
+     debts immediately
+The effective management of working capital involves careful cash management
+     Debtors and inventory (e.g. stock) are less liquid
+     Businesses that are struggling with a lack of working capital may look to convert
+     these current assets into cash as quickly as possible (e.g. by selling the stock at
+     lower prices or by more purposefully chasing payment from customers)
+     Requesting an extension of payment terms from suppliers can increase working
+     capital in the short term, as cash remains in the business for longer
+     Making use of short-term borrowing options such as overdrafts can improve a
+     business's working capital situation, as it can access more cash than it has in its
+     current account
+A business can have too much working capital
+     If a business is holding large amounts of cash, it is likely to be missing out on the
+     benefits of investing it in fixed assets or investments
+     This may represent a significant opportunity cost, especially when interest rates are
+     high
+     If a business is holding large amounts of inventory, it may incur extra storage costs
+     (e.g. security and handling costs) and could use the cash "tied up" in this stock for
+     other purposes
+
+
+
+
+Examiner Tips and Tricks
+A common exam error is the confusion between working capital and cash. Whilst
+working capital includes cash, it also includes less liquid current assets (e.g. trade
+receivables and inventory).
+These less liquid assets cannot be used to pay bills, so whilst a business may have a
+positive working capital figure, it may still fail because it cannot meet its immediate
+financial commitments.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   16
+ Business Failure
+                                                                                               Your notes
+
+Internal and external causes of business
+failure
+Internal causes of business failure
+
+
+
+
+  The main internal reasons for business failure include ineffective marketing, lack of
+                              leadership and lack of funds
+
+
+  Ineffective management is a key cause of business failure
+  Leaders may lack the experience or skills to run a business effectively, especially during
+  periods of crisis
+  Financial factors (e.g. a lack of cash flow or working capital) can cause swift business
+  failure, as it becomes difficult to operate on a day-to-day basis
+
+External causes of business failure
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   17
+                                                                                                Your notes
+
+
+
+
+The main external reasons for business failure include changes in consumer taste,
+                  economic challenges and market challenges
+
+
+Businesses also fail as a result of factors beyond their direct control
+A change in legislation can mean that products or processes may require significant
+redesign or withdrawal
+    E.g. the UK government announced that diesel vehicles are banned from 2030. Car
+    manufacturers are switching to the production of greener petrol and electric
+    vehicles, and some have moved production processes outside of the UK to reduce
+    costs
+        Several prominent vehicle manufacturers will likely fail in the future as a result of
+        these changes
+Economic challenges (e.g. rising interest rates or a recession) are a key cause of
+business failure
+    This is especially true for businesses that rely heavily on borrowing or that sell items
+    that require customers to borrow money to finance their purchase
+The entry of new competitors into a market can cause significant problems for
+incumbent businesses, who may have to slash prices or spend heavily on promotional
+activity to maintain their market share
+
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    18
+If a business has existing weaknesses, the entry of a new competitor can hasten its
+failure
+                                                                                       Your notes
+
+
+
+
+                    © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   19
+

@@ -1,0 +1,1034 @@
+      Edexcel A Level Business                                                        Your notes
+
+
+3.3 Decision-Making Techniques
+Contents
+  Quantitative Sales Forecasting
+  Investment Appraisal
+  Decision Trees
+  Critical Path Analysis
+
+
+
+
+                       © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Quantitative Sales Forecasting
+                                                                                                   Your notes
+
+Introduction to quantitative sales
+forecasting
+  The sales forecast is an important business planning tool
+      It provides an estimation of future sales figures using past data and considering
+      predictable external factors
+  Sales forecasts can be used to identify trends in product sales, which can then be
+  compared with the market as a whole
+
+Methods used in quantitative sales forecasting
+   Method                                          Explanation
+
+    Moving             A series of averages calculated from successive segments of a series
+   averages            of data
+                       These averages smooth data so that trends may be more easily
+                       identified
+
+ Extrapolation         The prediction of future sales from past data
+                       Extrapolation can often be done simply by extending a line of best fit
+
+  Correlation          Where there is a link between two variables, there is a correlation
+                       Correlations may be positive or negative
+
+
+
+Calculation of time: Series analysis
+Moving averages
+  Sometimes, past sales data is too erratic for clear trends to be identified
+  A moving average smooths raw data and allows analysts to spot patterns, even when sales
+  are subject to seasonal variations
+  Four-month or twelve-month moving averages are used where seasonality is a key factor in
+  sales
+
+Calculating moving averages
+
+
+
+
+                             © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   2
+                                                                                                Your notes
+
+
+
+
+                         Steps to calculate the moving average
+
+
+The moving total is calculated by adding together sales figures for a specified number of
+periods
+    E.g. a three-month moving total is calculated by adding the first three months,
+    followed by the second three months and the third three months and so on
+The centred average is calculated by dividing the moving total by the specified number of
+periods
+    E.g. a three-month centred average is calculated by dividing the three-month moving
+    total by three
+A series of centred averages is known as the moving average
+
+
+
+
+Worked Example
+RJ Inflatables is a manufacturer of novelty celebration balloons. Its monthly sales from
+January to July are shown in Table A.
+Rachel Jameson, the managing director, is concerned that sales are declining but is
+struggling to identify a trend with the sales data she has available. Rachel’s financial
+administrator has suggested using a moving average so that she can forecast future sales
+with greater accuracy.
+Table A
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+                                                                                               Your notes
+
+
+
+
+Calculate a three-month moving average using RJ Inflatables's January to July sales data.
+                                                                                        (6)
+Step 1: Calculate the three-month moving total of sales for each group of three months
+
+
+
+
+                           © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   4
+  Step 2: Calculate the three-month centred average for each group of three months
+
+                                                                                              Your notes
+
+
+
+
+  When plotted on the same graph, the three-month centred average provides a smoother
+  curve, which makes extrapolation of the data for forecasting relatively straightforward
+
+Raw data compared to the moving average
+
+
+
+
+           A comparison of raw sales data and 3-month centred average data
+
+
+Interpreting scatter graphs
+  Scatter graphs allow businesses to compare two variables, such as sales volume and
+  advertising, to establish if there is any correlation between them
+
+Example scatter graph
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+                                                                                                       Your notes
+
+
+
+
+An example of a scatter graph showing the number of sales managers employed by a business
+                                and the volume of items sold
+
+
+Types of correlation
+   A correlation exists where there is a relationship or connection between two variables
+       A positive correlation means that as one variable increases, so does the other variable
+           A line of best fit that slopes upwards can be identified
+       A negative correlation means that as one variable increases, the other variable
+       decreases
+           A line of best fit that slopes downwards can be identified
+       No correlation means that there is no connection between the two variables
+           Therefore, it is not possible to identify a line of best fit
+
+Diagrams of correlation types
+
+
+
+
+                               © 2025 Save My Exams, Ltd.            Get more and ace your exams at savemyexams.com   6
+                                                                                                   Your notes
+
+
+
+
+ The main types of correlation between two variables: positive, negative and no correlation
+
+
+   Correlation does not always indicate a relationship or causation between two sets of
+   variables, so businesses need to conduct research to establish whether a relationship
+   exists, as well as the strength of that relationship
+   Where a line of best fit can be identified, and when causation is determined, a business can
+   extrapolate the data to make predictions around changes to either of the variables
+       E.g. extrapolating the line of best fit in the example below, the business could predict
+       that employing seven sales managers would likely result in sales of 46 units
+   Extrapolation assumes that what has happened in the past will be the same as what will
+   happen in the future
+
+Extrapolation using a line of best fit
+
+
+
+
+ An example of a scatter graph with a line of best fit showing the number of sales managers
+                   employed by a business and the volume of items sold
+
+
+
+
+                              © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   7
+                                                                                                       Your notes
+  Examiner Tips and Tricks
+  When drawing a line of best fit, you should try to include as many data points above the line
+  as below the line.
+  Watch out for outlying data — if there is more than one outlier above the line, adjust your
+  line of best fit upwards. Similarly, if there is more than one outlier below the line, adjust your
+  line of best fit downwards. Just one outlier should not influence your line of best fit.
+
+
+Limitations of quantitative sales
+forecasting
+  Quantitative sales forecasting techniques are useful when the future is expected to reflect
+  what has happened in the past
+  It is especially effective in the short term
+  In the longer term, uncertainties — especially in the external environment — can make simple
+  extrapolation of past data unreliable
+
+Factors affecting the accuracy of sales forecasts
+
+
+
+
+                                © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   8
+                                                                                                Your notes
+
+
+
+
+Examples of external factors that may influence the accuracy of the sales forecast include
+                       changes to legislation and market changes
+
+
+ In many cases, the sales forecast can provide little more than an estimate of future
+ performance
+      As long as it is approximately accurate, businesses can use the sales forecast to plan
+      resources, such as staff, finance and production, and to produce budgets
+ Businesses can improve the accuracy of sales forecasts by:
+      Conducting detailed market research
+      Employing experts with excellent market knowledge
+      Revising the sales forecasts frequently
+      Forecasting for the short- to medium-term
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   9
+Investment Appraisal
+                                                                                                  Your notes
+
+An introduction to investment appraisal
+ Investment appraisal involves comparing the expected future cash flows of an investment
+ with the initial outlay for that investment
+ A business may want to analyse:
+     How soon the investment will recoup the initial outlay
+     How profitable the investment will be
+ Before an investment can be appraised, key data will need to be collected, including:
+     Sales forecasts
+     Fixed and variable costs data
+     Pricing information
+     Borrowing costs
+ The collection and analysis of this data is likely to take some time
+     It requires significant experience to interpret the data appropriately before the
+     investment appraisal can take place
+ Different methods are used to appraise the value of an investment, including:
+     The simple payback period
+     The average rate of return (ARR)
+     The net present value of the discounted cash flow
+
+Simple payback period
+ The payback period is a calculation of the amount of time it is expected an investment will
+ take to pay for itself
+ Where net cash flows are expected to be constant over time, the payback period can be
+ calculated using the formula
+
+                                      Initial outlay
+           Payback period     = Net cash  flow per period
+                                                          = Years / Months
+
+
+
+ Worked Example
+ Gomez Carpets is considering an investment in a new storage facility at a cost of
+ £200,000. It expects an additional net cash flow of £30,000 per year as a result of the
+ investment.
+ Calculate the payback period for the investment.
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   10
+                                                                                         [3]
+Step 1: Divide the initial outlay by the additional expected net cash flow                         Your notes
+   £ 200,000
+ = £ 30,000
+                     [1]
+
+ = 6 . 67 years
+Step 2: Convert the outcome to years and months
+    6 years
+    0.67 years = 8.04 months [1]
+    Payback period = 6 years and 8 months [1]
+
+
+
+
+Worked Example
+Hammer and Son provides a household repairs service that has recently employed a new
+handywoman who requires her own van. The new van will be purchased for £32,000.
+The net cash flows are expected to vary over the five years following its purchase and are
+shown in the table below.
+
+   Year            Net cash flow (£)                   Cumulative cash flow (£)
+
+     0                 (32,000)                                   (32,000)
+
+     1                     14,000                                 (18,000)
+
+     2                     10,000                                  (8,000)
+
+     3                     6,000                                   (2,000)
+
+     4                     3,000                                       1,000
+
+     5                     2,000                                   3,000
+
+Calculate the payback period for the van.
+                                                                                         [4]
+Step 1: Identify the final year where the cumulative cash flow is negative
+   In this case, the cumulative cash flow figure is -£2,000 at the end of Year 3
+   This is the remaining amount (outlay) outstanding [1]
+Step 2: Calculate the monthly net cash flow for the next year
+
+                             = £ 3,000 ÷ 12 months
+                                                 (          )
+
+
+
+                                                                 [1]
+                             = £ 250
+Step 3: Divide the remaining outlay outstanding by the monthly net cash flow
+
+
+
+
+                            © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com   11
+  = £ 2,000 ÷ £ 250
+                            [1]
+                                                                                                  Your notes
+  = 8 months
+  Step 4: Identify the payback period
+      In this case, the payback period is 3 years and 8 months [1]
+
+Evaluation of the payback period method
+                    Benefits                                         Drawbacks
+
+   It is a simple method to calculate and               It provides no insight into the
+   understand                                           profitability of investments
+   It is particularly useful for businesses where       Payback only considers the total
+   cash flow management is vital                        length of time to recover an
+                                                        investment
+   Businesses can identify the point at which
+   an investment is paid back and is                    Neither the timing nor the future value
+   contributing positively to cash flow                 of cash inflows is considered
+   It is also useful when new technology is             It may encourage a short-termism
+   introduced regularly                                 approach
+   Businesses purchasing equipment can                  Potentially lucrative investments may
+   calculate whether an investment "pays back"          be dismissed, as they take longer to
+   before an upgrade is available                       pay back than alternatives
+
+
+
+Average rate of return
+  The average rate of return (ARR) compares the average profit per year generated by an
+  investment with the value of the initial outlay
+  The average rate of return is calculated using the formula
+
+                  ARR   = Average  annual return
+                              Initial outlay
+                                                           ×         100
+
+  The outcome of the formula is expressed as a percentage, which makes it easy to compare
+  different investment options
+
+
+
+
+  Worked Example
+  Creative Frames, a small artwork framing business, is considering an investment of
+  £40,000 in new machinery. Megan, the business owner, believes that total cash inflows
+  over a six-year period will be £140,000 and total cash outflows will be £92,000.
+  Calculate the average rate of return of the proposed investment. [4]
+  Step 1: Calculate the total profit over the lifetime of the investment
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   12
+         Total cash inflows − Total cash outflows = Total profit
+                                                                                     [1]
+                                                                                                   Your notes
+         = £ 140,000 − £ 92,000 = £ 48,000
+  Step 2: Divide the total profit by the number of years of the investment project to find
+  the average annual profit
+
+                               = £ 48,000 ÷ 6 years
+                                                               [1]
+                               = £ 8,000
+  Step 3: Divide the average annual profit by the initial outlay
+
+                               = £ 8,000 ÷ £ 40,000
+                                                               [1]
+                               = 0.2
+  Step 4: Multiply the outcome by 100 to find the percentage
+
+                                      = 0 . 2 × 100
+                                                        [1]
+                                      = 20%
+Evaluation of the average rate of return
+            Benefits                                          Drawbacks
+
+   It considers all of the net           As it depends on an average of cash flows, it ignores
+   cash flows generated by an            the timing of those cash flows
+   investment over time
+                                         The opportunity cost of the investment is ignored, as
+   It is easy to understand and          values are neither expressed in real terms nor are
+   compare the percentage                adjustments made for the impact of interest rates
+   returns with each other               and time
+
+
+
+Net present value of discounted cash
+flow
+  Net present value (NPV) is a financial metric used to evaluate the value of an investment or a
+  project
+  The NPV of an investment takes into account the effects of interest rates and time
+      It represents the present value of the future cash inflows minus the present value of the
+      future cash outflows
+      To get the present value, the future value has to be discounted (reduced)
+  This discounting method takes into account:
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   13
+    The fact that money received in the future is worth less than money received today due
+    to inflation
+                                                                                                    Your notes
+    The opportunity cost of not having the money available for other uses
+To calculate the NPV of an investment, the value of all future net cash flows in today’s terms
+needs to be calculated first — and then discounted using a table
+    The cost of the initial investment is deducted from the total of the discounted net cash
+    flows:
+           If the sum of future net cash flows minus the initial investment is positive, then the
+           investment is likely to be worthwhile
+           If the sum of future net cash flows minus the initial investment is negative, then the
+           investment is unlikely to be worthwhile
+Discounted cash flows are calculated using discount tables, which allow future cash flows to
+be expressed in today’s terms
+
+
+
+
+Worked Example
+Brownsea Sightseeing Tours Ltd is considering purchasing a new pleasure craft at a cost
+of £325,000.
+It expects the investment to achieve the following net cash flows over five years of
+operation:
+
+    Year                Net cash flow (£)                      10% discount factor
+
+     0                      (325,000)                                   1.00
+
+      1                      110,000                                    0.91
+
+     2                       90,000                                     0.83
+
+     3                       75,000                                     0.75
+
+     4                       65,000                                     0.68
+
+     5                       60,000                                     0.62
+
+Using the 10% discount factor, calculate the NPV of the leisure craft investment.
+Step 1: Calculate the discounted cash flow for each year by multiplying the net cash
+flow by the discount factor
+
+
+
+
+                             © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   14
+                                                                                                   Your notes
+
+
+
+
+  Step 2: Total the discounted cash flow values for each year, including Year 0
+
+  = £ 325,000 + £ 100,100 + £ 74,400 £ 56,250 + £ 44,200 + £ 37,200
+  = 12,550
+     (         )
+
+
+
+
+      The net present value of the investment is -£12,550
+      Given that it is negative, this suggests that the investment in the new pleasure craft is
+      not financially worthwhile
+
+Evaluating the net present value method
+                   Benefits                                        Drawbacks
+
+   It considers the opportunity cost of               It is more complicated to calculate and
+   money                                              interpret than other methods of
+                                                      investment appraisal
+   Discount tables are used to calculate the
+   forecasted future values of net cash               One of the primary challenges of using
+   flows                                              the NPV method is accurately
+                                                      forecasting future cash flows
+   Businesses may choose different
+   discount tables (20%, 10%, 5%, etc.) to            Selecting an appropriate discount rate
+   adjust the level of risk involved in a             can be challenging, and even small
+   project, allowing a range of scenarios to          changes in the discount rate can
+   be considered                                      significantly impact the calculated NPV
+                                                      The NPV method only considers the
+                                                      financial costs and benefits of a project
+                                                      and does not account for non-financial
+                                                      benefits or costs, e.g. environmental
+                                                      damage
+
+
+
+
+                              © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   15
+ Examiner Tips and Tricks
+                                                                                                 Your notes
+ A common error made by students is the assumption that discounted cash flow takes into
+ account the effects of inflation on investment decisions.
+ To account for inflation, the discount rate used in the NPV calculation should be adjusted
+ to reflect the expected inflation rate.
+
+
+Limitations of investment appraisal
+techniques
+ Each of the investment appraisal techniques relies upon forecasted future cash flows,
+ which may lack accuracy:
+     Managers compiling cash flow forecasts may lack experience or may be biased towards
+     a particular investment
+     Incomplete past data may make forecasting imprecise or mean that confidence in the
+     data used to compile the forecast is limited
+ Long-term cash flow forecasts can be inaccurate for several reasons:
+     Unexpected increases in costs
+     The arrival of new competitors
+     Changes in consumer tastes
+     Uncertainties due to economic growth or recession
+ Factors other than the cost of investment and the return on investment are not considered:
+     Business finances and the availability of external finance to fund the investment
+     The overall corporate objectives
+     Potential for positive public relations or meeting social responsibilities
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   16
+ Decision Trees
+                                                                                                Your notes
+
+Decision tree diagrams
+  A decision tree is a quantitative method of tracing the outcomes of a decision so that the
+  most profitable decision can be identified
+      Research-based estimates and probabilities are used to calculate likely outcomes
+      The net gain from a decision can be identified and used to consider whether an
+      investment is worthwhile
+  Using decision trees provides several key advantages to the decision-making process:
+      Constructing a decision tree diagram may reveal options that haven't previously been
+      considered
+      Managers are forced to consider the risks associated with their choice, ahead of
+      implementation
+      The quantitative approach requires deep research to be carried out
+
+Decision tree diagrams
+  The key elements in a decision tree diagram are:
+      Decision points
+      Outcomes
+      Probabilities
+      Expected monetary values
+
+A simple decision tree
+
+
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   17
+                                                                                                Your notes
+
+
+
+
+A simple decision tree based on a choice of whether to invest in opening a new store or
+                                  expand its website
+
+
+Points where decisions need to be made are represented by squares
+    Square A represents the fact that a choice is required on opening a new store or
+    expanding the website
+Points where there are different outcomes are represented by circles called nodes
+    Circles B and C represent points at which the different options have a range of
+    outcomes — success or failure
+The probability or likelihood of each outcome is shown on the diagram
+    A certain outcome has a probability of 1
+    An impossible outcome has a probability of 0
+        Opening a new store has a 0.7 probability of success and a 0.3 probability of failure
+        Expanding the website has a 0.6 probability of success and a 0.4 probability of
+        failure
+The monetary value of each decision is based on the expected profit or loss of the outcome
+    If opening a new store is successful, a £420,000 profit is expected
+    If opening a new store is unsuccessful, a £24,000 loss is expected
+    If expanding the website is successful, a £480,000 profit is expected
+
+
+
+                         © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    18
+        If expanding the website is unsuccessful, a £32,000 loss is expected
+Calculating expected monetary values                                                                Your notes
+    To compare the options, a business should take into account the expected values of each
+    decision presented in the decision tree diagram
+    To calculate the expected monetary value of a decision, the following formula is used
+(Expected value of success × probability) + (Expected value of failure × probability)
+    Using the example above, the expected value of opening a new store is
+                             (£420,000 × 0.7) + (-£24,000 × 0.3)
+                                    = £294,000 + -£7,200
+                                           = £286,800
+    Using the example above, the expected value of expanding the website is
+                             (£480,000 × 0.6) + (-£32,000 × 0.4)
+                                   = £288,000 + -£12,800
+                                           = £275,200
+    As the expected value of opening a new store is higher, at £286,800, than that of expanding
+    the website, at £275,200, then, based purely on financial terms, the business should choose
+    the option to open a new store
+
+
+
+
+   Worked Example
+   Caramelac is a lactose-free chocolate product manufactured by a large multinational
+   confectionery business. In recent years, increased competition from other well-known
+   brands has started to impact sales of the product, and managers are determined to
+   maintain Caramelac’s market share.
+   Market research has shown that the business has two options:
+   a) Redevelop the product
+   b) Create a new advertising campaign
+   The expected outcomes and the probabilities of success and failure are shown in the
+   decision tree below.
+
+
+
+
+                               © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   19
+                                                                                             Your notes
+
+
+
+
+Calculate the expected values of each option and decide, on financial grounds, which
+option Caramelac’s brand managers should choose.
+                                                                                       [6]
+Step 1: Calculate the expected value of redeveloping the product
+
+      = £ 840,000 × 0 . 5 + − £ 84,000 × 0 . 5 = £ 420,000
+          (                     )    (                         )
+
+
+
+
+      = £ 420,000 + − £ 42,000                                                  [1]
+
+
+      = £ 378,000
+Step 2: Calculate the expected value of the advertising campaign
+
+       = £ 660,000 x 0 . 6 + − £ 76,000 x 0 . 4 = £ 396,000
+              (                 )    (                     )
+
+
+
+
+       = £ 396,000 + − £ 30,400                                                [1]
+
+
+       = £ 365,600
+Step 3: Interpret the outcomes and make a decision
+    As the expected value of redeveloping the product is higher, at £378,000, than that
+    of the advertising campaign, at £365,600 [1], the business should choose the option
+    to redevelop the product [1].
+
+
+
+
+                         © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   20
+                                                                                                    Your notes
+Worked Example
+       In some cases, the decision tree diagram provides expected revenues rather than
+       profit or loss for the range of outcomes
+       In these diagrams, the costs related to each outcome are also provided
+       To calculate the expected value of each outcome, costs must be deducted from
+       expected revenues
+
+
+
+
+    To calculate the expected monetary value of a decision where revenues and costs
+    are included in the diagram:
+(Expected value of success × probability) + ( Expected value of failure × probability) - cost
+       The expected value of launching a new product is
+= £ 520,000 × 0 . 6 + − £ 54,000 × 0 . 4 − £ 280,000 = £ 312,000
+    (                       )     (                       )
+
+
+
+
+= £ 312,000 + − £ 21,600 − £ 280,000 = £ 290,400
+= £ 290,400 − £ 280,000 = £ 10,400
+       The expected value of improving the existing product is
+= £ 225,000 × 0 . 9 + − £ 22,000 × 0 . 1 − £ 190,000 = £ 202,500
+   (                        )    (                        )
+
+
+
+
+= £ 202,500 + − £ 2,200 − £ 190,000 = £ 200,300
+= £ 200,300 − £ 190,000 = £ 10,300
+
+                            © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com   21
+     As the expected value of launching a new product is marginally higher, at £10,400,
+     than that of improving the existing product, at £10,300, the business should choose
+     the option to launch a new product                                                          Your notes
+     In this case, the decision tree has demonstrated that there is little difference
+     between the two options, and the business should look at other factors that may
+     inform its decision
+
+
+
+
+ Examiner Tips and Tricks
+ Expected values are not the same thing as profit or revenues generated by one of the
+ choices. In the above example, launching a new product is expected to either generate a
+ positive revenue figure of £520,000 or generate a negative revenue figure of £54,000. It
+ is never forecast that a revenue figure of £200,300 will be achieved. This is purely a figure
+ used in making the choice between this option and the alternative and does not represent
+ the actual amount of revenue that is expected to be achieved.
+
+
+Limitations of using decision trees
+ Constructing decision trees that can support effective decision-making requires skill to
+ avoid bias and takes a significant amount of time to gather reliable data
+ A decision tree is constructed using estimates that rarely take full account of external
+ factors and cannot include all possible eventualities
+ Qualitative elements, such as human resource impacts, are not considered, which may
+ affect the probability of success of a decision
+ The time lag between the construction of a decision tree diagram and the implementation of
+ the decision is likely to further affect the reliability of the expected values
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   22
+ Critical Path Analysis
+                                                                                                       Your notes
+
+The nature and purpose of critical path
+analysis
+  Critical path analysis is a project management tool that uses network analysis to plan
+  complex and time-sensitive projects
+  Critical path analysis involves the construction of a visual model of the project that includes
+  key elements:
+      A list of all activities required to complete the project
+      The time (duration) that each activity will take to complete
+      How each project activity depends on others
+  Critical path analysis shows:
+      The order in which activities must be completed
+      The longest path of project activities to the completion of the project
+      The earliest and latest that each project activity can start and finish without delaying
+      completion of the project as a whole
+      Activities within a project that can be carried out simultaneously
+      The critical project activities that, if delayed, will cause the project as a whole to overrun
+      Those project activities where some delay is acceptable without delaying the project
+      as a whole
+      The shortest time possible to complete the project
+  It allows managers to identify the relationships between the activities involved and to work
+  out the most efficient way of completing the project
+      Resources such as raw materials and components can be ordered or hired at precisely
+      the right time they are needed
+      Working capital may be managed efficiently
+      Where delays occur, managers can identify the implications for the project’s
+      completion and redirect resources if required
+
+Drawing critical path analysis diagrams
+Components of network analysis diagrams
+ Element                                        Description
+
+  Node         A node is a circle that represents a point in time where an activity is started or
+               finished
+               The node is split into three sections
+
+
+
+                             © 2025 Save My Exams, Ltd.           Get more and ace your exams at savemyexams.com    23
+                The left half of the circle is the activity number
+                The top right section shows the earliest start time (EST) that an activity can          Your notes
+                begin based on the completion of the previous activity
+                The bottom right section shows the latest finish time (LFT) by which the
+                previous activity must be completed
+
+Activities      An activity is a process or task within a project that takes time
+                Activities are shown on the network diagram as a line that links nodes
+                A description of the activity or a letter representing the activity is usually
+                shown above the line
+
+Duration        The duration is the length of time it takes to complete an activity
+                The duration is shown as a number of time units, such as hours or days, below
+                the activity line
+
+
+Example network diagram
+
+
+
+
+       A simple network diagram showing key elements: node, activity and duration
+
+
+   A network diagram must always start and end at a single node
+   Lines must not cross and must only be assigned to activities
+
+Critical path calculations
+Earliest start times
+
+
+
+
+                             © 2025 Save My Exams, Ltd.              Get more and ace your exams at savemyexams.com   24
+                                                                                                     Your notes
+
+
+
+
+           An example of a simple network diagram showing earliest start times
+
+
+  Working forwards from Node 1, it is possible to calculate the earliest start time (EST) for each
+  activity by adding the duration of each task
+  The EST for each activity is placed in the top right of each node
+      Node 1 is the starting point of the project and where both Activity A and Activity B begin
+      Activity A and Activity B are independent processes
+      Activity A has a duration of two days, and its EST is zero days
+      Activity B has a duration of three days, and its EST is also zero days
+      Activity C and Activity D both begin at Node 2 and are dependent upon the completion
+      of Activity A but are independent from each other
+          Activity C has a duration of three days, and its EST is two days
+          Activity D has a duration of five days, and its EST is also two days
+      Activity E begins at Node 3
+          Activity E has a duration of four days, and its EST is three days
+      Activity F begins at Node 4
+          Activity F has a duration of two days, and its EST is five days
+      Activity G begins at Node 5
+          Activity G has a duration of one day, and its EST is seven days
+      Activity H begins at Node 6
+          Activity H has a duration of three days, and its EST is seven days
+      Node 7 is the endpoint of the project
+
+Latest finish times
+
+                            © 2025 Save My Exams, Ltd.          Get more and ace your exams at savemyexams.com    25
+                                                                                                  Your notes
+
+
+
+
+            An example of a simple network diagram showing ESTs and LFTs
+
+
+Working backwards from Node 7, it is now possible to calculate the latest finish time (LFT) for
+each activity by subtracting the duration of each task
+The LFT for each activity is placed in the bottom right of each node
+    Node 7 is the endpoint of the project, which has an LFT of ten days
+    Activity H has a duration of three days
+        The LFT in Node 6 is seven days (10 days − 3 days)
+    Activity G has a duration of one day
+        The LFT in Node 5 is nine days (10 days − 1 day)
+    Activity F has a duration of two days
+        The LFT in Node 4 is eight days (10 days − 2 days)
+    Activity E has a duration of four days
+        The LFT in Node 3 is three days (7 days − 4 days)
+    Activity D has a duration of five days
+        The LFT in Node 2 is four days (9 days − 5 days)
+    Activity C has a duration of three days
+        The LFT in Node 3 is four days because Activity D is the more time-critical of the two
+        activities that are dependent upon the completion of Activity A, so its LFT is
+        recorded
+    Activity B has a duration of three days
+        The LFT in Node 1 is zero days (3 days − 3 days)
+    Activity A has a duration of two days
+
+
+
+
+                          © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com    26
+           The LFT in Node 1 is zero days because Activity B is the more time-critical of the two
+           starting activities, so its LFT is recorded
+  The LFT in Node 1 is always zero                                                                  Your notes
+
+Identifying the critical path
+  The critical path highlights those activities that determine the length of the whole project
+      If any of these critical activities are delayed, the project as a whole will be delayed
+      The critical path follows the nodes where the EST and LFT are equal
+          In the diagram below, Nodes 1, 3, 6 and 7 have equal ESTs and LFTs
+          Activities that determine these nodes are B, E and H
+          These activities are marked with two short lines
+          The critical path is therefore BEH
+
+
+
+
+          An example of a simple network diagram showing the critical path, BEH
+
+
+Identifying and calculating float time
+  Float time exists where there is a difference between the EST and the LFT
+  Where float time is identified, managers may:
+      Transfer resources, such as staff or machinery, to more critical activities
+      Allow extra time to complete tasks to improve quality or allow for creativity
+
+
+
+
+                            © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com    27
+                                                                                                         Your notes
+
+
+
+
+An example of a simple network diagram showing float nodes (4 and 5) and a critical node (6)
+
+
+   The total float refers specifically to the spare time that is available so that the overall project
+   completion is not delayed
+   The total float for a specific activity is calculated using the formula
+               LFT for the activity − Duration of the activity − EST for the activity
+   Using the diagram above, the following total float times can be calculated for Activities A to
+   H
+
+    Activity           LFT             - Duration             - EST              = Total float
+
+        A               4                   2                   0                       2
+
+        B               3                   3                   0                       0
+
+        C               8                   3                    2                      3
+
+        D               9                   5                    2                      2
+
+        E               7                   4                    3                      0
+
+        F               10                  2                    5                      3
+
+
+
+
+                              © 2025 Save My Exams, Ltd.             Get more and ace your exams at savemyexams.com   28
+     G                10                     1                  7                   2
+                                                                                                       Your notes
+     H                10                     3                  7                   0
+
+
+The critical activities B, E and H each have a total float of zero days
+
+
+
+
+Worked Example
+The network diagram below shows the activities involved in a new promotional campaign
+for a small fashion accessories business, as well as the time (in weeks) it is expected that
+each activity will take to complete.
+
+
+
+
+Calculate:
+a) The ESTs and LFTs for each node [4]
+b) The total float time for Activity G [3]
+Step 1: Calculate the ESTs
+Node 1 EST = 0
+Node 2 EST = 0 + 3 = 3, but 0 + 4 = 4 so 4
+Node 3 EST = 4 + 5 = 9
+Node 4 EST = 4 + 2 = 6
+Node 5 EST = 9 + 3 = 12
+Node 6 EST = 6 + 4 = 10
+Node 7 EST = 4 + 6 = 10
+Node 8 EST = 12 + 2 = 14, but 10 + 4 = 14, and 10 + 5 = 15, so 15 [2]
+Step 2: Calculate the LFTs
+
+
+
+                             © 2025 Save My Exams, Ltd.             Get more and ace your exams at savemyexams.com   29
+ Node 8 = 15
+ Node 7 = 15 − 5 = 10                                                                                      Your notes
+ Node 6 = 15 − 4 = 11
+ Node 5 = 15 − 2 = 13
+ Node 4 = 11 − 4 = 7
+ Node 3 = 13 − 3 = 10
+ Node 2 = 10 − 6 = 4
+ Node 1 = 4 − 4 = 0 [2]
+ Step 3: Calculate the total float time for Activity G
+
+ Total float = LFT for the activity − Duration of the activity                                   − EST for the activity
+ =     11 weeks           − 4 weeks − 6 weeks
+ = 1 week
+ [3]
+
+
+Limitations of using critical path analysis
+                 Limitations                                      Explanation
+
+   Very lengthy or complex projects involve          Specialist network planning software
+   a very large number of activities that            may be required
+   have numerous dependencies
+                                                     Layers of supervision may be required
+                                                     to manage different groups of activities
+                                                     within the project
+
+   Network analysis often relies on                  Significant research is required prior to
+   estimates and forecasts                           the completion of network analysis
+                                                     Close and honest working relationships
+                                                     with suppliers are essential
+
+   Network analysis does not guarantee the           Project managers will need to be highly
+   success of a project                              skilled and will need experience working
+                                                     with complicated plans
+
+   Resources may not prove to be as flexible         Employees may require additional
+   as hoped when managers identify float             training in order to transfer to critical
+   periods                                           tasks
+                                                     Machinery and other capital resources
+                                                     may require adaptation
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com            30
+

@@ -1,0 +1,847 @@
+      Edexcel A Level Business                                                      Your notes
+
+
+1.2 Market
+Contents
+  Demand
+  Supply
+  Markets
+  Price Elasticity of Demand (PED)
+  Income Elasticity of Demand (YED)
+
+
+
+
+                     © 2025 Save My Exams, Ltd.   Get more and ace your exams at savemyexams.com   1
+ Demand
+                                                                                             Your notes
+
+An introduction to demand
+  Demand refers to the number of goods/services customers are willing to buy at a
+  given price
+      Effective demand occurs when customers are willing and able (they have the
+      money) to buy at a given price
+  There is an inverse relationship between the quantity demanded by customers and the
+  price
+      As the price increases, the quantity demanded decreases
+      As the price decreases, the quantity demanded increases
+      Hence, the demand curve slopes downwards from left to right
+  This is illustrated in the diagram below
+
+A simple demand curve
+
+
+
+
+   A demand curve showing how a change in price will lead to a change in quantity
+                               demanded (QD)
+
+
+Diagram analysis
+  An increase in price from £10 to £15 leads to a movement up the demand curve from
+  point A to point B
+      Due to the increase in price, the quantity demanded (QD) has fallen from 10 to 7
+      units
+  A decrease in price from £10 to £5 leads to a movement down the demand curve from
+  point A to point C
+      Due to the decrease in price, the QD has increased from 10 to 15 units
+
+
+
+                             © 2025 Save My Exams, Ltd.    Get more and ace your exams at savemyexams.com   2
+                                                                                                Your notes
+  Examiner Tips and Tricks
+  When writing about a movement along the demand curve, we use the term "quantity
+  demanded".
+
+
+Factors leading to a change in demand
+  A change in price leads to a movement along the demand curve
+  However, a change in any other factors affecting demand will shift the entire demand
+  curve to the left or right
+      These are called "non-price factors affecting demand"
+
+Non-price factors affecting demand
+
+
+
+
+  The non-price factors affecting demand result in a shift of the entire demand curve
+
+
+  For example, if a firm increases its Instagram advertising, there will be an increase in
+  demand as more consumers become aware of the product
+      This is a shift in demand from D to D1. The price remains unchanged at £7, but
+      the demand has increased from 15 to 25 units
+
+Changes in non-price factors
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   3
+                                                                                              Your notes
+
+
+
+
+A change in any non-price factor will lead to a change in the position of the demand curve
+
+
+Diagram analysis
+   The initial demand curve is seen at D
+        At a price of £7, 15 units are demanded
+   If the price remains constant at £7 but demand decreases due to one of the non-price
+   factors of demand (e.g. decreasing incomes), the entire demand curve shifts to the left,
+   from D to D2
+        Demand has decreased from 15 units to 5 units
+   If the price remains constant at £10 but demand increases due to one of the non-price
+   factors of demand (e.g. increased advertising expenditure), the entire demand curve
+   shifts to the right, from D to D1
+        Demand has increased from 15 units to 25 units
+
+Non-price factors affecting demand
+  Non-price factor                 Explanation                        Example
+
+ Change in the price        Substitute goods are                If the price of VW cars
+   of substitutes           replacement goods (e.g.             increases, demand for
+                            different car brands)               Ford cars might rise
+                                                                This shifts the demand
+                                                                curve for Ford cars to the
+                                                                right
+
+ Change in the price        Complementary goods are             Cars and petrol: If the
+ of complementary           goods that are consumed             price of petrol rises, the
+      goods                 together                            demand for cars may fall
+
+
+
+
+                             © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   4
+                                                        This shifts the demand
+                                                        curve for cars to the left
+                                                                                       Your notes
+Change in consumer   As a consumer’s income             Demand for branded
+     incomes         rises, demand for normal           goods (e.g. Superdry
+                     goods) increases                   hoodies) tends to
+                                                        increase as consumer
+                                                        incomes rise
+                                                        This shifts the demand
+                                                        curve for branded
+                                                        goods to the right
+
+                     As a consumer’s income             Demand for own-label
+                     falls, demand for inferior         products (e.g.
+                     goods increases                    supermarket hoodies)
+                                                        tends to rise as
+                                                        consumer incomes fall
+                                                        This shifts the demand
+                                                        curve for own-label
+                                                        goods to the right
+
+ Fashions, tastes    If products become more            Plant-based foods have
+ and preferences     fashionable, demand for            become more popular in
+                     them increases                     recent years
+                                                        This has shifted the
+                                                        demand curve for plant-
+                                                        based foods to the right
+
+  Advertising and    If more money is spent on          Coca-Cola spends an
+    branding         advertising or branding, then      average of $4bn per year
+                     this increases consumer            on advertising and
+                     awareness and brand loyalty        branding
+                                                        This shifts Coca-Cola's
+                                                        demand curve to the
+                                                        right and makes demand
+                                                        more price inelastic
+
+  Demographics       If the structure or size of a      A decrease in the
+                     country’s population               number of babies being
+                     changes, then the demand           born will reduce the
+                     for products will also change      demand for baby
+                                                        products
+                                                        This shifts the demand
+                                                        curve for baby products
+                                                        to the left
+
+
+
+
+                     © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   5
+ Seasonality             Demand varies at different          In cold climates, the
+                         times of the year                   demand for gas and
+                                                                                           Your notes
+                                                             electricity falls in the
+                                                             summer months
+                                                             This shifts the demand
+                                                             curve for energy to the
+                                                             left
+
+External shocks          An unexpected event can             The outbreak of Covid-
+                         change the demand                   19 led to panic buying of
+                                                             goods such as toilet rolls
+                                                             This shifted the demand
+                                                             curve for toilet rolls to
+                                                             the right
+
+
+
+
+Examiner Tips and Tricks
+Remember, a change in any non-price factor that leads to less demand will shift the
+entire demand curve to the left, but a change in any non-price factor that leads to
+more demand will shift the entire demand curve to the right.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   6
+ Supply
+                                                                                              Your notes
+
+An introduction to supply
+  Supply is the number of goods/services businesses are willing to sell at a given price in
+  a specific time period
+  There is a direct relationship between supply and price
+      As the price increases, the quantity supplied increases
+      As the price decreases, the quantity supplied decreases
+      At higher prices, businesses are incentivised to supply more of the product
+      Hence, the supply curve slopes upwards from left to right
+
+A simple supply curve
+
+
+
+
+  A supply curve showing how a change in price will lead to a change in the quantity
+                                  supplied (QS)
+
+
+Diagram analysis
+  An increase in price from £7 to £9 leads to a move up the supply curve, from point A to
+  point B
+      Due to the increase in price, the quantity supplied (QS) has increased from 10 to 14
+      units
+  A decrease in price from £10 to £7 leads to a movement down the supply curve, from
+  point A to point C
+      Due to the decrease in price, the QS has decreased from 10 to 7 units
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   7
+  Examiner Tips and Tricks
+  When writing about a movement along the supply curve, we use the term "quantity                Your notes
+  supplied".
+
+
+Factors leading to a change in supply
+  A change in price causes a movement along the supply curve
+  A change in any other factor affecting supply will shift the entire supply curve to the left
+  or right
+      These are called non-price factors affecting supply
+
+Non-price factors affecting supply
+
+
+
+
+  Non-price factors include changes in the costs of production, external shocks and
+                                  indirect taxes
+
+
+  For example, if a firm's cost of production increases due to an increase in the price of a
+  key resource, then there will be a decrease in supply, as the firm can now only afford to
+  produce fewer products
+  This causes a shift in supply from S to S1. The price remains unchanged at £7, but
+  the supply has decreased from 10 to 2 units
+
+Changes in non-price factors
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   8
+                                                                                                 Your notes
+
+
+
+
+ A diagram showing how a change in any non-price factor of supply will shift the entire
+                             supply curve left or right
+
+
+Diagram analysis
+  The initial supply curve is seen at S
+       At a price of £7, 10 units are supplied
+  If the price remains constant at £7 but supply decreases due to one of the non-price
+  factors of supply (e.g. workers' wages increase), the entire supply curve will shift to the
+  left, from S to S1
+       Supply has decreased from 10 to 2 units
+  If the price remains constant at £7 but supply increases due to one of the non-price
+  factors of supply (e.g. cost of production falls), the entire supply curve will shift to the
+  right, from S to S2
+       Supply has increased from 10 to 20 units
+
+Non-price factors affecting supply
+  Non-price                     Explanation                             Examples
+   factor
+
+ Change in the         An increase in the cost of               For a clothing
+   costs of            production makes it more                 manufacturer, an increase in
+  production           expensive to produce each                energy and labour costs will
+                       unit, so a business will be able         increase the cost of making
+                       to produce fewer units at a              each item
+                       given price
+                                                                This shifts the supply curve
+                                                                for clothing to the left
+
+
+
+
+                              © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   9
+   New                Advances in technology will             Robots have replaced many
+technology            lead to lower costs of                  workers in car factories,
+                                                                                               Your notes
+                      production, and businesses will         increasing productivity
+                      be able to produce more units
+                      at a given price                        This shifts the supply curve
+                                                              for cars to the right
+
+Indirect taxes        The government increases                The rate of VAT increased
+                      indirect taxes on businesses,           from 17.5% to 20% in the
+                      which causes an increase in the         UK in 2011
+                      cost of production, as firms
+                      have to pay extra costs                 This shifted the supply
+                                                              curves for all businesses to
+                                                              the left
+
+Government            A producer subsidy given by             A subsidy to the largest
+ subsidies            the government to businesses            battery producer in the UK
+                      will reduce the cost of                 lowers the cost of
+                      production                              production for electric car
+                                                              manufacturers
+                                                              This has shifted the supply
+                                                              curve for electric vehicles to
+                                                              the right
+
+  External            An unexpected event can                 The outbreak of Covid-19
+  shocks              change supply                           caused many hotels, bars
+                                                              and restaurants to close
+                                                              down
+                                                              This shifted the supply
+                                                              curves for hotels, bars and
+                                                              restaurants to the left
+
+
+
+
+ Examiner Tips and Tricks
+ Remember, a change in any factor that leads to less supply will shift the supply curve
+ to the left, but a change in any factor that leads to more supply will shift the supply
+ curve to the right.
+
+
+
+
+                          © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   10
+ Markets
+                                                                                                   Your notes
+
+The interaction of supply and demand
+   In a market, prices for goods/services are determined by the interaction of demand and
+   supply
+   A market is any place that brings buyers and sellers together to trade at an agreed price
+       Markets can be physical (e.g. McDonald's) or virtual (e.g. eBay)
+       Buyers agree on the price by purchasing the good/service
+       If they do not agree on the price, then they do not purchase the good/service
+   Based on this interaction with buyers, sellers will gradually adjust their prices until there
+   is an equilibrium price and quantity that works for both parties
+       At the equilibrium price, sellers will be satisfied with the rate/quantity of sales
+       At the equilibrium price, buyers are satisfied that the product provides benefits
+       worth paying for
+
+Equilibrium
+
+
+
+
+A graph showing a market in equilibrium with a market-clearing price of £20 and quantity
+                                      of 600 units
+
+
+Diagram analysis
+   If the price is set at £20, demand will equal supply, and an equilibrium is reached
+       600 units will be demanded and supplied
+       If the price were set above the equilibrium, supply would be greater than demand,
+       and there would be a surplus
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   11
+      If the price were set below the equilibrium, demand would be greater than supply,
+      and there would be a shortage
+
+Dynamic changes in markets                                                                    Your notes
+
+  There are four diagrams that can be used to show the causes and consequences of
+  changes to the non-price factors of demand and supply
+
+The impact of changes to the non-price factors of
+demand and supply
+A rise in demand
+
+
+
+
+Supply and demand graph for desks, showing a rightward shift in demand from D1 to D2
+
+
+Explanation
+  The original equilibrium was at P1 and Q1
+  A rise in demand causes the demand curve to shift to the right from D1→ D2 (perhaps
+  due to an increase in working from home)
+  At the original price of P1, there is now a shortage, as demand exceeds the supply
+  The shortage causes prices to rise from P1 to P2
+  A new equilibrium develops at a price of P2 and a quantity of Q2 units
+  The business revenue (P × Q) has changed from P1Q1 to P2Q2
+
+A fall in demand
+
+
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   12
+                                                                                               Your notes
+
+
+
+
+Graph showing supply and demand for lobsters, with a leftward demand shift from D1 to
+                                       D2
+
+
+Explanation
+   The original equilibrium was at P1 and Q1
+   A fall in demand causes the demand curve to shift to the left from D1→D2 (perhaps due
+   to an external shock)
+   At the original price of P1, there is now a surplus, as supply exceeds demand
+   The surplus causes prices to fall from P1 to P2
+   A new equilibrium develops at a price of P2 and a quantity of Q2 units
+   The business revenue (P × Q) has changed from P1Q1 to P2Q2
+
+A rise in supply
+
+
+
+
+ Supply and demand graph for solar panels, showing a shift from supply curve S1 to S2
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   13
+Explanation
+   The original equilibrium was at P1 and Q1                                                     Your notes
+   A rise in supply causes the supply curve to shift to the right from S1→S2 (perhaps due to
+   an increase in productivity)
+   At the original price of P1, there is now a surplus, as supply exceeds demand
+   The surplus causes prices to fall from P1 to P2
+   A new equilibrium develops at a price of P2 and a quantity of Q2 units
+   The business revenue (P × Q) has changed from P1Q1 to P2Q2
+
+A fall in supply
+
+
+
+
+         Supply and demand graph for plantains, showing S1 shifting left to S2
+
+
+Explanation
+   The original equilibrium was at P1 and Q1
+   A fall in supply causes the supply curve to shift to the left from S1→S2 (perhaps due to an
+   increase in the costs of production)
+   At the original price of P1, there is now a shortage, as demand exceeds supply
+   The shortage causes prices to rise from P1 to P2
+   A new equilibrium develops at a price of P2 and a quantity of Q2 units
+   The business revenue (P × Q) has changed from P1Q1 to P2Q2
+
+
+
+
+  Examiner Tips and Tricks
+
+
+                            © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   14
+When answering questions on changes to markets, remember that a change in the
+price of the good leads to a movement along the demand or supply curve, not a shift
+in the demand or supply curve.                                                              Your notes
+Practise drawing and labelling demand and supply diagrams accurately, describing
+them step by step. This will help you gain analysis marks. You can also use demand and
+supply diagrams to illustrate changes in total revenue.
+
+
+
+
+                         © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   15
+ Price Elasticity of Demand (PED)
+                                                                                              Your notes
+
+An introduction to price elasticity of
+demand
+  When there is an increase in price, there will be a fall in the quantity demanded (QD),
+  and when there is a fall in price, there will be an increase in the QD
+  The question businesses are interested in is "By how much will the QD change?"
+  The price elasticity of demand (PED) helps us to calculate how responsive the change
+  in QD will be to a change in price
+      The responsiveness is different for different types of products
+
+Calculation of PED
+  The PED value is always negative
+  PED can be calculated using the following formula:
+
+                                                    % △ in QD
+            PED   = % change in quantity demanded
+                          % change in price
+                                                  =  % △ in P
+
+  To calculate a % change, use the following formula:
+
+                   % Change        = new value − old value × 100
+                                           old value
+
+
+
+
+  Worked Example
+  The PED for popcorn at the cinema is –0.8. The current price of a box of popcorn is £5.
+  Using the data, calculate the percentage change in QD following a £1 increase in the
+  price of a box of popcorn. You are advised to show your work.
+                                                                                      [4]
+  Step 1: State the PED formula:
+
+                                       % change in demand
+                           PED     =    % change in price
+                                                          [1]
+
+  Step 2: Calculate the percentage change in price:
+
+                                    £6 − £5
+                              =        £5
+                                            × 100
+                                                  [1]
+
+                              = 20%
+
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   16
+  Step 3: Insert the data you have been given into the formula:
+                                                x                                                Your notes
+                                   −0 . 8 = 20% [1]
+  Step 4: Rearrange and solve for x:
+
+                                 x = − 0 . 8 × 20
+                                                       [1]
+                                 x = − 16%
+
+
+
+
+  Examiner Tips and Tricks
+  Remember, if the price decreases, QD increases, and if the price increases, QD
+  decreases. In this case, price increases. Therefore, QD must fall.
+
+
+Interpretation of PED numerical values
+   The numerical value of PED indicates the responsiveness of a change in QD to a change
+   in price
+   PED will always be negative due to the inverse relationship between price and quantity
+       If the price goes up, the QD goes down
+       If the price goes down, the QD goes up
+
+Interpretation of PED values
+ Numerical                    Type of good                             Explanation
+   value
+
+ -1 or lower                     Elastic                            Demand is more
+                                                                    responsive to a
+                  Examples include luxury products such             change in price
+                  as cars, smart watches, foreign holidays,
+                  cinema visits, jewellery and branded              The %∆ in QD is more
+                  goods                                             than proportional to
+                                                                    the %∆ in P
+
+ Between                        Inelastic                           Demand is less
+                                                                    responsive to a
+  0 and -1        Examples include necessities such as              change in price
+                  bread, milk, eggs, potatoes, fuel, rent
+                  and toothpaste                                    The %∆ in QD is less
+                                                                    than proportional to
+                  Addictive products such as cigarettes             the %∆ in P
+                  and sugary foods
+
+
+
+
+                           © 2025 Save My Exams, Ltd.         Get more and ace your exams at savemyexams.com   17
+                                                                                                  Your notes
+  Examiner Tips and Tricks
+  Students often confuse the negative sign in the answer to PED questions. Do not
+  assume that the negative is mathematical, such that an elasticity of –1 is smaller than –
+  0.3. It is larger (more price elastic).
+  The PED will always be negative, indicating the inverse relationship between price
+  and QD (i.e. when the price increases, QD decreases, and when the price decreases,
+  QD increases).
+  When interpreting the value of PED, do not say that "the product is elastic or
+  inelastic"; it is better to say that "demand for the product is price elastic or price
+  inelastic".
+
+
+Factors influencing the PED
+
+
+
+
+ The factors that determine whether the demand for a product is more price elastic or
+                                   price inelastic
+
+
+Brand loyalty
+  The aim of advertising and marketing expenditure by a business is to shift the demand
+  curve to the right and make the demand more price inelastic
+
+
+
+
+                             © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com   18
+      For example, Coke consumers are more brand loyal to Coca-Cola and refuse to buy
+      Pepsi, even though their taste is very similar
+                                                                                                   Your notes
+Availability of substitutes
+  PED will be more price inelastic (lower) for goods that have fewer substitutes
+      For example, petrol has fewer substitutes and is more price inelastic, whereas
+      chocolate bars have more substitutes and are more price elastic
+
+The proportion of income taken up by the product
+  The smaller the proportion of income we spend on a product, the more price inelastic
+  the demand will be
+      For example, a small amount of income is spent on salt, so the demand for salt will
+      be more price inelastic. However, buying a new car takes up a bigger proportion of
+      consumer income, so the PED is higher
+
+Luxury or necessity
+  Necessities are required as part of consumers' daily needs, and therefore, demand for
+  them is more price inelastic
+      For example, bread, milk, petrol, gas and electricity might be considered
+      necessities
+  Luxuries are not essential, and therefore, demand for them is more price elastic
+      For example, smoked salmon, Nike Air Jordans and foreign holidays might be
+      considered luxuries
+
+Time
+  The longer the time period under consideration, the more price elastic the demand for a
+  good or service is likely to be (consumers have more time to search for substitutes)
+  The shorter the time period under consideration, the more price inelastic the demand
+  for a good or service is likely to be
+      For example, if the price of petrol increases, making driving more expensive, there is
+      little that consumers can do in the short term. However, they may switch to
+      alternatives such as public transport or bicycles in the long term
+
+The significance of PED to businesses
+  If businesses can determine the PED for their products, they can adjust their pricing
+  strategy to maximise their revenue
+  If demand for their products is relatively price inelastic (PED <-1), raising the price will
+  lead to an increase in total revenue. However, lowering the price will lead to a fall in total
+  revenue
+      Price skimming strategies are best employed for products that are price inelastic in
+      demand
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com    19
+  If demand for their products is relatively price elastic (PED >-1), raising the price will lead
+  to a fall in total revenue. However, lowering the price will lead to a rise in total revenue
+                                                                                                    Your notes
+      Competitive pricing strategies are best employed for products that are price
+      elastic in demand
+The relationship between PED and total revenue
+Price elastic demand
+
+
+
+
+                                   Price elastic demand
+
+
+  PED is greater than 1
+  An increase in the selling price reduces the total amount of revenue generated from
+  sales
+  A reduction in the selling price increases the total amount of revenue generated from
+  sales
+
+Price inelastic demand
+
+
+
+
+                            © 2025 Save My Exams, Ltd.        Get more and ace your exams at savemyexams.com     20
+                                                                                           Your notes
+
+
+
+
+                              Price inelastic demand
+
+
+PED is between 0 and 1
+An increase in the selling price increases the total amount of revenue generated from
+sales
+A reduction in the selling price reduces the total amount of revenue generated from
+sales
+
+
+
+
+                         © 2025 Save My Exams, Ltd.     Get more and ace your exams at savemyexams.com   21
+ Income Elasticity of Demand (YED)
+                                                                                               Your notes
+
+Definition and calculation of income
+elasticity of demand
+  Changes in income result in changes to the demand for products
+      Businesses are interested in how much the quantity demanded (QD) will change
+      for different products
+  The income elasticity of demand (YED) reveals how responsive the change in QD is to a
+  change in income
+
+Calculation
+  YED can be calculated using the following formula:
+
+                              % change in quantity demanded
+                 YED =
+                                   % change in income
+
+
+
+
+  Worked Example
+  An individual’s income falls from £450 per week to £405 per week. As a result, their
+  demand for takeaway meals falls from five per week to three per week.
+  Calculate the YED for takeaway meals.
+                                                                                         [4]
+  Step 1: State the YED formula:
+
+                                      % change in QD
+                          YED =                      [1]
+                                      % change in Y
+  Step 2: Calculate the % change in QD:
+
+                                                5−3
+                     % change in QD =               × 100
+                                                 5        [1]
+
+                     = − 40%
+  Step 3: Calculate the % change in Y:
+
+                                               £ 450 − £ 405
+                      % change in Y =
+                                                   £ 450     [1]
+
+                      = − 10%
+
+                           © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   22
+  Step 4: Insert the above values into the YED formula:
+
+                                              −40%                                             Your notes
+                                  YED =
+                                              −10% [1]
+                                   =4
+Interpretation of numerical YED values
+  The YED value can be positive or negative, and the value is important in determining the
+  type of good
+         A good with a positive YED value is considered to be a normal good
+             Normal goods can be classified as necessities or luxuries
+         A good with a negative YED value is considered to be an inferior good
+
+Interpretation of the numerical values of YED
+ Numerical                    Type of good                               Explanation
+   value
+
+    >1                            Luxury                         Demand rises when
+                                                                 income rises, and
+                    Examples include cars, smart watches,        demand falls when
+                    foreign holidays, cinema visits,             income falls
+                    jewellery and branded goods
+                                                                 Demand is responsive to
+                                                                 a change in income
+                                                                 (income elastic)
+
+   0-1                          Necessity                        Demand is not very
+                                                                 responsive to a change in
+                    Examples include staple food items,          income (income
+                    such as bread, milk, eggs and                inelastic)
+                    potatoes, as well as fuel and
+                    toothpaste
+
+    <0                           Inferior                        Demand rises when
+                                                                 income falls (negative
+                    Examples include public transport,           income elasticity)
+                    domestic holidays, canned foods and
+                    unbranded/own-label goods                    Demand falls when
+                                                                 income rises
+
+
+
+The factors influencing YED
+  YED is influenced by many factors in an economy that change the wages of workers
+
+
+
+
+                            © 2025 Save My Exams, Ltd.      Get more and ace your exams at savemyexams.com   23
+      During a recession, wages sometimes fall and, more likely, do not rise significantly
+          Demand for inferior goods rises while demand for luxury goods falls                  Your notes
+      During a period of economic growth and rising wages, demand for luxury goods
+      increases while demand for inferior goods decreases
+     Other influences on income include minimum wage legislation, taxation and
+     increased international trade
+  YED is also influenced by the nature of the good, as discussed above
+      Luxury or necessity (both are classified as normal goods)
+      Inferior or normal good
+
+The significance of YED to businesses
+  Understanding the YED is useful to businesses, as it can help them plan their production
+  and products
+      Planning in this way will help them generate higher profits and have less exposure to
+      downturns in the economy
+
+Production planning
+  A business needs to plan how much it is going to produce, which will help it determine
+  the number of resources, such as raw materials and labour, it will need
+  If a business can determine the YED for its products and can accurately predict changes
+  in income, then it can plan whether to increase or decrease production
+  It can help managers with financial planning
+  Production planning is easier when the YED is relatively inelastic, as demand is likely to
+  be more constant
+
+Product planning
+  The economy goes through different stages over time, from recession to recovery and
+  growth, and so incomes will fluctuate
+  This is known as the business cycle
+  During a recession, producers of inferior goods will benefit from higher demand but will
+  lose out when incomes rise and consumers return to normal goods
+  Some businesses might have different products in their product portfolio to take
+  account of this. For example:
+      Tesco has its "Finest", "Standard" and "Value" range to appeal to all income
+      segments of the market
+      During the 2008 recession, Waitrose introduced its "Essentials" range of products
+      to appeal to more budget-conscious shoppers
+      VW owns Skoda, Audi and Porsche, and it has different products within its range to
+      appeal to different income groups
+
+
+
+                           © 2025 Save My Exams, Ltd.       Get more and ace your exams at savemyexams.com   24
+
